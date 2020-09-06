@@ -2,13 +2,12 @@ module.exports = {
   siteMetadata: {
     title: `Zero Counts`,
     author: {
-      name: `Kyle Starr`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kyle Starr`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A blog about video games, mostly.`,
+    siteUrl: `https://www.zerocounts.net/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `_zerocounts`,
     },
   },
   plugins: [
