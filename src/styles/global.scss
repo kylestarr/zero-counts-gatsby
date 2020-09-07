@@ -1,0 +1,104 @@
+* {
+    font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.header {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+article {
+    margin: 0 0 1.5em;
+    padding: 2em 0 2em 0;  
+}
+
+h2 {
+    font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: left;
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+
+    a, a:visited, a:active {
+        color: white;
+        text-decoration: none;
+        &:hover {
+            color: #004992;
+        }
+    }
+}
+
+date {
+    color: #999;
+    font: 12px 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+p {
+    line-height: 28px;
+
+    a {
+        color: #fff;
+        border-bottom: 2px solid #004992;
+        text-decoration: none;
+    }
+}
+
+blockquote {
+    border-left: 2px solid #004992;
+    color: #999;
+    font-size: 15px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    text-align: left;
+
+    p {
+        margin: 0 0 10px;
+    }
+}
+
+// CSS Grid Layout
+.row{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-gap: 15px;
+}
+
+[class^=col-]{
+    grid-column-end: span 12;
+}
+
+// Loop through responsive breakpoints
+@each $size, $abbr in (0,xs),(768px,sm),(992px,md),(1200px,lg) {
+    @media (min-width: $size){
+        // Loop through col classes
+        @for $i from 1 through 12{
+            .col-#{$abbr}-#{$i}{
+                grid-column-end: span $i;
+            }
+        }
+    }
+}

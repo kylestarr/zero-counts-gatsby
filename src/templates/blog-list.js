@@ -26,12 +26,12 @@ class BlogIndex extends React.Component {
         return (
           <article key={node.fields.slug}>
             <header>
-              <h3>
+              <h2>
                 <Link to={node.fields.slug}>
                   {title}
                 </Link>
-              </h3>
-              <small>{node.frontmatter.date}</small>
+              </h2>
+              <date>{node.frontmatter.date}</date>
             </header>
             <section>
             <p
