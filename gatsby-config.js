@@ -37,6 +37,14 @@ module.exports = {
             },
           },
           {
+            resolve: `gatsby-remark-embedder`,
+            options: {
+              services: {
+                // The service-specific options by the name of the service
+              },
+            },
+          },
+          {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
@@ -48,6 +56,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-twitter`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

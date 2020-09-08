@@ -1,14 +1,15 @@
 import React from "react"
 
+import Header from "../components/header"
+import Footer from "../components/footer"
+
 const Layout = ({ title, children }) => {
   return (
     <div>
       <div class="row header">
         <div class="col-xs-1 col-lg-3"></div>
         <div class="col-xs-10 col-lg-6">
-          <header>
-            <h1>{title}</h1>
-          </header>
+          <Header />
         </div>
         <div class="col-xs-1 col-lg-3"></div>
       </div>
@@ -22,9 +23,7 @@ const Layout = ({ title, children }) => {
       <div class="row footer">
         <div class="col-xs-1 col-lg-3"></div>
         <div class="col-xs-10 col-lg-6">
-          <footer>
-            © {new Date().getFullYear()}
-          </footer>
+          <Footer />
         </div>
         <div class="col-xs-1 col-lg-3"></div>
       </div>

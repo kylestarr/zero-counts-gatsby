@@ -21,38 +21,40 @@ class BlogIndex extends React.Component {
           title={siteTitle}
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
+        <div id="blog-list">
         {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (
           <article key={node.fields.slug}>
-            <header>
               <h2>
                 <Link to={node.fields.slug}>
                   {title}
                 </Link>
               </h2>
-              <date>{node.frontmatter.date}</date>
-            </header>
-            <section>
+              <date>
+                {node.frontmatter.date}
+              </date>
             <div
                 dangerouslySetInnerHTML={{
                   __html: node.html,
                 }}
               />
-            </section>
           </article>
         )
       })}
-      {!isFirst && (
-        <Link to={`../${prevPage}`} rel="prev">
-          ← Previous Page
-        </Link>
-      )}
-      {!isLast && (
-        <Link to={`../${nextPage}`} rel="next">
-          Next Page →
-        </Link>
-      )}
+      </div>
+      <nav id="list-pagination">
+        {!isLast && (
+          <Link to={`../${nextPage}`} rel="next">
+            ← Older
+          </Link>
+        )}
+        {!isFirst && (
+          <Link to={`../${prevPage}`} rel="prev">
+            Newer →
+          </Link>
+        )}
+      </nav>
       </Layout>
     )
   }
@@ -80,7 +82,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "MMMM DD, YYYY")
             title
           }
         }

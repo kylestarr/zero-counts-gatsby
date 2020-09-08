@@ -9,10 +9,46 @@ body {
 
 .header {
     text-align: center;
+    padding-top: 70px;
+
+    #header-image {
+        max-width: 75%;
+        margin: auto;
+    }
+
+    #byline {
+        color: #999;
+        font-size: 14px;
+        font-weight: 500;
+        letter-spacing: 2px;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 20px;
+        text-transform: uppercase;
+        display: block;
+        text-align: center;
+
+        address {
+            font-style: normal;
+        }
+    }
 }
 
 .footer {
     text-align: center;
+}
+
+main {
+    line-height: 175%;
+
+    a, a:visited, a:active {
+        color: #fff;
+        border-bottom: 2px solid #004992;
+        text-decoration: none;
+        &:hover {
+            color: #004992;
+        }
+    }
 }
 
 article {
@@ -20,7 +56,7 @@ article {
     padding: 2em 0 2em 0;  
 }
 
-h2 {
+h1, #blog-list h2 {
     font-family: 'Avenir Next', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 22px;
     line-height: 28px;
@@ -30,12 +66,17 @@ h2 {
     text-transform: uppercase;
 
     a, a:visited, a:active {
-        color: white;
-        text-decoration: none;
-        &:hover {
-            color: #004992;
-        }
+        border-bottom: none;
     }
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+h3 {
+    color: #888;
 }
 
 date {
@@ -50,12 +91,6 @@ date {
 
 p {
     line-height: 28px;
-
-    a {
-        color: #fff;
-        border-bottom: 2px solid #004992;
-        text-decoration: none;
-    }
 }
 
 blockquote {
@@ -77,6 +112,80 @@ blockquote {
 
     p {
         margin: 0 0 10px;
+
+        a {
+            color: #999;
+        }
+    }
+}
+
+hr {
+    display: block;
+    background: #444;
+    border: none;
+    height: 1px;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+}
+
+// Navigation
+nav {
+    a {
+        color: #fff;
+        text-decoration: none;
+        border-bottom: none;
+        &:hover {
+            border-bottom: none;
+        }
+    }
+}
+
+#list-pagination {
+    padding-bottom: 15px;
+    display: block;
+    margin: 0 5px;
+    color: #999;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    a {
+        margin: 0 5px;
+    }
+}
+
+#post-pagination {
+    padding-bottom: 15px;
+    margin: 0 5px;
+    color: #999;
+    font-size: 12px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    a {
+        display: block;
+        margin-top: 30px;
+    }
+}
+
+// Footer
+footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    .social {
+
+        .social-icon {
+            display: inline-block;
+            height: 42px;
+            width: 42px;
+        }
     }
 }
 

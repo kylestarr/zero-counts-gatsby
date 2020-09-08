@@ -20,33 +20,24 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <h1>
             {post.frontmatter.title}
           </h1>
-          <p>
+          <date>
             {post.frontmatter.date}
-          </p>
+          </date>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr/>
-        <footer>
-        </footer>
       </article>
-
-      <nav>
-        <ul>
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
+      <nav id="post-pagination">
+        
+        {next && (
+          <Link to={next.fields.slug} rel="next" className="next-post">
+            {next.frontmatter.title} →
+          </Link>
+        )}
+        {previous && (
+          <Link to={previous.fields.slug} rel="prev" className="prev-post">
+            ← {previous.frontmatter.title}
+          </Link>
+        )}
       </nav>
     </Layout>
   )
@@ -68,7 +59,6 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        description
       }
     }
   }
