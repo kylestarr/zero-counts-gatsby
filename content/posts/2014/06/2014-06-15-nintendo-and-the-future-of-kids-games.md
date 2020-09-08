@@ -7,7 +7,7 @@ type: post
 url: /nintendo-and-the-future-of-kids-games/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - 3ds

@@ -7,7 +7,7 @@ type: post
 url: /layoffs-hit-rare/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - kinect

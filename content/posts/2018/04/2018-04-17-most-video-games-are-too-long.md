@@ -7,7 +7,7 @@ type: post
 url: /most-video-games-are-too-long/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - video games

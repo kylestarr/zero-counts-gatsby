@@ -7,7 +7,7 @@ type: post
 url: /thoughts-on-star-wars-teaser-2/
 categories:
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - film

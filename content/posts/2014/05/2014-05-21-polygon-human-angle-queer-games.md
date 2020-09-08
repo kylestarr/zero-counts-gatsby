@@ -9,7 +9,7 @@ categories:
 - Culture
 - Gender
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - culture

@@ -8,7 +8,7 @@ url: /self-competing-and-time-blocking/
 categories:
 - Business
 - Design
-post_format:
+postFormat:
 - Link
 ---
 

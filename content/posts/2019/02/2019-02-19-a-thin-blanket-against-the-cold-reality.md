@@ -7,7 +7,7 @@ type: post
 url: /a-thin-blanket-against-the-cold-reality/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - activision

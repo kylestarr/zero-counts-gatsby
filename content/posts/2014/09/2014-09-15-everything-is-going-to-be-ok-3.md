@@ -7,7 +7,7 @@ type: post
 url: /everything-is-going-to-be-ok-3/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - microsoft

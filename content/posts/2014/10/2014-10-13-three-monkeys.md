@@ -8,7 +8,7 @@ url: /three-monkeys/
 categories:
 - Accessibility
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - accessibility

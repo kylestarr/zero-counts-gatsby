@@ -8,7 +8,7 @@ url: /mario-kart-is-moving-units/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - mario kart

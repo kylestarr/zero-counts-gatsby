@@ -7,7 +7,7 @@ type: post
 url: /because-its-nintendo/
 categories:
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - 3ds

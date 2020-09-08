@@ -7,7 +7,7 @@ type: post
 url: /there-is-no-end/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - Joystiq

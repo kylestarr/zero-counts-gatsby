@@ -7,7 +7,7 @@ type: post
 url: /but-the-answer-is-simpler-when-it-comes-to-the-real-money-maker-for-microsoft/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

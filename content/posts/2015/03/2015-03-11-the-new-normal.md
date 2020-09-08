@@ -7,7 +7,7 @@ type: post
 url: /the-new-normal/
 categories:
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - breast cancer

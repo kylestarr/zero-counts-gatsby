@@ -7,7 +7,7 @@ type: post
 url: /%f0%9f%a6%a0-nbcsw-will-broadcast-video-game-simulations-of-wizards-and-capitals-games/
 categories:
 - Sports
-post_format:
+postFormat:
 - Link
 tags:
 - coronavirus

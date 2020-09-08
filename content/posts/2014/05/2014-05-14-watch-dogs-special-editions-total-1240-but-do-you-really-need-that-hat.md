@@ -7,7 +7,7 @@ type: post
 url: /watch-dogs-special-editions-total-1240-but-do-you-really-need-that-hat/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - dlc

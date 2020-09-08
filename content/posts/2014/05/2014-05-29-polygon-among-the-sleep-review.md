@@ -7,7 +7,7 @@ type: post
 url: /polygon-among-the-sleep-review/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - among the sleep

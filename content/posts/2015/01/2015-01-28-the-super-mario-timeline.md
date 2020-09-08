@@ -8,7 +8,7 @@ url: /the-super-mario-timeline/
 categories:
 - Fun
 - History
-post_format:
+postFormat:
 - Video
 tags:
 - history

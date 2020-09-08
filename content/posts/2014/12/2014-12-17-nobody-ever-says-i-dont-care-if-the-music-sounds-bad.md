@@ -7,7 +7,7 @@ type: post
 url: /nobody-ever-says-i-dont-care-if-the-music-sounds-bad/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - books

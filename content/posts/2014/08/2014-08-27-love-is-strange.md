@@ -8,7 +8,7 @@ url: /love-is-strange/
 categories:
 - Children
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - language

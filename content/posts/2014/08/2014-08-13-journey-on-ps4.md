@@ -7,7 +7,7 @@ type: post
 url: /journey-on-ps4/
 categories:
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - journey

@@ -9,7 +9,7 @@ categories:
 - Culture
 - Gender
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - lego

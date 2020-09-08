@@ -7,7 +7,7 @@ type: post
 url: /stoptdv-game-jam/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - bullying

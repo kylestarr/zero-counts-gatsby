@@ -9,7 +9,7 @@ categories:
 - Children
 - Health
 - Psychology
-post_format:
+postFormat:
 - Link
 tags:
 - children

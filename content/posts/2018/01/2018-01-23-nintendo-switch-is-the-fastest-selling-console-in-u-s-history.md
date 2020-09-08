@@ -7,7 +7,7 @@ type: post
 url: /nintendo-switch-is-the-fastest-selling-console-in-u-s-history/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

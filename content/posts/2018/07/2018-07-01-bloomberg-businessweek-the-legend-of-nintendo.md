@@ -8,7 +8,7 @@ url: /bloomberg-businessweek-the-legend-of-nintendo/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

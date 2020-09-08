@@ -8,7 +8,7 @@ url: /game-play-has-no-negative-impact-on-kids-uk-study-finds/
 categories:
 - Health
 - Psychology
-post_format:
+postFormat:
 - Link
 tags:
 - health

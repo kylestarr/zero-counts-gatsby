@@ -7,7 +7,7 @@ type: post
 url: /final-fantasy-14-gets-same-sex-marriage/
 categories:
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - equality

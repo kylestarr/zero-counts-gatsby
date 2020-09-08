@@ -7,7 +7,7 @@ type: post
 url: /on-reading/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - reading

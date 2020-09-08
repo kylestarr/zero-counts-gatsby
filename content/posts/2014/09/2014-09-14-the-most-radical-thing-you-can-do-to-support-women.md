@@ -8,7 +8,7 @@ url: /the-most-radical-thing-you-can-do-to-support-women/
 categories:
 - Culture
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - female

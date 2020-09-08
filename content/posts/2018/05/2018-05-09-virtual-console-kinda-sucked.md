@@ -7,7 +7,7 @@ type: post
 url: /virtual-console-kinda-sucked/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - gaming

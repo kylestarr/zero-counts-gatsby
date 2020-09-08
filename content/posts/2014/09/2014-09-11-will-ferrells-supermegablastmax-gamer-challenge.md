@@ -7,7 +7,7 @@ type: post
 url: /will-ferrells-supermegablastmax-gamer-challenge/
 categories:
 - Health
-post_format:
+postFormat:
 - Video
 tags:
 - cancer

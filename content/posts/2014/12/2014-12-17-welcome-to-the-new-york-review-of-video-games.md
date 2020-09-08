@@ -8,7 +8,7 @@ url: /welcome-to-the-new-york-review-of-video-games/
 categories:
 - Culture
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - video games

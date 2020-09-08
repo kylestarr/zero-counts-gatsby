@@ -7,7 +7,7 @@ type: post
 url: /griffin-and-justin-mcelroy-depart-polygon/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - McElroys

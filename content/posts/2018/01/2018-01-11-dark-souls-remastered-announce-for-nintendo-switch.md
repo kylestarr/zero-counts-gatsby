@@ -8,7 +8,7 @@ url: /dark-souls-remastered-announce-for-nintendo-switch/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - business

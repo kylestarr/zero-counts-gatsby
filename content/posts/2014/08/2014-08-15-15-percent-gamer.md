@@ -7,7 +7,7 @@ type: post
 url: /15-percent-gamer/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - video games

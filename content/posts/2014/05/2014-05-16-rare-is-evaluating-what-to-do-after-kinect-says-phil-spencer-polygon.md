@@ -7,7 +7,7 @@ type: post
 url: /rare-is-evaluating-what-to-do-after-kinect-says-phil-spencer-polygon/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - gaming

@@ -9,7 +9,7 @@ url: /the-verge-nobody-would-be-talking-about-the-switch-if-it-wasnt-for-the-gam
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - gaming

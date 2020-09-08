@@ -7,7 +7,7 @@ type: post
 url: /sometimes-failure-leads-to-opportunity/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - e3

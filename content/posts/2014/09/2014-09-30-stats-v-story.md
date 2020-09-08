@@ -7,7 +7,7 @@ type: post
 url: /stats-v-story/
 categories:
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - baseball

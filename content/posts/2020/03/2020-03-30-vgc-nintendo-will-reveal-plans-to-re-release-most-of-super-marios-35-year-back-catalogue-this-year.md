@@ -8,7 +8,7 @@ type: post
 url: /vgc-nintendo-will-reveal-plans-to-re-release-most-of-super-marios-35-year-back-catalogue-this-year/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - mario

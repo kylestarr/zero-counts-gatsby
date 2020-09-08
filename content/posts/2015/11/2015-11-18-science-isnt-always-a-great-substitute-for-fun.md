@@ -8,7 +8,7 @@ url: /science-isnt-always-a-great-substitute-for-fun/
 categories:
 - Design
 - Fun
-post_format:
+postFormat:
 - Link
 tags:
 - fun

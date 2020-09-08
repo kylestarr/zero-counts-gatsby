@@ -7,7 +7,7 @@ type: post
 url: /the-guardian-tetris-how-we-made-the-addictive-computer-game/
 categories:
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - history

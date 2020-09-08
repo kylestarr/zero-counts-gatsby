@@ -9,7 +9,7 @@ url: /the-switch-is-a-home-console-the-switch-is-a-home-console-the-switch-is-a-
 categories:
 - Design
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

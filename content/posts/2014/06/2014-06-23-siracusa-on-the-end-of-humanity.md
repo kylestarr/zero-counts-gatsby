@@ -7,7 +7,7 @@ type: post
 url: /siracusa-on-the-end-of-humanity/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - simulation

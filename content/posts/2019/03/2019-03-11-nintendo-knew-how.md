@@ -7,7 +7,7 @@ type: post
 url: /nintendo-knew-how/
 categories:
 - Accessibility
-post_format:
+postFormat:
 - Link
 tags:
 - accessibility

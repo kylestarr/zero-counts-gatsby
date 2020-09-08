@@ -9,7 +9,7 @@ categories:
 - Design
 - Health
 - Psychology
-post_format:
+postFormat:
 - Link
 tags:
 - addictive games

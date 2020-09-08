@@ -8,7 +8,7 @@ url: /bbc-5live-moves-game-on-into-primetime/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - bbc

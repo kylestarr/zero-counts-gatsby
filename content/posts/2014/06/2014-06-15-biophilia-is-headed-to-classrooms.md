@@ -7,7 +7,7 @@ type: post
 url: /biophilia-is-headed-to-classrooms/
 categories:
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - biophilia

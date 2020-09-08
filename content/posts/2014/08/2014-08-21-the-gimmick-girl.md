@@ -7,7 +7,7 @@ type: post
 url: /the-gimmick-girl/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - baseball

@@ -8,7 +8,7 @@ url: /a-video-game-developed-to-detect-alzheimers-disease-seems-to-be-working/
 categories:
 - Health
 - Science
-post_format:
+postFormat:
 - Link
 tags:
 - health

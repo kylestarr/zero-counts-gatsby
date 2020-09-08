@@ -7,7 +7,7 @@ type: post
 url: /minecraft-enforces-eula/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - legal

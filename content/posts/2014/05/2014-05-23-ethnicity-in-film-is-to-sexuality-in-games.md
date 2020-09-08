@@ -8,7 +8,7 @@ url: /ethnicity-in-film-is-to-sexuality-in-games/
 categories:
 - Culture
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - civil rights

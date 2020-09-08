@@ -9,7 +9,7 @@ categories:
 - Gamification
 - Health
 - Psychology
-post_format:
+postFormat:
 - Video
 tags:
 - gamer

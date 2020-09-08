@@ -8,7 +8,7 @@ url: /the-xbox-one-x-makes-a-lot-more-sense-in-2018/
 categories:
 - Business
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - microsoft

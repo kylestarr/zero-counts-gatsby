@@ -7,7 +7,7 @@ type: post
 url: /kind-of-meaningless/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - game of the year

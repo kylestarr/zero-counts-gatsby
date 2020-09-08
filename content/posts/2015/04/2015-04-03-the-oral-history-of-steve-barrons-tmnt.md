@@ -7,7 +7,7 @@ type: post
 url: /the-oral-history-of-steve-barrons-tmnt/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - 90s

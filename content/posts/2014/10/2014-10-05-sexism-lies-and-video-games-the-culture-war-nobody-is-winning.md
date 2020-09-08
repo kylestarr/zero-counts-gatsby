@@ -8,7 +8,7 @@ url: /sexism-lies-and-video-games-the-culture-war-nobody-is-winning/
 categories:
 - Culture
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - gender

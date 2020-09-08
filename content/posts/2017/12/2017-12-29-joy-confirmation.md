@@ -7,7 +7,7 @@ type: post
 url: /joy-confirmation/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

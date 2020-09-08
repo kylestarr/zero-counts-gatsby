@@ -7,7 +7,7 @@ type: post
 url: /osmo-new-creative-play/
 categories:
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - children

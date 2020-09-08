@@ -8,7 +8,7 @@ url: /blind-gamer-beats-ocarina-of-time/
 categories:
 - Accessibility
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - accessibility

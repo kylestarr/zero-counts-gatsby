@@ -7,7 +7,7 @@ type: post
 url: /second-gaming-ceasefire-held-for-sandy-hook-but-skepticism-remains/
 categories:
 - Politics
-post_format:
+postFormat:
 - Link
 tags:
 - fps

@@ -8,7 +8,7 @@ url: /why-the-two-hour-game-is-the-future/
 categories:
 - Design
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - design

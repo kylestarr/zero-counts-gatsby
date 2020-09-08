@@ -8,7 +8,7 @@ url: /more-on-minecraft/
 categories:
 - Children
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - children

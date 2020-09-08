@@ -7,7 +7,7 @@ type: post
 url: /the-schoolyard-is-the-entirety-of-the-internet/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - breath of the wild

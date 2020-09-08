@@ -7,7 +7,7 @@ type: post
 url: /compliance-for-positive-females-negative-males/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - female

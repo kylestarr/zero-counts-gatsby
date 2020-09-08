@@ -8,7 +8,7 @@ url: /mmos-english-and-experiential-learning/
 categories:
 - Design
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - design

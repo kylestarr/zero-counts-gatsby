@@ -9,7 +9,7 @@ categories:
 - Children
 - Education
 - Music
-post_format:
+postFormat:
 - Video
 tags:
 - education

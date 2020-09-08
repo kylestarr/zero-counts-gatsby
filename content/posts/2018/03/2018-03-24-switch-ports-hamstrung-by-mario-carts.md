@@ -8,7 +8,7 @@ url: /switch-ports-hamstrung-by-mario-carts/
 categories:
 - Design
 - Technology
-post_format:
+postFormat:
 - Image
 tags:
 - nintendo

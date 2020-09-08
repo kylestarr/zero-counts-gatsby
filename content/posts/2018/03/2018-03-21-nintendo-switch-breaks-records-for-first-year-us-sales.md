@@ -7,7 +7,7 @@ type: post
 url: /nintendo-switch-breaks-records-for-first-year-us-sales/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

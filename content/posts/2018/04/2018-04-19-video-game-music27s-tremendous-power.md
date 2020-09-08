@@ -7,7 +7,7 @@ type: post
 url: /video-game-music%27s-tremendous-power/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - music

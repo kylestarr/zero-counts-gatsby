@@ -8,7 +8,7 @@ url: /i-didnt-know-that-i-thought-we-were-having-fun/
 categories:
 - General
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - chef

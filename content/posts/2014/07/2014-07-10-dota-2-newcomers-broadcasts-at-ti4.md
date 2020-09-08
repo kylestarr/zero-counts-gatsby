@@ -8,7 +8,7 @@ url: /dota-2-newcomers-broadcasts-at-ti4/
 categories:
 - eSports
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - esports

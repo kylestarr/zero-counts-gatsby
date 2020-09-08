@@ -8,7 +8,7 @@ url: /new-video-games-shouldnt-be-so-broken/
 categories:
 - Business
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - business

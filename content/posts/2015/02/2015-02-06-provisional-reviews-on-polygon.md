@@ -8,7 +8,7 @@ url: /provisional-reviews-on-polygon/
 categories:
 - Design
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - Polygon

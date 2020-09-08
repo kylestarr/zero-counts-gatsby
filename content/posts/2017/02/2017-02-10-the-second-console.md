@@ -7,7 +7,7 @@ type: post
 url: /the-second-console/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - besties

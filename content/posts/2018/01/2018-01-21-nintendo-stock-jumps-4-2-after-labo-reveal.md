@@ -8,7 +8,7 @@ url: /nintendo-stock-jumps-4-2-after-labo-reveal/
 categories:
 - Business
 - Children
-post_format:
+postFormat:
 - Link
 tags:
 - labs

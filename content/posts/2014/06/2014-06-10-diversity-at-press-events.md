@@ -7,7 +7,7 @@ type: post
 url: /diversity-at-press-events/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - e3

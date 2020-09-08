@@ -8,7 +8,7 @@ url: /wsj-is-breaking-nintendo/
 categories:
 - Business
 - Media
-post_format:
+postFormat:
 - Link
 ---
 

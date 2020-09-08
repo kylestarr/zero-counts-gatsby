@@ -7,7 +7,7 @@ type: post
 url: /new-technology/
 categories:
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

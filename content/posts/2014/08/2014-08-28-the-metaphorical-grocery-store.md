@@ -8,7 +8,7 @@ url: /the-metaphorical-grocery-store/
 categories:
 - Gender
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - female

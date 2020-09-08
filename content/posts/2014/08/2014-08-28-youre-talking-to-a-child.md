@@ -8,7 +8,7 @@ url: /youre-talking-to-a-child/
 categories:
 - Gender
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - gender

@@ -8,7 +8,7 @@ url: /tapped-out-intros-chester-dupree-the-simpsons-slacker/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - simpsons

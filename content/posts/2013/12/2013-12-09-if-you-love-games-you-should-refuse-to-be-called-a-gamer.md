@@ -8,7 +8,7 @@ url: /if-you-love-games-you-should-refuse-to-be-called-a-gamer/
 categories:
 - Education
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - education

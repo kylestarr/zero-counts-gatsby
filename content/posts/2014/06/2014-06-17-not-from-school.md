@@ -7,7 +7,7 @@ type: post
 url: /not-from-school/
 categories:
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - education

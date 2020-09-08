@@ -7,7 +7,7 @@ type: post
 url: /the-problem-with-licensed-products/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - board games

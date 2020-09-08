@@ -8,7 +8,7 @@ url: /journey-dev-raises-7-million/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - business

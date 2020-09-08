@@ -7,7 +7,7 @@ type: post
 url: /pokemon-lets-go/
 categories:
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - gaming

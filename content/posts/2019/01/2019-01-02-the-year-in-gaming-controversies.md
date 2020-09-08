@@ -7,7 +7,7 @@ type: post
 url: /the-year-in-gaming-controversies/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

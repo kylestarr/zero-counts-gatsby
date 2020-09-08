@@ -9,7 +9,7 @@ categories:
 - Culture
 - Health
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - '#hackharassment'

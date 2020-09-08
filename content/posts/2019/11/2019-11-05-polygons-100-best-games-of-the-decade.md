@@ -10,7 +10,7 @@ categories:
 - Design
 - Review
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - microsoft

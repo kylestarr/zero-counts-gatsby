@@ -8,7 +8,7 @@ url: /space-age-color-blind-options/
 categories:
 - Accessibility
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - accessibility

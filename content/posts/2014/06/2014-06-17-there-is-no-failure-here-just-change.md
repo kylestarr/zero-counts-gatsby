@@ -7,7 +7,7 @@ type: post
 url: /there-is-no-failure-here-just-change/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - Polygon

@@ -8,7 +8,7 @@ url: /if-not-disneyland-or-nintendo/
 categories:
 - Children
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - disneyland

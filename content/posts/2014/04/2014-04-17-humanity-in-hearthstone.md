@@ -7,7 +7,7 @@ type: post
 url: /humanity-in-hearthstone/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - Blizzard

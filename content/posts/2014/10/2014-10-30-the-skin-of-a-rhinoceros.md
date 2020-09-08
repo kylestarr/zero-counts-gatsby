@@ -8,7 +8,7 @@ url: /the-skin-of-a-rhinoceros/
 categories:
 - Culture
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - apple

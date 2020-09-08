@@ -7,7 +7,7 @@ type: post
 url: /a-tale-of-two-trailers/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - assassin's creed unity

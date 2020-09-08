@@ -7,7 +7,7 @@ type: post
 url: /adjustable-charging-stand-for-nintendo-switch/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - design

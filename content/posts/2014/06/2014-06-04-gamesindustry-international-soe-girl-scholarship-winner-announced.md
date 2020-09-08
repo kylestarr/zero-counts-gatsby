@@ -9,7 +9,7 @@ categories:
 - Business
 - Education
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - development

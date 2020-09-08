@@ -7,7 +7,7 @@ type: post
 url: /listen-to-me-motherfucker-listen/
 categories:
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - books

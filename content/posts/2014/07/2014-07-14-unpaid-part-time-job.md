@@ -8,7 +8,7 @@ url: /unpaid-part-time-job/
 categories:
 - Design
 - Work
-post_format:
+postFormat:
 - Link
 tags:
 - jobs

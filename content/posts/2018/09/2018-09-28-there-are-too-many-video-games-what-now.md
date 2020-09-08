@@ -7,7 +7,7 @@ type: post
 url: /there-are-too-many-video-games-what-now/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

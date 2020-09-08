@@ -9,7 +9,7 @@ categories:
 - Art
 - Design
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - art

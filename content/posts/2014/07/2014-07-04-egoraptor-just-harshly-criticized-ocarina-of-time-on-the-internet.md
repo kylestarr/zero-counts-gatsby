@@ -7,7 +7,7 @@ type: post
 url: /egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/
 categories:
 - Design
-post_format:
+postFormat:
 - Video
 tags:
 - design

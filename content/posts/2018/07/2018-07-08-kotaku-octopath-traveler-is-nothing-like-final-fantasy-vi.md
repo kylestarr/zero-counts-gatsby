@@ -7,7 +7,7 @@ type: post
 url: /kotaku-octopath-traveler-is-nothing-like-final-fantasy-vi/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

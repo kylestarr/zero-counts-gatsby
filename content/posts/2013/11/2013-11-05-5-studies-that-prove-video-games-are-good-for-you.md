@@ -7,7 +7,7 @@ type: post
 url: /5-studies-that-prove-video-games-are-good-for-you/
 categories:
 - Health
-post_format:
+postFormat:
 - Video
 tags:
 - gamer

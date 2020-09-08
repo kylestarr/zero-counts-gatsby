@@ -9,7 +9,7 @@ categories:
 - Business
 - Design
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - business

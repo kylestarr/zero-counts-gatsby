@@ -8,7 +8,7 @@ const Header = () => {
         query siteMetadataAndHeaderImageQuery {
             logo: file(absolutePath: { regex: "/zero-counts-logo-light.png/" }) {
                 childImageSharp {
-                    fluid {
+                    fluid(maxWidth: 528) {
                     ...GatsbyImageSharpFluid
                     }
                 }

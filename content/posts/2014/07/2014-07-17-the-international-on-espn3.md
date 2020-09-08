@@ -7,7 +7,7 @@ type: post
 url: /the-international-on-espn3/
 categories:
 - eSports
-post_format:
+postFormat:
 - Link
 tags:
 - dota 2

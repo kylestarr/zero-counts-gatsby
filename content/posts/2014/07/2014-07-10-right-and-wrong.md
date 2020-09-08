@@ -8,7 +8,7 @@ url: /right-and-wrong/
 categories:
 - Children
 - Parenting
-post_format:
+postFormat:
 - Link
 tags:
 - children

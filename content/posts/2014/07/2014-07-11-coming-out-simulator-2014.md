@@ -8,7 +8,7 @@ url: /coming-out-simulator-2014/
 categories:
 - Design
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - lgbt

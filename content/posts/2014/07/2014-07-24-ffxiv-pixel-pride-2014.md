@@ -7,7 +7,7 @@ type: post
 url: /ffxiv-pixel-pride-2014/
 categories:
 - Sexuality
-post_format:
+postFormat:
 - Video
 tags:
 - ffxiv

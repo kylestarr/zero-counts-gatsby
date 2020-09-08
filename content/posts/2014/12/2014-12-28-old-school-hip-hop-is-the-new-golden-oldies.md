@@ -8,7 +8,7 @@ url: /old-school-hip-hop-is-the-new-golden-oldies/
 categories:
 - History
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - golden oldies

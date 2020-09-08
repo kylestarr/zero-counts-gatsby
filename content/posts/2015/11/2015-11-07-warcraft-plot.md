@@ -7,7 +7,7 @@ type: post
 url: /warcraft-plot/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - movies

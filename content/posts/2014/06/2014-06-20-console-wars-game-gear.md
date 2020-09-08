@@ -7,7 +7,7 @@ type: post
 url: /console-wars-game-gear/
 categories:
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - game gear

@@ -8,7 +8,7 @@ type: post
 url: /how-chess-shows-that-gender-segregation-in-esports-might-encourage-more-female-leagues/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - chess

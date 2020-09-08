@@ -7,7 +7,7 @@ type: post
 url: /switch-sales-top-ps2-in-first-year-wii-u-lifetime-in-japan/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

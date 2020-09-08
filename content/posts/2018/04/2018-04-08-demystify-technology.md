@@ -7,7 +7,7 @@ type: post
 url: /demystify-technology/
 categories:
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - coding

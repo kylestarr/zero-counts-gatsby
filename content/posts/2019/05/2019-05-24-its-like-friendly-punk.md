@@ -7,7 +7,7 @@ type: post
 url: /its-like-friendly-punk/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - buttons

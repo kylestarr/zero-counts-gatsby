@@ -7,7 +7,7 @@ type: post
 url: /queue-dodge/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - employment

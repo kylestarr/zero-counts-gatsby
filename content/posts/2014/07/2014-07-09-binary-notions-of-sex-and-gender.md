@@ -8,7 +8,7 @@ url: /binary-notions-of-sex-and-gender/
 categories:
 - Gender
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - d&amp;d

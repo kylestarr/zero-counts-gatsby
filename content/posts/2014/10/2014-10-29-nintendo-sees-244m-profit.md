@@ -7,7 +7,7 @@ type: post
 url: /nintendo-sees-244m-profit/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - mario kart 8

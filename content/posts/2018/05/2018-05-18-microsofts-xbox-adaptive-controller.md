@@ -8,7 +8,7 @@ url: /microsofts-xbox-adaptive-controller/
 categories:
 - Accessibility
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - accessibility

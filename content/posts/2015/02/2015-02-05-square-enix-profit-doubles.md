@@ -8,7 +8,7 @@ url: /square-enix-profit-doubles/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - kingdom hearts

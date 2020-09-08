@@ -7,7 +7,7 @@ type: post
 url: /sunday-side-note-phil-collins/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - music

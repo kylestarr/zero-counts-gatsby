@@ -7,7 +7,7 @@ type: post
 url: /assumption/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - female

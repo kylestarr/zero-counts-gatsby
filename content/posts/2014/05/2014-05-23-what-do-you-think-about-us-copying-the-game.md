@@ -7,7 +7,7 @@ type: post
 url: /what-do-you-think-about-us-copying-the-game/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - art

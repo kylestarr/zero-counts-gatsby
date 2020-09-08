@@ -7,7 +7,7 @@ type: post
 url: /how-the-inventor-of-mario-designs-a-game/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - design

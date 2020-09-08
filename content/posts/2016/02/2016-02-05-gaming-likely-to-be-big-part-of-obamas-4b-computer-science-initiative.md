@@ -7,7 +7,7 @@ type: post
 url: /gaming-likely-to-be-big-part-of-obamas-4b-computer-science-initiative/
 categories:
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - education

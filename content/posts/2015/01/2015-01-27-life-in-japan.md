@@ -7,7 +7,7 @@ type: post
 url: /life-in-japan/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - editorial

@@ -7,7 +7,7 @@ type: post
 url: /russ-frushtick-says-goodbye-to-polygon/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - journalism

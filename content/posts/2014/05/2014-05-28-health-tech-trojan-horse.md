@@ -8,7 +8,7 @@ url: /health-tech-trojan-horse/
 categories:
 - Business
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - health

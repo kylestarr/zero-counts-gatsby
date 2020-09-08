@@ -7,7 +7,7 @@ type: post
 url: /report-chinese-students-forced-to-manufacture-ps4-at-foxconn-plant/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

@@ -8,7 +8,7 @@ url: /what-is-a-game-and-why-it-matters/
 categories:
 - Art
 - Design
-post_format:
+postFormat:
 - Video
 tags:
 - art

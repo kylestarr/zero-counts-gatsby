@@ -7,7 +7,7 @@ type: post
 url: /goal-15-percent-turnover-every-year/
 categories:
 - Work
-post_format:
+postFormat:
 - Link
 ---
 

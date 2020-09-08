@@ -8,7 +8,7 @@ url: /anamanaguchi-on-song-exploder/
 categories:
 - History
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - anamanaguchi

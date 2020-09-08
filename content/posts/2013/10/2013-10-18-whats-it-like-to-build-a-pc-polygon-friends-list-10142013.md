@@ -8,7 +8,7 @@ url: /whats-it-like-to-build-a-pc-polygon-friends-list-10142013/
 categories:
 - Business
 - Society
-post_format:
+postFormat:
 - Video
 tags:
 - art

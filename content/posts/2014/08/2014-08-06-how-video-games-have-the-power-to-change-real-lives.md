@@ -10,7 +10,7 @@ categories:
 - Education
 - Health
 - Military
-post_format:
+postFormat:
 - Link
 tags:
 - technology

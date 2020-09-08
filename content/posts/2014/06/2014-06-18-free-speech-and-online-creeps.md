@@ -7,7 +7,7 @@ type: post
 url: /free-speech-and-online-creeps/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - cyberbullying

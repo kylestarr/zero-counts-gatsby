@@ -8,7 +8,7 @@ url: /chris-kluwes-gamergate-piece/
 categories:
 - Culture
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - chris kluwe

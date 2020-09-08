@@ -7,7 +7,7 @@ type: post
 url: /the-road-ahead/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - Polygon

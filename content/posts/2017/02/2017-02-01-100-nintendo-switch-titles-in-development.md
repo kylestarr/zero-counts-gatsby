@@ -7,7 +7,7 @@ type: post
 url: /100-nintendo-switch-titles-in-development/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

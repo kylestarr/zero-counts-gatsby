@@ -8,7 +8,7 @@ url: /hacking-puzzle-boxes-and-company-culture/
 categories:
 - Business
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - business

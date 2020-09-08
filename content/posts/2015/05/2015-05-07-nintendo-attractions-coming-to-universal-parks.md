@@ -7,7 +7,7 @@ type: post
 url: /nintendo-attractions-coming-to-universal-parks/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - lego

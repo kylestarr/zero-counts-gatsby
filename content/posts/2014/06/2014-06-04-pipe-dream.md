@@ -7,7 +7,7 @@ type: post
 url: /pipe-dream/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - mario kart 8

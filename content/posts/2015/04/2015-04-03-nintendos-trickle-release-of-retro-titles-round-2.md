@@ -7,7 +7,7 @@ type: post
 url: /nintendos-trickle-release-of-retro-titles-round-2/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

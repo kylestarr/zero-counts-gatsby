@@ -9,7 +9,7 @@ categories:
 - Culture
 - General
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - film

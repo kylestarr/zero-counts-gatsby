@@ -9,7 +9,7 @@ categories:
 - Culture
 - Military
 - Parenting
-post_format:
+postFormat:
 - Link
 tags:
 - bonding

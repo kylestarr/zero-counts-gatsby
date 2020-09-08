@@ -8,7 +8,7 @@ url: /phil-collins-crash-bandicoot-man/
 categories:
 - General
 - Parenting
-post_format:
+postFormat:
 - Link
 tags:
 - crash bandicoot

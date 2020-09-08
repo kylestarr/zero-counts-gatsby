@@ -4,7 +4,8 @@ title: "'We’re not necessarily expecting [a setting like Animal Crossing] to b
   real world, and maybe that’s partly why it works'"
 slug: were-not-necessarily-expecting-a-setting-like-animal-crossing-to-be-the-real-world-and-maybe-thats-partly-why-it-works
 category: "culture"
-post_format: "link"
+postFormat:
+- Link
 tags:
   - animal crossing
   - covid-19

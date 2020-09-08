@@ -7,7 +7,7 @@ type: post
 url: /st-george-california-reserve-agricole-rum/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - alcohol

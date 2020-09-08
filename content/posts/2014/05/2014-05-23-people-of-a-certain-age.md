@@ -8,7 +8,7 @@ url: /people-of-a-certain-age/
 categories:
 - Culture
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - age

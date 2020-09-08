@@ -7,7 +7,7 @@ type: post
 url: /my-opinion-is-i-hate-it/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - hemingway

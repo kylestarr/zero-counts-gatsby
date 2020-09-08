@@ -8,7 +8,7 @@ type: post
 url: /washed-up-emo-it-felt-like-you-were-turning-a-page-of-a-book-that-youd-never-opened-before/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - discovery

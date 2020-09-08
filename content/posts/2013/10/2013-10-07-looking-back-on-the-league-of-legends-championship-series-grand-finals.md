@@ -7,7 +7,7 @@ type: post
 url: /looking-back-on-the-league-of-legends-championship-series-grand-finals/
 categories:
 - eSports
-post_format:
+postFormat:
 - Link
 tags:
 - business

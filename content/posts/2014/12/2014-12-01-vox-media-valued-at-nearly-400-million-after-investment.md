@@ -7,7 +7,7 @@ type: post
 url: /vox-media-valued-at-nearly-400-million-after-investment/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - Polygon

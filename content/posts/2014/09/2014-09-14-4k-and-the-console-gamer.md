@@ -7,7 +7,7 @@ type: post
 url: /4k-and-the-console-gamer/
 categories:
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - 4k

@@ -7,7 +7,7 @@ type: post
 url: /switch-to-sony/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - PlayStation 3

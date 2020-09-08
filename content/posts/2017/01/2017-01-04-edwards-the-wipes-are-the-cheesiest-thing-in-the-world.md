@@ -7,7 +7,7 @@ type: post
 url: /edwards-the-wipes-are-the-cheesiest-thing-in-the-world/
 categories:
 - Film
-post_format:
+postFormat:
 - Link
 tags:
 - film

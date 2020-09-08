@@ -8,7 +8,7 @@ url: /nintendo-64-and-avoiding-sequelitis/
 categories:
 - Design
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - mario

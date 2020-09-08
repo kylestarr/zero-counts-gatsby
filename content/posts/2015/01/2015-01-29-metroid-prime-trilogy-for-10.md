@@ -7,7 +7,7 @@ type: post
 url: /metroid-prime-trilogy-for-10/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - metroid

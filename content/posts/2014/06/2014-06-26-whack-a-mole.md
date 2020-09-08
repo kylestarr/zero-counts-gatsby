@@ -7,7 +7,7 @@ type: post
 url: /whack-a-mole/
 categories:
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - education

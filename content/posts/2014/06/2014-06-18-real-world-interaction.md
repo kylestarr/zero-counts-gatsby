@@ -7,7 +7,7 @@ type: post
 url: /real-world-interaction/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - multiplayer

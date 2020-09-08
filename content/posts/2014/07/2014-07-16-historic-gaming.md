@@ -7,7 +7,7 @@ type: post
 url: /historic-gaming/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - assassin's creed

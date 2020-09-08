@@ -7,7 +7,7 @@ type: post
 url: /hard-working-schlubs/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - journalism

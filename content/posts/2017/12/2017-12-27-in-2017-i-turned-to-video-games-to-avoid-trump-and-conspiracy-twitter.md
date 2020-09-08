@@ -8,7 +8,7 @@ url: /in-2017-i-turned-to-video-games-to-avoid-trump-and-conspiracy-twitter/
 categories:
 - General
 - Politics
-post_format:
+postFormat:
 - Link
 tags:
 - politics

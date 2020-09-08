@@ -11,7 +11,7 @@ categories:
 - Politics
 - Religion
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - character

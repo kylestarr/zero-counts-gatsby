@@ -8,7 +8,7 @@ url: /the-making-of-captain-toad-treasure-tracker/
 categories:
 - Design
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - 'captain toad: treasure tracker'

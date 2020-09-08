@@ -7,7 +7,7 @@ type: post
 url: /the-verge-reviews-the-new-nintendo-3ds/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - 3ds

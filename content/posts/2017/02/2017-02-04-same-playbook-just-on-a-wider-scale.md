@@ -7,7 +7,7 @@ type: post
 url: /same-playbook-just-on-a-wider-scale/
 categories:
 - Politics
-post_format:
+postFormat:
 - Link
 ---
 

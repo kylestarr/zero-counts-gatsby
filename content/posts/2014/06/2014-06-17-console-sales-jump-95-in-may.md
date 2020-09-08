@@ -7,7 +7,7 @@ type: post
 url: /console-sales-jump-95-in-may/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - ps4

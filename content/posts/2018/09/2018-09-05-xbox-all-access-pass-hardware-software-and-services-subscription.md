@@ -7,7 +7,7 @@ type: post
 url: /xbox-all-access-pass-hardware-software-and-services-subscription/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

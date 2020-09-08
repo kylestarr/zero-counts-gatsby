@@ -7,7 +7,7 @@ type: post
 url: /transistor-ost/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - darren korb

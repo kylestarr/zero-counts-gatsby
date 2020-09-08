@@ -9,7 +9,7 @@ url: /trolls-drive-anita-sarkeesian-out-of-her-house-to-prove-misogyny-doesnt-ex
 categories:
 - Culture
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - gender

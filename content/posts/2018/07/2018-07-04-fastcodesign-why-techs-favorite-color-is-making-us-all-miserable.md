@@ -7,7 +7,7 @@ type: post
 url: /fastcodesign-why-techs-favorite-color-is-making-us-all-miserable/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - design

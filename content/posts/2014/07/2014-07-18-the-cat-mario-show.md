@@ -8,7 +8,7 @@ url: /the-cat-mario-show/
 categories:
 - Business
 - History
-post_format:
+postFormat:
 - Video
 tags:
 - codes

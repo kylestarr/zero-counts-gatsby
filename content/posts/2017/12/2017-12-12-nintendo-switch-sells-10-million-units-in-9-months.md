@@ -7,7 +7,7 @@ type: post
 url: /nintendo-switch-sells-10-million-units-in-9-months/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

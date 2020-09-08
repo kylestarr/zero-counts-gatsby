@@ -7,7 +7,7 @@ type: post
 url: /ultra-street-fighter-iv-ultras-without-cinematic-camera/
 categories:
 - Design
-post_format:
+postFormat:
 - Video
 tags:
 - animation

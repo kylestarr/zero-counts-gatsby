@@ -9,7 +9,7 @@ categories:
 - eSports
 - Gender
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - discrimination

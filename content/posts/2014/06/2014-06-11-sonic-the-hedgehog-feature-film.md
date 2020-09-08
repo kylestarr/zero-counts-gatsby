@@ -7,7 +7,7 @@ type: post
 url: /sonic-the-hedgehog-feature-film/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - film

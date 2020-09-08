@@ -9,7 +9,7 @@ categories:
 - Business
 - Media
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - acapella

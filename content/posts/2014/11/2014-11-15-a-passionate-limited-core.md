@@ -8,7 +8,7 @@ url: /a-passionate-limited-core/
 categories:
 - Culture
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - gamergate

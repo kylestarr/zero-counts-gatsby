@@ -9,7 +9,7 @@ categories:
 - Children
 - Culture
 - History
-post_format:
+postFormat:
 - Video
 tags:
 - children

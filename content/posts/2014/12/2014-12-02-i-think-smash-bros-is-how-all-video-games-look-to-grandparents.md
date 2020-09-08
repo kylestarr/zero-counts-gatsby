@@ -8,7 +8,7 @@ url: /i-think-smash-bros-is-how-all-video-games-look-to-grandparents/
 categories:
 - Design
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - age

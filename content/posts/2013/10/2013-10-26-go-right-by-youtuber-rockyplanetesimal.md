@@ -7,7 +7,7 @@ type: post
 url: /go-right-by-youtuber-rockyplanetesimal/
 categories:
 - Art
-post_format:
+postFormat:
 - Video
 tags:
 - art

@@ -7,7 +7,7 @@ type: post
 url: /ben-thompson-what-nintendo-is-doubling-down-on-is-controllers/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - controllers

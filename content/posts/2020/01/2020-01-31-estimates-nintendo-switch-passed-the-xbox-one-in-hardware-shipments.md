@@ -7,7 +7,7 @@ type: post
 url: /estimates-nintendo-switch-passed-the-xbox-one-in-hardware-shipments/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

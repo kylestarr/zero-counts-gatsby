@@ -7,7 +7,7 @@ type: post
 url: /final-fantasy-xs-war-on-organized-religion/
 categories:
 - Religion
-post_format:
+postFormat:
 - Link
 tags:
 - ffx

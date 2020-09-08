@@ -7,7 +7,7 @@ type: post
 url: /jose-james-on-discovering-miles-davis-jazz/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - jazz

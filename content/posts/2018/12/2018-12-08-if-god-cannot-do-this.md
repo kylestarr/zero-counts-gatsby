@@ -7,7 +7,7 @@ type: post
 url: /if-god-cannot-do-this/
 categories:
 - Commonplace
-post_format:
+postFormat:
 - Link
 tags:
 - america

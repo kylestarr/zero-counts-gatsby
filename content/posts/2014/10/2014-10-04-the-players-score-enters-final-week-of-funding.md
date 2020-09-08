@@ -8,7 +8,7 @@ url: /the-players-score-enters-final-week-of-funding/
 categories:
 - History
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - music

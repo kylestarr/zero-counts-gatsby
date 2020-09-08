@@ -9,7 +9,7 @@ categories:
 - Art
 - Culture
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - 8bit

@@ -9,7 +9,7 @@ categories:
 - Culture
 - Gender
 - Psychology
-post_format:
+postFormat:
 - Link
 tags:
 - female

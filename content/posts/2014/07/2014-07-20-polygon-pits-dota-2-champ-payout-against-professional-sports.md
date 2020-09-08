@@ -7,7 +7,7 @@ type: post
 url: /polygon-pits-dota-2-champ-payout-against-professional-sports/
 categories:
 - eSports
-post_format:
+postFormat:
 - Link
 tags:
 - dota 2

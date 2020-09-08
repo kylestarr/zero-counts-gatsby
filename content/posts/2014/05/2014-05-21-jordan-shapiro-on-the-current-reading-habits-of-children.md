@@ -8,7 +8,7 @@ url: /jordan-shapiro-on-the-current-reading-habits-of-children/
 categories:
 - Culture
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - adults

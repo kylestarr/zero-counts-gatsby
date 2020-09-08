@@ -7,7 +7,7 @@ type: post
 url: /yes-vinyl-prices-are-going-up-no-i-dont-feel-bad/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - drm

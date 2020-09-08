@@ -8,7 +8,7 @@ type: post
 url: /polygon-its-getting-better-i-spent-an-entire-day-at-e3-playing-as-women-characters/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - e3

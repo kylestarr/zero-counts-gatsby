@@ -7,7 +7,7 @@ type: post
 url: /android-playstation-tv/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - android

@@ -9,7 +9,7 @@ categories:
 - Culture
 - Gender
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - feminism

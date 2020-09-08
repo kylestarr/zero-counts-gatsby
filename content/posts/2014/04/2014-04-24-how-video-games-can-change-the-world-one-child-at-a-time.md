@@ -7,7 +7,7 @@ type: post
 url: /how-video-games-can-change-the-world-one-child-at-a-time/
 categories:
 - Education
-post_format:
+postFormat:
 - Link
 ---
 

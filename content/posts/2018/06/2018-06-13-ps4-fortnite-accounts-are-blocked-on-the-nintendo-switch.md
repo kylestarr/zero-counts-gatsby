@@ -7,7 +7,7 @@ type: post
 url: /ps4-fortnite-accounts-are-blocked-on-the-nintendo-switch/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - fortnight

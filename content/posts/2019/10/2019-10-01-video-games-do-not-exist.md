@@ -7,7 +7,7 @@ type: post
 url: /video-games-do-not-exist/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - into the aether

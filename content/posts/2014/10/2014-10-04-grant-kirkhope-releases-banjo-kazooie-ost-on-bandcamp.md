@@ -8,7 +8,7 @@ url: /grant-kirkhope-releases-banjo-kazooie-ost-on-bandcamp/
 categories:
 - History
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - banjo-kazooie

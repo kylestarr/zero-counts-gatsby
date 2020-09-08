@@ -7,7 +7,7 @@ type: post
 url: /humble-freedom-bundle-do-this-do-this-now/
 categories:
 - Charity
-post_format:
+postFormat:
 - Link
 tags:
 - charity

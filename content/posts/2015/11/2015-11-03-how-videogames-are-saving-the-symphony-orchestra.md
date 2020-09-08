@@ -9,7 +9,7 @@ categories:
 - Art
 - Business
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - music

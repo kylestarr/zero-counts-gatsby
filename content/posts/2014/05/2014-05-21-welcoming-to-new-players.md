@@ -7,7 +7,7 @@ type: post
 url: /welcoming-to-new-players/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - Ben Kuchera

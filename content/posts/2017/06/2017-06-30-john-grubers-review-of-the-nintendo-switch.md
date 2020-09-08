@@ -8,7 +8,7 @@ url: /john-grubers-review-of-the-nintendo-switch/
 categories:
 - Media
 - Review
-post_format:
+postFormat:
 - Link
 tags:
 - daring fireball

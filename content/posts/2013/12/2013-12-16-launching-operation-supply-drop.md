@@ -8,7 +8,7 @@ url: /launching-operation-supply-drop/
 categories:
 - Charity
 - Society
-post_format:
+postFormat:
 - Video
 tags:
 - charity

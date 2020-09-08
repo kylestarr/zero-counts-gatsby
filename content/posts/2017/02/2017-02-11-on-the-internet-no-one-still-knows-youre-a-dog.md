@@ -8,7 +8,7 @@ url: /on-the-internet-no-one-still-knows-youre-a-dog/
 categories:
 - Media
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - anonymity

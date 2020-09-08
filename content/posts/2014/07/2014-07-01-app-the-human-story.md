@@ -9,7 +9,7 @@ categories:
 - Children
 - Design
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - apps

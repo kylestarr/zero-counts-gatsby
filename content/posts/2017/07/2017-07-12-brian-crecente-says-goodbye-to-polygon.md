@@ -7,7 +7,7 @@ type: post
 url: /brian-crecente-says-goodbye-to-polygon/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - brian crecente

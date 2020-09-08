@@ -7,7 +7,7 @@ type: post
 url: /female-hollywood-numbers/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - gender

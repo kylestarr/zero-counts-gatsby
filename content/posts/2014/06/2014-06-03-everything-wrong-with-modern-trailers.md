@@ -8,7 +8,7 @@ url: /everything-wrong-with-modern-trailers/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - mortal kombat

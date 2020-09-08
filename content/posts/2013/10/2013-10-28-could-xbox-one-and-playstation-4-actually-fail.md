@@ -7,7 +7,7 @@ type: post
 url: /could-xbox-one-and-playstation-4-actually-fail/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

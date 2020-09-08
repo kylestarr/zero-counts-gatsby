@@ -9,7 +9,7 @@ categories:
 - Culture
 - Media
 - Politics
-post_format:
+postFormat:
 - Link
 tags:
 - fbi

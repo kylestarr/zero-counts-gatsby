@@ -8,7 +8,7 @@ url: /a-life-well-wasted/
 categories:
 - Culture
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - history

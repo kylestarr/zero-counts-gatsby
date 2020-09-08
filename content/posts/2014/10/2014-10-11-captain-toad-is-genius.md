@@ -8,7 +8,7 @@ url: /captain-toad-is-genius/
 categories:
 - Design
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - captain toad

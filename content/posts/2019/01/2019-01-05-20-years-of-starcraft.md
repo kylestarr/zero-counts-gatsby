@@ -7,7 +7,7 @@ type: post
 url: /20-years-of-starcraft/
 categories:
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - Blizzard

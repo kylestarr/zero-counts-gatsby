@@ -7,7 +7,7 @@ type: post
 url: /mother-released-on-wii-u-virtual-console/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - e3

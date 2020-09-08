@@ -7,7 +7,7 @@ type: post
 url: /nintendo-consolidates-lays-off-130/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - layoffs

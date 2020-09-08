@@ -7,7 +7,7 @@ type: post
 url: /the-verge-my-xbox-one-s-is-now-a-meaningfully-different-console-to-my-ps4/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

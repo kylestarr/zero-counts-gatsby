@@ -8,7 +8,7 @@ url: /mindshift/
 categories:
 - Education
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - nasa

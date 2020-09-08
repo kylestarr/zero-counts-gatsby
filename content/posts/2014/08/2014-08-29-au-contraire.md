@@ -8,7 +8,7 @@ url: /au-contraire/
 categories:
 - Gender
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - gender

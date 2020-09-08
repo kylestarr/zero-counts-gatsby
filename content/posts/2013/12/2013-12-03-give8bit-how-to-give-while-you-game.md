@@ -7,7 +7,7 @@ type: post
 url: /give8bit-how-to-give-while-you-game/
 categories:
 - Charity
-post_format:
+postFormat:
 - Video
 tags:
 - charity

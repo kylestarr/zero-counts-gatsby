@@ -7,7 +7,7 @@ type: post
 url: /polygon-skips-star-wars-battlefront-review-event/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - battlefront

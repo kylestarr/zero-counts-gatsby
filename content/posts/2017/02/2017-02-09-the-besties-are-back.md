@@ -7,7 +7,7 @@ type: post
 url: /the-besties-are-back/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - besties

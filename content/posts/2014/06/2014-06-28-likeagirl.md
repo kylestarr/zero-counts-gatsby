@@ -7,7 +7,7 @@ type: post
 url: /likeagirl/
 categories:
 - Gender
-post_format:
+postFormat:
 - Video
 tags:
 - 'gender #likeagirl'

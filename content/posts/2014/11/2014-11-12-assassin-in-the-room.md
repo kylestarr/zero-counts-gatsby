@@ -8,7 +8,7 @@ url: /assassin-in-the-room/
 categories:
 - Design
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - assassin's creed unity

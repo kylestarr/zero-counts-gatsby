@@ -7,7 +7,7 @@ type: post
 url: /wii-u-gamepad-tv-gigantic-ds/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - gamepad

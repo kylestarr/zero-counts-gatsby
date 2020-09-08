@@ -11,7 +11,7 @@ categories:
 - Design
 - Gender
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - apple

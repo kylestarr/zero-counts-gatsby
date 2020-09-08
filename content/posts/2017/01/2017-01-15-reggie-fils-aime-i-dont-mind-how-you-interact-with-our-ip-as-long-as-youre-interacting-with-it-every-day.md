@@ -8,7 +8,7 @@ type: post
 url: /reggie-fils-aime-i-dont-mind-how-you-interact-with-our-ip-as-long-as-youre-interacting-with-it-every-day/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

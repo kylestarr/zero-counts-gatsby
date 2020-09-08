@@ -8,7 +8,7 @@ url: /club-nintendo-stuck-in-mario-kart-traffic/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - club nintendo

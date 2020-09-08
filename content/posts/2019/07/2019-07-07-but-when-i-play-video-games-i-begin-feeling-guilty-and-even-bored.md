@@ -7,7 +7,7 @@ type: post
 url: /but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/
 categories:
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - health

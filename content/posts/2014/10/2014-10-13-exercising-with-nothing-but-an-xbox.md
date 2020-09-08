@@ -7,7 +7,7 @@ type: post
 url: /exercising-with-nothing-but-an-xbox/
 categories:
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - health

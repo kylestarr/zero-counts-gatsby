@@ -7,7 +7,7 @@ type: post
 url: /a-disney-character-in-every-home-in-america/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - disney

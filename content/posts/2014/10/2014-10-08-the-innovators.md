@@ -8,7 +8,7 @@ url: /the-innovators/
 categories:
 - Culture
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - innovation

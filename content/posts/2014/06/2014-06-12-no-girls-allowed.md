@@ -7,7 +7,7 @@ type: post
 url: /no-girls-allowed/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - assassin's creed

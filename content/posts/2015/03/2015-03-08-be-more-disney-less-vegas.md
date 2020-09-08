@@ -8,7 +8,7 @@ url: /be-more-disney-less-vegas/
 categories:
 - Business
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - f2p

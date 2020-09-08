@@ -7,7 +7,7 @@ type: post
 url: /is-there-an-exodus-from-indie-back-to-aaa/
 categories:
 - Work
-post_format:
+postFormat:
 - Link
 tags:
 - aaa

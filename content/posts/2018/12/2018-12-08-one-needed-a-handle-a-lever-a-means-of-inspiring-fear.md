@@ -7,7 +7,7 @@ type: post
 url: /one-needed-a-handle-a-lever-a-means-of-inspiring-fear/
 categories:
 - Commonplace
-post_format:
+postFormat:
 - Link
 tags:
 - america

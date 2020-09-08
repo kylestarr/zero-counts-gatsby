@@ -7,7 +7,7 @@ type: post
 url: /only-on-playstation-bro/
 categories:
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - e3

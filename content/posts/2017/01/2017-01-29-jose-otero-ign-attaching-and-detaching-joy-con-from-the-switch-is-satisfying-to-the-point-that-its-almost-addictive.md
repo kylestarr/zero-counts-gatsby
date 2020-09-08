@@ -9,7 +9,7 @@ url: /jose-otero-ign-attaching-and-detaching-joy-con-from-the-switch-is-satisfyi
 categories:
 - Design
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - controller

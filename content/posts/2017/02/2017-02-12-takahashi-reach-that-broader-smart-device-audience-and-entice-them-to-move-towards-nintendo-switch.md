@@ -8,7 +8,7 @@ type: post
 url: /takahashi-reach-that-broader-smart-device-audience-and-entice-them-to-move-towards-nintendo-switch/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

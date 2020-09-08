@@ -7,7 +7,7 @@ type: post
 url: /why-the-red-cross-cares-how-video-games-treat-war-crimes/
 categories:
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - call of duty

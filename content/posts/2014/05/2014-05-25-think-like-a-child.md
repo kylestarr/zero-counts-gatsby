@@ -10,7 +10,7 @@ categories:
 - Children
 - Gamification
 - Work
-post_format:
+postFormat:
 - Link
 tags:
 - career

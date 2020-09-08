@@ -7,7 +7,7 @@ type: post
 url: /hail-mario-3-revenge-of-the-stock/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - mario kart

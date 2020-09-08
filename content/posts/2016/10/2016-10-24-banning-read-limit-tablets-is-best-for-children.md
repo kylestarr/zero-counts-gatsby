@@ -8,7 +8,7 @@ url: /banning-read-limit-tablets-is-best-for-children/
 categories:
 - Children
 - Parenting
-post_format:
+postFormat:
 - Link
 tags:
 - children

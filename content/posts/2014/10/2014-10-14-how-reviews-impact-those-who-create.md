@@ -9,7 +9,7 @@ categories:
 - Business
 - Design
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - developers

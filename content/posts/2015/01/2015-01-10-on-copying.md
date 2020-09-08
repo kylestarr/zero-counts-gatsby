@@ -8,7 +8,7 @@ url: /on-copying/
 categories:
 - Business
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - copying

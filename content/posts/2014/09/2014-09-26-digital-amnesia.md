@@ -9,7 +9,7 @@ categories:
 - Culture
 - History
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - books

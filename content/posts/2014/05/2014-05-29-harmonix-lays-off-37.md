@@ -7,7 +7,7 @@ type: post
 url: /harmonix-lays-off-37/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - harmonix

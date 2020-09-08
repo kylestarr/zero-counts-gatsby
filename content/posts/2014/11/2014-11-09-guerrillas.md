@@ -9,7 +9,7 @@ categories:
 - Design
 - Military
 - Politics
-post_format:
+postFormat:
 - Link
 tags:
 - iraq

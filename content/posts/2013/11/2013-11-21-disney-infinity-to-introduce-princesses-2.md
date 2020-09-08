@@ -7,7 +7,7 @@ type: post
 url: /disney-infinity-to-introduce-princesses-2/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - disney

@@ -7,7 +7,7 @@ type: post
 url: /september-2013s-best-selling-psn-games/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - aaa

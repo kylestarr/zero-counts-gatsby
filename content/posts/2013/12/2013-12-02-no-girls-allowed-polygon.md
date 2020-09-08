@@ -8,7 +8,7 @@ url: /no-girls-allowed-polygon/
 categories:
 - Business
 - Gender
-post_format:
+postFormat:
 - Video
 tags:
 - business

@@ -7,7 +7,7 @@ type: post
 url: /one-of-these-days-ill-get-it-right/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - hip hop

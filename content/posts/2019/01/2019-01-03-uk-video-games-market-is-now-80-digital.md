@@ -7,7 +7,7 @@ type: post
 url: /uk-video-games-market-is-now-80-digital/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

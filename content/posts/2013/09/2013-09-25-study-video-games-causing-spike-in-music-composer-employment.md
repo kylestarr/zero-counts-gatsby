@@ -8,7 +8,7 @@ url: /study-video-games-causing-spike-in-music-composer-employment/
 categories:
 - Business
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - composer

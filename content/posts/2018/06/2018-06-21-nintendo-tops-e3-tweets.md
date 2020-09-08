@@ -7,7 +7,7 @@ type: post
 url: /nintendo-tops-e3-tweets/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

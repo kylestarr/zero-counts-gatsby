@@ -8,7 +8,7 @@ url: /on-strike-teams-design-councils-and-braintrusts/
 categories:
 - Business
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - Blizzard

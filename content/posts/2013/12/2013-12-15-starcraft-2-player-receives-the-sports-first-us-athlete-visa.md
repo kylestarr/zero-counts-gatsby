@@ -9,7 +9,7 @@ categories:
 - eSports
 - Politics
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - esports

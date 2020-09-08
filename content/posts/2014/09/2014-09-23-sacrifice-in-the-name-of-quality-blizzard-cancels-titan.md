@@ -8,7 +8,7 @@ url: /sacrifice-in-the-name-of-quality-blizzard-cancels-titan/
 categories:
 - Business
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - Blizzard

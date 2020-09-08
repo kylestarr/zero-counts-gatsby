@@ -7,7 +7,7 @@ type: post
 url: /ps4-sells-over-2-1-million-units-globally/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

@@ -8,7 +8,7 @@ url: /club-nintendo-experiencing-heavy-traffic/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - 3ds

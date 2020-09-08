@@ -8,7 +8,7 @@ url: /disrupting-racism-and-sexism/
 categories:
 - Gender
 - Race
-post_format:
+postFormat:
 - Link
 tags:
 - gender

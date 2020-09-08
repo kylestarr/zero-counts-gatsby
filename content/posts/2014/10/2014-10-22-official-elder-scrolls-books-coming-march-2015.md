@@ -7,7 +7,7 @@ type: post
 url: /official-elder-scrolls-books-coming-march-2015/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - books

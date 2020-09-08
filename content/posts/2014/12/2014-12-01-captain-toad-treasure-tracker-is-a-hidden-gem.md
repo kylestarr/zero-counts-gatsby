@@ -8,7 +8,7 @@ url: /captain-toad-treasure-tracker-is-a-hidden-gem/
 categories:
 - Design
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - captain toad

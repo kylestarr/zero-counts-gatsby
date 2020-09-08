@@ -7,7 +7,7 @@ type: post
 url: /no-females-in-assassins-creed-unity-co-op/
 categories:
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - assassin's creed unity

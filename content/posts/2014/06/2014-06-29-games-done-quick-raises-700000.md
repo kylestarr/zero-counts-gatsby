@@ -7,7 +7,7 @@ type: post
 url: /games-done-quick-raises-700000/
 categories:
 - Charity
-post_format:
+postFormat:
 - Link
 tags:
 - charity

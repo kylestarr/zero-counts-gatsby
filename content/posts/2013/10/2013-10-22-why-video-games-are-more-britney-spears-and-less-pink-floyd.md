@@ -8,7 +8,7 @@ url: /why-video-games-are-more-britney-spears-and-less-pink-floyd/
 categories:
 - Business
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - blockbuster

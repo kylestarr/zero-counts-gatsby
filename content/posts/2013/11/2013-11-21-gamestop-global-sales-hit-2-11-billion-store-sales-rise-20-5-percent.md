@@ -7,7 +7,7 @@ type: post
 url: /gamestop-global-sales-hit-2-11-billion-store-sales-rise-20-5-percent/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - 2ds

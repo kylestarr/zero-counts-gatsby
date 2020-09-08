@@ -7,7 +7,7 @@ type: post
 url: /switch-is-selling-like-wii-thanks-to-traditional-nintendo-games/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

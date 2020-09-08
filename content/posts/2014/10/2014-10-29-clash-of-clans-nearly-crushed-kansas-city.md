@@ -7,7 +7,7 @@ type: post
 url: /clash-of-clans-nearly-crushed-kansas-city/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - clash of clans

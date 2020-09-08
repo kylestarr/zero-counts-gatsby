@@ -8,7 +8,7 @@ url: /influenced-by-divorce/
 categories:
 - Children
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - divorce

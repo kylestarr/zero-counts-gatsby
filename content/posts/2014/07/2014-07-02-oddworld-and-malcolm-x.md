@@ -9,7 +9,7 @@ categories:
 - Culture
 - Design
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - character

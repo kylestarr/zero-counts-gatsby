@@ -7,7 +7,7 @@ type: post
 url: /microsoft-not-selling-off-xbox/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - microsoft

@@ -7,7 +7,7 @@ type: post
 url: /friendly-freemium-reminder/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - clash of clans

@@ -7,7 +7,7 @@ type: post
 url: /study-playing-video-games-can-increase-brain-size/
 categories:
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - brain

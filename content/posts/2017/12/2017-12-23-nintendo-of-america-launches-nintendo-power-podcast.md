@@ -7,7 +7,7 @@ type: post
 url: /nintendo-of-america-launches-nintendo-power-podcast/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

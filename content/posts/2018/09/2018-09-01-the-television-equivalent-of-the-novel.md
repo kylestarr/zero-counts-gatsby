@@ -8,7 +8,7 @@ url: /the-television-equivalent-of-the-novel/
 categories:
 - Film
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - books

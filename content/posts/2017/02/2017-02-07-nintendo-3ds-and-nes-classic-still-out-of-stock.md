@@ -7,7 +7,7 @@ type: post
 url: /nintendo-3ds-and-nes-classic-still-out-of-stock/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

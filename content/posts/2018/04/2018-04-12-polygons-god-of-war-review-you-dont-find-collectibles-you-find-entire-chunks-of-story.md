@@ -8,7 +8,7 @@ type: post
 url: /polygons-god-of-war-review-you-dont-find-collectibles-you-find-entire-chunks-of-story/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - god of war

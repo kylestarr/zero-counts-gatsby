@@ -7,7 +7,7 @@ type: post
 url: /the-return-of-crash-bandicoot-and-spyro/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - crash bandicoot

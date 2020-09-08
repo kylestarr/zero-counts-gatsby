@@ -7,7 +7,7 @@ type: post
 url: /russian-government-wants-to-help-produce-patriotic-games/
 categories:
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - education

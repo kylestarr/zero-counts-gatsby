@@ -7,7 +7,7 @@ type: post
 url: /china-creates-shanghai-based-free-trade-zone-ending-game-console-ban/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

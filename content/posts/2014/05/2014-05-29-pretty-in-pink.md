@@ -7,7 +7,7 @@ type: post
 url: /pretty-in-pink/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - 80s

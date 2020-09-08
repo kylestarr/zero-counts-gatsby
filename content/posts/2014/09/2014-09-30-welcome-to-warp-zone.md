@@ -7,7 +7,7 @@ type: post
 url: /welcome-to-warp-zone/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - music

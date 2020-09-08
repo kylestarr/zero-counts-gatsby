@@ -7,7 +7,7 @@ type: post
 url: /porting-primer/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - 2d

@@ -7,7 +7,7 @@ type: post
 url: /re-video-games-art-and-noise/
 categories:
 - Art
-post_format:
+postFormat:
 - Link
 tags:
 - art

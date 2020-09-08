@@ -8,7 +8,7 @@ url: /nintendo-amusement-provider/
 categories:
 - Design
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

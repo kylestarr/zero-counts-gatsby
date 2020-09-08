@@ -8,7 +8,7 @@ url: /igda-surveys-2200-devs-on-industry-perception/
 categories:
 - Culture
 - Work
-post_format:
+postFormat:
 - Link
 tags:
 - industry

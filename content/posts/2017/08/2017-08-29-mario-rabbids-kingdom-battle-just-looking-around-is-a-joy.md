@@ -7,7 +7,7 @@ type: post
 url: /mario-rabbids-kingdom-battle-just-looking-around-is-a-joy/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - e3

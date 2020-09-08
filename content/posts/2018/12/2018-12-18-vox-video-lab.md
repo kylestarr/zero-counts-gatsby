@@ -7,7 +7,7 @@ type: post
 url: /vox-video-lab/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - media

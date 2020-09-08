@@ -7,7 +7,7 @@ type: post
 url: /glenn-beck-on-watch-dogs/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - privacy

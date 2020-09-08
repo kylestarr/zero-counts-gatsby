@@ -7,7 +7,7 @@ type: post
 url: /the-new-face-of-gamers/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - culture

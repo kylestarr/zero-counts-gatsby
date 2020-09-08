@@ -8,7 +8,7 @@ url: /minecraft-you-make-the-story/
 categories:
 - Education
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - architecture

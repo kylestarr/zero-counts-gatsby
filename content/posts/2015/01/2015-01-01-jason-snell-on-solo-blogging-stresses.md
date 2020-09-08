@@ -7,7 +7,7 @@ type: post
 url: /jason-snell-on-solo-blogging-stresses/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - blogging

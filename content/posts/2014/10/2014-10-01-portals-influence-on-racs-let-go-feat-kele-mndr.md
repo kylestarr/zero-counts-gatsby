@@ -7,7 +7,7 @@ type: post
 url: /portals-influence-on-racs-let-go-feat-kele-mndr/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - music

@@ -8,7 +8,7 @@ url: /igns-top-125-nintendo-games-of-all-time/
 categories:
 - Design
 - History
-post_format:
+postFormat:
 - Video
 tags:
 - history

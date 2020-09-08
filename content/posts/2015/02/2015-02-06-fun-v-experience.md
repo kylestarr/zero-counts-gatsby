@@ -8,7 +8,7 @@ url: /fun-v-experience/
 categories:
 - Design
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - experience

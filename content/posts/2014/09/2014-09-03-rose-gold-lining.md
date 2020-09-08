@@ -8,7 +8,7 @@ url: /rose-gold-lining/
 categories:
 - Gender
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - breast cancer

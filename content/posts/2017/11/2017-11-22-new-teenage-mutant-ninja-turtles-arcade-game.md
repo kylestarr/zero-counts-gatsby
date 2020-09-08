@@ -7,7 +7,7 @@ type: post
 url: /new-teenage-mutant-ninja-turtles-arcade-game/
 categories:
 - General
-post_format:
+postFormat:
 - Video
 tags:
 - arcade

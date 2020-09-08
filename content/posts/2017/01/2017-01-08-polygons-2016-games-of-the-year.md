@@ -7,7 +7,7 @@ type: post
 url: /polygons-2016-games-of-the-year/
 categories:
 - Review
-post_format:
+postFormat:
 - Link
 tags:
 - '2016'

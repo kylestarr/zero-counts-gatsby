@@ -7,7 +7,7 @@ type: post
 url: /bioware-intros-first-gay-male-character/
 categories:
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - lgbt

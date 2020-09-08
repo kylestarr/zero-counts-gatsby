@@ -8,7 +8,7 @@ url: /more-on-mario-kart/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - mario kart

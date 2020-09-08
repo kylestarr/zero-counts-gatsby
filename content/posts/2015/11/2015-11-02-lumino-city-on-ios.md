@@ -8,7 +8,7 @@ url: /lumino-city-on-ios/
 categories:
 - Art
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - iOS

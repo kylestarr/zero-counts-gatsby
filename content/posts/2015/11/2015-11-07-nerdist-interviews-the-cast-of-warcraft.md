@@ -7,7 +7,7 @@ type: post
 url: /nerdist-interviews-the-cast-of-warcraft/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - movies

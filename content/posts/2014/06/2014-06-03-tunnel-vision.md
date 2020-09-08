@@ -8,7 +8,7 @@ url: /tunnel-vision/
 categories:
 - Culture
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - accessibility

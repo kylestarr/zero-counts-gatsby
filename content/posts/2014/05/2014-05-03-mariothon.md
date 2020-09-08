@@ -7,7 +7,7 @@ type: post
 url: /mariothon/
 categories:
 - Gamification
-post_format:
+postFormat:
 - Link
 tags:
 - Christian Spicer

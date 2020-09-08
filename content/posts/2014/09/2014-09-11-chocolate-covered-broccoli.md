@@ -8,7 +8,7 @@ url: /chocolate-covered-broccoli/
 categories:
 - Design
 - Education
-post_format:
+postFormat:
 - Video
 tags:
 - education

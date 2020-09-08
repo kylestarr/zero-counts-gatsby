@@ -7,7 +7,7 @@ type: post
 url: /gambling-for-kids/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - arcade

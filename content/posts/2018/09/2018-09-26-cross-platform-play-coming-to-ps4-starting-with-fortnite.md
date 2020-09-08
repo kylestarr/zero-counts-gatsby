@@ -7,7 +7,7 @@ type: post
 url: /cross-platform-play-coming-to-ps4-starting-with-fortnite/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

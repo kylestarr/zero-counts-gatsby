@@ -8,7 +8,7 @@ url: /how-to-attack-a-woman-who-works-in-video-gaming/
 categories:
 - Gender
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - female

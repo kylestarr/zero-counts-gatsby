@@ -9,7 +9,7 @@ categories:
 - Culture
 - History
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - culture

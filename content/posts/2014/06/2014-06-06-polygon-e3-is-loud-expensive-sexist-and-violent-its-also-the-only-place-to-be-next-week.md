@@ -10,7 +10,7 @@ categories:
 - Business
 - Culture
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - e3

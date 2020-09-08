@@ -7,7 +7,7 @@ type: post
 url: /freemium-v-premium/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business model

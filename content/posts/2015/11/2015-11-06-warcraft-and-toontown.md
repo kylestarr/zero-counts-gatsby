@@ -7,7 +7,7 @@ type: post
 url: /warcraft-and-toontown/
 categories:
 - Design
-post_format:
+postFormat:
 - Video
 tags:
 - movies

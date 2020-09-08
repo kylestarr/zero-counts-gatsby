@@ -9,7 +9,7 @@ categories:
 - Business
 - Culture
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - Blizzard

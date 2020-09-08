@@ -8,7 +8,7 @@ url: /the-untold-story-of-unroll-me-personally-i-love-being-a-woman-in-tech/
 categories:
 - Gender
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - female

@@ -9,7 +9,7 @@ categories:
 - Business
 - Media
 - Review
-post_format:
+postFormat:
 - Link
 tags:
 - metacritic

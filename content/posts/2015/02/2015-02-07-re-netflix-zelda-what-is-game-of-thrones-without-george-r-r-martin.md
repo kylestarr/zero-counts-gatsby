@@ -8,7 +8,7 @@ url: /re-netflix-zelda-what-is-game-of-thrones-without-george-r-r-martin/
 categories:
 - Business
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - game of throne

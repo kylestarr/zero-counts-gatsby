@@ -8,7 +8,7 @@ url: /sokobond-chemistry-themed-2d-indie-puzzle-game/
 categories:
 - Design
 - Education
-post_format:
+postFormat:
 - Video
 tags:
 - chemistry

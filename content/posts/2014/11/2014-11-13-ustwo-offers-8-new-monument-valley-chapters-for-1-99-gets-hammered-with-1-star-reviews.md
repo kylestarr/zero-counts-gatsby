@@ -9,7 +9,7 @@ url: /ustwo-offers-8-new-monument-valley-chapters-for-1-99-gets-hammered-with-1-
 categories:
 - Business
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - app store

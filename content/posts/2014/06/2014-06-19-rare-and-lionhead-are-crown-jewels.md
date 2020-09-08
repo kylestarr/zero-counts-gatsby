@@ -7,7 +7,7 @@ type: post
 url: /rare-and-lionhead-are-crown-jewels/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - microsoft

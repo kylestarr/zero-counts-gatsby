@@ -9,7 +9,7 @@ categories:
 - Business
 - Design
 - Work
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

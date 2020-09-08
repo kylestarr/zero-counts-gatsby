@@ -8,7 +8,7 @@ url: /online-only-consoles/
 categories:
 - Design
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - design

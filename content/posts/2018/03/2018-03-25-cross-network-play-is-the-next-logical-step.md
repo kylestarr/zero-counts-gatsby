@@ -7,7 +7,7 @@ type: post
 url: /cross-network-play-is-the-next-logical-step/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - epic

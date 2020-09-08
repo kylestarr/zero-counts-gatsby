@@ -8,7 +8,7 @@ url: /video-games-crash-course/
 categories:
 - Business
 - Children
-post_format:
+postFormat:
 - Link
 tags:
 - business

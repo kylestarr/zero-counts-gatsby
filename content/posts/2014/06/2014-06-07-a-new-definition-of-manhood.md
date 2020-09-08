@@ -9,7 +9,7 @@ categories:
 - Children
 - Gender
 - Parenting
-post_format:
+postFormat:
 - Video
 tags:
 - children

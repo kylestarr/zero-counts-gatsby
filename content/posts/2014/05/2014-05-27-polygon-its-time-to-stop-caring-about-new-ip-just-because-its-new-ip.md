@@ -9,7 +9,7 @@ url: /polygon-its-time-to-stop-caring-about-new-ip-just-because-its-new-ip/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - ip

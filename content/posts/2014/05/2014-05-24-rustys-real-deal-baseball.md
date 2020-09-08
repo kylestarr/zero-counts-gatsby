@@ -8,7 +8,7 @@ url: /rustys-real-deal-baseball/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - baseball

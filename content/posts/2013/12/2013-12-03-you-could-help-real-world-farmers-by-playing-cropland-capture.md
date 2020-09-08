@@ -8,7 +8,7 @@ url: /you-could-help-real-world-farmers-by-playing-cropland-capture/
 categories:
 - Business
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - Cropland

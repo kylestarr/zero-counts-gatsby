@@ -8,7 +8,7 @@ url: /how-a-video-game-could-help-children-with-food-allergies/
 categories:
 - Education
 - Health
-post_format:
+postFormat:
 - Link
 tags:
 - children

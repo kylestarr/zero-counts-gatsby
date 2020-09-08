@@ -7,7 +7,7 @@ type: post
 url: /monument-valley-post-house-of-cards/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - house of cards

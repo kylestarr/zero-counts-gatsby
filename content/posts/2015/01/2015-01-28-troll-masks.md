@@ -8,7 +8,7 @@ url: /troll-masks/
 categories:
 - Gender
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - gamergate

@@ -8,7 +8,7 @@ url: /madden-nfl-15-aims-to-teach-football/
 categories:
 - Design
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - education

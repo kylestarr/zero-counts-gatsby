@@ -7,7 +7,7 @@ type: post
 url: /the-comfort-of-childhood-media-during-lockdown/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - culture

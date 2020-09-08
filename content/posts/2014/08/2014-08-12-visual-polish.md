@@ -7,7 +7,7 @@ type: post
 url: /visual-polish/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - design

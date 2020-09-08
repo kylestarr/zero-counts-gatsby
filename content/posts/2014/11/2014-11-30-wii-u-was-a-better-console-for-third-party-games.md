@@ -7,7 +7,7 @@ type: post
 url: /wii-u-was-a-better-console-for-third-party-games/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

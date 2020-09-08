@@ -7,7 +7,7 @@ type: post
 url: /kinda-funny-perspective/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - kinda funny

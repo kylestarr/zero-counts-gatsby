@@ -7,7 +7,7 @@ type: post
 url: /the-sacred-and-profane/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - animation

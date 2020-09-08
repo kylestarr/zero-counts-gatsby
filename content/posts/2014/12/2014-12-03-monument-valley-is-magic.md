@@ -8,7 +8,7 @@ url: /monument-valley-is-magic/
 categories:
 - Art
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - art

@@ -7,7 +7,7 @@ type: post
 url: /the-internet-rage-machine/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - criticism

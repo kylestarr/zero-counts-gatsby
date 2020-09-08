@@ -7,7 +7,7 @@ type: post
 url: /monument-valley-in-numbers/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - mobile

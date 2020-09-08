@@ -9,7 +9,7 @@ categories:
 - Art
 - Culture
 - Society
-post_format:
+postFormat:
 - Link
 tags:
 - art

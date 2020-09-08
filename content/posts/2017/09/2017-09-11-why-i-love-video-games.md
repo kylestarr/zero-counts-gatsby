@@ -7,7 +7,7 @@ type: post
 url: /why-i-love-video-games/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - chris plante

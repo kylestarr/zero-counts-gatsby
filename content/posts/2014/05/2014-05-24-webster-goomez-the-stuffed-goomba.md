@@ -8,7 +8,7 @@ url: /webster-goomez-the-stuffed-goomba/
 categories:
 - Children
 - Psychology
-post_format:
+postFormat:
 - Link
 tags:
 - children

@@ -7,7 +7,7 @@ type: post
 url: /order-and-chaos/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - design

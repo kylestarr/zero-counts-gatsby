@@ -7,7 +7,7 @@ type: post
 url: /greg-miller-colin-moriarty-nick-scarpino-and-tim-gettys-quit-ign/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - ign

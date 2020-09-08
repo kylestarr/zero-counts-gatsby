@@ -8,7 +8,7 @@ url: /building-blocks/
 categories:
 - Culture
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - art

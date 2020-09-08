@@ -3,7 +3,8 @@ date: "2020-05-15"
 title: Video games, hell yeah
 slug: video-games-hell-yeah
 category: "children"
-post_format: "link"
+postFormat:
+- Link
 tags:
     - children
     - Fortnite

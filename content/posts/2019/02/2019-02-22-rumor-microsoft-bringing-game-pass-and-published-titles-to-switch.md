@@ -7,7 +7,7 @@ type: post
 url: /rumor-microsoft-bringing-game-pass-and-published-titles-to-switch/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - microsoft

@@ -8,7 +8,7 @@ url: /switch-2nd-unit-set/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

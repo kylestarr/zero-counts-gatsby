@@ -7,7 +7,7 @@ type: post
 url: /opinion-why-we-spend-so-much-money-to-be-so-stressed-out/
 categories:
 - Psychology
-post_format:
+postFormat:
 - Link
 tags:
 - adolescents

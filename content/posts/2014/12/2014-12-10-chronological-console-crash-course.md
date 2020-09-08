@@ -9,7 +9,7 @@ categories:
 - Health
 - History
 - Parenting
-post_format:
+postFormat:
 - Link
 tags:
 - parenting

@@ -7,7 +7,7 @@ type: post
 url: /gruber-there-is-a-thing-to-being-mac-like/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - apple

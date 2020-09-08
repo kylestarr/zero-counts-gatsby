@@ -7,7 +7,7 @@ type: post
 url: /blue-shells/
 categories:
 - Humor
-post_format:
+postFormat:
 - Link
 tags:
 - mario kart

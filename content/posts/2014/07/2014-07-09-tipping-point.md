@@ -7,7 +7,7 @@ type: post
 url: /tipping-point/
 categories:
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - sony

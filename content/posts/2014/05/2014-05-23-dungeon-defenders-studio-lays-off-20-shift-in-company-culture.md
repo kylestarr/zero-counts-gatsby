@@ -7,7 +7,7 @@ type: post
 url: /dungeon-defenders-studio-lays-off-20-shift-in-company-culture/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

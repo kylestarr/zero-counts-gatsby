@@ -7,7 +7,7 @@ type: post
 url: /fabian-giesens-exit-letter/
 categories:
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - valve

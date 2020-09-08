@@ -7,7 +7,7 @@ type: post
 url: /kate-upton-and-game-of-war/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - celebrity

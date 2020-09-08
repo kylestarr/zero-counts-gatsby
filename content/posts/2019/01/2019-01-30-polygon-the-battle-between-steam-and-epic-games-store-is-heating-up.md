@@ -7,7 +7,7 @@ type: post
 url: /polygon-the-battle-between-steam-and-epic-games-store-is-heating-up/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - epic

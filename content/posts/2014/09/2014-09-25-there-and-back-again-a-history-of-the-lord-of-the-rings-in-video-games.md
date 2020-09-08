@@ -8,7 +8,7 @@ url: /there-and-back-again-a-history-of-the-lord-of-the-rings-in-video-games/
 categories:
 - Design
 - History
-post_format:
+postFormat:
 - Link
 tags:
 - history

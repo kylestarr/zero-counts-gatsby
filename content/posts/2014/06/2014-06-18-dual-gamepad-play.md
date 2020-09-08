@@ -7,7 +7,7 @@ type: post
 url: /dual-gamepad-play/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

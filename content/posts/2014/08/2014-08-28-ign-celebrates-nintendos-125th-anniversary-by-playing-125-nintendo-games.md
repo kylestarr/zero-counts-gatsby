@@ -7,7 +7,7 @@ type: post
 url: /ign-celebrates-nintendos-125th-anniversary-by-playing-125-nintendo-games/
 categories:
 - History
-post_format:
+postFormat:
 - Link
 ---
 

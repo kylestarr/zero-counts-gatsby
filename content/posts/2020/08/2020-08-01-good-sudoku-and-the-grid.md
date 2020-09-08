@@ -3,7 +3,8 @@ title: "Good Sudoku and The Grid"
 date: "2020-08-01"
 slug: "good-sudoku-and-the-grid"
 category: "design"
-post_format: "link"
+postFormat:
+- Link
 tags:
     - good sudoku
     - roguelikes

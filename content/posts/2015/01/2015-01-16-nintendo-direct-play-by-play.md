@@ -7,7 +7,7 @@ type: post
 url: /nintendo-direct-play-by-play/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - 3ds

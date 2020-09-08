@@ -7,7 +7,7 @@ type: post
 url: /nintendo-x-youtube-affiliate-program/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

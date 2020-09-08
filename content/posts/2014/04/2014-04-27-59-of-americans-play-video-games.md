@@ -7,7 +7,7 @@ type: post
 url: /59-of-americans-play-video-games/
 categories:
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - age

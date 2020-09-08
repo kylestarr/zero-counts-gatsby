@@ -7,7 +7,7 @@ type: post
 url: /wii-u-sees-estimated-79-percent-sales-climb-in-north-america/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

@@ -8,7 +8,7 @@ type: post
 url: /switch-iphone-airpods/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

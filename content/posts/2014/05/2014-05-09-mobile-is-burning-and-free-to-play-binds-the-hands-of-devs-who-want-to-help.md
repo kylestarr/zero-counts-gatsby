@@ -7,7 +7,7 @@ type: post
 url: /mobile-is-burning-and-free-to-play-binds-the-hands-of-devs-who-want-to-help/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - android

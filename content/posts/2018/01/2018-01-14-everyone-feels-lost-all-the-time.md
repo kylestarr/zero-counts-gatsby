@@ -8,7 +8,7 @@ url: /everyone-feels-lost-all-the-time/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - business

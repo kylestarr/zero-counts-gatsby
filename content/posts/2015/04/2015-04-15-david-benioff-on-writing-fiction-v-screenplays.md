@@ -7,7 +7,7 @@ type: post
 url: /david-benioff-on-writing-fiction-v-screenplays/
 categories:
 - Art
-post_format:
+postFormat:
 - Link
 tags:
 - art

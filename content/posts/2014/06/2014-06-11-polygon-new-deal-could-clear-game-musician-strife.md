@@ -7,7 +7,7 @@ type: post
 url: /polygon-new-deal-could-clear-game-musician-strife/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - afm

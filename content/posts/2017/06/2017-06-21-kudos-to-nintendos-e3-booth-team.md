@@ -8,7 +8,7 @@ url: /kudos-to-nintendos-e3-booth-team/
 categories:
 - General
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - dlc

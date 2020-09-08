@@ -9,7 +9,7 @@ url: /nicalis-switch-development-is-light-years-ahead-of-what-we-were-doing-with
 categories:
 - Business
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

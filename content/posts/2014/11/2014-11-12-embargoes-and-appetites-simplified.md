@@ -8,7 +8,7 @@ url: /embargoes-and-appetites-simplified/
 categories:
 - Design
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - embargo

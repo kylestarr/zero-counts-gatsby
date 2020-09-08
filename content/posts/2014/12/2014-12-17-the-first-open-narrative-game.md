@@ -7,7 +7,7 @@ type: post
 url: /the-first-open-narrative-game/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - bioshock

@@ -7,7 +7,7 @@ type: post
 url: /200cc-is-so-fast-its-starting-to-break-mario-kart-8-courses/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - bug

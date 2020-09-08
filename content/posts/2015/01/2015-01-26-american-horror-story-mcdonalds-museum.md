@@ -7,7 +7,7 @@ type: post
 url: /american-horror-story-mcdonalds-museum/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 ---
 

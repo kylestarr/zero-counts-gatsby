@@ -8,7 +8,7 @@ url: /game-of-games/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - books

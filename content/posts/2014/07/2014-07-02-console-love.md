@@ -7,7 +7,7 @@ type: post
 url: /console-love/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - console wars

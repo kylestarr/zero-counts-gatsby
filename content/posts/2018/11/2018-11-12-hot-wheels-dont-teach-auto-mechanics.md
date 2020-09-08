@@ -7,7 +7,7 @@ type: post
 url: /hot-wheels-dont-teach-auto-mechanics/
 categories:
 - Commonplace
-post_format:
+postFormat:
 - Link
 tags:
 - books

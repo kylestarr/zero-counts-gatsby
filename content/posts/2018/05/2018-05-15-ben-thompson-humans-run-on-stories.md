@@ -8,7 +8,7 @@ url: /ben-thompson-humans-run-on-stories/
 categories:
 - Art
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - Ben Thompson

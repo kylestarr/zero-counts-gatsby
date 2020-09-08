@@ -7,7 +7,7 @@ type: post
 url: /harry-potter-and-canon-management/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - canon

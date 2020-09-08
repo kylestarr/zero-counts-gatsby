@@ -7,7 +7,7 @@ type: post
 url: /wii-u-is-my-primary-console/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - 'captain toad: treasure tracker'

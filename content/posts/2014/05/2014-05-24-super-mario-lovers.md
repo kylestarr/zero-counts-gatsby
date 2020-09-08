@@ -7,7 +7,7 @@ type: post
 url: /super-mario-lovers/
 categories:
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - Bobby Moynihan

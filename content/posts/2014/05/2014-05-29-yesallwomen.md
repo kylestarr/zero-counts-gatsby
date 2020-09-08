@@ -8,7 +8,7 @@ url: /yesallwomen/
 categories:
 - Culture
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - '#yesallwomen'

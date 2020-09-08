@@ -7,7 +7,7 @@ type: post
 url: /an-intensity-id-never-felt-before-in-a-game/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - e3

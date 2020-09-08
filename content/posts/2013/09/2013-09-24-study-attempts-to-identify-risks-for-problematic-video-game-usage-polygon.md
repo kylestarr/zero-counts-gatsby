@@ -7,7 +7,7 @@ type: post
 url: /study-attempts-to-identify-risks-for-problematic-video-game-usage-polygon/
 categories:
 - Psychology
-post_format:
+postFormat:
 - Link
 tags:
 - behavior

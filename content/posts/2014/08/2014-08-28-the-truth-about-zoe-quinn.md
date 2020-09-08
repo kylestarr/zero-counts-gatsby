@@ -8,7 +8,7 @@ url: /the-truth-about-zoe-quinn/
 categories:
 - Gender
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - gender

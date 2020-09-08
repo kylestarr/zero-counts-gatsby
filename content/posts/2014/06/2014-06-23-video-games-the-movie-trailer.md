@@ -8,7 +8,7 @@ url: /video-games-the-movie-trailer/
 categories:
 - General
 - History
-post_format:
+postFormat:
 - Video
 tags:
 - film

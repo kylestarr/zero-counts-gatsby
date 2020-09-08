@@ -8,7 +8,7 @@ url: /finnish-hearthstone-tournament-limited-to-male-participants/
 categories:
 - eSports
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - esports

@@ -7,7 +7,7 @@ type: post
 url: /ps4-adds-console-wide-button-remapping/
 categories:
 - Accessibility
-post_format:
+postFormat:
 - Link
 tags:
 - accessibility

@@ -7,7 +7,7 @@ type: post
 url: /just-quietly-dance/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - nintendo

@@ -8,7 +8,7 @@ url: /fanboy-wars/
 categories:
 - Business
 - Culture
-post_format:
+postFormat:
 - Link
 tags:
 - fanboy

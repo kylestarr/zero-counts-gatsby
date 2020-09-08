@@ -7,7 +7,7 @@ type: post
 url: /sierra-sets-date-for-kings-quest-chapter-2/
 categories:
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - king's quest

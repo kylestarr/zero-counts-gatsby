@@ -8,7 +8,7 @@ url: /temple-run-sees-1bn-downloads-mostly-women/
 categories:
 - Business
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - china

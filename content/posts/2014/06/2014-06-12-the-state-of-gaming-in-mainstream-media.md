@@ -7,7 +7,7 @@ type: post
 url: /the-state-of-gaming-in-mainstream-media/
 categories:
 - Culture
-post_format:
+postFormat:
 - Image
 tags:
 - los angeles times

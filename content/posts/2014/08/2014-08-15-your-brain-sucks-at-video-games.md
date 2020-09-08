@@ -7,7 +7,7 @@ type: post
 url: /your-brain-sucks-at-video-games/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 tags:
 - design

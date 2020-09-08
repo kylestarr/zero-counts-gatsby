@@ -7,7 +7,7 @@ type: post
 url: /heres-why-i-wont-be-playing-journey-on-playstation-4/
 categories:
 - Art
-post_format:
+postFormat:
 - Link
 tags:
 - journey

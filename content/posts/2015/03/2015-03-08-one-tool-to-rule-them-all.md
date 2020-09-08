@@ -9,7 +9,7 @@ categories:
 - Business
 - Design
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - ar

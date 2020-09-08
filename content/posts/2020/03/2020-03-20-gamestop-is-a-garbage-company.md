@@ -7,7 +7,7 @@ type: post
 url: /gamestop-is-a-garbage-company/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - coronavirus

@@ -8,7 +8,7 @@ url: /league-of-lessons-why-gaming-matters/
 categories:
 - Children
 - Education
-post_format:
+postFormat:
 - Link
 tags:
 - children

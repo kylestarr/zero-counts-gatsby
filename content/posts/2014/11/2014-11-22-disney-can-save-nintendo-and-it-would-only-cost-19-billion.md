@@ -7,7 +7,7 @@ type: post
 url: /disney-can-save-nintendo-and-it-would-only-cost-19-billion/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - disney

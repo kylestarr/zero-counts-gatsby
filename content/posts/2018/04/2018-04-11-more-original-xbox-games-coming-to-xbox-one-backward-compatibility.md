@@ -7,7 +7,7 @@ type: post
 url: /more-original-xbox-games-coming-to-xbox-one-backward-compatibility/
 categories:
 - Business
-post_format:
+postFormat:
 - Link
 tags:
 - business

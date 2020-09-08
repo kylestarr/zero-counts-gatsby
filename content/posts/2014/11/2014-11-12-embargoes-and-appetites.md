@@ -7,7 +7,7 @@ type: post
 url: /embargoes-and-appetites/
 categories:
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - embargo

@@ -9,7 +9,7 @@ url: /polygon-captain-toad-feels-like-nintendo-experimenting-within-the-mario-un
 categories:
 - Design
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - 3ds

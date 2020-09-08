@@ -7,7 +7,7 @@ type: post
 url: /anamanaguchi-pops-it/
 categories:
 - Music
-post_format:
+postFormat:
 - Link
 tags:
 - anamanaguchi

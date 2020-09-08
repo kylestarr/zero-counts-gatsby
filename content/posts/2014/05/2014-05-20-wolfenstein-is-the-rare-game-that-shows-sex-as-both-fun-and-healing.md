@@ -7,7 +7,7 @@ type: post
 url: /wolfenstein-is-the-rare-game-that-shows-sex-as-both-fun-and-healing/
 categories:
 - Sexuality
-post_format:
+postFormat:
 - Link
 tags:
 - pop culture

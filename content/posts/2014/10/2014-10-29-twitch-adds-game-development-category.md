@@ -8,7 +8,7 @@ url: /twitch-adds-game-development-category/
 categories:
 - Design
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - development

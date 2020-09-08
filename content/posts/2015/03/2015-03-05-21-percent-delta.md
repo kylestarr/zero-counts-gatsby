@@ -9,7 +9,7 @@ categories:
 - Children
 - Design
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - ashly burch

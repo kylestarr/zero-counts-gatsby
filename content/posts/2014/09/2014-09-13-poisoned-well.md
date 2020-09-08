@@ -8,7 +8,7 @@ url: /poisoned-well/
 categories:
 - Culture
 - Gender
-post_format:
+postFormat:
 - Link
 tags:
 - gamergate

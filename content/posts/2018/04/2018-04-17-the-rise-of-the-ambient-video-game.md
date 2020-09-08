@@ -7,7 +7,7 @@ type: post
 url: /the-rise-of-the-ambient-video-game/
 categories:
 - Design
-post_format:
+postFormat:
 - Link
 ---
 

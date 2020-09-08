@@ -8,7 +8,7 @@ url: /gamestop-midnight-switch-launch/
 categories:
 - Business
 - Media
-post_format:
+postFormat:
 - Link
 tags:
 - gamestop

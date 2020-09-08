@@ -8,7 +8,7 @@ url: /more-battletoads/
 categories:
 - Business
 - General
-post_format:
+postFormat:
 - Link
 tags:
 - battletoads

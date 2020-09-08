@@ -8,7 +8,7 @@ url: /xbox-ones-7th-core/
 categories:
 - Design
 - Technology
-post_format:
+postFormat:
 - Link
 tags:
 - development

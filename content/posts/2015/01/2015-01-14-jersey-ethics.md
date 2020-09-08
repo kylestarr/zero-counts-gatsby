@@ -7,7 +7,7 @@ type: post
 url: /jersey-ethics/
 categories:
 - Race
-post_format:
+postFormat:
 - Link
 tags:
 - baseball

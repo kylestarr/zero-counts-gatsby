@@ -8,7 +8,7 @@ url: /grammy-nominated-composer-speaks-up-against-union-blockage-of-video-game-r
 categories:
 - Business
 - Music
-post_format:
+postFormat:
 - Video
 tags:
 - afm
