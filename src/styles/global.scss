@@ -132,6 +132,15 @@ img {
     max-width: 100%;
 }
 
+code {
+    padding: 10px;
+    background: -webkit-linear-gradient(#00fa92, #004992);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: block;
+    white-space: pre-wrap;
+}
+
 // Navigation
 nav {
     a {
