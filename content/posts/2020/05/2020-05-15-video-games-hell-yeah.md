@@ -1,7 +1,7 @@
 ---
 date: "2020-05-15"
 title: Video games, hell yeah
-slug: video-games-hell-yeah
+url: video-games-hell-yeah
 category: "children"
 postFormat:
 - Link

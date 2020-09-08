@@ -2,7 +2,7 @@
 date: "2020-04-14"
 title: "'We’re not necessarily expecting [a setting like Animal Crossing] to be the
   real world, and maybe that’s partly why it works'"
-slug: were-not-necessarily-expecting-a-setting-like-animal-crossing-to-be-the-real-world-and-maybe-thats-partly-why-it-works
+url: were-not-necessarily-expecting-a-setting-like-animal-crossing-to-be-the-real-world-and-maybe-thats-partly-why-it-works
 category: "culture"
 postFormat:
 - Link
