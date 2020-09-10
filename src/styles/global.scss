@@ -132,6 +132,10 @@ img {
     max-width: 100%;
 }
 
+a > img {
+    border-bottom: none;
+}
+
 code {
     padding: 10px;
     background: -webkit-linear-gradient(#00fa92, #004992);
