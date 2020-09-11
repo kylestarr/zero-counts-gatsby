@@ -1,6 +1,6 @@
 ---
 author: zerocounts
-date: 2019-01-30 03:11:19+00:00
+date: 2019-01-29 03:11:19+00:00
 draft: false
 title: 'Polygon: The battle between Steam and Epic Games Store is heating up'
 type: post

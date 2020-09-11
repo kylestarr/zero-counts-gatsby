@@ -1,6 +1,6 @@
 ---
 author: zerocounts
-date: 2019-01-24 05:50:46+00:00
+date: 2019-01-23 05:50:46+00:00
 draft: false
 title: Switch Is Selling Like Wii, Thanks To Traditional Nintendo Games
 type: post

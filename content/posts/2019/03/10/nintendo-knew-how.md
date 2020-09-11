@@ -1,6 +1,6 @@
 ---
 author: zerocounts
-date: 2019-03-11 01:59:12+00:00
+date: 2019-03-10 01:59:12+00:00
 draft: false
 title: Nintendo Knew How
 type: post

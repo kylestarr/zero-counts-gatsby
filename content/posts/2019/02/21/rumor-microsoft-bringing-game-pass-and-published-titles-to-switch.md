@@ -1,6 +1,6 @@
 ---
 author: zerocounts
-date: 2019-02-22 05:40:30+00:00
+date: 2019-02-21 05:40:30+00:00
 draft: false
 title: 'Rumor: Microsoft Bringing Game Pass And Published Titles To Switch'
 type: post
