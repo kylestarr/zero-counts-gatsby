@@ -12,22 +12,17 @@ tags:
 - video games
 ---
 
-[![FINAL FANTASY X/X-2 HD Remaster_20150216170259](https://www.zerocounts.net/wp-content/uploads/2016/01/2820926-02_ffx-e1453057997894.jpg)
-](https://www.zerocounts.net/wp-content/uploads/2016/01/2820926-02_ffx.jpg) This past Christmas, I received an Xbox One. Months prior, I had joked that I wanted the console just to set it up, but probably never play it. (I get immense satisfaction out of setting up new electronics or updating existing ones.) Like every joke, there is a bit of truth to it. Who am I kidding? It wasn't a joke at all.
+![Final Fantasy X, to Zanarkand](/ffx-to-zanarkand.jpg)
+
+This past Christmas, I received an Xbox One. Months prior, I had joked that I wanted the console just to set it up, but probably never play it. (I get immense satisfaction out of setting up new electronics or updating existing ones.) Like every joke, there is a bit of truth to it. Who am I kidding? It wasn't a joke at all.
 
 The fact is, I rarely play video games anymore. When I can't, when I'm at work, on a long drive, or otherwise, I yearn for hours with _Super Mario 64_. I look forward to tackling my pile of shame. But when I'm at home with a few hours to kill, instead of playing the games I do own, I'll scour gaming sites and digital storefronts looking for something new, occasionally squandering $40-60 on a game, playing it for an hour or so and then never touching it again. (_Super Smash Bros. Wii U_, _Assassin's Creed: Syndicate_) I'll even shell out for bite sized experiences, play for a few minutes, then never open the app again. (_Brothers_, _Lumino City_)
 
 While mulling over the notion that video games may not be for me anymore, I was struck by [John Gruber in conversation with Dan Fromer on his own ](https://itunes.apple.com/us/podcast/ep.-142-they-sherlocked-f.lux/id528458508?i=360631061&mt=2)[_The Talk Show_](https://itunes.apple.com/us/podcast/ep.-142-they-sherlocked-f.lux/id528458508?i=360631061&mt=2)[ podcast](https://itunes.apple.com/us/podcast/ep.-142-they-sherlocked-f.lux/id528458508?i=360631061&mt=2):
 
+> It never occurs to me to play video games. If I time travelled back and talked to my 10, 11, 12-year-old self, I think that'd I'd have lots of good news to tell you on John Gruber. I think he'd be very happy abut his future. But I think of all the things he'd be most surprised by is that I would tell him, 'you're going to grow up and have the financial ability and the flexibility in your daily schedule to own and play any video game you want, for as long as you want, practically speaking. And you're not going to.'
 
-
-<blockquote>It never occurs to me to play video games. If I time travelled back and talked to my 10, 11, 12-year-old self, I think that'd I'd have lots of good news to tell you on John Gruber. I think he'd be very happy abut his future. But I think of all the things he'd be most surprised by is that I would tell him, 'you're going to grow up and have the financial ability and the flexibility in your daily schedule to own and play any video game you want, for as long as you want, practically speaking. And you're not going to.'
-
-I think that my 12-year-old self would instantly suspect that whoever this guy is who does kind of look like me and was well cast to play the person who's going to prank me and tell me that it's me when I'm 42, is obviously full of shit, because there's no chance that if I could spend four or five hours every night playing cool video games, I wouldn't be doing it.
-
-</blockquote>
-
-
+> I think that my 12-year-old self would instantly suspect that whoever this guy is who does kind of look like me and was well cast to play the person who's going to prank me and tell me that it's me when I'm 42, is obviously full of shit, because there's no chance that if I could spend four or five hours every night playing cool video games, I wouldn't be doing it.
 
 Times change. Do people?
 
@@ -43,13 +38,7 @@ While finding myself is certainly one of, if not _the_ most important priority, 
 
 [Tor Bair, "Your Life Is Tetris. Stop Playing It Like Chess"](https://medium.com/life-learning/your-life-is-tetris-stop-playing-it-like-chess-4baac6b2750d#.gujpmm3yj):
 
-
-
-<blockquote>However, life does get faster. Every day we live is a smaller percentage of our total life, and we perceive time as moving more quickly. Our responsibilities grow until tasks we should sincerely enjoy are treated as annoyances or mindless distractions.
-
-</blockquote>
-
-
+> However, life does get faster. Every day we live is a smaller percentage of our total life, and we perceive time as moving more quickly. Our responsibilities grow until tasks we should sincerely enjoy are treated as annoyances or mindless distractions.
 
 I fell in love with video games because they seemed to open up new worlds, experiences, and fanatical and practical ideas. The fictional universe in _Final Fantasy X_ inspired artistic benders while the innovative arch of _Star Fox 64_ or nemesis system of _Middle-earth: Shadow of Mordor_ inspired me to rethink my own real world systems. I used to ready myself for computer science classes with 30 minutes of _Picoss DS_. 3D puzzlers like _Myst_ and _The Room_ series continue to push me to reevaluate perceived limits.
 

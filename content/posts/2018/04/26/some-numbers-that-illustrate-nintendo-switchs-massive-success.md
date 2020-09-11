@@ -22,11 +22,9 @@ tags:
 
 [Jason Schreier reporting for Kotaku](https://kotaku.com/some-numbers-that-illustrate-nintendo-switchs-massive-s-1825561698):
 
+> Nintendo today reported its earnings for the [2017 fiscal year](https://www.nintendo.co.jp/ir/en/), which means a whole bunch of interesting new sales numbers to look at. They’re all impressive, and they all show the massive appeal of Nintendo Switch.
 
-<blockquote>Nintendo today reported its earnings for the [2017 fiscal year](https://www.nintendo.co.jp/ir/en/), which means a whole bunch of interesting new sales numbers to look at. They’re all impressive, and they all show the massive appeal of Nintendo Switch.
-
-Here are a few numbers that, taken together, make for some good perspective on just how successful Nintendo’s latest console has been throughout its first year on the market.</blockquote>
-
+> Here are a few numbers that, taken together, make for some good perspective on just how successful Nintendo’s latest console has been throughout its first year on the market.
 
 Wild numbers to the Switch's set-top predecessor, the Wii U.
 
@@ -34,15 +32,11 @@ The Switch is more or less tracking the same sales pace as PS4. It took a little
 
 Microsoft has been mum on sales figures, but in 2016 [slipped that the Xbox One had sold “around 18 to 19 million” units](https://arstechnica.com/gaming/2016/01/ea-lets-slip-lifetime-xbox-one-and-ps4-consoles-sales/), two years after launch.
 
-
-
-* * *
-
-
+---
 
 _Update_: Here's a sales trajectory visual. Data source: Wikipedia.
 
 _Update 10/30/18_: [Nintendo announces 22.86 million Switch unit sales since launch](https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html). Updated sales chart below.
 
-![](https://www.zerocounts.net/wp-content/uploads/2018/10/console-sales.png)
+![Console units sold, Switch vs PS4 vs Xbox One as of October, 30 2018](/2018-10-30-units-sold-switch-ps4-xboxone.png)
 

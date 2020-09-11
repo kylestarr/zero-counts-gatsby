@@ -16,8 +16,7 @@ tags:
 - zelda
 ---
 
-![](http://www.gamestop.com/gs/images/content-pdp/monopoly-the-legend-of-zelda-game-stop-exclusive-edition_115791/Zelda_MN_pr_web.jpg)
-
+![Zelda Monopoly](/zelda-monopoly.jpg)
 
 Monopoly may be the most iconic board game out there. Its minimal design compliments the dry complexities of balancing mortgages, taxes and lengthy play.
 

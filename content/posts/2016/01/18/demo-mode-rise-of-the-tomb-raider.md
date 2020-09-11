@@ -15,8 +15,7 @@ tags:
 - trial
 ---
 
-[![922add2e-8838-4471-a021-da5e405c00ec.jpg._CB317789992_](https://www.zerocounts.net/wp-content/uploads/2016/01/922add2e-8838-4471-a021-da5e405c00ec.jpg._CB317789992_.jpg)
-](https://www.zerocounts.net/wp-content/uploads/2016/01/922add2e-8838-4471-a021-da5e405c00ec.jpg._CB317789992_.jpg)
+![Rise of the Tomb Raider](/rise-of-the-tomb-raider.jpg)
 
 In the shadow of Naughty Dog's _Uncharted_ series, I'm not entirely sure it's fair to say Square Enix's 2013 _Tomb Raider_ reboot set a bar, but it certainly showed that Square Enix has the chops to add a fair contender to the photorealistic action-adventure genre. To say it another way, if it weren't for the lack of wit, I wouldn't have been surprised if Nathan Drake made a cameo. That is a compliment.
 

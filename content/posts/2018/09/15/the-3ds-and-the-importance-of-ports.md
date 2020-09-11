@@ -19,22 +19,22 @@ tags:
 
 Viewers of [Nintendo’s 9.13.2018 Direct](https://www.nintendo.com/nintendo-direct/09-13-2018/) were witness to a treasure trove of future Switch titles. To name a few:
 
+- _Animal Crossing_
+-  _Luigi’s Mansion 3_
+- _Mega Man 11_
+- _Final Fantasy VII, IX, X, X-2, XII_ ports
+- _Yoshi’s Crafted World_
+- _New Super Mario Bros. U_ port
+- _Diablo III_
+- _Civilization VI_
 
-
- 	  * _Animal Crossing_
- 	  * _Luigi’s Mansion 3_
- 	  * _Mega Man 11_
- 	  * _Final Fantasy VII, IX, X, X-2, XII _ports
- 	  * _Yoshi’s Crafted World_
- 	  * _New Super Mario Bros. U _port
- 	  * _Diablo III_
- 	  * _Civilization VI_
 But the one announcement I keep coming back to is the 3DS port of _Kirby’s Epic Yarn_ — a 2010 Wii title — in the form of _Kirby’s Extra Epic Yarn_.
 
-This is not the first Nintendo home console port to the 7-year-old portable console — _Donkey Kong Country Returns_ (Wii), _Xenoblade Chronicles_ (Wii), most recently _Captain Toad: Treasure Tracker_ (Wii U), [to name a few](http://nintendo.wikia.com/wiki/List_of_games_re-released_onto_Nintendo_handhelds) — but it was the first during this Nintendo Direct. Shortly after, a port of the GameCube launch title _Luigi’s Mansion_ (2001) was announced as a <del>marketing tactic</del> fix to hold fans over for _Luigi’s Mansion 3_ on the Switch.
+This is not the first Nintendo home console port to the 7-year-old portable console — _Donkey Kong Country Returns_ (Wii), _Xenoblade Chronicles_ (Wii), most recently _Captain Toad: Treasure Tracker_ (Wii U), [to name a few](http://nintendo.wikia.com/wiki/List_of_games_re-released_onto_Nintendo_handhelds) — but it was the first during this Nintendo Direct. Shortly after, a port of the GameCube launch title _Luigi’s Mansion_ (2001) was announced as a ~~marketing tactic~~ fix to hold fans over for _Luigi’s Mansion 3_ on the Switch.
 
 [Current s](https://www.zerocounts.net/business/some-numbers-that-illustrate-nintendo-switchs-massive-success/)[ales ](https://www.zerocounts.net/business/some-numbers-that-illustrate-nintendo-switchs-massive-success/)[numbers ](https://www.zerocounts.net/business/some-numbers-that-illustrate-nintendo-switchs-massive-success/)[of the Switch reflect that of the hugely popular PS4](https://www.zerocounts.net/business/some-numbers-that-illustrate-nintendo-switchs-massive-success/). But even with that success, it’s fascinating to see Nintendo port back-catalog console titles to it’s aged handheld. The telling reason is the 3DS’s continued sales numbers, continuing to post 6.4 million units sold during Nintendo’s fiscal year 2018 ending March 31, 2018 alone.
-![](https://www.zerocounts.net/wp-content/uploads/2018/09/switch-vs-3ds-console-sales-since-launch.png)
+
+![Console units sold, Switch vs 3DS as of September, 15 2018](/2018-09-15-units-sold-switch-3ds.png)
 
 It’s one thing that Wii U titles are seeing new life on the Switch — _Mario Kart 8_, _Hyrule Warriors_, _Donkey Kong Country: Tropical Freeze_, _Captain Toad: Treasure Tracker_ — but it’s even more interesting the see the same tactic for a device that third-party support has all but dried up.
 

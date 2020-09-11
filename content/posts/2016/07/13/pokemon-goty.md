@@ -11,8 +11,7 @@ categories:
 - Media
 ---
 
-[![img_2560](https://www.zerocounts.net/wp-content/uploads/2016/07/img_2560.jpg)
-](https://www.zerocounts.net/wp-content/uploads/2016/07/img_2560.jpg)
+![Pokémon Go on iPhone, Pokémon Blue on 3DS](/pokemon-go-iphone-pokemon-blue-3ds.jpg)
 
 The year is 1998. I'm standing in Toys"R"Us, holding a slip of paper that reads "Pokémon: Blue Version - $29.95".
 
@@ -22,16 +21,14 @@ Confidentially, I respond, "Yes."
 
 Now 30-years-old and in the media business, I'm watching headline after headline roll in:
 
-
-
-	  * [Times Reporter Descends Into Pokémania — The New York Times](http://mobile.nytimes.com/2016/07/12/insider/how-pokemon-go-augmented-a-reporters-reality.html?smid=tw-nytimes&smtyp=cur&referer=)
-	  * [What is really behind the Pokémon Go craze — The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2016/07/12/what-is-really-behind-the-pokemon-go-craze/)
-	  * [When you’re a kid, Pokémon Go is a portal to a magical world — The Verge](http://www.theverge.com/2016/7/12/12159792/pokemon-go-for-kids-parents-magic)
-	  * [Pokémon Go is everything that is wrong with late capitalism — Vox](http://www.vox.com/2016/7/12/12152728/pokemon-go-economic-problems)
-	  * [Thanks To Pokémon Go, I Walked More In 2 Days Than I Do In A Normal Week — SELF](http://www.self.com/trending/2016/07/thanks-to-pokemon-go-i-walked-more-in-2-days-than-i-do-in-a-normal-week/)
-	  * [Pokemon GO gets people out and about, and that's a good thing — Australian Science](http://www.australasianscience.com.au/article/science-and-technology/pokemon-go-gets-people-out-and-about-and-thats-good-thing.html)
-	  * [How Shelters Are Using Pokémon Go to Help Homeless Animals — POPSUGAR](http://www.popsugar.com/pets/Animal-Shelter-Lets-Pokemon-Go-Players-Walk-Dogs-41944619)
-	  * [This Pokémon Go naming scheme is our greatest achievement as a species — Polygon](http://www.polygon.com/2016/7/11/12150574/pokemon-go-smashmouth)
+- [Times Reporter Descends Into Pokémania — The New York Times](http://mobile.nytimes.com/2016/07/12/insider/how-pokemon-go-augmented-a-reporters-reality.html?smid=tw-nytimes&smtyp=cur&referer=)
+- [What is really behind the Pokémon Go craze — The Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2016/07/12/what-is-really-behind-the-pokemon-go-craze/)
+- [When you’re a kid, Pokémon Go is a portal to a magical world — The Verge](http://www.theverge.com/2016/7/12/12159792/pokemon-go-for-kids-parents-magic)
+- [Pokémon Go is everything that is wrong with late capitalism — Vox](http://www.vox.com/2016/7/12/12152728/pokemon-go-economic-problems)
+- [Thanks To Pokémon Go, I Walked More In 2 Days Than I Do In A Normal Week — SELF](http://www.self.com/trending/2016/07/thanks-to-pokemon-go-i-walked-more-in-2-days-than-i-do-in-a-normal-week/)
+- [Pokemon GO gets people out and about, and that's a good thing — Australian Science](http://www.australasianscience.com.au/article/science-and-technology/pokemon-go-gets-people-out-and-about-and-thats-good-thing.html)
+- [How Shelters Are Using Pokémon Go to Help Homeless Animals — POPSUGAR](http://www.popsugar.com/pets/Animal-Shelter-Lets-Pokemon-Go-Players-Walk-Dogs-41944619)
+- [This Pokémon Go naming scheme is our greatest achievement as a species — Polygon](http://www.polygon.com/2016/7/11/12150574/pokemon-go-smashmouth)
 
 It seems every outlet is writing about the phenomenon that is _Pokémon GO_; seemingly the second coming of the franchise in North America. And for someone who grew up poring over GamePro and EGM, there is a small bit of vindication every time a major publication like the Times or the Post covers video games in a positive light.
 

@@ -17,18 +17,17 @@ tags:
 - video games
 ---
 
-[![IMG_1272](https://www.zerocounts.net/wp-content/uploads/2016/03/IMG_1272.jpg)
-](https://www.zerocounts.net/wp-content/uploads/2016/03/IMG_1272.jpg)It started by "stumbling" across discussions about the game, convincing myself that I was listening to the _Idle Thumbs_ podcast because I felt that it warrants my attention (true); not because _The Witness_ was mentioned during [a particular episode](https://www.idlethumbs.net/idlethumbs/episodes/the-bears-black-heart) (false). Or because I hadn't listened to _IGN's Game Scoop_ in months, missing a show that hooked me on video game related podcasts (true); not because _The Witness_ was mentioned in [a particular episode](http://m.ign.com/articles/2016/02/05/game-scoop-376-is-the-witness-a-stealth-metroidvania-game)'s show notes (false).
+![The Witness toolkit](/the-witness-toolkit.jpg)
+
+It started by "stumbling" across discussions about the game, convincing myself that I was listening to the _Idle Thumbs_ podcast because I felt that it warrants my attention (true); not because _The Witness_ was mentioned during [a particular episode](https://www.idlethumbs.net/idlethumbs/episodes/the-bears-black-heart) (false). Or because I hadn't listened to _IGN's Game Scoop_ in months, missing a show that hooked me on video game related podcasts (true); not because _The Witness_ was mentioned in [a particular episode](http://m.ign.com/articles/2016/02/05/game-scoop-376-is-the-witness-a-stealth-metroidvania-game)'s show notes (false).
 
 Like many growing up in the late '80s, early '90s, I was a fan of _Myst_. The game took the adult world by storm and after my father and step-father both began discussing its puzzles with me, I felt I had something to offer these grown humans. I spent large swaths of time on a mysterious island, solving puzzles and eventually pouring over a strategy guide; a "book" I later convinced my 2nd grade teacher would serve well for a book report.
 
 And boy, do I love _The Witness_. To a point.
 
+> _You know, the thing about Braid: I loved it, I loved the atmosphere, I loved the visions, the softness of it. It kind of felt like a piece of silk you could run your hands through. It was a lovely, lovely game. But here's the thing that didn't work for me: It got so tough that my need and want to experience more of its world was absolutely challenged by my feeling that I wasn't clever enough. I kept going back to find out more about the world, feeling more and more stupid. After a while, I thought, This game is dumb. Now I think I was wrong, by the way._
 
-<blockquote>_You know, the thing about Braid: I loved it, I loved the atmosphere, I loved the visions, the softness of it. It kind of felt like a piece of silk you could run your hands through. It was a lovely, lovely game. But here's the thing that didn't work for me: It got so tough that my need and want to experience more of its world was absolutely challenged by my feeling that I wasn't clever enough. I kept going back to find out more about the world, feeling more and more stupid. After a while, I thought, This game is dumb. Now I think I was wrong, by the way._
-
-- Peter Molyneux, in an interview with Tom Bissell, [Extra Lives](http://www.penguinrandomhouse.com/books/13989/extra-lives-by-tom-bissell/9780307474315/)</blockquote>
-
+> — Peter Molyneux, in an interview with Tom Bissell, [Extra Lives](http://www.penguinrandomhouse.com/books/13989/extra-lives-by-tom-bissell/9780307474315/)
 
 I'm sure I underestimate myself by thinking I would have never completed the game without a guide. The game thrives on the notion of beating the player down only to let them realize they could find the solution all along. There were plenty of times when I pondered giving up, only to persevere and surprise myself the following day. But after 215 puzzles and frustrating "Tetris" logic, enough was enough.
 
@@ -38,11 +37,9 @@ Many reviewers point to discovery and breakthrough as the reward. That once the 
 
 I was able to appreciate the full genius behind the game. Had I spent 20-100 hours attempting to slog through the insanely brilliant puzzles for weeks, months or years, there was still no certainty I'd finish the game. By cheating my way through _The Witness_, I was able to see and appreciate all of the ludacris and awe-inspiring puzzles throughout.
 
+> _I don't want to invest in a game that I'm going to put 200 hours in because I'm never going to put 200 or 100 or 50 or 20 hours into a game. I'm just not going to do it. But something like this, which is substantial to me, it's longer than a movie but it doesn't become a lifestyle either._
 
-<blockquote>_I don't want to invest in a game that I'm going to put 200 hours in because I'm never going to put 200 or 100 or 50 or 20 hours into a game. I'm just not going to do it. But something like this, which is substantial to me, it's longer than a movie but it doesn't become a lifestyle either._
-
-- Jason Snell on _Firewatch_, [The Incomparable podcast, episode 290](https://www.theincomparable.com/theincomparable/290/index.php)</blockquote>
-
+> — Jason Snell on _Firewatch_, [The Incomparable podcast, episode 290](https://www.theincomparable.com/theincomparable/290/index.php)
 
 It's very hard for me to spend 20 hours let alone 200 on a single game, as clearly evidenced by my quick drop off from games like _Skyrim_ and _Grand Theft Auto IV_. Sure, I'm attempting to play through the entire _Final Fantasy_ series, but it's a repetitive mobile effort that I dip into for 20 minutes at a time. (You're not missing much of a story in the first _Final Fantasy_ to warrant consecutive hours of play.)
 

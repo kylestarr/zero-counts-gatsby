@@ -28,11 +28,7 @@ Questions. Questions. Questions.
 
 In 2017, Nintendo answered.
 
-
-
-* * *
-
-
+---
 
 Shortly after this piece was published Brendon Bigley, formerly of Anchor.fm, interviewed me to discuss the state of Nintendo. The interview was later added to the [Ported Podcast](https://anchor.fm/ported/episodes/Bonus-Big-Ns-Big-Year-e1qb0k) feed.
 
@@ -40,20 +36,11 @@ You can also find the episode here:
 
 <iframe src="https://anchor.fm/ported/embed/episodes/Bonus-Big-Ns-Big-Year-e1qb0k" height="102px" width="100%" data-mce-fragment="1" scrolling="no" frameborder="0">&amp;amp;lt;span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"&amp;amp;gt;﻿&amp;amp;lt;/span&amp;amp;gt;&amp;amp;lt;span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"&amp;amp;gt;﻿&amp;amp;lt;/span&amp;amp;gt;</iframe>
 
-
-
-* * *
-
-
-
-
+---
 
 ## Switch
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/nintendo-switch-in-box.jpg)
-
+![Nintendo Switch in Box](/nintendo-switch-in-box.jpg)
 
 The Switch is a literal game changer and its portable/set-top hybrid gimmick is working.
 
@@ -63,14 +50,9 @@ In the same briefing, Nintendo revealed that over 50% of owners play in both por
 
 [Compromises notwithstanding](https://www.zerocounts.net/2017/11/22/good-enough/), there also seems to be a growing yearning for all games to be brought to the Switch. I’ve unhooked my PS4 and Xbox One. I’ve moved my Switch dock to my nightstand. [I’ve gone full handheld](https://www.zerocounts.net/2017/08/05/sell-my-old-consoles-im-off-to-handheld/https://www.zerocounts.net/2017/08/05/sell-my-old-consoles-im-off-to-handheld/). Nintendo has successfully untethered the console gaming experience from the TV, and it’s difficult to go back. The divided worlds of handheld and set-top gaming have coalesced and it’s everything we’d ever dreamed it would be. Without a doubt, this is a future Nintendo has been envisioning since the wildly successful Game Boy.
 
-
-
 ## The Legend of Zelda: Breath of the Wild
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/the-legend-of-zelda-breath-of-the-wild.jpeg)
-
+![The Legend of Zelda: Breath of the Wild](/the-legend-of-zelda-breath-of-the-wild.jpeg)
 
 Launched alongside the Switch in March, _The Legend of Zelda: Breath of the Wild_ came out of the gates a scorcher.
 
@@ -100,37 +82,23 @@ _The Legend of Zelda: Breath of the Wild_ is the best selling Switch title to da
 
 Regardless of your standard of measuring a game, one thing can be said — _The Legend of Zelda: Breath of the Wild_ is a special experience. Nintendo stripped one of their most beloved franchises down to its core and rebuilt it in a way that sets the standard for open-world games going forward.It is a triumph for a myriad of reasons; but most of all, like the Switch, it was reliving on a dream.
 
-
-
 ## Mario Kart 8 Deluxe
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/mario-kart-8-deluxe.jpeg)
-
+![Mario Kart 8 Deluxe](/mario-kart-8-deluxe.jpeg)
 
 Wii U’s abysmal sales are no indication of the quality of games produced for the console. Arguably, it’s home to some of the greatest Nintendo titles ever — _Mario Kart 8_, _New Super Mario Bros. U_, _Super Mario 3D World_, _Super Smash Bros. for Wii U_, _Splatoon_, _Super Mario Maker_, _The Legend of Zelda: The Wind Waker HD_. The Wii U’s hit to miss ratio is sure to be one of the lowest of any console, yet most potential players missed out on surefire classics. Thankfully, Nintendo bolstered the Switch’s launch year line-up with one of the best.
 
 Mario Kart is a household favorite franchise, and _Mario Kart 8_ is the best of it’s form. Selling 4.42 million units, porting the greatest Mario Kart game to the Switch so early in its lifecycle was a brilliant move. It allowed Wii U owners to share the experience with the uninitiated and show off the Switch’s built in local multiplayer gimmick. [Playing Mario Kart is like riding a bike](https://www.zerocounts.net/2014/06/01/hail-mario/). With the Switch’s ever-present multiplayer, players can crack off the Joy-Cons and immediately share and experience. [Maybe even an office tournament](https://www.zerocounts.net/2017/04/30/hail-mario-2-electrodrome-boogaloo/):
 
-
-
-<blockquote>On _Mario Kart 8 Deluxe_‘s_ _release day, I brought my Switch to work. It was the perfect venue to test the Switch’s out-of-the-box local multi-player experience. In fact, it was the first time I’d attempted _any_ multi-player on the device in _any_ of its various forms. As far as I know, I’m the only one in the office with a Switch. Gasps filled the room when I removed the Joy-Con from the display. I handed one over to a colleague, showed him around the tiny controller, and away we went.</blockquote>
-
-
+> On _Mario Kart 8 Deluxe_‘s_ _release day, I brought my Switch to work. It was the perfect venue to test the Switch’s out-of-the-box local multi-player experience. In fact, it was the first time I’d attempted _any_ multi-player on the device in _any_ of its various forms. As far as I know, I’m the only one in the office with a Switch. Gasps filled the room when I removed the Joy-Con from the display. I handed one over to a colleague, showed him around the tiny controller, and away we went.
 
 _Mario Kart 8 Deluxe_ wasn’t much more than Mario Kart 8 + the DLC with a new Battle Mode. Whereit falls short is it’s insistence to unlock everything the original game had to offer. It’s certainly a great value to provide new players with everything there is to offer, but nothing is left for anyone to pursue. I’d have loved to re-race for the cups I’d previously unlocked for the Wii U version. It was truly surprising how demotivating it was to play one of my favorite games when everything had been achieved for me.
 
 However, while I still believe retailing for $60 is a bit high for the title, it can’t be understated how great it is to have the highest-fidelity, local multiplayer ready, greatest Mario Kart game with you at all times.
 
-
-
 ## Splatoon 2
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/splatoon-2-game-stores-1.jpeg)
-
+![Splatoon 2 (Support Local Game Stores)](/splatoon-2-game-stores.jpeg)
 
 In the vain of Wii U ports, _Splatoon 2_, the sequel to the Wii U’s _Splatoon_, sold nearly 75% of the original within 2 months (3.61 compared to 4.87 million units).
 
@@ -142,14 +110,9 @@ In addition to a problematic smartphone app, my main gripes with _Splatoon 2_ ar
 
 However, the core game is still a delight and shows off the prowess of the Switch’s online multiplayer — at least once a match is underway. _Splatoon 2_’s stylistically original and serves as an inviting experience for all next to its gritty wartime counterparts.
 
-
-
 ## Mario + Rabbids Kingdom Battle
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/mariorabbids-kingdom-battle.jpeg)
-
+![Mario + Rabbids Kingdom Battle](/mariorabbids-kingdom-battle.jpeg)
 
 In August, Ubisoft delivered the first Mario experience on the Switch. Yes. Ubisoft. Not Nintendo. Ubisoft. Trusted with Nintendo’s icon and core franchise, Ubisoft delivered not only a charming title on par with other Mario entries, but a tight, satisfying, and unique strategy game to boot.
 
@@ -157,47 +120,33 @@ In the vain of XCOM, _Mario + Rabbids Kingdom Battle_ plays like cartoon chess. 
 
 [VGChartz](http://www.vgchartz.com/game/181862/mario-rabbids-kingdom-battle/) puts the game at 0.51 million units sold, which doesn’t seem like a huge disappointment, but for a game that I thoroughly enjoyed, I’d like to see it bump up a bit this holiday season. _Mario + Rabbids Kingdom Battle_ is an absolute delight.
 
-
-
 ## Nindies
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/stardew-valley.jpeg)
-
+![Stardew Valley](/stardew-valley.jpeg)
 
 Say nothing of big third-party titles like _Mario + Rabbids Kingdom Battle_, _Skyrim_, or _Doom_, the growing selection of top-notch indie — or “Nindie” — titles is nothing to scoff at.
 
 One of the biggest concerns of Nintendo is their seeming inability to attract third-parties to their consoles since the SNES. The Switch is no different. It _is_ the “[second console](https://www.zerocounts.net/2017/02/10/the-second-console/)”. But, boy has it attracted grade-A titles. The current [#Nindie Hits](https://www.nintendo.com/games/nintendo-switch-nindies-hits) roster looks a little something like this:
 
-
-
-
-      * _Shovel Knight: Treasure Trove_
-      * _Rocket League_
-      * _Stardew Valley_
-      * _Overcooked_
-      * _Axiom Verge_
-      * _Retro City Rampage DX_
-      * _Cave Story_
-      * _Severed_
-      * _SteamWold Dig 2_
-      * _Golf Story_
-      * _TumbleSeed_
-      * _Thumper_
-      * _and more!_
-
+- _Shovel Knight: Treasure Trove_
+- _Rocket League_
+- _Stardew Valley_
+- _Overcooked_
+- _Axiom Verge_
+- _Retro City Rampage DX_
+- _Cave Story_
+- _Severed_
+- _SteamWold Dig 2_
+- _Golf Story_
+- _TumbleSeed_
+- _Thumper_
+- _and more!_
 
 While Nintendo has been quiet on first-party titles for 2018, the plethora of indies (and major third-parties) porting to the console provides Switch owners a stable of great games for months, nay, years to come.
 
-
-
 ## SNES Classic
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/snes-classic.jpg)
-
+![SNES Classic in box](/snes-classic.jpg)
 
 Boy howdy, get the nostalgia intoxicated ready. On the heels of Nintendo’s wildly... successful(?) NES Classic came the SNES Classic. With a library of 21 classic — arguably essential — games, the SNES Classic was/is the hot item of 2017.
 
@@ -205,14 +154,9 @@ Launching on September 29, 2017, retail lines and online pre-orders were a mess.
 
 Whatever the issue, be it awful channel supply or manufacturing woes, the Classic series is another fortune in Nintendo’s pocket — if not monetarily, for the press coverage.
 
-
-
 ## Super Mario Odyssey
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/super-mario-odyssey-cloud-kingdom.jpeg)
-
+![Super Mario Odyssey - Cloud Kingdom](/super-mario-odyssey-cloud-kingdom.jpeg)
 
 Super Mario. The pinnacle of Nintendo’s franchises.
 
@@ -226,14 +170,9 @@ My misgivings aside, numbers speak for themselves. Like Zelda, _Super Mario Odys
 
 _Super Mario Odyssey_ is without a doubt a change of pace for the franchise. While I do wish the execution was a bit tighter, I am likely in the minority. Through and through, it is a quintessential Mario game. It is undoubtedly fun and innovative; charming and warm. It is the perfect nightcap to Nintendo’s fantastic year.
 
-
-
 ## Game of the Year
 
-
-
-![](https://www.zerocounts.net/wp-content/uploads/2017/11/nintendo-switch-3ds-zelda-1.jpg)
-
+![Zeldas on Switch and 3DS](/switch-3ds-zelda.jpg)
 
 From the launches of the Switch and _The Legend of Zelda: Breath of the Wild_ in March, the [announcement of a Nintendo theme park](https://www.zerocounts.net/2015/05/07/nintendo-attractions-coming-to-universal-parks/), frenzied and flawed retailing of the SNES Classic in September, to the heralded _Super Mario Odyssey_ in October and stable 3DS sales throughout, 2017 was Nintendo’s year.
 

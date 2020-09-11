@@ -16,8 +16,7 @@ tags:
 - video games
 ---
 
-![](http://cdn2.vox-cdn.com/uploads/chorus_image/image/34254913/Bp8QMIsCQAE1Lz6.0_cinema_1920.0.jpg)
-
+![Headline: Nintendo's white Playstation 4](/headline-nintendos-white-playstation-4.jpg)
 
 Photo via [Polygon](http://www.polygon.com/2014/6/12/5803908/nintendo-now-making-playstations-according-to-l-a-times).
 

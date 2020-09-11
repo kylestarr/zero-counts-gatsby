@@ -91,6 +91,11 @@ date {
 
 p {
     line-height: 28px;
+
+    code {
+        padding: 0px;
+        display: inline;
+    }
 }
 
 blockquote {
@@ -113,9 +118,10 @@ blockquote {
     p {
         margin: 0 0 10px;
 
-        a {
-            color: #999;
-        }
+    }
+
+    a {
+        color: #999;
     }
 }
 
@@ -130,10 +136,6 @@ hr {
 
 img {
     max-width: 100%;
-}
-
-a > img {
-    border-bottom: none;
 }
 
 code {

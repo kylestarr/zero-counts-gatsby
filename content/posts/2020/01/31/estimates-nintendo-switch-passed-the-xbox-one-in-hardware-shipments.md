@@ -31,8 +31,8 @@ On the Playstation front, while it's been a back-and-forth race, it took Sony [o
 
 Here's an updated chart for perspective:
 
-![](/2020-01-31-units-sold-switch-ps4-xboxone.png)
+![Console units sold, Switch vs PS4 vs Xbox One as of January, 31 2020](/2020-01-31-units-sold-switch-ps4-xboxone.png)
 
 The Switch also appears to be leaving it's older sibling—the 3DS—in the dust:
 
-![](/2020-01-31-units-sold-switch-3ds.png)
+![Console units sold, Switch vs 3DS as of January, 31 2020](/2020-01-31-units-sold-switch-3ds.png)

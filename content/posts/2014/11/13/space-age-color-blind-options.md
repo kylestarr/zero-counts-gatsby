@@ -20,14 +20,9 @@ tags:
 
 [@Spaceageapp](https://twitter.com/spaceageapp/status/500292438397681664):
 
-
-<blockquote>Making sure Space Age is colorblind friendly.
+> Making sure Space Age is colorblind friendly.
   
-  
-[![IMG_0147.PNG](https://www.zerocounts.net/wp-content/uploads/2014/11/img_0147.png)
-](https://www.zerocounts.net/wp-content/uploads/2014/11/img_0147.png)</blockquote>
-
-
+> ![Space Age, colorblindness options](/space-age-colorblindness-options.png)
 
 Awesome accessibility awareness. And top level too. (Tap Options on the title screen and there they are!) That alone earned Big Bucket Software [my $3.99](https://www.zerocounts.net/2014/11/12/ustwo-offers-8-new-monument-valley-chapters-for-1-99-gets-hammered-with-1-star-reviews/).
 
