@@ -26,13 +26,9 @@ tags:
 
 [Polygon Staff](https://www.polygon.com/features/2019/11/4/20944265/best-games-2019-2010-ps4-switch-xbox-pc-100-51):
 
-
-
-<blockquote>We began with a long list of around 300 games that team members nominated. Then we individually voted for the 50 we most wanted to see in the list. After we tallied the votes, we gathered together to sort out the unholy mess, and to argue the merits and faults of the top 150.
-
-After a surprisingly calm and erudite discussion, we agreed on the following list. It is, by its nature, a compromise, but it’s the best we’ve got.</blockquote>
-
-
+> We began with a long list of around 300 games that team members nominated. Then we individually voted for the 50 we most wanted to see in the list. After we tallied the votes, we gathered together to sort out the unholy mess, and to argue the merits and faults of the top 150.
+>
+> After a surprisingly calm and erudite discussion, we agreed on the following list. It is, by its nature, a compromise, but it’s the best we’ve got.
 
 A fun look back at a decade that now seems shorter than it felt — I’ll blame that on the past three years.
 

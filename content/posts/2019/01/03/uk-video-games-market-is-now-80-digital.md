@@ -19,15 +19,9 @@ tags:
 
 [Christopher Dring, reporting for GamesIndustry.biz](https://www.gamesindustry.biz/articles/2019-01-02-uk-video-games-market-is-now-80-percent-digital):
 
-
-
-<blockquote>It seems a bit negative for the physical market, but these figures do not include hardware. And actually more consoles were sold in 2018 than in 2017. _GamesIndustry.biz_ can reveal over 2.4 million games machines were sold in the UK last year. PS4 was the biggest selling console, with sales flat year-on-year, but Nintendo Switch was the biggest growth area, with Switch console sales up more than 20 percent.
-
-Indeed, physical remains a strong part of the games retail business. According to ERA, the best-selling game of the year was FIFA 19 with 2.5 million units sold… 1.89 million of those sales came physically. That means when it comes to AAA releases, digital sales only account for around 25 per cent of the games sold. However, that percentage is getting bigger. Last year, 20% of FIFA 18's sales were digital.
-
-</blockquote>
-
-
+> It seems a bit negative for the physical market, but these figures do not include hardware. And actually more consoles were sold in 2018 than in 2017. _GamesIndustry.biz_ can reveal over 2.4 million games machines were sold in the UK last year. PS4 was the biggest selling console, with sales flat year-on-year, but Nintendo Switch was the biggest growth area, with Switch console sales up more than 20 percent.
+>
+> Indeed, physical remains a strong part of the games retail business. According to ERA, the best-selling game of the year was FIFA 19 with 2.5 million units sold… 1.89 million of those sales came physically. That means when it comes to AAA releases, digital sales only account for around 25 per cent of the games sold. However, that percentage is getting bigger. Last year, 20% of FIFA 18's sales were digital.
 
 I don’t find it terribly surprising that an annual sports title garners the top spot for physical game sales. I can already see the GameStop shelves littered with used copies of FIFA ‘19 this fall.
 

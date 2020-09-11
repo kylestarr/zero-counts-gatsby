@@ -15,6 +15,7 @@ cover: 1.png
 ---
 
 [Brendon Bigley, writing at his new site, Wavelengths](https://wavelengths.online/home/good-sudoku):
+
 > After playing daily for about a week after its release, I've noticed Good Sudoku activating the same brain-space as roguelikes in the vein of Spelunky or The Binding of Isaac. These are games meant to be played hundreds of times, and for thousands of hours. After years of playing Spelunky I immediately go into auto-pilot when starting a new run because I've seen so many permutations of the level generation I can't help but feel as though surprise is unlikely. But that comfort with [such a hostile environment](https://www.youtube.com/watch?v=2JZtQYSev-w) has come from _thousands_ of runs. I've died in Spelunky more times than I can count, and each death brings with it a small lesson for survival in future attempts. At this point, my head is crammed so full of strategies and techniques and possibilities that I feel more equipped than ever to survive the next run. I mean I probably won't… but it's nice to feel confident sometimes!!
 
 I haven't played _Good Sudoku_, nor _Spelunky_ or _The Binding of Isaac_, but I know enough about vanilla sudoku and these roguelikes to understand that Bigley's observation is striking. I'm having of those, "How didn't I see this before?" moments.

@@ -19,17 +19,11 @@ tags:
 
 [John Gruber, with guest Jason Snell, on his podcast ](https://daringfireball.net/thetalkshow/2018/12/24/ep-238)[_The Talk Show with John Gruber_](https://daringfireball.net/thetalkshow/2018/12/24/ep-238):
 
-
-
-<blockquote>There is a thing to being “Mac-like”. And there _was_, and it was strong. It’s literally what kept Apple alive.
-
-If Mac-likeness hadn’t been an important thing, there’s no reason everybody wouldn’t have switched to Windows at the time — that there was more to it than, ‘OK, you’ve got a rectangular window and the windows all have “close” buttons and “zoom” buttons, and then there’s a menu bar with an agreed upon set of typical things like “file”, “edit”, “font”. You double-click on an app. There’s a mouse that moves around. You can select text. There’s a scroll bar over on the side you can drag up-and-down to move up-and-down on a document. And there you go — there’s a GUI. If you can use one, you can use any one and that’s all there is to it.’
-
-It is true that that is the description of the modern graphical user interface of a windowing system. But there’s so much more to the Mac-way of doing things and of organizing things. And of feeling at home. It’s such an amazing thing when you feel at home in an app you’ve never used before because it uses all these familiar conventions. Those conventions went so much deeper than just draggable windows with a “close” button and a menu bar.
-
-</blockquote>
-
-
+> There is a thing to being “Mac-like”. And there _was_, and it was strong. It’s literally what kept Apple alive.
+>
+> If Mac-likeness hadn’t been an important thing, there’s no reason everybody wouldn’t have switched to Windows at the time — that there was more to it than, ‘OK, you’ve got a rectangular window and the windows all have “close” buttons and “zoom” buttons, and then there’s a menu bar with an agreed upon set of typical things like “file”, “edit”, “font”. You double-click on an app. There’s a mouse that moves around. You can select text. There’s a scroll bar over on the side you can drag up-and-down to move up-and-down on a document. And there you go — there’s a GUI. If you can use one, you can use any one and that’s all there is to it.’
+>
+> It is true that that is the description of the modern graphical user interface of a windowing system. But there’s so much more to the Mac-way of doing things and of organizing things. And of feeling at home. It’s such an amazing thing when you feel at home in an app you’ve never used before because it uses all these familiar conventions. Those conventions went so much deeper than just draggable windows with a “close” button and a menu bar.
 
 This is a great discussion of the level of detail and consideration for human interface guidelines. I encourage you to give it a list. It struck me as I closely followed [Twitter’s branding guidelines](https://about.twitter.com/en_us/company/brand-resources.html) for the redesigned footer of Zero Counts.
 

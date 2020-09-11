@@ -17,15 +17,9 @@ tags:
 
 [Colin Campbell, Polygon](https://www.polygon.com/2018/12/28/18158115/game-industry-mistakes-riot-rockstar-arenanet):
 
-
-
-<blockquote>These events must lead most observers to the view that game companies have a long way to go before they can truly present themselves as caring about their employees, their customers, or the world that they inhabit. But they are at least now subject to vociferous disapproval when they make their most grotesque mistakes.
-
-Perhaps meetings are taking place right now, in which execs are noting the previous damage of their own actions, and making necessary alterations. More realistically, as we enter the new year, [the issue of unions](https://www.polygon.com/2018/3/21/17145242/game-workers-unite-video-game-industry-union) is in the air. If and when employees [organize themselves into unions](https://www.polygon.com/2018/12/27/18156687/game-workers-unite-game-developer-union-us-uk-france), game companies will have more to worry about than bad publicity. In 2019, maybe we’ll see a change for the better. Maybe.
-
-</blockquote>
-
-
+> These events must lead most observers to the view that game companies have a long way to go before they can truly present themselves as caring about their employees, their customers, or the world that they inhabit. But they are at least now subject to vociferous disapproval when they make their most grotesque mistakes.
+>
+> Perhaps meetings are taking place right now, in which execs are noting the previous damage of their own actions, and making necessary alterations. More realistically, as we enter the new year, [the issue of unions](https://www.polygon.com/2018/3/21/17145242/game-workers-unite-video-game-industry-union) is in the air. If and when employees [organize themselves into unions](https://www.polygon.com/2018/12/27/18156687/game-workers-unite-game-developer-union-us-uk-france), game companies will have more to worry about than bad publicity. In 2019, maybe we’ll see a change for the better. Maybe.
 
 This article is a great retrospective of an industry on the cusp of being held accountable. I don't say that lightly. These are incidents on record. There's bound to be many, many more that have not been to light. It’s wonderful to see focus put on these issues by media outlets.
 

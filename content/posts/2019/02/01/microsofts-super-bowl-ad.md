@@ -13,28 +13,8 @@ tags:
 - video games
 ---
 
-
-
-
-
-https://youtu.be/_YISTzpLXCY
-
-
-
-
-
-
-
+https://www.youtube.com/watch?v=vQYzsiVscNg
 
 I love seeing Microsoft spend the big bucks on such a [meaningful product](https://www.zerocounts.net/microsofts-xbox-adaptive-controller/).
 
-
-
-
-
-
-
 OK. Back to cutting onions.
-
-
-

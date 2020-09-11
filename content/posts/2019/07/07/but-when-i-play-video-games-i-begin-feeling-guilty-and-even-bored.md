@@ -22,13 +22,7 @@ I had the great fortune of hearing a question I’d asked to the hosts of the _I
 
 Yours truly:
 
-
-
-<blockquote>Howdy! I love video games. I love the idea of playing video games. At work, I get excited by the idea of sitting down for a long bout of video games. But when I do, I begin feeling guilty and even bored. Am I broken, or am I just playing the wrong games? Have either of you dealt with this?
-
-</blockquote>
-
-
+> Howdy! I love video games. I love the idea of playing video games. At work, I get excited by the idea of sitting down for a long bout of video games. But when I do, I begin feeling guilty and even bored. Am I broken, or am I just playing the wrong games? Have either of you dealt with this?
 
 Hosts Brendon Bigley and Stephen Hilger spent nearly 25-minutes thoughtfully addressing these questions, ranging from living in the moment, mental health, and easing up on the burden caused by zeitgeist and “completionism”. Even if this weren’t my question, I’d tell you it’s worth your time.
 

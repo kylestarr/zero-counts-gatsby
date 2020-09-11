@@ -19,7 +19,7 @@ tags:
 This post comes heavily inspired from a recent [GamesIndustry.biz Podcast episode, “What now for Activision”](https://www.gamesindustry.biz/articles/2019-01-14-the-gamesindustry-biz-podcast-what-now-for-activision):
 
 > Whether part of the ten-year agreement between the two firms or due to a change in strategy, there's no denying that the break-up leaves a _Destiny_-shaped hole in Activision's limited portfolio (NB: We mean Activision specifically, which is left with _Call of Duty_ and the _Crash_/_Spyro_ remakes -- the wider company of Activision Blizzard is doing just fine, as is Bungie).
-
+>
 > Matt, Chris and James ponder whether Activision will seek its next billion-dollar franchise from another third-party studio like Bungie or perhaps turn to the many developers it already owns (most of which are working on _Call of Duty_) to come up with fresh ideas.
 
 To get you up to speed, Activision Blizzard recently announced the departure of a partnership with Bungie and _Destiny_:
@@ -127,7 +127,7 @@ Does this signaling Activision Blizzard’s next move?
 I’m going to recall my previous post “[Sometimes Failure Leads to Opportunity](https://www.zerocounts.net/sometimes-failure-leads-to-opportunity/)” with a little help from Ben Thompson:
 
 > On Microsoft’s big acquisitions announcement of studios Ninja Theory (_DmC: Devil May Cry_, _Hellblade: Senua’s Sacrifice_), Playground Games (_Forza Horizon_), Undead Labs (_State of Decay_), and Compulsion Games (_We Happy Few_):
-
+>
 > > The Xbox One originally lagged behind the PS4 this generation due to its misguided focus on the living room (including charging $100 more at launch because of the now-discontinued Kinect that was at the center of that effort), but the bigger problem has been a lack of exclusive titles relative to the PS4. One way to counter that is to simply produce them yourself, and these purchases augment Microsoft’s ability to do just that.
 
 This gets at purchasing many smaller studios to begin bolstering IP.
@@ -137,7 +137,7 @@ Meanwhile, Microsoft continues taking strides away from the traditional console 
 [Jason Schreier, Kotaku](https://kotaku.com/microsoft-s-new-studio-acquisitions-show-how-much-xbox-1830383030):
 
 > Truth is, as Team Xbox has been signaling for quite some time now, and as we’ve gathered from our own conversations with both people in and outside of the company, Microsoft is no longer interested in competing directly with Sony. That’s a battle it lost as soon as [Xbox executives started outlining its original, odd plans for Xbox One in 2013](https://kotaku.com/the-xbox-one-uncertainty-principle-509582525). The PS4 has outperformed the Xbox One so resoundingly, Microsoft stopped providing hardware sales figures.
-
+>
 > Instead of licking its wounds and trying to fight Sony yet again next generation, the Xbox division under Phil Spencer has taken a drastically different approach. What Microsoft wants most today is studios that will help boost its impressive [Game Pass](https://kotaku.com/the-game-pass-library-keeps-getting-better-1827555939) subscription service, its [upcoming streaming platform](https://kotaku.com/microsoft-announces-xbox-game-streaming-service-1829595928), and its continued stabs at PC gaming. Developing big Xbox exclusives is no longer a priority for Microsoft, and in fact, the company decided in 2016 that it would release future games on [both Xbox and PC](https://kotaku.com/sources-smaller-xbox-one-coming-this-year-more-powerf-1778634446). Soon enough, Game Pass will also [be available on PC](https://www.ign.com/articles/2018/10/25/xbox-game-pass-is-coming-to-pc), and it wouldn’t be shocking to see Microsoft embrace Steam—or overhaul the Windows store—as it tries to reach the hundreds of millions of people who play video games on computers.
 
 Microsoft embracing Steam would have been interesting as it may open doors to the Mac audience as well, but the latest signal from Microsoft paints a different picture.

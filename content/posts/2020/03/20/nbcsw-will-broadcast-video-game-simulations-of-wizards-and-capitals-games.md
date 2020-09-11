@@ -20,13 +20,7 @@ tags:
 
 [Scott Allen reporting for The Washington Post](https://www.washingtonpost.com/sports/2020/03/20/nbcsw-will-broadcast-video-game-simulations-wizards-capitals-games/):
 
-
-
-<blockquote>The NBA and NHL seasons, which were suspended last week due to the novel coronavirus outbreak, will resume — in video game form — in the coming days. Monumental Sports Network and NBC Sports Washington on Friday announced that they will broadcast hour-long simulations of the Wizards’ and Capitals’ previously scheduled regular season games using NBA 2K20 and NHL 20, respectively.
-
-</blockquote>
-
-
+> The NBA and NHL seasons, which were suspended last week due to the novel coronavirus outbreak, will resume — in video game form — in the coming days. Monumental Sports Network and NBC Sports Washington on Friday announced that they will broadcast hour-long simulations of the Wizards’ and Capitals’ previously scheduled regular season games using NBA 2K20 and NHL 20, respectively.
 
 I don’t see this as something that will be successful. Just a bit of fun during a growing and tumultuous problem for sports franchises, players, and employees, as well as broadcasters, advertisers, and bookies.
 
