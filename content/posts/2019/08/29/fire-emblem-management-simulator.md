@@ -40,7 +40,7 @@ _Fire Emblem: Three Houses_ asks these same questions with every explore-teach-f
 
 And like management, the more students I have under my purview, the less time I can spend teaching them individually. Who is more critical to grow? How balanced does my team need to be? Should I round out each individual, or focus on their strengths? And ultimately, who are my favorites?
 
-And there in lies the beauty of _Fire Emblem: Three Houses_. There is a repetitive loop, yes, but there is also painstaking care put into each of the students. And the fact that you will likely only experience 1/3 of them on your first play through is quite incredible. There are two other houses, two entirely different yet connected campaigns to explore. (I’m a sucker for games where only a fraction can be played through, leaving more to discover again and again. [Think _Star Fox 64_](https://www.zerocounts.net/star-fox-64-design-mission-accomplished/).)
+And there in lies the beauty of _Fire Emblem: Three Houses_. There is a repetitive loop, yes, but there is also painstaking care put into each of the students. And the fact that you will likely only experience 1/3 of them on your first play through is quite incredible. There are two other houses, two entirely different yet connected campaigns to explore. (I’m a sucker for games where only a fraction can be played through, leaving more to discover again and again. [Think _Star Fox 64_](/2013/04/20/star-fox-64-design-mission-accomplished/).)
 
 What is more is understanding how to balance the comfort of an individual for individual-growth. The best path forward may not be the easiest or the one that suits an individual’s strengths. There is pain in growth, for the individual(s) involved as well as for the leader calling the shots.
 

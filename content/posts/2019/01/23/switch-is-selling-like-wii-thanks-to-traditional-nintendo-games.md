@@ -24,4 +24,4 @@ tags:
 >
 > In fact, _Ultimate_’s debut was, NPD said, the best launch month for a console-exclusive game in “video game history.” The strength of the Switch overall also boosted the sales of its major games, sending 2017 games _Mario Kart 8, Breath of the Wild_, and _Super Mario Odyssey_ into 2018's top 20. Overall, NPD said, Nintendo made more money on software than any other publisher this year, a feat it hadn’t achieved since—you guessed it—the salad days of Wii, in 2009.
 
-Back-to-back [big years](https://www.zerocounts.net/big-ns-big-year/)?
+Back-to-back [big years](/2017/11/28/big-ns-big-year/)?

@@ -21,7 +21,7 @@ tags:
 >
 > People who work or have worked at Blizzard told me that they expect Tuesday’s layoffs to be primarily in non-game-development departments, such as publishing, marketing, and sales. Some of those jobs and roles may then fall to Activision proper, further reducing Blizzard’s autonomy.
 
-My recent piece [Activision, Microsoft, and Platforms](https://www.zerocounts.net/activision-microsoft-and-platforms/﻿) amounted to what I'd consider a nothing-burger. I'd considered the question "what now for Activision?" after they ended their partnership with Bungie, and sought an answer. After laying everything out, short of spelling doom, I didn't really net out with much other than an allusion of the company leveraging Blizzard's IP to build a paid platform:
+My recent piece [Activision, Microsoft, and Platforms](/2019/01/21/activision-microsoft-and-platforms/) amounted to what I'd consider a nothing-burger. I'd considered the question "what now for Activision?" after they ended their partnership with Bungie, and sought an answer. After laying everything out, short of spelling doom, I didn't really net out with much other than an allusion of the company leveraging Blizzard's IP to build a paid platform:
 
 > This is certainly a “let’s spend Activision Blizzard’s money” post, but short of spelling doom for Activision Blizzard with the rise of _Fortnite_, departure of Bungie, and Microsoft’s “Netflix of gaming”, Activision Blizzard needs a model that will continue to drive revenue in a PC world without the friction of a hardware platform. If the battle is lost, Activision Blizzard titles join the ranks of third-party titles vying for the top-spot on other launchers and platforms.
 

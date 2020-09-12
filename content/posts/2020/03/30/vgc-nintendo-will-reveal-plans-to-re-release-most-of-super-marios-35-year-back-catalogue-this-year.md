@@ -31,4 +31,4 @@ tags:
 
 > Nintendo will also release several other Mario titles in 2020, including a new instalment in the Paper Mario series and a Deluxe version of 2013’s _Super Mario 3D World_.
 
-Speaking of [childhood comforts](https://www.zerocounts.net/the-comfort-of-childhood-media-during-lockdown/).
+Speaking of [childhood comforts](/2020/03/29/the-comfort-of-childhood-media-during-lockdown/).

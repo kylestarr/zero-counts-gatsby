@@ -22,4 +22,4 @@ tags:
 > 
 > Microsoft already has a few games with Xbox Live support across mobile devices, most notably via Minecraft, which requires an Xbox Live login on Android, iOS, and Nintendo Switch. Until now, Microsoft reserved Xbox Live support on those platforms for its own games, but now now, Microsoft is aiming to bring Xbox Live cross-platform play to even more titles. Developers will be able to bake cross-platform Xbox Live achievements, social systems, and multiplayer, into games built for mobile devices and Nintendo Switch, as part of its division-wide effort to grow Xbox Live's userbase.
 
-[Oh](https://www.zerocounts.net/activision-microsoft-and-platforms/)?
+[Oh](/2019/01/21/activision-microsoft-and-platforms/)?

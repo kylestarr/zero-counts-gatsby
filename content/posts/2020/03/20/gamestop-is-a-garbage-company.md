@@ -37,7 +37,7 @@ GameStop is a garbage company.
 
 ---
 
-UPDATE: [Later on March 20th, Kotaku reported that GameStop began closing stores in California](https://kotaku.com/gamestop-shuts-down-stores-in-california-1842428841). A single state.
+[_UPDATE_]: [Later on March 20th, Kotaku reported that GameStop began closing stores in California](https://kotaku.com/gamestop-shuts-down-stores-in-california-1842428841). A single state.
 
 [On March 21st, GameStop decided to close all of its stores](https://kotaku.com/gamestop-finally-closes-stores-to-customers-1842440935), offering curbside pickup at select locations.
 

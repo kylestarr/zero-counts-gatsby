@@ -22,4 +22,4 @@ tags:
 
 > The good news for players is that everyone wants their business, and the battle for that business is structured in such a way that prices are going down, while profits — at least, in some cases — may be going up. Epic Games has found a way to get players to more closely consider the economics of storefronts, and it did so with both exclusives and a lower price. This won’t be the last time we see this approach as the platform wars continue in 2019.
 
-I nearly titled my piece [Activision, Microsoft, and Platforms](https://www.zerocounts.net/activision-microsoft-and-platforms/) “Platform Wars”.
+I nearly titled my piece [Activision, Microsoft, and Platforms](/2019/01/21/activision-microsoft-and-platforms/) “Platform Wars”.

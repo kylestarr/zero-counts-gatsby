@@ -21,4 +21,4 @@ tags:
 >
 > So, she’s got this really great platform that universities all of the United States are embracing and putting their kids through — to teach them how to go into adulthood. I mean, who would thing we’d have to disrupt that industry?
 
-Good idea, but it’s a shame it’s needed. It’s silly that we don’t provide these tools in high school. Add in technology basics (backups, privacy, etc.) and it sounds a lot like [Home Economics 2.0](https://www.zerocounts.net/home-economics-2-0/).
+Good idea, but it’s a shame it’s needed. It’s silly that we don’t provide these tools in high school. Add in technology basics (backups, privacy, etc.) and it sounds a lot like [Home Economics 2.0](/2015/01/27/home-economics-2-0/).

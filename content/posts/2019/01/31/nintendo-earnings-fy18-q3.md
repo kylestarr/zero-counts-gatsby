@@ -42,7 +42,7 @@ On games:
 
 > _Super Smash Bros. Ultimate_ has achieved a sell-through of over 10 million units. The title has continued to show explosive growth after its release, with the fastest start for any title on any Nintendo home console ever.
 
-Right in-line with [NPD’s numbers](https://www.zerocounts.net/switch-is-selling-like-wii-thanks-to-traditional-nintendo-games/).
+Right in-line with [NPD’s numbers](/2019/01/23/switch-is-selling-like-wii-thanks-to-traditional-nintendo-games/).
 
 Continued:
 
@@ -52,13 +52,13 @@ Continued:
 >
 > One of Nintendo’s strengths is how easy it is for consumers with past experience playing Nintendo games to become interested in new Nintendo-brand titles. And if the steady sales of our evergreen titles can reliably support our overall software sales, we believe that will help fill any gaps between releases of new titles.
 
-_Mario Kart 8 Deluxe_ is the [top selling title for the Nintendo Switch](https://www.nintendo.co.jp/ir/en/finance/software/index.html) at 15.02 million units. _Super Mario Odyssey_ is second at 13.76 million units. I still wouldn’t call _Mario Kart 8 Deluxe_ a system seller, but certainly a must-have. [Electrodome Boogaloo, indeed](https://www.zerocounts.net/hail-mario-2-electrodrome-boogaloo/).
+_Mario Kart 8 Deluxe_ is the [top selling title for the Nintendo Switch](https://www.nintendo.co.jp/ir/en/finance/software/index.html) at 15.02 million units. _Super Mario Odyssey_ is second at 13.76 million units. I still wouldn’t call _Mario Kart 8 Deluxe_ a system seller, but certainly a must-have. [Electrodome Boogaloo, indeed](/2017/04/30/hail-mario-2-electrodrome-boogaloo/).
 
 On third-party titles:
 
 > Titles from other software publishers are also seeing a steady rise alongside Nintendo Switch. Nintendo’s revenue related to software from other software publishers was more than twofold during April through December of 2018.
 
-[The idea](https://www.zerocounts.net/activision-microsoft-and-platforms/) that Microsoft would put games on Switch doesn’t seem so crazy.
+[The idea](/2019/01/21/activision-microsoft-and-platforms/) that Microsoft would put games on Switch doesn’t seem so crazy.
 
 On strategy:
 
@@ -66,4 +66,4 @@ On strategy:
 >
 > Each pillar has a different purpose and a different scale. They are each considered critical to the company, and we intend to grow them according to their unique traits and potential for growth. Let me explain each of these businesses in order.
 
-[Executives have made mention of IP expansion](https://www.zerocounts.net/reggie-fils-aime-i-dont-mind-how-you-interact-with-our-ip-as-long-as-youre-interacting-with-it-every-day/), but I don’t think I’ve ever seen it as core a pillar spelled out next to “video games”.
+[Executives have made mention of IP expansion](/2017/01/15/reggie-fils-aime-i-dont-mind-how-you-interact-with-our-ip-as-long-as-youre-interacting-with-it-every-day/), but I don’t think I’ve ever seen it as core a pillar spelled out next to “video games”.

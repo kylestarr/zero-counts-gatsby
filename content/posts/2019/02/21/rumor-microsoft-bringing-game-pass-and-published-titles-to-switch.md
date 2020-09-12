@@ -19,4 +19,4 @@ tags:
 
 > [According to a report from outlet Direct Feed Games](https://www.youtube.com/watch?time_continue=67&v=sCuG984QIbU), an outlet that has a strong track record for rumors especially centering around Nintendo, Microsoft and Nintendo are about to get together in a big way in the near future. Not only will some Microsoft games find their way to the Switch, but it looks like the entire Game Pass library might arrive via the magic of streaming. 
 
-[Oh](https://www.zerocounts.net/microsoft-to-bring-xbox-live-to-the-switch/)?
+[Oh](/2019/02/04/microsoft-to-bring-xbox-live-to-the-switch/)?

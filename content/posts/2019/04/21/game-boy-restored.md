@@ -74,7 +74,9 @@ The yellowing of ‘80s and ‘90s electronics plastics is caused by a combinati
 
 The method to reverse the effect of bromine is referred to as [retr0bright](http://www.retr0bright.com/) and includes a mixture of hydrogen peroxide, xanthan gum, glycerin, and “oxy” laundry booster. Being the lazy sap I am, I decided to opt in for a [discovered alternative](https://www.howtogeek.com/196687/ask-htg-why-do-old-computers-and-game-consoles-turn-yellow/): [Salon Care by Sally Beauty](https://www.amazon.com/Salon-Care-Creme-Developer-ounce/dp/B004OKDW20/ref=sr_1_2?crid=2OU4M2W3RT7NP&keywords=salon+care+40+volume+creme+developer&qid=1556807644&s=gateway&sprefix=salon+care%2Caps%2C206&sr=8-2).
 
-Wearing latex gloves, painted a generous amount of the Salon Care on to the disassembled casing of the Game Boy, wrapped it in Stretch-Tite plastic wrap, and placed the piece outside in direct sunlight.![Game Boy disassembled during retr0bright process](https://www.zerocounts.net/wp-content/uploads/2019/04/1ECA8224-BBDD-4E26-8F01-5F2FF8185BA2.jpeg)
+Wearing latex gloves, painted a generous amount of the Salon Care on to the disassembled casing of the Game Boy, wrapped it in Stretch-Tite plastic wrap, and placed the piece outside in direct sunlight.
+
+![Game Boy disassembled during retr0bright process](/game-boy-restoration-dismantled-retr0brite.jpeg)
 
 **Essential**: The Salon Care coated plastic should be exposed to UV light for 4–6 hours total. However, it is **critical** to massage the plastic wrap + Salon Care every 45–60 minutes or so. This helps avoid air bubbles which can contribute to blotchiness in the end result. (This is where I goofed.) Likewise, you should rinse the plastic and re-apply the Salon Care every 90–120 minutes as it begins to evaporate after lengthy exposure. (Another goof of mine. I had to redo the process the next day as the Salon Care seemed to lose its effect after about 2 hours.)
 

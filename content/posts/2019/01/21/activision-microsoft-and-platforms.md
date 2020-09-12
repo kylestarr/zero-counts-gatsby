@@ -98,7 +98,7 @@ With only _Call of Duty_, is Activision still a name? If so, if not, what’s ne
 
 ![Snapshot of macOS gaming launchers on January 21, 2019](/macos-game-launchers-2019-02-13.png)
 
-Launched in 2003, Steam boasts 150 million active users and 27,000 games. The sheer number of games is in large part thanks to the Steam Greenlight and Direct developer programs. Steam has traditionally been known as a bastion for indie developers. However, the recent drastic increase in velocity of titles launching on Steam is making it [harder and harder for indies to break through the noise](https://www.zerocounts.net/there-are-too-many-video-games-what-now/). But it remains that Steam is the standard for PC/Mac gaming.
+Launched in 2003, Steam boasts 150 million active users and 27,000 games. The sheer number of games is in large part thanks to the Steam Greenlight and Direct developer programs. Steam has traditionally been known as a bastion for indie developers. However, the recent drastic increase in velocity of titles launching on Steam is making it [harder and harder for indies to break through the noise](/2018/09/28/there-are-too-many-video-games-what-now/). But it remains that Steam is the standard for PC/Mac gaming.
 
 In 2013, Activision Blizzard launched the Battle.Net Launcher — a one-stop-shop to launching Blizzard IP _Warcraft_, _Diablo_, _StarCraft_, and now _Hearthstone_, _Overwatch_, and _Heroes of the Storm_. In 2017, this list expanded to Bungie’s _Destiny 2_ under the Activision banner. In 2018, Activision’s _Call of Duty: Black Ops 4_ was added to the launcher. Upon the announcement that _Destiny 2_ would be arriving on the launcher, [Blizzard released a statement that there were no plans to expand to other third-party titles](https://news.blizzard.com/en-us/blizzard/20839728/destiny-2-coming-to-battle-net):
 
@@ -124,7 +124,7 @@ Does this signaling Activision Blizzard’s next move?
 
 ## Microsoft
 
-I’m going to recall my previous post “[Sometimes Failure Leads to Opportunity](https://www.zerocounts.net/sometimes-failure-leads-to-opportunity/)” with a little help from Ben Thompson:
+I’m going to recall my previous post “[Sometimes Failure Leads to Opportunity](/2018/06/12/sometimes-failure-leads-to-opportunity/)” with a little help from Ben Thompson:
 
 > On Microsoft’s big acquisitions announcement of studios Ninja Theory (_DmC: Devil May Cry_, _Hellblade: Senua’s Sacrifice_), Playground Games (_Forza Horizon_), Undead Labs (_State of Decay_), and Compulsion Games (_We Happy Few_):
 >

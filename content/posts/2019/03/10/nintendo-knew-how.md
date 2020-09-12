@@ -25,4 +25,4 @@ tags:
 >
 > I’ve had issues with controllers for a long time. Not personally, but in terms of accessibility. There’s been this steady increase in the complexity of a controller. It hasn’t become easier to use; it’s become more complicated to use. Yes, it’s got more features — now you have touchpads; now you have analog buttons; now you have analog sticks; now you have two or three or four more buttons on the thing; now you have pro controllers and elite controllers, £120 controllers. What Nintendo recognized was, “oh, we can do something that does away with all of that and introduce an entirely different type of technology that ‘hey! It’s actually not that expensive to manufacture.’” It was utter genius.
 
-Keying in on the phrase, “I’ve had issues with controllers for a long time”: You and me both, Shahid. [You and me both](https://www.zerocounts.net/buttons/).
+Keying in on the phrase, “I’ve had issues with controllers for a long time”: You and me both, Shahid. [You and me both](/2015/05/31/buttons/).
