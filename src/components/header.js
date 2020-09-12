@@ -9,7 +9,7 @@ const Header = () => {
             logo: file(absolutePath: { regex: "/zero-counts-logo-light.png/" }) {
                 childImageSharp {
                     fluid(maxWidth: 528) {
-                    ...GatsbyImageSharpFluid
+                    ...GatsbyImageSharpFluid_noBase64
                     }
                 }
             }

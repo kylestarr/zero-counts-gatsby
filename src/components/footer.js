@@ -6,21 +6,21 @@ import Img from "gatsby-image"
 const Footer = () => {
     const data = useStaticQuery(graphql`
         query iconQuery {
-            logo: file(absolutePath: { regex: "/info-400x400.png/" }) {
+            logo: file(absolutePath: { regex: "/info-icon-84.png/" }) {
                 childImageSharp {
                     fluid(maxWidth: 42) {
                     ...GatsbyImageSharpFluid
                     }
                 }
             }
-            twitter: file(absolutePath: { regex: "/Twitter_Logo_WhiteOnImage.png/" }) {
+            twitter: file(absolutePath: { regex: "/twitter-logo-white-84.png/" }) {
                 childImageSharp {
                     fluid(maxWidth: 42) {
                     ...GatsbyImageSharpFluid
                     }
                 }
             }
-            email: file(absolutePath: { regex: "/mail-icon-400-400.png/" }) {
+            email: file(absolutePath: { regex: "/mail-icon-84.png/" }) {
                 childImageSharp {
                     fluid(maxWidth: 42) {
                     ...GatsbyImageSharpFluid
