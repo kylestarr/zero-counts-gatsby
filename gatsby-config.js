@@ -33,7 +33,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 704,
+              maxWidth: 580,
               backgroundColor: "none",
               disableBgImageOnAlpha: true,
               linkImagesToOriginal: false,
@@ -75,7 +75,7 @@ module.exports = {
         short_name: `ZC`,
         start_url: `/`,
         background_color: `#000000`,
-        theme_color: `#663399`,
+        theme_color: `#004992`,
         display: `minimal-ui`,
         icon: `content/assets/zero-counts-logo-512.png`,
       },
