@@ -76,7 +76,7 @@ The method to reverse the effect of bromine is referred to as [retr0bright](http
 
 Wearing latex gloves, painted a generous amount of the Salon Care on to the disassembled casing of the Game Boy, wrapped it in Stretch-Tite plastic wrap, and placed the piece outside in direct sunlight.
 
-![Game Boy disassembled during retr0bright process](/game-boy-restoration-dismantled-retr0brite.jpeg)
+![Game Boy disassembled during retr0bright process](/game-boy-restoration-dismantled-retr0brite.jpg)
 
 **Essential**: The Salon Care coated plastic should be exposed to UV light for 4–6 hours total. However, it is **critical** to massage the plastic wrap + Salon Care every 45–60 minutes or so. This helps avoid air bubbles which can contribute to blotchiness in the end result. (This is where I goofed.) Likewise, you should rinse the plastic and re-apply the Salon Care every 90–120 minutes as it begins to evaporate after lengthy exposure. (Another goof of mine. I had to redo the process the next day as the Salon Care seemed to lose its effect after about 2 hours.)
 
