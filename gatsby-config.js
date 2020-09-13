@@ -6,7 +6,7 @@ module.exports = {
       summary: `Since 1985`
     },
     description: `A blog about video games, mostly.`,
-    siteUrl: `https://www.zerocounts.net/`,
+    siteUrl: `https://zerocounts.net/`,
     social: {
       twitter: `_zerocounts`,
     },
@@ -66,7 +66,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-177899257-1`,
       },
     },
     {
