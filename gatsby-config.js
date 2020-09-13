@@ -68,17 +68,18 @@ module.exports = {
       options: {
         trackingId: "UA-177899257-1",
         anonymize: true,
+        head: true,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Zero Counts`,
-        short_name: `ZC`,
+        short_name: `Zero Counts`,
         start_url: `/`,
         background_color: `#000000`,
         theme_color: `#004992`,
-        display: `minimal-ui`,
+        display: `standalone`,
         icon: `content/assets/zero-counts-logo-512.png`,
       },
     },
