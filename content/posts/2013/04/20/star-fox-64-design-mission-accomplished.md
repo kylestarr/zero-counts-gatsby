@@ -14,6 +14,8 @@ tags:
 - Star Fox
 - Star Fox 64
 - video games
+redirect_from:
+    - /star-fox-64-design-mission-accomplished/
 ---
 
 With the recent releases of narrative driven AAA titles such as _[Bioshock Infinite](http://www.bioshockinfinite.com/?RET=&ag=true)_ and _[Mass Effect](http://masseffect.bioware.com/agegate/?url=%2F)_ along with the next-generation looming on the horizon, the discussion of game design has yet again taken center stage. Large publishers are looking to balance the addictive re-playability of MMOs, the lucrativness of multi-player FPSs, and the rich immersion of single-player action-RPGs. On the other hand, indie developers such as [thatgamecompany](http://thatgamecompany.com/) toy with the idea of striped down mechanics to balance heavy narrative as seen in _[Journey](http://thestarrlist.com/2013/04/09/journey-1-year-later/)_. Most games now attempt to implement “moral” decisions, often very polar and very poorly.

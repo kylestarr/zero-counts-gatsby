@@ -16,6 +16,8 @@ tags:
 - nba
 - nhl
 - sports
+redirect_from:
+    - /%f0%9f%a6%a0-nbcsw-will-broadcast-video-game-simulations-of-wizards-and-capitals-games/
 ---
 
 [Scott Allen reporting for The Washington Post](https://www.washingtonpost.com/sports/2020/03/20/nbcsw-will-broadcast-video-game-simulations-wizards-capitals-games/):

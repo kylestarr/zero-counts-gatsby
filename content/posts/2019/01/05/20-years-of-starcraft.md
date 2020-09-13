@@ -13,6 +13,8 @@ tags:
 - Blizzard
 - starcraft
 - video games
+redirect_from:
+    - /20-years-of-starcraft/
 ---
 
 [Kosta Andreadis, writing for IGN](https://www.ign.com/articles/2018/12/03/20-years-of-starcraft-an-ign-retrospective):

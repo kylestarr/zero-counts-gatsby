@@ -14,6 +14,8 @@ tags:
 - platforms
 - steam
 - video games
+redirect_from:
+    - /activision-microsoft-and-platforms/
 ---
 
 This post comes heavily inspired from a recent [GamesIndustry.biz Podcast episode, “What now for Activision”](https://www.gamesindustry.biz/articles/2019-01-14-the-gamesindustry-biz-podcast-what-now-for-activision):

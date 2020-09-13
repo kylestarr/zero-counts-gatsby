@@ -13,6 +13,8 @@ tags:
 - into the aether
 - podcast
 - video games
+redirect_from:
+    - /video-games-do-not-exist/
 ---
 
 I was invited to write an original piece for the 'From the Aether' newsletter ~~— the bonus newsletter for backers of the [Into the Aether Podcast Patreon](https://www.patreon.com/intothecast/overview).~~, which, as of December 9, 2019, became available to the public. [I'd love it if you gave it a read on Medium](https://medium.com/@intothecast/from-the-aether-4-f3f330497ea5).

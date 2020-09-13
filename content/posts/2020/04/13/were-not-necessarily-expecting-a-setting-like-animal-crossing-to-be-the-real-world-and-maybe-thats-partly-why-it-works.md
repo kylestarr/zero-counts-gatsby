@@ -12,6 +12,8 @@ tags:
   - nintendo
   - quarantine
 cover: 1.png
+redirect_from:
+  - /were-not-necessarily-expecting-a-setting-like-animal-crossing-to-be-the-real-world-and-maybe-thats-partly-why-it-works/
 ---
 
 [Ashley Fetters, writing for The Atlantic, with a quote from Nicole Ellison of School of Information at the University of Michigan](https://www.theatlantic.com/family/archive/2020/04/why-your-zoom-happy-hour-unsatisfying/609823/):

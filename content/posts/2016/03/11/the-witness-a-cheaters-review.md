@@ -15,6 +15,8 @@ tags:
 - the witness
 - thekla
 - video games
+redirect_from:
+    - /the-witness-a-cheaters-review/
 ---
 
 ![The Witness toolkit](/the-witness-toolkit.jpg)

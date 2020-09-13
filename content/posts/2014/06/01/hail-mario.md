@@ -15,6 +15,8 @@ tags:
 - marketing
 - nintendo
 - video games
+redirect_from:
+    - /hail-mario/
 ---
 
 On Friday night, something beautiful happened. Something I hadn't experienced in roughly 15 years. 4-player split-screen local multiplayer.

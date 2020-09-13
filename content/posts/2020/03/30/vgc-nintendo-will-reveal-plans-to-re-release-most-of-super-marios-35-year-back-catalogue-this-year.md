@@ -19,6 +19,8 @@ tags:
 - super mario bros
 - super mario galaxy
 - video games
+redirect_from:
+  - /vgc-nintendo-will-reveal-plans-to-re-release-most-of-super-marios-35-year-back-catalogue-this-year/
 ---
 
 [Andy Robinson, reporting for Video Games Chronicle](https://www.videogameschronicle.com/news/super-mario-bros-35th-anniversary/):

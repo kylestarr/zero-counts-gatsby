@@ -13,6 +13,8 @@ tags:
 - coronavirus
 - covid-19
 - gamestop
+redirect_from:
+    - /gamestop-is-a-garbage-company/
 ---
 
 [Jason Schreier reporting for Kotaku:](https://kotaku.com/gamestop-we-can-stay-open-during-lockdowns-because-wer-1842415962)

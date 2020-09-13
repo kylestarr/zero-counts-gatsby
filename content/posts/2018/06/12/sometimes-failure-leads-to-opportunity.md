@@ -14,6 +14,8 @@ tags:
 - microsoft
 - video games
 - xbox
+redirect_from:
+    - /sometimes-failure-leads-to-opportunity/
 ---
 
 [Ben Thompson, Stratechery](https://stratechery.com/2018/scooter-follow-up-microsoft-and-the-xbox-spotify-signs-indie-acts/):

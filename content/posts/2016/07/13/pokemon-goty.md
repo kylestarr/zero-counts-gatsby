@@ -9,6 +9,8 @@ categories:
 - Culture
 - History
 - Media
+redirect_from:
+    - /pokemon-goty/
 ---
 
 ![Pokémon Go on iPhone, Pokémon Blue on 3DS](/pokemon-go-iphone-pokemon-blue-3ds.jpg)

@@ -9,6 +9,8 @@ tags:
     - business
     - sports
     - video-games
+redirect_from:
+    - /sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow/
 ---
 
 [Chris Plante, Polygon](https://www.polygon.com/2020/8/28/21405697/nba-players-strike-video-games-union):

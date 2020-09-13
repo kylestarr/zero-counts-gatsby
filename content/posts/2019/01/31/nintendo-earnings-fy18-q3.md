@@ -14,6 +14,8 @@ tags:
 - nintendo
 - switch
 - video games
+redirect_from:
+    - /nintendo-earnings-fy18-q3/
 ---
 
 A blockbuster holiday. Lowered expectations. Three pillars of business. Nintendo’s recent earnings report was interesting if nothing else.

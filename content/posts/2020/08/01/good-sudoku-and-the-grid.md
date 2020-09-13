@@ -12,6 +12,8 @@ tags:
     - the binding of isaac
     - waveslengths
 cover: 1.png
+redirect_from:
+    - /good-sudoku-and-the-grid/
 ---
 
 [Brendon Bigley, writing at his new site, Wavelengths](https://wavelengths.online/home/good-sudoku):

@@ -12,6 +12,8 @@ postFormat:
 tags:
 - business
 - microsoft
+redirect_from:
+    - /but-the-answer-is-simpler-when-it-comes-to-the-real-money-maker-for-microsoft/
 ---
 
 [Chris Plante, Polygon](https://www.polygon.com/2019/2/22/18236210/xbox-game-pass-switch-microsoft):

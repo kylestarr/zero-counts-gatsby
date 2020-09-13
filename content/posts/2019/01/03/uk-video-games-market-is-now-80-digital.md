@@ -15,6 +15,8 @@ tags:
 - sales
 - uk
 - video games
+redirect_from:
+    - /uk-video-games-market-is-now-80-digital/
 ---
 
 [Christopher Dring, reporting for GamesIndustry.biz](https://www.gamesindustry.biz/articles/2019-01-02-uk-video-games-market-is-now-80-percent-digital):

@@ -16,6 +16,8 @@ tags:
 - retro
 - technology
 - video games
+redirect_from:
+    - /game-boy-restored/
 ---
 
 Today marks 30 years since the Game Boy’s initial release in Japan. After seeing loads of Game Boy tributes for the handheld, I decided to dig up my old system for a first-hand experience down memory lane.

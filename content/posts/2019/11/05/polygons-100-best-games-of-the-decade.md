@@ -22,6 +22,8 @@ tags:
 - switch
 - video games
 - xbox one
+redirect_from:
+    - /polygons-100-best-games-of-the-decade/
 ---
 
 [Polygon Staff](https://www.polygon.com/features/2019/11/4/20944265/best-games-2019-2010-ps4-switch-xbox-pc-100-51):

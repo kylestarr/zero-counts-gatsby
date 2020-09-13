@@ -11,6 +11,8 @@ tags:
 - activision
 - Blizzard
 - business
+redirect_from:
+    - /activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/
 ---
 
 [Allegra Frank, reporting for Polygon](https://www.polygon.com/2019/2/12/18222096/blizzard-layoffs-february-2019):

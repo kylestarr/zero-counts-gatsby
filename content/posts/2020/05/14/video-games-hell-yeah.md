@@ -11,6 +11,8 @@ tags:
     - teens
     - video games
 cover: 1.png
+redirect_from:
+    - /video-games-hell-yeah/
 ---
 
 [Tweet thread by Tiffany Pitts:](https://twitter.com/snickerpants/status/1256755201207201792?s=21)

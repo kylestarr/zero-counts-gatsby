@@ -14,6 +14,8 @@ tags:
 - video games
 - xbox
 - xbox live
+redirect_from:
+    - /microsoft-to-bring-xbox-live-to-the-switch/
 ---
 
 [Jez Corden, reporting for Windows Central](https://m.windowscentral.com/microsoft-wants-bring-xbox-live-cross-platform-gaming-android-ios-nintendo-switch-and-more):

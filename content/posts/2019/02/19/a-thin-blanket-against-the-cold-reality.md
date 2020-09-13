@@ -13,6 +13,8 @@ tags:
 - activision
 - Blizzard
 - business
+redirect_from:
+    - /a-thin-blanket-against-the-cold-reality/
 ---
 
 [Michael Futter, Polygon](https://www.polygon.com/2019/2/16/18226581/activision-blizzard-layoffs-executive-pay-unions):

@@ -11,6 +11,8 @@ categories:
 tags:
 - education
 - technology
+redirect_from:
+    - /home-economics-2-0/
 ---
 
 I've spent the better part of my career in technical support roles; hours upon hours equating RAM to freeways and CPU-cores to cooks in a kitchen. Countless individuals taking backup advice with a "ya, sure" and a head nod. People terrified over the word "server" and unassuming over the word "cloud". It baffles me how such basic knowledge is so foreign.

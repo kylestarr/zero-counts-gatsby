@@ -17,6 +17,8 @@ tags:
 - retro
 - teenage engineering
 - video games
+redirect_from:
+    - /playdate/
 ---
 
 ![Playdate handheld console](/playdate.jpeg)
