@@ -17,6 +17,7 @@ tags:
 - video games
 redirect_from:
     - /hail-mario/
+    - /2014/06/01/hail-mary-o/
 ---
 
 On Friday night, something beautiful happened. Something I hadn't experienced in roughly 15 years. 4-player split-screen local multiplayer.

@@ -26,7 +26,7 @@ Games are surely easier to make than ever before. Easy for me to say as I’ve n
 
 The tech to create games is more accessible than ever. Formal eduction to learn how to make games has become readily available. The distribution of games becomes increasingly easy via tools like Epic’s Unreal Engine which allows developers to “[more easily ship games and seamlessly optimize gameplay across platforms](https://www.unrealengine.com/en-US/blog/unreal-engine-4-20-released).”
 
-For those developers creating online experiences, the choice and complexity of platform to develop for and release to shrinks ever more with [cross-platform play becoming increasingly popular](https://www.zerocounts.net/business/cross-platform-play-coming-to-ps4-starting-with-fortnite/).
+For those developers creating online experiences, the choice and complexity of platform to develop for and release to shrinks ever more with [cross-platform play becoming increasingly popular](/2018/09/26/cross-platform-play-coming-to-ps4-starting-with-fortnite/).
 
 It begs the question there is inevitably one experience everywhere, how do the plethora of games become seen? I believe indies will come to depend on large publishers for marketing budgets to cut through the cruft. But those publishers will be increasingly looking for guarantees on their investments. Not a chance on a new indie title.
 
@@ -52,6 +52,6 @@ All of this said, the chances of a developer becoming a household name are far s
 >
 > “Even if the most hardcore gamer plays 14 hours a day, that’s still a finite amount of time,” he says. “And if you’re spending 10 of those in a PUBG, or a Fortnite, what does that leave for the rest of us? It’s true that timing of release is critical, sure, and I don’t think that single-player, smaller-scope games are going to go away; there’s always going to be room for that. But time is something that you really can’t move, and you have to account for that when people move into these long-term relationships with games.
 
-See [Self-competing and Time Blocking](https://www.zerocounts.net/business/self-competing-and-time-blocking/).
+See [Self-competing and Time Blocking](/2017/04/23/self-competing-and-time-blocking/).
 
 I truly don’t know what the future of indies is, but it doesn’t look great.

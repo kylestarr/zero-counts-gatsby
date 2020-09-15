@@ -33,7 +33,7 @@ And boy, do I love _The Witness_. To a point.
 
 I'm sure I underestimate myself by thinking I would have never completed the game without a guide. The game thrives on the notion of beating the player down only to let them realize they could find the solution all along. There were plenty of times when I pondered giving up, only to persevere and surprise myself the following day. But after 215 puzzles and frustrating "Tetris" logic, enough was enough.
 
-After weeks of setting the game aside for [_Firewatch_](https://www.zerocounts.net/2016/02/21/firewatch-review/), [Tom Bissell's "Extra Lives"](http://www.penguinrandomhouse.com/books/13989/extra-lives-by-tom-bissell/9780307474315/), and _Veep_, the allure and curiosity of _The Witness_ wore off. I was no longer itching to out-do myself. I just needed to know what the _The Witness_ would amount to. Was the experience worth it?
+After weeks of setting the game aside for [_Firewatch_](/2016/02/21/firewatch-review/), [Tom Bissell's "Extra Lives"](http://www.penguinrandomhouse.com/books/13989/extra-lives-by-tom-bissell/9780307474315/), and _Veep_, the allure and curiosity of _The Witness_ wore off. I was no longer itching to out-do myself. I just needed to know what the _The Witness_ would amount to. Was the experience worth it?
 
 Many reviewers point to discovery and breakthrough as the reward. That once the player is spoiled with hints, the spell is broken. While those moments of besting oneself are certainly empowering, I found cheating my way through the second-half to be enjoyable as well.
 

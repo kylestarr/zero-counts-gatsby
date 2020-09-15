@@ -16,6 +16,7 @@ tags:
 - xbox
 redirect_from:
     - /sometimes-failure-leads-to-opportunity/
+    - /business/sometimes-failure-leads-to-opportunity/
 ---
 
 [Ben Thompson, Stratechery](https://stratechery.com/2018/scooter-follow-up-microsoft-and-the-xbox-spotify-signs-indie-acts/):
@@ -38,4 +39,4 @@ Ultimately, I think Ben summarized the Microsoft showcase perfectly. I do hope y
 
 > Indeed, I find this idea so compelling that I must formally withdraw my recommendation that Microsoft get out of gaming; I still believe that the Xbox was a failure in terms of its original goals, but sometimes failure leads to opportunity, and streaming seems to be a significant one, for both Xbox specifically and Azure generally.
 
-I have to say, the Xbox event was my favorite of E3, with Nintendo in a close second. With that, I truly think [Microsoft has turned a storytelling corner](https://www.zerocounts.net/2018/04/22/the-verge-my-xbox-one-s-is-now-a-meaningfully-different-console-to-my-ps4/).
+I have to say, the Xbox event was my favorite of E3, with Nintendo in a close second. With that, I truly think [Microsoft has turned a storytelling corner](/2018/04/22/the-verge-my-xbox-one-s-is-now-a-meaningfully-different-console-to-my-ps4/).

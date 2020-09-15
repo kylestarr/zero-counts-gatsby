@@ -20,7 +20,7 @@ redirect_from:
     - /hail-mario-2-electrodrome-boogaloo/
 ---
 
-In 2014, I wrote [Hail Mario](https://www.zerocounts.net/2014/06/01/hail-mario/), a post about Nintendo's aggressive strategy to bolster Wii U sales with the release of _Mario Kart 8_:
+In 2014, I wrote [Hail Mario](/2014/06/01/hail-mario/), a post about Nintendo's aggressive strategy to bolster Wii U sales with the release of _Mario Kart 8_:
 
 > Nintendo gambled for positive reviews two weeks before launch, is now chalking up at least $40 in games to every US and Canadian Mario Kart owning household, and prays that their Trojan horse will be the spark to move units. Since release, the game has received stunning accolades, [Club Nintendo has been brought down](https://tsogaming.wordpress.com/2014/05/31/club-nintendo-stuck-in-mario-kart-traffic/) by what can only be assumed as immense traffic for free games, and at least one Wii U newcomer is being tugged at by curiosity.
 >

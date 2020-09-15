@@ -34,7 +34,7 @@ For the Switch, the promise of a high-fidelity, 3D, sandbox Mario game akin to _
 
 But is it familiar?
 
-I had the opportunity to preview _Super Mario Odyssey_ at E3 — an excerpt from [my E3 experience](https://www.zerocounts.net/2017/06/19/e3-2017/) below:
+I had the opportunity to preview _Super Mario Odyssey_ at E3 — an excerpt from [my E3 experience](/2017/06/19/e3-2017/) below:
 
 > Odyssey feels like the perfect amalgam of all 3D Mario adventures: The playground of _Super Mario 64_‘s introductory courtyard, _Super Mario Sunshine_‘s NPCs, _Super Mario Galaxy_‘s inventiveness, and _Super Mario 3D World_‘s fidelity. Above all, there is a “weird” factor that has been generating buzz. The various worlds Mario can travel to feature a variety of art styles: the playable New Donk City feels like a _Tony Hawk’s Pro Skater_ / _Sims_ hybrid while the Sand Kingdom felt like a traditional 3D Mario world with a new classic 2D side-scrolling mechanic added to the mix. (Think _The Legend of Zelda: A Link Between Worlds_.) The game played as great as you can imagine, but the real allure is looking forward to the **variety and trying to figure out just what the hell is going on**!
 
@@ -60,7 +60,7 @@ It wasn't until New Donk City — 8 kingdoms in — that I felt like I understoo
 
 Until New Donk City, I felt like I was tip-toeing throughout the game, afraid to miss something important. Something wasn't clicking, which is a sour experience for a Mario game. At it's core, _Super Mario Odyssey_ is awful about communication. It does not communicate what's necessary, what's optional, and of the optional, what is what.
 
-After a week away from the game, New Donk City is what I keep coming back to. I only wish New Donk City was larger. It's a wonderful playground and an iconic area players will remember. My only hope is that _Super Mario Odyssey _— like _[Captain Toad: Treasure Tracker](https://www.zerocounts.net/2014/10/11/captain-toad-is-genius/)_ — is an expansion of what we know of the Mushroom Kingdom, or at least the universe in which it inhabits. I hope this is a taste of what's to come for the Mario franchise — the characters and worlds introduced — or else what's the point?
+After a week away from the game, New Donk City is what I keep coming back to. I only wish New Donk City was larger. It's a wonderful playground and an iconic area players will remember. My only hope is that _Super Mario Odyssey _— like _[Captain Toad: Treasure Tracker](/2014/10/11/captain-toad-is-genius/)_ — is an expansion of what we know of the Mushroom Kingdom, or at least the universe in which it inhabits. I hope this is a taste of what's to come for the Mario franchise — the characters and worlds introduced — or else what's the point?
 
 ![Super Mario Odyssey, image 4](/super-mario-odyssey-4.jpg)
 

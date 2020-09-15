@@ -22,9 +22,9 @@ redirect_from:
     - /big-ns-big-year/
 ---
 
-Since the failure of the Wii U, Nintendo’s future had been in question. [Sell to](https://www.zerocounts.net/2014/11/21/disney-can-save-nintendo-and-it-would-only-cost-19-billion/) [Disney](https://www.zerocounts.net/2015/05/07/would-disney-buy-nintendo/)? [Sell to Apple](https://seekingalpha.com/article/2075793-actually-apple-should-buy-nintendo)? [Retire Mario](https://twitter.com/shahidkamal/status/773586558251364352)?
+Since the failure of the Wii U, Nintendo’s future had been in question. [Sell to](/2014/11/21/disney-can-save-nintendo-and-it-would-only-cost-19-billion/) [Disney](/2015/05/07/would-disney-buy-nintendo/)? [Sell to Apple](https://seekingalpha.com/article/2075793-actually-apple-should-buy-nintendo)? [Retire Mario](https://twitter.com/shahidkamal/status/773586558251364352)?
 
-The question marks and judgement loomed with the [2016 announcement of Nintendo’s new console, the Switch](https://www.zerocounts.net/2017/01/14/nintendo-switch-presentation-2017-impressions/). A console poised to bring the worlds of mobile and set-top gaming together. The dream. But could a company founded on family friendly, under-powered hardware make a dent against the HD twins (PS4 and Xbox One) and a world where seemingly everyone above age 12 carries around a mobile supercomputer?
+The question marks and judgement loomed with the [2016 announcement of Nintendo’s new console, the Switch](/2017/01/14/nintendo-switch-presentation-2017-impressions/). A console poised to bring the worlds of mobile and set-top gaming together. The dream. But could a company founded on family friendly, under-powered hardware make a dent against the HD twins (PS4 and Xbox One) and a world where seemingly everyone above age 12 carries around a mobile supercomputer?
 
 Questions. Questions. Questions.
 
@@ -50,7 +50,7 @@ Released world-wide on March 3, 2017, the Switch has sold 7.63 million units as 
 
 In the same briefing, Nintendo revealed that over 50% of owners play in both portable and TV modes, 30% play exclusively portable mode, and the remaining 20% play exclusively TV mode.
 
-[Compromises notwithstanding](https://www.zerocounts.net/2017/11/22/good-enough/), there also seems to be a growing yearning for all games to be brought to the Switch. I’ve unhooked my PS4 and Xbox One. I’ve moved my Switch dock to my nightstand. [I’ve gone full handheld](https://www.zerocounts.net/2017/08/05/sell-my-old-consoles-im-off-to-handheld/https://www.zerocounts.net/2017/08/05/sell-my-old-consoles-im-off-to-handheld/). Nintendo has successfully untethered the console gaming experience from the TV, and it’s difficult to go back. The divided worlds of handheld and set-top gaming have coalesced and it’s everything we’d ever dreamed it would be. Without a doubt, this is a future Nintendo has been envisioning since the wildly successful Game Boy.
+[Compromises notwithstanding](/2017/11/22/good-enough/), there also seems to be a growing yearning for all games to be brought to the Switch. I’ve unhooked my PS4 and Xbox One. I’ve moved my Switch dock to my nightstand. [I’ve gone full handheld](/2017/08/05/sell-my-old-consoles-im-off-to-handheld/). Nintendo has successfully untethered the console gaming experience from the TV, and it’s difficult to go back. The divided worlds of handheld and set-top gaming have coalesced and it’s everything we’d ever dreamed it would be. Without a doubt, this is a future Nintendo has been envisioning since the wildly successful Game Boy.
 
 ## The Legend of Zelda: Breath of the Wild
 
@@ -90,7 +90,7 @@ Regardless of your standard of measuring a game, one thing can be said — _The 
 
 Wii U’s abysmal sales are no indication of the quality of games produced for the console. Arguably, it’s home to some of the greatest Nintendo titles ever — _Mario Kart 8_, _New Super Mario Bros. U_, _Super Mario 3D World_, _Super Smash Bros. for Wii U_, _Splatoon_, _Super Mario Maker_, _The Legend of Zelda: The Wind Waker HD_. The Wii U’s hit to miss ratio is sure to be one of the lowest of any console, yet most potential players missed out on surefire classics. Thankfully, Nintendo bolstered the Switch’s launch year line-up with one of the best.
 
-Mario Kart is a household favorite franchise, and _Mario Kart 8_ is the best of it’s form. Selling 4.42 million units, porting the greatest Mario Kart game to the Switch so early in its lifecycle was a brilliant move. It allowed Wii U owners to share the experience with the uninitiated and show off the Switch’s built in local multiplayer gimmick. [Playing Mario Kart is like riding a bike](https://www.zerocounts.net/2014/06/01/hail-mario/). With the Switch’s ever-present multiplayer, players can crack off the Joy-Cons and immediately share and experience. [Maybe even an office tournament](https://www.zerocounts.net/2017/04/30/hail-mario-2-electrodrome-boogaloo/):
+Mario Kart is a household favorite franchise, and _Mario Kart 8_ is the best of it’s form. Selling 4.42 million units, porting the greatest Mario Kart game to the Switch so early in its lifecycle was a brilliant move. It allowed Wii U owners to share the experience with the uninitiated and show off the Switch’s built in local multiplayer gimmick. [Playing Mario Kart is like riding a bike](/2014/06/01/hail-mario/). With the Switch’s ever-present multiplayer, players can crack off the Joy-Cons and immediately share and experience. [Maybe even an office tournament](/2017/04/30/hail-mario-2-electrodrome-boogaloo/):
 
 > On _Mario Kart 8 Deluxe_‘s_ _release day, I brought my Switch to work. It was the perfect venue to test the Switch’s out-of-the-box local multi-player experience. In fact, it was the first time I’d attempted _any_ multi-player on the device in _any_ of its various forms. As far as I know, I’m the only one in the office with a Switch. Gasps filled the room when I removed the Joy-Con from the display. I handed one over to a colleague, showed him around the tiny controller, and away we went.
 
@@ -118,7 +118,7 @@ However, the core game is still a delight and shows off the prowess of the Switc
 
 In August, Ubisoft delivered the first Mario experience on the Switch. Yes. Ubisoft. Not Nintendo. Ubisoft. Trusted with Nintendo’s icon and core franchise, Ubisoft delivered not only a charming title on par with other Mario entries, but a tight, satisfying, and unique strategy game to boot.
 
-In the vain of XCOM, _Mario + Rabbids Kingdom Battle_ plays like cartoon chess. The player selects a team of three (Mario + two other characters, so long as one is a Rabbid) to battle a slew of Rabbid baddies in a series of turn-based bouts across 4 worlds. As players progress, weapons are upgraded and skills are gained. There are plenty of collectibles to keep completionists active. Difficulty spikes are educational rather than infuriating. And [the Mushroom Kingdom is more gorgeous than ever](https://www.zerocounts.net/2017/08/28/mario-rabbids-kingdom-battle-just-looking-around-is-a-joy/).
+In the vain of XCOM, _Mario + Rabbids Kingdom Battle_ plays like cartoon chess. The player selects a team of three (Mario + two other characters, so long as one is a Rabbid) to battle a slew of Rabbid baddies in a series of turn-based bouts across 4 worlds. As players progress, weapons are upgraded and skills are gained. There are plenty of collectibles to keep completionists active. Difficulty spikes are educational rather than infuriating. And [the Mushroom Kingdom is more gorgeous than ever](/2017/08/28/mario-rabbids-kingdom-battle-just-looking-around-is-a-joy/).
 
 [VGChartz](http://www.vgchartz.com/game/181862/mario-rabbids-kingdom-battle/) puts the game at 0.51 million units sold, which doesn’t seem like a huge disappointment, but for a game that I thoroughly enjoyed, I’d like to see it bump up a bit this holiday season. _Mario + Rabbids Kingdom Battle_ is an absolute delight.
 
@@ -128,7 +128,7 @@ In the vain of XCOM, _Mario + Rabbids Kingdom Battle_ plays like cartoon chess. 
 
 Say nothing of big third-party titles like _Mario + Rabbids Kingdom Battle_, _Skyrim_, or _Doom_, the growing selection of top-notch indie — or “Nindie” — titles is nothing to scoff at.
 
-One of the biggest concerns of Nintendo is their seeming inability to attract third-parties to their consoles since the SNES. The Switch is no different. It _is_ the “[second console](https://www.zerocounts.net/2017/02/10/the-second-console/)”. But, boy has it attracted grade-A titles. The current [#Nindie Hits](https://www.nintendo.com/games/nintendo-switch-nindies-hits) roster looks a little something like this:
+One of the biggest concerns of Nintendo is their seeming inability to attract third-parties to their consoles since the SNES. The Switch is no different. It _is_ the “[second console](/2017/02/10/the-second-console/)”. But, boy has it attracted grade-A titles. The current [#Nindie Hits](https://www.nintendo.com/games/nintendo-switch-nindies-hits) roster looks a little something like this:
 
 - _Shovel Knight: Treasure Trove_
 - _Rocket League_
@@ -166,7 +166,7 @@ A new Mario title is something special. The best video game maker does not squan
 
 _Super Mario Odyssey_ launched on October 27, 2017 — 7+ months into the Switch’s lifecycle. It is a reimagining of the Mario series, with a series of worlds outside of the Mushroom Kingdom in a play-style similar to arguably the most important Super Mario game of all time — _Super Mario 64_. (If that last sentence gives you pause, just wait until you beat the game.)
 
-Like Zelda, I have my qualms with _[Super Mario Odyssey](https://www.zerocounts.net/2017/11/19/super-mario-odyssey-a-review/)_. The world design is too disjointed without a cohesive story. The move-set is over-the-top. The inability to distinguish what Cappy (Mario’s new hat-companion) can and can’t possess is frustrating. The music sides cinematic over thematic. The main storyline is... odd, if not gross. Overall, little outside of New Donk City is memorable.
+Like Zelda, I have my qualms with _[Super Mario Odyssey](/2017/11/19/super-mario-odyssey-a-review/)_. The world design is too disjointed without a cohesive story. The move-set is over-the-top. The inability to distinguish what Cappy (Mario’s new hat-companion) can and can’t possess is frustrating. The music sides cinematic over thematic. The main storyline is... odd, if not gross. Overall, little outside of New Donk City is memorable.
 
 My misgivings aside, numbers speak for themselves. Like Zelda, _Super Mario Odyssey_ boasts a 97 Metacritic score. “Within three days of its release, the game had sold over two million copies worldwide.” ([Wikipedia](https://en.m.wikipedia.org/wiki/Super_Mario_Odyssey)) [Nintendo of Europe claimed](https://www.gamespot.com/articles/super-mario-odyssey-becomes-fastest-selling-mario-/1100-6454587/) that _Super Mario “Odyssey_ is both the fastest-selling Mario game and Switch game ever in the region.”
 
@@ -176,7 +176,7 @@ _Super Mario Odyssey_ is without a doubt a change of pace for the franchise. Whi
 
 ![Zeldas on Switch and 3DS](/switch-3ds-zelda.jpg)
 
-From the launches of the Switch and _The Legend of Zelda: Breath of the Wild_ in March, the [announcement of a Nintendo theme park](https://www.zerocounts.net/2015/05/07/nintendo-attractions-coming-to-universal-parks/), frenzied and flawed retailing of the SNES Classic in September, to the heralded _Super Mario Odyssey_ in October and stable 3DS sales throughout, 2017 was Nintendo’s year.
+From the launches of the Switch and _The Legend of Zelda: Breath of the Wild_ in March, the [announcement of a Nintendo theme park](/2015/05/07/nintendo-attractions-coming-to-universal-parks/), frenzied and flawed retailing of the SNES Classic in September, to the heralded _Super Mario Odyssey_ in October and stable 3DS sales throughout, 2017 was Nintendo’s year.
 
 Nintendo has established that great gaming experiences should not be limited to TVs. It’s hard to imagine the Switch wasn’t always the company’s vision. The Game Boy sold 118.69 million units. The DS: 154.02 million. The 3DS: 68.98 million and remaining stable. The Wii U, while a flop, put the writing on the wall. Porting gameplay to the GamePad was a now obvious sneak peek at the future we’d all been dreaming of.
 
