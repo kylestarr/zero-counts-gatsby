@@ -30,9 +30,7 @@ On May 15th, Nintendo lifted the review embargo for _Mario Kart 8_. Critiques fo
 
 I asked Polygon's Ben Kuchera what he thought of the early embargo. His quick and brief response:
 
-
-<blockquote>[I guarantee you it helped pre-sales](https://twitter.com/BenKuchera/status/471424041853530116).</blockquote>
-
+> [I guarantee you it helped pre-sales](https://twitter.com/BenKuchera/status/471424041853530116).
 
 If my buying habits of were any indication of the market at large, he was right.
 
