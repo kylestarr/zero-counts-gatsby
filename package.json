@@ -2,7 +2,7 @@
   "name": "zero-counts-gatsby",
   "private": true,
   "description": "A blog about video games, mostly.",
-  "version": "1.0",
+  "version": "0.1.0",
   "author": "Kyle Starr <kyle.starr@icloud.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
