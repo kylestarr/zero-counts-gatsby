@@ -18,8 +18,11 @@ const SEO = ({ description, lang, meta, title }) => {
           siteMetadata {
             title
             description
+            siteUrl
+            image
             social {
-              twitter
+              twitterCreator
+              twitterSite
             }
           }
         }
@@ -54,12 +57,20 @@ const SEO = ({ description, lang, meta, title }) => {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: `${site.siteMetadata.siteUrl}${site.siteMetadata.image}`,
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.social.twitter,
+          content: site.siteMetadata.social.twitterCreator,
+        },
+        {
+          name: `twitter:site`,
+          content: site.siteMetadata.social.twitterSite,
         },
         {
           name: `twitter:title`,

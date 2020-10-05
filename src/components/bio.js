@@ -26,7 +26,7 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            twitterCreator
           }
         }
       }

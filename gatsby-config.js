@@ -7,8 +7,10 @@ module.exports = {
     },
     description: `A blog about video games, mostly.`,
     siteUrl: `https://zerocounts.net/`,
+    image: '/favicon.png',
     social: {
-      twitter: `_zerocounts`,
+      twitterCreator: `@_kylestarr`,
+      twitterSite: `@_zerocounts`,
     },
   },
   plugins: [
