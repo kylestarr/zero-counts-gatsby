@@ -197,6 +197,7 @@ img {
 code {
     padding: 10px;
     background: -webkit-linear-gradient(#00fa92, #004992);
+    background-clip: border-box;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     display: block;

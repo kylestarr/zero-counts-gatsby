@@ -34,7 +34,7 @@ In ‘Building Zero Counts’, I used a gradient from sea foam green (#00fa92) t
      script:
      - apt-get update
      - apt-get -qq install git-ftp
-     - git ftp init --user $SFTP_username --passwd $SFTP_password --verbose sftp://ftp.[host]/home/[username]/[domain]/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven</code>
+     - git ftp init --user $SFTP_username --passwd $SFTP_password --verbose sftp://ftp.[host]/home/[username]/[domain]/wp-content/plugins/jetpack/modules/minileven/theme/pub/minileven
 
 The color scheme and implementation is completely useless, but it’s meant to abstract how I perceive syntax highlighting. In the tech industry, it’s impossible not to see engineers, developers, and designers living in front of colorful walls of text. And for me, it’s impossible not to want to live and work in this world of rainbows. So, the way I display code on Zero Counts is a window into the beauty I see, the envy I have, and my ignorance of what is actually going on with syntax highlighting.
 
