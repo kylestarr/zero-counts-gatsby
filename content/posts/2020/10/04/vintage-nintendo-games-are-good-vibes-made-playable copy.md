@@ -3,10 +3,10 @@ title: “Vintage Nintendo games are good vibes made playable”
 date: 2020-10-04 21:00:00
 url: /vintage-nintendo-games-are-good-vibes-made-playable/
 categories:
-- General
+    - General
 tags:
-- nintendo
-- video-games
+    - nintendo
+    - video-games
 ---
 
 [Allegra Frank, Vox](https://www.vox.com/culture/21452434/super-mario-3d-all-stars-nintendo-switch-games-like-animal-crossing):
