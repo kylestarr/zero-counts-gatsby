@@ -1,5 +1,5 @@
 ---
-title: “Vintage Nintendo games are good vibes made playable”
+title: "Vintage Nintendo games are good vibes made playable"
 date: 2020-10-04 21:00:00
 url: /vintage-nintendo-games-are-good-vibes-made-playable/
 categories:
