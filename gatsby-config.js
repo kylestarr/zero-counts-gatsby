@@ -7,7 +7,7 @@ module.exports = {
     },
     description: `A blog about video games, mostly.`,
     siteUrl: `https://zerocounts.net/`,
-    image: '/favicon.png',
+    image: '/zero-counts-logo-1200.png',
     social: {
       twitterCreator: `@_kylestarr`,
       twitterSite: `@_zerocounts`,
