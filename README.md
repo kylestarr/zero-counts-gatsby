@@ -1,3 +1,14 @@
+1. docker-compose run --rm app npm install --save [dependency]
+	(Assuming it’s called “app” in the docker-compose file)
+	2. docker-compose down
+	(Just to make sure there’s no running containers)
+	3. Docker-compose build
+	(Builds the new container with the updated dependencies)
+	4. docker system prune --volumes
+	(Deletes the old containers you don’t need anymore)
+	5. docker-compose up
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
