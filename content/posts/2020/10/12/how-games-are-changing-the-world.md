@@ -16,7 +16,7 @@ Colin Campbell, previously of Polygon and IGN fame, has launched an important ne
 
 I've been enjoying some recent issues and figured I'd share an excerpt from one in particular that had an especially profound effect on me.
 
-[The talent of empathy](https://mailchi.mp/157b09f686c5/the-talent-of-empathy?e=33b3de13ba):
+[The talent of empathy](http://campbellnotes.com/how-games-change-world-october-9-chris-metzen-mental-health/):
 
 > Chris Metzen retired from game development in 2016. He'd spent 23 years in the game industry, working at Blizzard on some of its key games, including Warcraft, Diablo, Overwatch, and Starcraft (a solid bio is here). Yesterday, he spoke about his struggle with mental health challenges, and the game industry's long-standing absence of understanding the centrality of mental health. 
 > 
