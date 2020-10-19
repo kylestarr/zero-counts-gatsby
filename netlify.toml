@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/hail-mario/"
+  to = "/2014/06/01/hail-mario/"
+  status = 301
+  force = true
