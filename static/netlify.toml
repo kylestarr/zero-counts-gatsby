@@ -3,3 +3,10 @@
   to = "/2014/06/01/hail-mario/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/2014/06/01/hail-mary-o/"
+  to = "/2014/06/01/hail-mario/"
+  status = 301
+  force = true
+  
