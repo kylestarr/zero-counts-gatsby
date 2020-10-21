@@ -16,8 +16,6 @@ tags:
 - media
 - nintendo
 - video games
-redirect_from:
-    - /if-not-disneyland-or-nintendo/
 ---
 
 [Jordan Shapiro, Forbes](http://www.forbes.com/sites/jordanshapiro/2014/06/27/what-disneyland-means-to-the-video-game-generation/):

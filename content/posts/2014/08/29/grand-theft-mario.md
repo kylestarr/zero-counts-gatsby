@@ -13,8 +13,6 @@ postFormat:
 tags:
 - nintendo
 - video games
-redirect_from:
-    - /grand-theft-mario/
 ---
 
 [Rob Fahey, GamesIndustry.biz](http://www.gamesindustry.biz/articles/2014-08-28-nintendo-isnt-hitting-reset?curator=MediaREDEF):

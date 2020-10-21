@@ -22,8 +22,6 @@ tags:
 - Sony Santa Monica
 - union
 - video games
-redirect_from:
-	- /save-developers-and-you-will-save-your-soul/
 ---
 
 - 130 layoffs, Nintendo ([Eurogamer](http://www.eurogamer.net/articles/2014-06-06-nintendo-europe-closing-grossostheim-headquarters-130-jobs-lost), 6/6/14)

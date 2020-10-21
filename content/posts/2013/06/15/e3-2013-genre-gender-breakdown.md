@@ -13,8 +13,6 @@ tags:
 - genre
 - protagonist
 - video games
-redirect_from:
-- /e3-2013/
 ---
 
 Curious about male protagonist dominance in video games, I decided to do a little research...

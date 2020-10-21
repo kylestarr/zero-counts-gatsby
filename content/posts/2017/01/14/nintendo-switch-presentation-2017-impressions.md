@@ -14,8 +14,6 @@ tags:
 - nintendo switch
 - switch joy-con
 - zelda
-redirect_from:
-    - /nintendo-switch-presentation-2017-impressions/
 ---
 
 On Friday, January 13 at 1 PM Japan Standard Time, Nintendo unveiled new details about their Switch "home" console. While hard tech specs didn't make an appearance — I thought for sure Nvidia would have been showcased — deeper insight to the Joy-Con, play styles, and 2017 library were provided. Above all, what the keynote will be remembered for is an awkward Squid Researcher.

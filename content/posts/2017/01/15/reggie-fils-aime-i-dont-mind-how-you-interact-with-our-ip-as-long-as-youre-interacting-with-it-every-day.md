@@ -15,8 +15,6 @@ tags:
 - nintendo switch
 - reggie fils-aimé
 - switch
-redirect_from:
-  - /reggie-fils-aime-i-dont-mind-how-you-interact-with-our-ip-as-long-as-youre-interacting-with-it-every-day/
 ---
 
 [Reggie Fils-Aimé, in an interview with TIME's Matt Peckham](http://time.com/4635415/nintendo-switch-online-reggie-fils-amie/):

@@ -17,8 +17,6 @@ tags:
 - video games
 - wii u
 - xbox one
-redirect_from:
-    - /buttons/
 ---
 
 Over the past week or so, I've learned that [you can play _Splatoon_ with two controllers taped together](http://www.gamespot.com/articles/you-can-play-splatoon-with-two-controllers-taped-t/1100-6427700/). I've also learned that [_Batman: Arkham Knight_ is a sprawling complicated buffet of gaming genres](http://www.polygon.com/2015/5/28/8672915/batman-arkham-knight-buffet-of-gaming).

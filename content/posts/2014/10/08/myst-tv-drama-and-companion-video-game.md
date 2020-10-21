@@ -13,8 +13,6 @@ tags:
 - myst
 - tv
 - video games
-redirect_from:
-    - /myst-tv-drama-and-companion-video-game/
 ---
 
 [Deadline](http://deadline.com/2014/10/myst-tv-series-legendary-cyan-worlds-847110/):

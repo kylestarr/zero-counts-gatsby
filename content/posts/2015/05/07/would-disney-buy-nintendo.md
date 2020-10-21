@@ -10,8 +10,6 @@ categories:
 tags:
 - disney
 - nintendo
-redirect_from:
-    - /would-disney-buy-nintendo/
 ---
 
 Shortly after posting [my thoughts on the announcement of Nintendo attractions in Universal Parks & Resorts](/2015/05/07/nintendo-attractions-coming-to-universal-parks/), Ben Thompson reached out and asked a simple question:

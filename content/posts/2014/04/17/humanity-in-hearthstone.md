@@ -24,8 +24,6 @@ tags:
 - video games
 - warcraft
 - wow
-redirect_from:
-	- /humanity-in-hearthstone/
 ---
 
 How Blizzard is changing the diversity game.

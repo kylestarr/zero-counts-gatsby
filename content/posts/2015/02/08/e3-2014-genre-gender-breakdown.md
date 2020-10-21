@@ -14,8 +14,6 @@ tags:
 - genre
 - male
 - video games
-redirect_from:
-- /e3-2014-genregender-breakdown/
 ---
 
 Continuing my research of video game genre and protagonist/main character gender, here is the collected data from E3 2014. The sample list of 152 video games was sourced from IGN's [Games at E3 2014](http://www.ign.com/wikis/e3/Games_at_E3_2014), platform data mapped to a quantifiable “TRUE”/”FALSE” list, genre lists collected from both IGN and Wikipedia (limited to primary genre), and the main character gender researched to the best of my ability.

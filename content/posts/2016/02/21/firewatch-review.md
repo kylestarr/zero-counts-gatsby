@@ -13,8 +13,6 @@ tags:
 - review
 - story
 - video games
-redirect_from:
-    - /firewatch-review/
 ---
 
 ![Firewatch](/firewatch.png)

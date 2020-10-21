@@ -1,4 +1,19 @@
 redirects = [
   {from = "/hail-mario/", to = "/2014/06/01/hail-mario/", status = 301},
-  {from = "/2014/06/01/hail-mary-o/", to = "/2014/06/01/hail-mario/", status = 301}
+  {from = "/2014/06/01/hail-mary-o/", to = "/2014/06/01/hail-mario/", status = 301},
+  {from = "/star-fox-64-design-mission-accomplished/", to = "/2013/04/20/star-fox-64-design-mission-accomplished/", status = 301},
+  {from = "/e3-2013/", to = "/2013/06/15/e3-2013-genre-gender-breakdown/", status = 301},
+  {from = "/save-developers-and-you-will-save-your-soul/", to = "/2014/03/13/save-developers-and-you-will-save-your-soul/", status = 301},
+  {from = "/myst-tv-drama-and-companion-video-game/", to = "/2014/10/08/myst-tv-drama-and-companion-video-game/", status = 301},
+  {from = "/old-school-hip-hop-is-the-new-golden-oldies/", to = "/2014/12/28/old-school-hip-hop-is-the-new-golden-oldies/", status = 301},
+  {from = "/home-economics-2-0/", to = "/2015/01/27/home-economics-2-0/", status = 301},
+  {from = "/gender/", to = "/2015/02/08/e3-2014-genre-gender-breakdown/", status = 301},
+  {from = "/would-disney-buy-nintendo/", to = "/2015/05/07/would-disney-buy-nintendo/", status = 301},
+  {from = "/buttons/", to = "/2015/05/31/buttons/", status = 301},
+  {from = "/firewatch-review/", to = "/2016/02/21/firewatch-review/", status = 301},
+  {from = "/the-witness-a-cheaters-review/", to = "/2016/03/11/the-witness-a-cheaters-review/", status = 301},
+  {from = "/pokemon-goty/", to = "/2016/07/13/pokemon-goty/", status = 301},
+  {from = "/nintendo-switch-presentation-2017-impressions/", to = "/2017/01/14/nintendo-switch-presentation-2017-impressions/", status = 301},
+  {from = "/reggie-fils-aime-i-dont-mind-how-you-interact-with-our-ip-as-long-as-youre-interacting-with-it-every-day/", to = "/2017/01/15/reggie-fils-aime-i-dont-mind-how-you-interact-with-our-ip-as-long-as-youre-interacting-with-it-every-day/", status = 301},
+  {from = "/the-second-console/", to = "/2017/02/10/the-second-console/", status = 301}
 ]

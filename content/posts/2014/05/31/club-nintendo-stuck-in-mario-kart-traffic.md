@@ -15,8 +15,6 @@ tags:
 - mario kart 8
 - nintendo
 - video game
-redirect_from:
-    - /club-nintendo-stuck-in-mario-kart-traffic/
 ---
 
 [Mike Futter, Game Informer](http://www.gameinformer.com/b/news/archive/2014/05/30/club-nintendo-screeches-to-halt-on-mario-kart-8-registrations.aspx):

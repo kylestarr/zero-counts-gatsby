@@ -16,8 +16,6 @@ tags:
 - Polygon
 - switch
 - video games
-redirect_from:
-    - /the-second-console/
 ---
 
 [Polygon's newly relaunched Besties podcast, January 2017 episode](https://itunes.apple.com/us/podcast/besties-pick-best-games-january/id505516789?i=1000381026494&mt=2):

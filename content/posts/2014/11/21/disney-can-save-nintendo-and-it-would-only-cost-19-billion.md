@@ -12,8 +12,6 @@ postFormat:
 tags:
 - disney
 - nintendo
-redirect_from:
-    - /disney-can-save-nintendo-and-it-would-only-cost-19-billion/
 ---
 
 [Steve Bowler, writing for Polygon](http://www.polygon.com/2014/11/21/7259147/disney-nintendo-acquisition):

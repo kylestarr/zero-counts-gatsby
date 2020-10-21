@@ -15,8 +15,6 @@ tags:
 - hip hop
 - music
 - rap
-redirect_from:
-    - /old-school-hip-hop-is-the-new-golden-oldies/
 ---
 
 [Rolling Stone](http://www.rollingstone.com/music/news/classic-hip-hop-format-rescuing-radio-stations-20141228):
