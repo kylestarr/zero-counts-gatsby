@@ -11,8 +11,6 @@ tags:
 - adulthood
 - education
 - real world playbook
-redirect_from:
-    - /real-world-playbook/
 ---
 
 [Jean Case, early AOL exec, on Recode Decode hosted by Kara Swisher](https://www.recode.net/podcasts/2019/1/30/18203834/jean-case-recode-decode-podcast-interview-be-fearless-book-kara-swisher-aol-america-online):

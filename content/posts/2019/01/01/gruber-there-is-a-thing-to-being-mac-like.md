@@ -15,8 +15,6 @@ tags:
 - design
 - john gruber
 - mac
-redirect_from:
-    - /gruber-there-is-a-thing-to-being-mac-like/
 ---
 
 [John Gruber, with guest Jason Snell, on his podcast ](https://daringfireball.net/thetalkshow/2018/12/24/ep-238)[_The Talk Show with John Gruber_](https://daringfireball.net/thetalkshow/2018/12/24/ep-238):

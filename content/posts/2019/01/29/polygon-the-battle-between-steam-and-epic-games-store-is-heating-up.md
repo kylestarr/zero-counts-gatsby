@@ -16,8 +16,6 @@ tags:
 - platforms
 - steam
 - valve
-redirect_from:
-    - /polygon-the-battle-between-steam-and-epic-games-store-is-heating-up/
 ---
 
 [Ben Kuchera, writing for Polygon](https://www.polygon.com/2019/1/29/18200893/epic-games-store-steam-metro-exclusives):

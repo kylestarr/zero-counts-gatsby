@@ -13,8 +13,6 @@ tags:
 - business
 - ethics
 - video games
-redirect_from:
-    - /the-year-in-gaming-controversies/
 ---
 
 [Colin Campbell, Polygon](https://www.polygon.com/2018/12/28/18158115/game-industry-mistakes-riot-rockstar-arenanet):

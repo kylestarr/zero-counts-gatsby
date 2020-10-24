@@ -36,5 +36,19 @@ redirects = [
   {from = "/cross-platform-play-coming-to-ps4-starting-with-fortnite/", to = "/2018/09/26/cross-platform-play-coming-to-ps4-starting-with-fortnite/", status = 301},
   {from = "/there-are-too-many-video-games-what-now/", to = "/2018/09/28/there-are-too-many-video-games-what-now/", status = 301},
   {from = "/demo-mode-rise-of-the-tomb-raider/", to = "/2016/01/18/demo-mode-rise-of-the-tomb-raider/", status = 301},
-  {from = "/egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/", to = "/2014/07/04/egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/", status = 301}
+  {from = "/egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/", to = "/2014/07/04/egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/", status = 301},
+  {from = "/gruber-there-is-a-thing-to-being-mac-like/", to = "/2019/01/01/gruber-there-is-a-thing-to-being-mac-like/", status = 301},
+  {from = "/the-year-in-gaming-controversies/", to = "/2019/01/02/the-year-in-gaming-controversies/", status = 301},
+  {from = "/uk-video-games-market-is-now-80-digital/", to = "/2019/01/03/uk-video-games-market-is-now-80-digital/", status = 301},
+  {from = "/20-years-of-starcraft/", to = "/2019/01/05/20-years-of-starcraft/", status = 301},
+  {from = "/jim-guthrie-and-the-below-soundtrack/", to = "/2019/01/18/jim-guthrie-and-the-below-soundtrack/", status = 301},
+  {from = "/activision-microsoft-and-platforms/", to = "/2019/01/21/activision-microsoft-and-platforms/", status = 301},
+  {from = "/switch-is-selling-like-wii-thanks-to-traditional-nintendo-games/", to = "/2019/01/23/switch-is-selling-like-wii-thanks-to-traditional-nintendo-games/", status = 301},
+  {from = "/polygon-the-battle-between-steam-and-epic-games-store-is-heating-up/", to = "/2019/01/29/polygon-the-battle-between-steam-and-epic-games-store-is-heating-up/", status = 301},
+  {from = "/nintendo-earnings-fy18-q3/", to = "/2019/01/31/nintendo-earnings-fy18-q3/", status = 301},
+  {from = "/microsofts-super-bowl-ad/", to = "/2019/02/01/microsofts-super-bowl-ad/", status = 301},
+  {from = "/real-world-playbook/", to = "/2019/02/02/real-world-playbook/", status = 301},
+  {from = "/microsoft-to-bring-xbox-live-to-the-switch/", to = "/2019/02/04/microsoft-to-bring-xbox-live-to-the-switch/", status = 301},
+  {from = "/activision-blizzard-employees-brace-for-massive-layoffs/", to = "/2019/02/09/activision-blizzard-employees-brace-for-massive-layoffs/", status = 301},
+  {from = "/activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/", to = "/2019/02/12/activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/", status = 301}
 ]

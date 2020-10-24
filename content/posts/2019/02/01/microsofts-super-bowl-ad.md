@@ -11,8 +11,6 @@ tags:
 - accessibility
 - microsoft
 - video games
-redirect_from:
-    - /microsofts-super-bowl-ad/
 ---
 
 https://www.youtube.com/watch?v=vQYzsiVscNg

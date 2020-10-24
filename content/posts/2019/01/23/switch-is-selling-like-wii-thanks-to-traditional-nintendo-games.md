@@ -16,8 +16,6 @@ tags:
 - switch
 - video games
 - wii
-redirect_from:
-    - /switch-is-selling-like-wii-thanks-to-traditional-nintendo-games/
 ---
 
 [Chris Kohler, Kotaku](https://kotaku.com/switch-is-selling-like-wii-thanks-to-traditional-ninte-1831998830/):

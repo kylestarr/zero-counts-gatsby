@@ -11,8 +11,6 @@ tags:
 - activision
 - Blizzard
 - business
-redirect_from:
-    - /activision-blizzard-employees-brace-for-massive-layoffs/
 ---
 
 [Jason Schreier, reporting for Kotaku](https://kotaku.com/activision-blizzard-employees-brace-for-massive-layoffs-1832488999):

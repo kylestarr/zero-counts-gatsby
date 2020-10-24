@@ -12,8 +12,6 @@ tags:
 - jim guthrie
 - music
 - video games
-redirect_from:
-    - /jim-guthrie-and-the-below-soundtrack/
 ---
 
 Polygon and Bandcamp recently profiled and interviewed composer Jim Guthrie (_[Superbrothers: Sword & Sworcery EP](https://jimguthrie.bandcamp.com/album/sword-sworcery-lp-the-ballad-of-the-space-babies)_, _[Planet Coaster](https://jimguthrie.bandcamp.com/album/you-me-gravity)_) on his soundtrack for the years long project _[Below](https://jimguthrie.bandcamp.com/album/below-original-soundtrack)_.
