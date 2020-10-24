@@ -34,5 +34,7 @@ redirects = [
   {from = "/sometimes-failure-leads-to-opportunity/", to = "/2018/06/12/sometimes-failure-leads-to-opportunity/", status = 301},
   {from = "/xbox-switch-better-together-campaign/", to = "/2018/06/22/xbox-switch-better-together-campaign/", status = 301},
   {from = "/cross-platform-play-coming-to-ps4-starting-with-fortnite/", to = "/2018/09/26/cross-platform-play-coming-to-ps4-starting-with-fortnite/", status = 301},
-  {from = "/there-are-too-many-video-games-what-now/", to = "/2018/09/28/there-are-too-many-video-games-what-now/", status = 301}
+  {from = "/there-are-too-many-video-games-what-now/", to = "/2018/09/28/there-are-too-many-video-games-what-now/", status = 301},
+  {from = "/demo-mode-rise-of-the-tomb-raider/", to = "/2016/01/18/demo-mode-rise-of-the-tomb-raider/", status = 301},
+  {from = "/egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/", to = "/2014/07/04/egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/", status = 301}
 ]
