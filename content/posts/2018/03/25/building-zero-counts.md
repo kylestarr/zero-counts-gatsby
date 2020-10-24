@@ -14,8 +14,6 @@ tags:
 - sourcetree
 - web
 - wordpress
-redirect_from:
-  - /building-zero-counts/
 ---
 
 _Note: You will find several edits from 1/27/19 below as I made dramatic changes away from a separate mobile theme to a fully responsive site._

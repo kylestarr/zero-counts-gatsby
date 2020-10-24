@@ -16,8 +16,6 @@ tags:
 - sony
 - video games
 - xbox one
-redirect_from:
-    - /the-verge-my-xbox-one-s-is-now-a-meaningfully-different-console-to-my-ps4/
 ---
 
 [Sam Byford, The Verge](https://www.theverge.com/2018/4/18/17251030/xbox-one-backwards-compatibility-360-panzer-dragoon-orta):

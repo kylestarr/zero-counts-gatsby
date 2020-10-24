@@ -15,8 +15,6 @@ tags:
 - Fortnite
 - sony
 - video games
-redirect_from:
-    - /business/cross-platform-play-coming-to-ps4-starting-with-fortnite/
 ---
 
 [Ben Kuchera](https://www.polygon.com/fortnite/2018/9/26/17905150/sony-fortnite-ps4-cross-platform-play-open-beta)[, ](https://www.polygon.com/fortnite/2018/9/26/17905150/sony-fortnite-ps4-cross-platform-play-open-beta)[Polygon](https://www.polygon.com/fortnite/2018/9/26/17905150/sony-fortnite-ps4-cross-platform-play-open-beta):

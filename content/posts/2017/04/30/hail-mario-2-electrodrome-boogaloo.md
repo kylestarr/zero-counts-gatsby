@@ -16,8 +16,6 @@ tags:
 - nintendo
 - nintendo switch
 - switch
-redirect_from:
-    - /hail-mario-2-electrodrome-boogaloo/
 ---
 
 In 2014, I wrote [Hail Mario](/2014/06/01/hail-mario/), a post about Nintendo's aggressive strategy to bolster Wii U sales with the release of _Mario Kart 8_:

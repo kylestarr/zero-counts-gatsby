@@ -14,8 +14,6 @@ tags:
 - switch
 - technology
 - video games
-redirect_from:
-    - /sell-my-old-consoles-im-off-to-handheld/
 ---
 
 There is a house. In the house, there is a room. In the room, there is a closet. In the closet, there is a box. In the box, is 2013's top-of-the-line consumer hardware technology — dusty and dormant.

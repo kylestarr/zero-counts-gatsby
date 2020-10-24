@@ -10,8 +10,6 @@ categories:
 - Design
 postFormat:
 - Link
-redirect_from:
-	- /business/self-competing-and-time-blocking/
 ---
 
 [Daniel Ahmad, writing on his new ZhugeEX Patreon blog (paywall)](https://www.patreon.com/posts/digital-drives-u-9071580):

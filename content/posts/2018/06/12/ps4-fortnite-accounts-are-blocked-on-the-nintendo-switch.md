@@ -20,8 +20,6 @@ tags:
 - switch
 - video games
 - xbox one
-redirect_from:
-    - /general/ps4-fortnite-accounts-are-blocked-on-the-nintendo-switch/
 ---
 
 [Luke Plunkett, Kotaku](https://kotaku.com/ps4-fortnite-accounts-are-blocked-on-the-nintendo-switc-1826783281):

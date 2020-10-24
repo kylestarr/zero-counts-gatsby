@@ -18,8 +18,6 @@ tags:
 - super mario odyssey
 - switch
 - video games
-redirect_from:
-    - /super-mario-odyssey-a-review/
 ---
 
 _This review covers the core game, which — arguably — may not be considered the "core" game._

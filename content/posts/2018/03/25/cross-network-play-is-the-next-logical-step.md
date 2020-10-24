@@ -16,8 +16,6 @@ tags:
 - sony
 - unreal engine
 - video games
-redirect_from:
-    - /business/cross-network-play-is-the-next-logical-step/
 ---
 
 [Matthew Handrahan, GamesIndustry.biz](https://www.gamesindustry.biz/articles/2018-03-21-epic-games-the-barrier-between-xbox-and-playstation-will-inevitably-come-down):

@@ -19,8 +19,6 @@ tags:
 - switch
 - video games
 - xbox one
-redirect_from:
-    - /general/sold-on-cross-network-play/
 ---
 
 During the Nintendo Spotlight: E3 2017, cult favorite _Rocket League_ was announced for the Switch. The announcement included the bullet point "Cross-Network play", officially detailed on [RocketLeague.com](https://www.rocketleague.com/news/rocket-league-nintendo-switch-holiday-2017/), emphasis my own:

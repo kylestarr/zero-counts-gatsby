@@ -14,8 +14,6 @@ tags:
 - indie-
 - indies
 - video games
-redirect_from:
-    - /there-are-too-many-video-games-what-now/
 ---
 
 [Excerpts from Steven Wright’s Polygon Cover Story, emphasis my own](https://www.polygon.com/2018/9/28/17911372/there-are-too-many-video-games-what-now-indiepocalypse):

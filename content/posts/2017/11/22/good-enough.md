@@ -15,8 +15,6 @@ tags:
 - switch
 - technology
 - video games
-redirect_from:
-    - /good-enough/
 ---
 
 After listening to [Polygon's Samit Sarkar discuss the Xbox One X on the Achievement Oriented podcast](https://www.theringer.com/2017/11/10/16632922/assassins-creed-origins-and-xbox-one-x), I was _this_ close to writing a piece simply titled "Good Enough" on the premise that the Nintendo Switch is just that — good enough; that bleeding-edge specs are not compelling enough to warrant the masses to upgrade consoles mid-cycle for already gorgeous experiences.

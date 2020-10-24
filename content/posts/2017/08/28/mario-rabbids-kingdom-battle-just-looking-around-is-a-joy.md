@@ -17,8 +17,6 @@ tags:
 - nintendo switch
 - switch
 - ubisoft
-redirect_from:
-    - /mario-rabbids-kingdom-battle-just-looking-around-is-a-joy/
 ---
 
 [Patricia Hernandez in her review of _Mario + Rabbids Kingdom Battle_ for Kotaku](http://kotaku.com/mario-rabbids-kingdom-battle-the-kotaku-review-1798496493):

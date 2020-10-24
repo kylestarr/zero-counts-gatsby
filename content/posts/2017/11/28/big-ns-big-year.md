@@ -18,8 +18,6 @@ tags:
 - super mario odyssey
 - video games
 - zelda
-redirect_from:
-    - /big-ns-big-year/
 ---
 
 Since the failure of the Wii U, Nintendo’s future had been in question. [Sell to](/2014/11/21/disney-can-save-nintendo-and-it-would-only-cost-19-billion/) [Disney](/2015/05/07/would-disney-buy-nintendo/)? [Sell to Apple](https://seekingalpha.com/article/2075793-actually-apple-should-buy-nintendo)? [Retire Mario](https://twitter.com/shahidkamal/status/773586558251364352)?

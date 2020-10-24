@@ -17,8 +17,6 @@ tags:
 - video games
 - xbox
 - xbox one
-redirect_from:
-    - /business/xbox-switch-better-together-campaign/
 ---
 
 https://youtube.com/watch?v=0l8nJ_liqrw

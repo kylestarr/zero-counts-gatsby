@@ -17,8 +17,6 @@ tags:
 - video games
 - xbox
 - xbox one
-redirect_from:
-    - /microsofts-xbox-adaptive-controller/
 ---
 
 [Microsoft Story Labs has a great piece by in-house writer Deborah Bach about the development of the Adaptive Controller](https://news.microsoft.com/stories/xbox-adaptive-controller/). It’s great storytelling through and through; chock full of touching stories, business cases, and design implementation all the way down to the packaging.
