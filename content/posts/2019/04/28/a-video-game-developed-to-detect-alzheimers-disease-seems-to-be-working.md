@@ -14,8 +14,6 @@ tags:
 - health
 - science
 - video games
-redirect_from:
-    - /a-video-game-developed-to-detect-alzheimers-disease-seems-to-be-working/
 ---
 
 [Zack Zwiezen, Kotaku](https://kotaku.com/a-video-game-developed-to-detect-alzheimer-s-disease-se-1834331632?utm_source=kotaku_newsletter&utm_medium=email&utm_campaign=2019-04-28):

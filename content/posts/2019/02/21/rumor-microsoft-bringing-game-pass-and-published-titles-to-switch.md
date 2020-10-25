@@ -13,8 +13,6 @@ tags:
 - microsoft
 - nintendo
 - switch
-redirect_from:
-    - /rumor-microsoft-bringing-game-pass-and-published-titles-to-switch/
 ---
 
 [Imran Kahn, Game Informer](https://www.gameinformer.com/2019/02/21/rumor-microsoft-bringing-game-pass-and-published-titles-to-switch):

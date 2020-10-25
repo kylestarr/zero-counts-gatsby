@@ -15,8 +15,6 @@ tags:
 - controllers
 - design
 - nintendo
-redirect_from:
-    - /nintendo-knew-how/
 ---
 
 [Shahid Kamal Ahmad on the Remaster Podcast, looking back on Reggie Fils-Aimé‘s legacy](https://www.relay.fm/remaster/74):

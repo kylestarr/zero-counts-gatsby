@@ -50,5 +50,14 @@ redirects = [
   {from = "/real-world-playbook/", to = "/2019/02/02/real-world-playbook/", status = 301},
   {from = "/microsoft-to-bring-xbox-live-to-the-switch/", to = "/2019/02/04/microsoft-to-bring-xbox-live-to-the-switch/", status = 301},
   {from = "/activision-blizzard-employees-brace-for-massive-layoffs/", to = "/2019/02/09/activision-blizzard-employees-brace-for-massive-layoffs/", status = 301},
-  {from = "/activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/", to = "/2019/02/12/activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/", status = 301}
+  {from = "/activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/", to = "/2019/02/12/activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/", status = 301},
+  {from = "/rumor-microsoft-bringing-game-pass-and-published-titles-to-switch/", to = "/2019/02/21/rumor-microsoft-bringing-game-pass-and-published-titles-to-switch/", status = 301},
+  {from = "/but-the-answer-is-simpler-when-it-comes-to-the-real-money-maker-for-microsoft/", to = "/2019/02/22/but-the-answer-is-simpler-when-it-comes-to-the-real-money-maker-for-microsoft/", status = 301},
+  {from = "/nintendo-knew-how/", to = "/2019/03/10/nintendo-knew-how/", status = 301},
+  {from = "/game-boy-restored/", to = "/2019/04/21/game-boy-restored/", status = 301},
+  {from = "/a-video-game-developed-to-detect-alzheimers-disease-seems-to-be-working/", to = "/2019/04/28/a-video-game-developed-to-detect-alzheimers-disease-seems-to-be-working/", status = 301},
+  {from = "/playdate/", to = "/2019/05/22/playdate/", status = 301},
+  {from = "/its-like-friendly-punk/", to = "/2019/05/23/its-like-friendly-punk/", status = 301},
+  {from = "/but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/", to = "/2019/07/07/but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/", status = 301},
+  {from = "/fire-emblem-management-simulator/", to = "/2019/08/29/fire-emblem-management-simulator/", status = 301}
 ]

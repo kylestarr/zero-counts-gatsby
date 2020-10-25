@@ -18,8 +18,6 @@ tags:
 - panic
 - playdate
 - video games
-redirect_from:
-    - /its-like-friendly-punk/
 ---
 
 [Bennett Foddy, Playdate game developer, in an interview with Edge Magazine](https://apple.news/IsdvVXTv-QEmpk3HunkMFIQ) (via Apple News+):

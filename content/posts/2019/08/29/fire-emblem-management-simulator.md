@@ -16,8 +16,6 @@ tags:
 - switch
 - video games
 - work
-redirect_from:
-    - /fire-emblem-management-simulator/
 ---
 
 A new day dawns. Another Wednesday in the office. The hours go by; meetings and one-on-ones had. But something feels different.

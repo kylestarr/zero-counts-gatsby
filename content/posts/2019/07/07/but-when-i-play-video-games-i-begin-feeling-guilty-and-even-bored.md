@@ -16,8 +16,6 @@ tags:
 - podcast
 - podcasts
 - video games
-redirect_from:
-    - /but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/
 ---
 
 I had the great fortune of hearing a question I’d asked to the hosts of the _Into the Aether_ podcast via Discord repeated on the episode “There’s a Troll in this Chili’s”, timestamp 34:51. (Honest to god, the question is more serious than the title of the episode.)
