@@ -61,5 +61,5 @@ redirects = [
   {from = "/but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/", to = "/2019/07/07/but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/", status = 301},
   {from = "/fire-emblem-management-simulator/", to = "/2019/08/29/fire-emblem-management-simulator/", status = 301},
   {from = "/eurogamer-docked-zelda-stutters-in-places-where-the-mobile-experience-does-not/", to = "/2017/03/03/eurogamer-docked-zelda-stutters-in-places-where-the-mobile-experience-does-not/", status = 301},
-  {from = "https://www.zerocounts.net/adjustable-charging-stand-for-nintendo-switch/", to = "/2018/05/09/adjustable-charging-stand-for-nintendo-switch/", status = 301}
+  {from = "/adjustable-charging-stand-for-nintendo-switch/", to = "/2018/05/09/adjustable-charging-stand-for-nintendo-switch/", status = 301}
 ]
