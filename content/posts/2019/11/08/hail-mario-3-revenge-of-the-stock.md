@@ -14,8 +14,6 @@ tags:
 - nintendo
 - switch
 - video games
-redirect_from:
-    - /hail-mario-3-revenge-of-the-stock/
 ---
 
 [Cameron Faulkner at The Verge](https://www.theverge.com/good-deals/2019/11/7/20951789/nintendo-switch-deal-console-mario-kart-8-black-friday-deluxe-joy-con-games):

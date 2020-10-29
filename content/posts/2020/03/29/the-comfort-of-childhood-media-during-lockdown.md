@@ -18,8 +18,6 @@ tags:
 - quest for glory
 - so you want to be a hero
 - video games
-redirect_from:
-    - /the-comfort-of-childhood-media-during-lockdown/
 ---
 
 [Amanda Hess, writing for The New York Times](https://www.nytimes.com/2020/03/24/arts/coronavirus-myst-nostalgia.html):

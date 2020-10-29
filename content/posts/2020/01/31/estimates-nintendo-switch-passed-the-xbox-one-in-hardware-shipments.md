@@ -17,8 +17,6 @@ tags:
 - switch
 - video games
 - xbox one
-redirect_from:
-    - /estimates-nintendo-switch-passed-the-xbox-one-in-hardware-shipments/
 ---
 
 [Daniel Ahmad, senior analysts at Niko Partners, regarding Nintendo's FY19 Nine Months Financial Results Briefing](https://twitter.com/zhugeex/status/1222791665624190979?s=21):

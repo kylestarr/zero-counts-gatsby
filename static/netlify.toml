@@ -61,5 +61,20 @@ redirects = [
   {from = "/but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/", to = "/2019/07/07/but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/", status = 301},
   {from = "/fire-emblem-management-simulator/", to = "/2019/08/29/fire-emblem-management-simulator/", status = 301},
   {from = "/eurogamer-docked-zelda-stutters-in-places-where-the-mobile-experience-does-not/", to = "/2017/03/03/eurogamer-docked-zelda-stutters-in-places-where-the-mobile-experience-does-not/", status = 301},
-  {from = "/adjustable-charging-stand-for-nintendo-switch/", to = "/2018/05/09/adjustable-charging-stand-for-nintendo-switch/", status = 301}
+  {from = "/adjustable-charging-stand-for-nintendo-switch/", to = "/2018/05/09/adjustable-charging-stand-for-nintendo-switch/", status = 301},
+  {from = "/polygons-100-best-games-of-the-decade/", to = "/2019/11/05/polygons-100-best-games-of-the-decade/", status = 301},
+  {from = "/hail-mario-3-revenge-of-the-stock/", to = "/2019/11/08/hail-mario-3-revenge-of-the-stock/", status = 301},
+  {from = "/star-wars-the-rise-of-skywalker-a-review/", to = "/2019/12/18/star-wars-the-rise-of-skywalker-a-review/", status = 301},
+  {from = "/estimates-nintendo-switch-passed-the-xbox-one-in-hardware-shipments/", to = "/2020/01/31/estimates-nintendo-switch-passed-the-xbox-one-in-hardware-shipments/", status = 301},
+  {from = "/gamestop-is-a-garbage-company/", to = "/2020/03/20/gamestop-is-a-garbage-company/", status = 301},
+  {from = "/%f0%9f%a6%a0-nbcsw-will-broadcast-video-game-simulations-of-wizards-and-capitals-games/", to = "/2020/03/20/nbcsw-will-broadcast-video-game-simulations-of-wizards-and-capitals-games/", status = 301},
+  {from = "/the-comfort-of-childhood-media-during-lockdown/", to = "/2020/03/29/the-comfort-of-childhood-media-during-lockdown/", status = 301},
+  {from = "/listen-to-me-motherfucker-listen/", to = "/2020/03/30/listen-to-me-motherfucker-listen/", status = 301},
+  {from = "/vgc-nintendo-will-reveal-plans-to-re-release-most-of-super-marios-35-year-back-catalogue-this-year/", to = "/2020/03/30/vgc-nintendo-will-reveal-plans-to-re-release-most-of-super-marios-35-year-back-catalogue-this-year/", status = 301},
+  {from = "/were-not-necessarily-expecting-a-setting-like-animal-crossing-to-be-the-real-world-and-maybe-thats-partly-why-it-works/", to = "/2020/04/13/were-not-necessarily-expecting-a-setting-like-animal-crossing-to-be-the-real-world-and-maybe-thats-partly-why-it-works/", status = 301},
+  {from = "/video-games-hell-yeah/", to = "/2020/05/14/video-games-hell-yeah/", status = 301},
+  {from = "/endeavorrx-first-video-game-approved-by-fda/", to = "/2020/06/18/endeavorrx-first-video-game-approved-by-fda/", status = 301},
+  {from = "/good-sudoku-and-the-grid/", to = "/2020/08/01/good-sudoku-and-the-grid/", status = 301},
+  {from = "/sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow/", to = "/2020/08/29/sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow/", status = 301},
+  {from = "/super-mario-3d-all-stars-announcement/", to = "/2020/09/03/super-mario-3d-all-stars-announcement/", status = 301}
 ]

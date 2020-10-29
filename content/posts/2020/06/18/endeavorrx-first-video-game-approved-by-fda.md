@@ -10,8 +10,6 @@ tags:
     - health
     - video games
 cover: 1.png
-redirect_from:
-    - /endeavorrx-first-video-game-approved-by-fda/
 ---
 
 [Rebecca Robbins, reporting for STAT](https://www.statnews.com/2020/06/15/fda-akili-adhd-endeavorrx/):

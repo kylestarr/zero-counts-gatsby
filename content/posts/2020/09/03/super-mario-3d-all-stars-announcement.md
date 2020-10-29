@@ -15,8 +15,6 @@ tags:
     - super-mario-sunshine
     - switch
     - video-games
-redirect_from:
-  - /super-mario-3d-all-stars-announcement/
 ---
 
 https://www.youtube.com/watch?v=CPJcaGWoO2c

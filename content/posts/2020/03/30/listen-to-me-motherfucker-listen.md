@@ -15,8 +15,6 @@ tags:
 - jeff tweedy
 - mental health
 - wilco
-redirect_from:
-    - /listen-to-me-motherfucker-listen/
 ---
 
 [An excerpt from Jeff Tweedy's excellent memoir](https://www.penguinrandomhouse.com/books/541712/lets-go-so-we-can-get-back-by-jeff-tweedy/9781101985274):

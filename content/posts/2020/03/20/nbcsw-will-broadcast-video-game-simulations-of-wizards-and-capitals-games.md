@@ -4,7 +4,7 @@ date: 2020-03-20 15:04:34+00:00
 draft: false
 title: NBCSW will broadcast video game simulations of Wizards and Capitals games
 type: post
-url: /%f0%9f%a6%a0-nbcsw-will-broadcast-video-game-simulations-of-wizards-and-capitals-games/
+url: /nbcsw-will-broadcast-video-game-simulations-of-wizards-and-capitals-games/
 categories:
 - Sports
 postFormat:
@@ -16,8 +16,6 @@ tags:
 - nba
 - nhl
 - sports
-redirect_from:
-    - /%f0%9f%a6%a0-nbcsw-will-broadcast-video-game-simulations-of-wizards-and-capitals-games/
 ---
 
 [Scott Allen reporting for The Washington Post](https://www.washingtonpost.com/sports/2020/03/20/nbcsw-will-broadcast-video-game-simulations-wizards-capitals-games/):

@@ -2,8 +2,7 @@
 author: zerocounts
 date: 2020-03-30 19:15:21+00:00
 draft: false
-title: 'VGC: ''Nintendo will reveal plans to re-release most of Super Mario’s 35-year
-  back catalogue this year'''
+title: 'VGC: ''Nintendo will reveal plans to re-release most of Super Mario’s 35-year back catalogue this year'''
 type: post
 url: /vgc-nintendo-will-reveal-plans-to-re-release-most-of-super-marios-35-year-back-catalogue-this-year/
 categories:
@@ -19,8 +18,6 @@ tags:
 - super mario bros
 - super mario galaxy
 - video games
-redirect_from:
-  - /vgc-nintendo-will-reveal-plans-to-re-release-most-of-super-marios-35-year-back-catalogue-this-year/
 ---
 
 [Andy Robinson, reporting for Video Games Chronicle](https://www.videogameschronicle.com/news/super-mario-bros-35th-anniversary/):

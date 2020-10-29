@@ -13,8 +13,6 @@ tags:
 - review
 - star wars
 - the rise of skywalker
-redirect_from:
-    - /star-wars-the-rise-of-skywalker-a-review/
 ---
 
 Star Wars is about balance. Light versus Dark. Jedi versus Sith. One versus one. Should the Force fall out of balance, chaos ensues.
