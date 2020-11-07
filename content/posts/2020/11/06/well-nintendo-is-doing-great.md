@@ -32,6 +32,6 @@ Here's a look if Nintendo's forecast holds true:
 
 ![Console units sold, Switch vs PS4 vs Xbox One as of September, 30 2020](/2020-09-30-units-sold-switch-ps4-xboxone-forecast.png)
 
-And a look against the goat PS2 if the Nintendo Switch's forecast holds true:
+And a look against the goat. PS2 is the [greatest selling console of all time](https://en.m.wikipedia.org/wiki/List_of_best-selling_game_consoles) at 158 million units — g(sc)oat:
 
 ![Console units sold, Switch vs PS4 vs PS2 as of September, 30 2020](/2020-09-30-units-sold-switch-ps4-ps2-forecast.png)
