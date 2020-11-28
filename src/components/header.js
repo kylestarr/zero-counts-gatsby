@@ -34,9 +34,9 @@ const Header = () => {
                 />
             </Link>
         </div>
-        <div id="byline">
+        {/* <div id="byline">
             <address>By {data.site.siteMetadata.author.name}</address>
-        </div>
+        </div> */}
   </header>
   )
 }
