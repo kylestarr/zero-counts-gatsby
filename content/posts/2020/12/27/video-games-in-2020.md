@@ -8,7 +8,7 @@ tags:
     - video-games
 ---
 
-In October of 2019, I wrote a piece for [From the Aether](https://medium.com/@intothecast) titled [Video Games Do Not Exist](https://zerocounts.net/2019/10/01/video-games-do-not-exist/). In the piece, I ponder the idea of "video games" coming into existence today — that developers and artists were never constrained by the limitations of those in '70s, '80s, and '90s. The interactive experiences spawned in this alternate reality would not be classified as video "games" as different types of "video" experiences would originate alongside one another.
+In October of 2019, I wrote a piece for [From the Aether](https://medium.com/@intothecast/from-the-aether-4-f3f330497ea5) titled [Video Games Do Not Exist](/2019/10/01/video-games-do-not-exist/). In the piece, I ponder the idea of "video games" coming into existence today — that developers and artists were never constrained by the limitations of those in '70s, '80s, and '90s. The interactive experiences spawned in this alternate reality would not be classified as video "games" as different types of "video" experiences would originate alongside one another.
 
 This premise is of course absurd as video games have been one of the catalysts for technological advancement. Consumer technology would likely look very different without early desires to bring richer gaming experiences into the home. Likewise, limited technical prowess forced early games to be developed with limitations we would find comical today. This is better summed up by computer graphics researcher Thomas A. Defanti in his 1984 paper [The Mass Impact of Videogame Technology](http://www.vasulka.org/archive/Writings/VideogameImpact.pdf):
 
