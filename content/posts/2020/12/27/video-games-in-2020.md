@@ -20,7 +20,7 @@ But hypothetically speaking, if video games just happened upon us today, with al
 
 So what is the point of theorizing what we might call video games in the alternate reality? Today, a "video game" is a video "game", right? Well, my friend, in 2020, we may have made contact with the alternate reality.
 
-With most publications publishing their Game of the Year lists for 2020, more often than not you'll find some of the following games on said lists:
+Publications have published their Game of the Year lists for 2020, and more often than not you'll find some of the following games on their lists:
 
 - **Hades** — An endless rogue-like game that doubles as a relationship simulator, triples as a home decorating sandbox, and is chock-full of a vast tapestry voice-acting and narrative. (It also probably won the GOTY from your choice publication.)
 - **Animal Crossing: New Horizons** — A seasonally updated, endless sandbox experience that allows players all over the world to interact with one another while collecting, building, throwing birthday parties, and hosting talkshows.
