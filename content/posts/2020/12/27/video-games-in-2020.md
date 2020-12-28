@@ -24,7 +24,7 @@ Publications have published their Game of the Year lists for 2020, and more ofte
 
 - **Hades** — An endless rogue-like game that doubles as a relationship simulator, triples as a home decorating sandbox, and is chock-full of a vast tapestry voice-acting and narrative. (It also probably won the GOTY from your choice publication.)
 - **Animal Crossing: New Horizons** — A seasonally updated, endless sandbox experience that allows players all over the world to interact with one another while collecting, building, throwing birthday parties, and hosting talkshows.
-- **Kentucky Route Zero: TV Edition** — A visual novel with ten years of development, zero plot, a historical account of the travesties of the past decade, and vibe unlike any you've ever experienced.
+- **Kentucky Route Zero: TV Edition** — A visual novel with ten years of development, zero plot, a historical account of the travesties of the past decade, and a vibe unlike any you've ever experienced.
 - **If Found…** — A visual novel featuring black holes and punk rock.
 - **13 Sentinels: Aegis Rim** — A visual novel of time travel and a commentary on media; video games included. Also, real-time strategy.
 - **Blaseball** — Fantasy fantasy baseball that constantly changes, including lore of biblical proportions wholly developed by the community of observers.
