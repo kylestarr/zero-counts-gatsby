@@ -37,10 +37,12 @@ The entries on lists of best video games can no longer be quantitatively compare
 
 Whenever I'm holding my Switch, my wife asks me what I'm playing. This year, more often than not, the answer was, "it's… uh… like… hmmm… kinda like … it's not *really* a game, but like…" so on and so forth. And I'm certain that's an answer being heard more than ever.
 
-If we're to stick to the nomenclature of "video games" for these experiences, that's fine. But it's high-time we understand that they are no longer games, but outright replacing, updating, or inventing new art forms, which seems fitting of Defanti's conclusion:
+If we're to stick to the nomenclature of "video games" for these experiences, that's fine. But it's high-time we understand that they are no longer games, but outright replacing, updating, or inventing of new art forms, which seems fitting of Defanti's conclusion:
 
 > Coin-operated videogames, from their pinball heritage to their extreme hedonistic desirability, have emerged as the black sheep, so to speak, of the interactive graphics movement. Yet, they are causing significant technological breakthroughs, especially in the area of cost/performance. We are seeing interactive fantasy emerge as a medium, and, with it, considerable development in the art of nonverbal communication. Coin-op technology quickly (within 2-3 years) passes down to personal computer systems, such that any home computer now has significantly better graphics and interactive devices than all but a few computer systems available in the lab or the office.
 > 
 > Knowledge of how to write games and present information through interactive animation will eventually encode itself into higher level programming structures available to subject-matter experts, teachers, intellectuals, children, and parents. A sizable portion of the computer graphics community already exchanges information on videotape. Floppy disk is now the home computer user's way to send greetings. Animation will surely become a major form of communication once the delivery systems are ubiquitous.
 > 
 > Reading is, after all, a terrible waste of our human perceptual bandwidth, even if it is enjoyable. Fortunately, the richness of interaction claimed in the preceding pages can be experienced first-hand for considerably less than this book costs, even playing every game discussed here. You might want to hurry, though, before the classics disappear.
+
+No other year has exemplified the change in the concept of the "video game" than 2020.
