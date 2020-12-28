@@ -45,4 +45,4 @@ If we're to stick to the nomenclature of "video games" for these experiences, th
 > 
 > Reading is, after all, a terrible waste of our human perceptual bandwidth, even if it is enjoyable. Fortunately, the richness of interaction claimed in the preceding pages can be experienced first-hand for considerably less than this book costs, even playing every game discussed here. You might want to hurry, though, before the classics disappear.
 
-No other year has exemplified the change in the concept of the "video game" than 2020.
+No other year exemplifies the change in the concept of "video games" than 2020.
