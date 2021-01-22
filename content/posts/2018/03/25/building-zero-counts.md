@@ -65,12 +65,14 @@ Luckily, the documentation also included details on setting up a [local developm
 More specifically, I needed to set up MAMP (Macintosh, Apache, MySQL, and PHP) on my Mac. This provides, among other things, a local MySQL database for a local WordPress install to read from. WordPress.org has a great article about setting up MAMP [here](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP).
 
 Ultimately, I needed to:
+
   1. Download and install [MAMP](https://www.mamp.info/en/). (The free version should do the trick.)
   2. Set up MAMP Settings. (My set up show Apache Port: 8888, Nginx Port: 7888, MySQL Port: 8889, Web Server: Apache, Document Root: ~/Sites)
   3. Start MAMP and create a database. (From the phpMyAdmin, I created a database called zerocounts_net.)
   4. Download and install WordPress locally in ~/Sites/[site name].
 
 Because Zero Counts has existing posts, I exported them from my production database on ZeroCounts.net. To import them into the newly created local database, from the WordPress dashboard:
+
   1. Click Tools
   2. Click Export
   3. Select 'All content'
@@ -244,6 +246,7 @@ To set up the remote repo for the mobile theme, I copied the contents of minilev
 Remember the bit above about updates to WordPress themes not affecting the child-theme? Jetpack does not support child themes. After a Jetpack update, a customized mobile theme is overridden by Jetpack's default theme. (I'm sure I can find what controls WordPress child themes, but that's another project for another day.) Therefore, after accepting a Jetpack update, the custom mobile theme needs to be pushed back up to Bitbucket to override the default Jetpack theme that sits on the production server.
 
 In this case, there are two types of deployments:  
+
 1. Regular mobile theme updates (like my desktop theme updates)  
 2. Replacing Jetpack's default theme after a Jetpack update
 
