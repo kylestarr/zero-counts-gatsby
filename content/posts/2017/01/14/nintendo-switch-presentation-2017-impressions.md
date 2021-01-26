@@ -18,15 +18,15 @@ tags:
 
 On Friday, January 13 at 1 PM Japan Standard Time, Nintendo unveiled new details about their Switch "home" console. While hard tech specs didn't make an appearance — I thought for sure Nvidia would have been showcased — deeper insight to the Joy-Con, play styles, and 2017 library were provided. Above all, what the keynote will be remembered for is an awkward Squid Researcher.
 
-https://youtu.be/JsiRY521Nis?t=1774
+<https://youtu.be/JsiRY521Nis?t=1774>
 
-Nintendo Switch will launch in "Japan, US, Canada, major European countries, Hong Kong, and other territories" on March 3rd. It will retail in Japan for ¥29,980, the US for $299.99, and varying prices in the European territories._ _Software will not be region locked, which is an incredibly big move for Nintendo.
+Nintendo Switch will launch in "Japan, US, Canada, major European countries, Hong Kong, and other territories" on March 3rd. It will retail in Japan for ¥29,980, the US for $299.99, and varying prices in the European territories. Software will not be region locked, which is an incredibly big move for Nintendo.
 
 Pre-orders for the Switch went up after the event and appear too have quickly depleted.
 
 ## Presentation
 
-As a whole, the presentation felt backwards and tonally awkward. Without building any hype, Nintendo opened with launch dates and pricing. The Joy-Con demonstration as well as the trailers for first-party titles _1-2-Switch_ and _Arms _felt long-in-the-tooth. At least two of the presenters garnered "WTF" moments that also seemed to throw off one of the translators. And then there was Hisashi Nogami's _Splatoon 2_ appearance as a "Squid Researcher".
+As a whole, the presentation felt backwards and tonally awkward. Without building any hype, Nintendo opened with launch dates and pricing. The Joy-Con demonstration as well as the trailers for first-party titles _1-2-Switch_ and _Arms_ felt long-in-the-tooth. At least two of the presenters garnered "WTF" moments that also seemed to throw off one of the translators. And then there was Hisashi Nogami's _Splatoon 2_ appearance as a "Squid Researcher".
 
 ![Hisashi Nogami, Splatoon 2 reveal](/hisashi-nogami-splatoon-2-reveal.png)
 
@@ -54,7 +54,7 @@ On the point of battery life, Nintendo claims that the Switch will have two-and-
 
 The Switch will also offer  8-person local multiplayer in portable mode. Depending on adoption, this could be a killer feature. The capability alone screams that Nintendo is gunning for a new generation of portable gaming.
 
-Last but not least, it was great to see Nintendo adopting USB-C. Color me shocked that Nintendo, the company that passed up HDMI on the 2006 Wii and was still using resistive touchscreens on the 2011 3DS and 2012 Wii U, would ship a device with the latest standard in USB technology.<sup>1</sup>
+Last but not least, it was great to see Nintendo adopting USB-C. Color me shocked that Nintendo, the company that passed up HDMI on the 2006 Wii and was still using resistive touchscreens on the 2011 3DS and 2012 Wii U, would ship a device with the latest standard in USB technology.&sup1;
 
 ## Joy-Con
 
@@ -123,7 +123,7 @@ Low and behold, Nintendo will be re-releasing _Mario Kart 8_ for the Nintendo Sw
 
 _Mario Kart 8_ is one of the greats. [Some of my fondest video game memories are of playing that game](/2014/06/01/hail-mario/). (Not to mention, [my fondest Zero Counts moment](http://daringfireball.net/linked/2014/06/01/hail-mario)!) I wholeheartedly agree with Stratechery's [Ben Thompson](https://twitter.com/benthompson/status/819777416222502913):
 
-https://twitter.com/benthompson/status/819777416222502913
+<https://twitter.com/benthompson/status/819777416222502913>
 
 ### [Super Bomberman R](https://www.youtube.com/watch?v=f98ZwgzYyig&list=PL2JiZAV5BmDWTk6T8Y4-zpA1iP2AU9vjE&index=10)
 
@@ -152,4 +152,4 @@ Without question, Switch is another unique and possibly industry changing device
 
 ---
 
-<sup>1</sup>I am so thrilled that USB-C seems to be taking off like it is. Within months of Apple going whole hog on their MacBook and MacBook Pro lines, I've purchased a [Drobo 5C](http://www.drobostore.com/products/drobo-5c) and [ROLI Lightpad Block](http://global.store.roli.com/products/lightpad-block) that are also equipped with USB-C. Now I'll be able to add Nintendo Switch to the mix.
+&sup1;I am so thrilled that USB-C seems to be taking off like it is. Within months of Apple going whole hog on their MacBook and MacBook Pro lines, I've purchased a [Drobo 5C](http://www.drobostore.com/products/drobo-5c) and [ROLI Lightpad Block](http://global.store.roli.com/products/lightpad-block) that are also equipped with USB-C. Now I'll be able to add Nintendo Switch to the mix.

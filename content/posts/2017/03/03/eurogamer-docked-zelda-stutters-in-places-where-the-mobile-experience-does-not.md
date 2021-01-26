@@ -8,8 +8,6 @@ type: post
 url: /eurogamer-docked-zelda-stutters-in-places-where-the-mobile-experience-does-not/
 categories:
 - General
-postFormat:
-- Link
 tags:
 - breath of the wild
 - nintendo
