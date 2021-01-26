@@ -76,5 +76,6 @@ redirects = [
   {from = "/endeavorrx-first-video-game-approved-by-fda/", to = "/2020/06/18/endeavorrx-first-video-game-approved-by-fda/", status = 301},
   {from = "/good-sudoku-and-the-grid/", to = "/2020/08/01/good-sudoku-and-the-grid/", status = 301},
   {from = "/sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow/", to = "/2020/08/29/sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow/", status = 301},
-  {from = "/super-mario-3d-all-stars-announcement/", to = "/2020/09/03/super-mario-3d-all-stars-announcement/", status = 301}
+  {from = "/super-mario-3d-all-stars-announcement/", to = "/2020/09/03/super-mario-3d-all-stars-announcement/", status = 301},
+  {from = "/2013/10/15/why-game/", to = "/2013/10/15/1985-burst-and-bloom/", status = 301}
 ]
