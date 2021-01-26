@@ -7,8 +7,6 @@ type: post
 url: /some-numbers-that-illustrate-nintendo-switchs-massive-success/
 categories:
 - Business
-postFormat:
-- Link
 tags:
 - business
 - nintendo
