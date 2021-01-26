@@ -21,7 +21,7 @@ Without further adieu, here are my 2018 reads, ordered from most favorite to lea
 
 ## [The Handmaid’s Tale](https://bookshop.org/books/the-handmaid-s-tale-9781491519110/9780385490818)
 
-_Margaret Atwood_
+Margaret Atwood
 
 ![The Handmaid's Tale](/handmaids-tale.jpg)
 
@@ -31,7 +31,7 @@ My god, what a read.
 
 ## [Americanah](https://bookshop.org/books/americanah/9780307455925)
 
-_Chimamanda Ngozi Adichie_
+Chimamanda Ngozi Adichie
 
 ![Americanah](/americanah.jpg)
 
@@ -43,7 +43,7 @@ A gut-wrenching love story, relatable and not. A story of America, relatable and
 
 ## [Less](https://bookshop.org/books/less-9781478994466/9780316316132)
 
-_Andrew Sean Greer_
+Andrew Sean Greer
 
 ![Less](/less.jpg)
 
@@ -55,13 +55,13 @@ We are all more or less Less.
 
 ## [Creative Selection](https://bookshop.org/books/creative-selection-inside-apple-s-design-process-during-the-golden-age-of-steve-jobs/9781250203410)
 
-_Ken Kocienda_
+Ken Kocienda
 
 ![Creative Selection](/creative-selection.jpg)
 
 A superb look inside software development at Apple and what it means to create team culture. Hard to put down.
 
-I came to this book by way of [John Gruber’s ](https://daringfireball.net/linked/2018/07/27/kocienda-creative-selection)[_Daring Fireball_](https://daringfireball.net/linked/2018/07/27/kocienda-creative-selection). As a manager leading a cross-functional publishing and platform development team, this is a critical peek at what makes Apple quality software.
+I came to this book by way of [John Gruber’s _Daring Fireball_](https://daringfireball.net/linked/2018/07/27/kocienda-creative-selection). As a manager leading a cross-functional publishing and platform development team, this is a critical peek at what makes Apple quality software.
 
 I’m thankful to have a team staffed with creatives, designers, developers, editors, producers, and writers. Truly the intersection of technology and liberal arts. But success goes beyond the right mix of people. It takes direction and focus. I shared the seven elements Kocienda identifies with my team, asking them which element stood out most to them. Unsurprisingly, we had a healthy mix of craft, taste, inspiration, diligence, and empathy. I’ve since gone on to outfit my team with Kocienda’s book as an artifact of what it takes to get to where Apple is today and to never forget what can be accomplished with a small team.
 
@@ -69,7 +69,7 @@ I advise everyone to read this book.
 
 ## [Brave New World](https://bookshop.org/books/brave-new-world-9781839191039/9781839191039)
 
-_Aldous Huxley_
+Aldous Huxley
 
 ![Brave New World](/brave-new-world.jpg)
 
@@ -81,7 +81,7 @@ A masterpiece.
 
 ## [Annihilation](https://bookshop.org/books/annihilation-9780374104092/9780374104092)
 
-_Jeff Vandermeer_
+Jeff Vandermeer
 
 ![Annihilation](/annihilation.jpg)
 
@@ -91,7 +91,7 @@ The movie is way different, but just as awesome.
 
 ## [The Three-Body Problem](https://bookshop.org/books/the-three-body-problem/9780765382030)
 
-_Cixin Liu_
+Cixin Liu
 
 ![The Three-Body Problem](/three-body-problem.jpg)
 
@@ -99,7 +99,7 @@ How do you even begin to write something this vast, imaginative, complex, and ye
 
 ## [Sing, Unburied, Sing](https://bookshop.org/books/sing-unburied-sing/9781501126079)
 
-_Jesmyn Ward_
+Jesmyn Ward
 
 ![Sing, Unburied, Sing](/sing-unburied-sing.jpg)
 
@@ -109,7 +109,7 @@ A lonesome and dooming dusk.
 
 ## [The Boys in the Boat](https://bookshop.org/books/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics/9780143125471)
 
-_Daniel James Brown_
+Daniel James Brown
 
 ![The Boys in the Boat](/boys-in-the-boat.jpg)
 
@@ -117,7 +117,7 @@ Layers upon layers. Part bio, part sports rivalry, part pre-war omen. Paces like
 
 ## [The Guernsey Literary and Potato Peel Pie Society](https://bookshop.org/books/the-guernsey-literary-and-potato-peel-pie-society-9780385341004/9780385341004)
 
-_Mary Ann Shaffer and Annie Barrows_
+Mary Ann Shaffer and Annie Barrows
 
 ![The Guernsey Literary and Potato Peel Pie Society](/guernsey-literary-and-potato-peel-pie-society.jpg)
 
@@ -127,7 +127,7 @@ While fluffy, it’s a fascinating look at the German Occupation in the Channel 
 
 ## [Deep Work](https://bookshop.org/books/deep-work-rules-for-focused-success-in-a-distracted-world/9781455586691)
 
-_Cal Newport_
+Cal Newport
 
 ![Deep Work](/deep-work.jpg)
 
@@ -139,7 +139,7 @@ The one I’m working on: sign-off by 5:30 and stop thinking about work!
 
 ## [You’ll Grow Out of It](https://bookshop.org/books/you-ll-grow-out-of-it/9781455531202)
 
-_Jessi Klein_
+Jessi Klein
 
 ![You'll Grow Out of It](/youll-grow-out-of-if.jpg)
 
@@ -153,7 +153,7 @@ A light, fun, funny read that will shine a light on experiences you have had, ma
 
 ## [S. / Ship of Theseus](https://bookshop.org/books/s-with-postcard/9780316201643)
 
-_J.J. Abrams and Doug Dorst_
+J.J. Abrams and Doug Dorst
 
 ![S. / Ship of Theseus](/s-ship-of-theseus.jpg)
 
@@ -163,7 +163,7 @@ I learned about this book while posting an Event at the Apple Store to the iTune
 
 ## [The Kite Runner](https://bookshop.org/books/the-kite-runner-anniversary/9781594631931)
 
-_Khaled Hosseini_
+Khaled Hosseini
 
 ![The Kite Runner](/kite-runner.jpg)
 
@@ -173,7 +173,7 @@ A gauntlet and another solid recommendation from my sister, Megan Starr.
 
 ## [A Wrinkle in Time](https://bookshop.org/books/a-wrinkle-in-time-9780312367541/9780312367541)
 
-_Madeleine L’Engle_
+Madeleine L’Engle
 
 ![A Wrinkle in Time](/a-wrinkle-in-time.jpg)
 
@@ -181,7 +181,7 @@ _Alice in Wonderland_ meets _The Little Prince_. A wild, snappy adventure filled
 
 ## [Wonderland](https://bookshop.org/books/wonderland-how-play-made-the-modern-world/9780399184499)
 
-_Steven Johnson_
+Steven Johnson
 
 ![Wonderland](/wonderland.jpg)
 
@@ -193,7 +193,7 @@ We are all wired with natural instincts: hunger, thirst, sex. (Hypothalamus keep
 
 ## [Underground Airlines](https://bookshop.org/books/underground-airlines-9781478916369/9780316261258)
 
-_Ben H. Winters_
+Ben H. Winters
 
 ![Underground Airlines](/underground-airlines.jpg)
 
@@ -201,7 +201,7 @@ Gripping, thrilling, tight. Cinematic and easy to envision. A take on the realit
 
 ## [Power-Up](https://bookshop.org/books/power-up-how-japanese-video-games-gave-the-world-an-extra-life/9780486801490)
 
-_Chris Kohler_
+Chris Kohler
 
 ![Power-Up](/power-up.jpg)
 
@@ -209,11 +209,11 @@ Great historical reference and a fun look back on video game history. Made even 
 
 ## [Play Anything](https://bookshop.org/books/play-anything-the-pleasure-of-limits-the-uses-of-boredom-and-the-secret-of-games/9780465051724)
 
-_Ian Bogost_
+Ian Bogost
 
 ![Play Anything](/play-anything.jpg)
 
-I picked this up after reading a [triple-review of ](https://www.nytimes.com/2016/10/02/books/review/play-anything-ian-bogost-tetris-effect-dan-ackerman-death-by-video-game-simon-parkin.html)[_Death by Video Game_](https://www.nytimes.com/2016/10/02/books/review/play-anything-ian-bogost-tetris-effect-dan-ackerman-death-by-video-game-simon-parkin.html)[ (ultra fav!), ](https://www.nytimes.com/2016/10/02/books/review/play-anything-ian-bogost-tetris-effect-dan-ackerman-death-by-video-game-simon-parkin.html)[_The Tetris Effect_](https://www.nytimes.com/2016/10/02/books/review/play-anything-ian-bogost-tetris-effect-dan-ackerman-death-by-video-game-simon-parkin.html)[ (fascinating), and ](https://www.nytimes.com/2016/10/02/books/review/play-anything-ian-bogost-tetris-effect-dan-ackerman-death-by-video-game-simon-parkin.html)[_Play Anything_](https://www.nytimes.com/2016/10/02/books/review/play-anything-ian-bogost-tetris-effect-dan-ackerman-death-by-video-game-simon-parkin.html). [I tweeted a photo](https://twitter.com/_kylestarr/status/782624435375222784?s=21) of the review — proud I had read two of three books in an NYT Book Review. With permission, Mr. Bogost used the photo for his own tweet. Photo credit would have been cool, but it was still a neat moment.
+I picked this up after reading a [triple-review of _Death by Video Game_ (ultra fav!), _The Tetris Effect_ (fascinating), and _Play Anything_](https://www.nytimes.com/2016/10/02/books/review/play-anything-ian-bogost-tetris-effect-dan-ackerman-death-by-video-game-simon-parkin.html). [I tweeted a photo](https://twitter.com/_kylestarr/status/782624435375222784?s=21) of the review — proud I had read two of three books in an NYT Book Review. With permission, Mr. Bogost used the photo for his own tweet. Photo credit would have been cool, but it was still a neat moment.
 
 _Play Anything_ reads like an academic paper on how we define “fun”. There are plenty of choice quotes and great insights. However, they are mired in thick sets of highbrow, like diamonds in tons of rough of proof and reference. As much as Bogost preaches the ability to find fun in challenge, I couldn’t find much fun here. Bogost would call this “hardship”. At the very least, amongst bits of beautiful insight, Bogost’s writing has a musical quality. It’s easy to wade around in it, even if you’re not taking it all in.
 
@@ -223,7 +223,7 @@ Bogost proves to be an incredibly smart philosopher, but his philosophy of fun m
 
 ## [Hillbilly Elegy](https://bookshop.org/books/hillbilly-elegy-a-memoir-of-a-family-and-culture-in-crisis-9781509465750/9780062300553)
 
-_J.D. Vance_
+J.D. Vance
 
 ![Hillbilly Elegy](/hillbilly-elegy.jpg)
 
@@ -231,7 +231,7 @@ I’m a firm believer of education, but nothing benefits like a happy home. The 
 
 ## [Into the Water](https://bookshop.org/books/into-the-water/9780735211223)
 
-_Paula Hawkins_
+Paula Hawkins
 
 ![Into the Water](/into-the-water.jpg)
 
