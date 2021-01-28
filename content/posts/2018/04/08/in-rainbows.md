@@ -51,6 +51,6 @@ Brooks’ method has been incorporated in a variety of text editors. Beyond that
 
 > **Understand code**: The real facility that helps you understanding global code-structure is the navigation-tooltip or the code-browser. However those are not very useful to understand local algorithms. The following picture illustrates my favorite part of the semantic highlighting: Local Variable Colorization. That colorization assigns a semi-unique color to each variable in a local context. This allows much easier distinguishing those variables, largely without reading their full name at all. By freeing you of actually having to read all the variable names, this allows grokking local code relations faster, and has already helped me fixing quite a few very stupid bugs right away. 🙂
 
-> Great minds!
+Great minds!
 
 Syntax highlighting is a silly reason to want to learn to code, but well designed colorization and implementation certainly make it an attractive work environment. Who wouldn’t want to live [in rainbows](https://itunes.apple.com/us/album/in-rainbows/1109714933)?

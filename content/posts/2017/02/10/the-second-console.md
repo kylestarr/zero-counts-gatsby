@@ -7,8 +7,6 @@ type: post
 url: /the-second-console/
 categories:
 - Business
-postFormat:
-- Link
 tags:
 - besties
 - nintendo

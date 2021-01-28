@@ -7,8 +7,6 @@ type: post
 url: /some-numbers-that-illustrate-nintendo-switchs-massive-success/
 categories:
 - Business
-postFormat:
-- Link
 tags:
 - business
 - nintendo
@@ -39,4 +37,3 @@ Microsoft has been mum on sales figures, but in 2016 [slipped that the Xbox One 
 [_Update 10/30/18_]: [Nintendo announces 22.86 million Switch unit sales since launch](https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html). Updated sales chart below.
 
 ![Console units sold, Switch vs PS4 vs Xbox One as of October, 30 2018](/2018-10-30-units-sold-switch-ps4-xboxone.png)
-

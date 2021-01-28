@@ -18,11 +18,11 @@ tags:
 - wii u
 ---
 
-https://www.youtube.com/watch?v=32nV2PKIv5Y
+<https://www.youtube.com/watch?v=32nV2PKIv5Y>
 
 In June 2014, during Nintendo's E3 Digital Event, a [short, minute long trailer](http://youtu.be/GisRY6h100U?t=18m17s) for _Captain Toad: Treasure Tracker_ was tucked between two larger developer interviews for _Yoshi's Woolly World_ and the [much](http://www.polygon.com/2014/6/16/5814154/legend-of-zelda-wii-u-e3-trailer) [talked](http://bgr.com/2014/06/13/the-leged-of-zelda-wii-u-gameplay-trailer/) [about](http://www.ign.com/articles/2014/06/10/e3-2014-the-legend-of-zelda-for-wii-u-first-details) _Legend of Zelda_ for Wii U. Not only was the trailer a bit hidden, it was never verbally acknowledged throughout the course of the 45-minute event. It was a curious trailer, but was the one that stuck with me long after E3. A splinter in my mind.
 
-For those unfamiliar, the origin of _Captain Toad_ is rooted in bonus stages strewn throughout the _Super Mario 3D World _world map. As players collect stars and progress through the game, Captain Toad stages are unlocked. More from the [_Super Mario 3D World_ Wikipedia entry](http://en.wikipedia.org/wiki/Super_Mario_3D_World):
+For those unfamiliar, the origin of _Captain Toad_ is rooted in bonus stages strewn throughout the _Super Mario 3D World_ world map. As players collect stars and progress through the game, Captain Toad stages are unlocked. More from the [_Super Mario 3D World_ Wikipedia entry](http://en.wikipedia.org/wiki/Super_Mario_3D_World):
 
 > Additional Green Stars can be earned in Captain Toad levels, where players control the slow Captain Toad as he navigates puzzle-like stages using the GamePad's functionality, and Mystery Houses, where players must clear a series of challenges with short time limits.
 

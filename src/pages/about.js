@@ -11,7 +11,7 @@ const About = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
         <SEO title="About" />
         <h1>About</h1>
-        <p>Zero Counts is a link blog designed, developed, and written by Kyle Starr. The primary focus is video game industry business, culture, and news.</p>
+        <p>The primary focus of Zero Counts is video game industry business, culture, and news.</p>
         <p>Zero Counts is built on and with:</p>
         <ul>
             <li><a href="https://www.gatsbyjs.com">GatsbyJS</a></li>
@@ -24,7 +24,7 @@ const About = ({ data, location }) => {
         <p>Email: <a href="mailto:info@zerocounts.net">info@zerocounts.net</a></p>
         <p>Twitter: <a href="https://twitter.com/_zerocounts">@_zerocounts</a></p>
         <hr />
-        <h2>Other Projects by Kyle Starr</h2>
+        {/* <h2>Other Projects by Kyle Starr</h2>
         <h3>Music</h3>
         <p>All projects produced using:</p>
         <ul>
@@ -50,7 +50,7 @@ const About = ({ data, location }) => {
         <p>A casual video games focused talk show</p>
         <ul>
             <li><a href="https://itunes.apple.com/us/podcast/ported/id1092918272?mt=2">Apple Podcasts</a></li>
-        </ul>
+        </ul> */}
     </Layout>
   )
 }
