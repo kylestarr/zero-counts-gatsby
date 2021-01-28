@@ -27,7 +27,7 @@ tags:
 
 > “I’m sorry,” I said, backing away. “I didn’t mean—”
 
-> “Listen to me, motherfucker, listen.” Getting right up in my face. “Mine ain’t about yours. And yours ain’t about mine. We all suffer the same. You don’t get to decide what hurts you. You just hurt. Let me say my shit, and you say your shit, and I’ll be there for you. Okay?
+> “Listen to me, motherfucker, listen.” Getting right up in my face. “Mine ain’t about yours. And yours ain’t about mine. We all suffer the same. You don’t get to decide what hurts you. You just hurt. Let me say my shit, and you say your shit, and I’ll be there for you. Okay?"
 
 > It set me straight. I still think it’s one of the wisest things I’ve ever heard. I was trying to put things in perspective by pretending I had no perspective, by denying my own feelings. It’s always going to be important to acknowledge someone else’s pain, but denying your own pain doesn’t do that. “It just makes their pain relative to yours, like a yardstick to measure against. It’s a waste of pain. After that I started listening more and I started feeling again.
 
