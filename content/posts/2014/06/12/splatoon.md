@@ -8,8 +8,6 @@ url: /splatoon/
 categories:
 - Children
 - Gender
-postFormat:
-- Link
 tags:
 - e3
 - gender
@@ -17,7 +15,7 @@ tags:
 - video games
 ---
 
-https://www.youtube.com/watch?v=8L54s2m1dPs
+<https://www.youtube.com/watch?v=8L54s2m1dPs>
 
 [Paul Tassi, excerpt from Fanboy Wars](https://itunes.apple.com/us/book/fanboy-wars-fight-for-future/id888119344?mt=11&uo=4&at=1l3v2y3&ct=TSOG):
 
