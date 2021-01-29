@@ -14,6 +14,8 @@ tags:
 - video games
 ---
 
+![Lumino City](/lumino-city.png)
+
 [Developer State of Play](http://www.luminocitygame.com/about.html):
 
 > Lumino City has been created in a unique way. Everything you see on screen was made using paper, cardboard and glue, culminating in the building of a 10 foot high model city. Laser cutting was used to create finely detailed environment, and miniature lights and motors were built in to bring it to life.
