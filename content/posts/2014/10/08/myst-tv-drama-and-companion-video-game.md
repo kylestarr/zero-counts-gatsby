@@ -7,8 +7,6 @@ type: post
 url: /myst-tv-drama-and-companion-video-game/
 categories:
 - General
-postFormat:
-- Link
 tags:
 - myst
 - tv

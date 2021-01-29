@@ -7,8 +7,6 @@ type: post
 url: /china-creates-shanghai-based-free-trade-zone-ending-game-console-ban/
 categories:
 - Business
-postFormat:
-- Link
 tags:
 - business
 - china
@@ -28,4 +26,4 @@ tags:
 >
 > China's prohibition on game consoles began in 2000, but despite the ban, sellers have been able to bring game systems to China through Japan and Hong Kong. Online and mobile games have been permitted in the country and have become popular, bringing in high revenue with "freemium" models.
 
-It will be interesting to see how Microsoft, Sony, and Nintendo handle this...
+It will be interesting to see how Microsoft, Sony, and Nintendo handle this…

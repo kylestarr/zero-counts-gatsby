@@ -8,8 +8,6 @@ url: /grand-theft-mario/
 categories:
 - Design
 - General
-postFormat:
-- Link
 tags:
 - nintendo
 - video games

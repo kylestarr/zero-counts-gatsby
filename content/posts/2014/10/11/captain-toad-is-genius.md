@@ -42,6 +42,6 @@ When playing _Super Mario 3D World_, I race for every  Captain Toad level the 
 
 _Captain Toad: Treasure Tracker_ debuts in Japan on November 13, 2014. Subsequent release dates as follows:
 
-NA: December 5, 2014
-EU: January 2, 2015
+NA: December 5, 2014  
+EU: January 2, 2015  
 AUS: January 3, 2015

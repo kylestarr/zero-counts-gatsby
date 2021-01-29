@@ -2,8 +2,8 @@
 author: kylestarr
 date: 2014-07-11 17:32:18+00:00
 draft: false
-title: '''How chess shows that gender segregation in eSports might encourage more
-  female leagues'''
+title: "How chess shows that gender segregation in eSports might encourage more
+  female leagues"
 type: post
 url: /how-chess-shows-that-gender-segregation-in-esports-might-encourage-more-female-leagues/
 categories:

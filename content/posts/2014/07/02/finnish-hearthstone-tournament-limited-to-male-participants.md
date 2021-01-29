@@ -1,6 +1,6 @@
 ---
 author: kylestarr
-date: 2014-07-03 03:31:53+00:00
+date: 2014-07-02 03:31:53+00:00
 draft: false
 title: Finnish Hearthstone tournament limited to male participants
 type: post
