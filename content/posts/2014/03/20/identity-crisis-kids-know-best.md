@@ -42,4 +42,4 @@ My challenge to you: Think back to those activities you loved as a child and con
 
 —–
 
-Originally published at [TheStarrList.com](http://thestarrlist.com/2013/03/20/identity-crisis-kids-know-best/)
+Originally published at [TheStarrList.com](http://thestarrlist.wordpress.com/2013/03/20/identity-crisis-kids-know-best/)

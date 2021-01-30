@@ -36,7 +36,7 @@ The answser was paper. Paper has been a generational through-line for the invent
 
 Thus, my exploration began. I needed to know how a novelist could invest weeks, months or years into a single piece of work. Just as my technical support training had taught me the inter-workings of computers, I needed to understand the inter-workings of story structure, character development and prose.
 
-I decided enough was enough. If I wanted to understand this medium and conquer my Everest, I needed to write a novel. November 2013 was growing close. I decided to take on the [NaNoWriMo challenge](http://thestarrlist.com/2014/01/18/nanowrimo-a-review-part-1-writing/).
+I decided enough was enough. If I wanted to understand this medium and conquer my Everest, I needed to write a novel. November 2013 was growing close. I decided to take on the [NaNoWriMo challenge](http://thestarrlist.wordpress.com/2014/01/18/nanowrimo-a-review-part-1-writing/).
 
 Since completing the challenge, I have had a much larger appreciation for the written word. That is to say I am beginning to understand the written word at both mechanical and artistic levels. I clamor at the chance to start a new book often times before I finish the last.
 

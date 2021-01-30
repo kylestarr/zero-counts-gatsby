@@ -43,4 +43,4 @@ This post was inspired by [Robert Ashley's](https://twitter.com/robertashley) [_
 
 ------
 
-Originally published on [TheStarrList.com](http://thestarrlist.com/2013/09/05/why-game/)
+Originally published on [TheStarrList.com](http://thestarrlist.wordpress.com/2013/09/05/why-game/)

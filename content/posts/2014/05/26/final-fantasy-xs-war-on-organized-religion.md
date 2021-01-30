@@ -20,6 +20,6 @@ tags:
 
 I played Final Fantasy X in high school. I was searching for an identity and was cynical of everything. The game's opinions on organized religion, technology, and the afterlife had a profound effect on me. Every new motif locked in my attention as if [Billy Madison](http://youtu.be/yT20BZ-pBZY) was trying to express how I'm important it was.
 
-Needless to say, FFX was the first video game that showed me the medium had a substantial voice and was about [more than just fun](https://thestarrlist.wordpress.com/2014/05/22/braving-blizzard-and-inclusion-in-games/).
+Needless to say, FFX was the first video game that showed me the medium had a substantial voice and was about [more than just fun](/2014/05/22/braving-blizzard-and-inclusion-in-games/).
 
 A terrific read.

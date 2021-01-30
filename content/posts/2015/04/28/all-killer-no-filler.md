@@ -17,7 +17,7 @@ tags:
 
 More specifically, I'm tired of side-quests.
 
-The first post to relaunch my personal blogging, [Finding The Rails](https://thestarrlist.wordpress.com/2012/04/13/finding-the-rails/), attempted to capture an idea that like RPGs, there is a tricky balance to life between rails and side-quests. After a year out of college, I found difficulty in finding focus in my professional growth. School always provided a rail; you stay on track and graduate. What was often heard but never comprehended was the idea that after school, life changes. Priorities change. Responsibility kicks in. Time flies by. Emotions are juggled.
+The first post to relaunch my personal blogging, [Finding The Rails](/2012/04/13/finding-the-rails/), attempted to capture an idea that like RPGs, there is a tricky balance to life between rails and side-quests. After a year out of college, I found difficulty in finding focus in my professional growth. School always provided a rail; you stay on track and graduate. What was often heard but never comprehended was the idea that after school, life changes. Priorities change. Responsibility kicks in. Time flies by. Emotions are juggled.
 
 Somewhat recently, I purchased a PS4 — in large part to play _Middle-earth: Shadow of Mordor_. I had completed the main quest, but throughout my playthrough, I continually felt compelled to seek out side-quests and collectibles. Like commanding an unruly Graug, I felt I had to continually redirect my attention to the main goal. Thankfully, I had completed enough side-quests and gathered enough collectibles to level Talion up enough progress through to the (lackluster) end.
 

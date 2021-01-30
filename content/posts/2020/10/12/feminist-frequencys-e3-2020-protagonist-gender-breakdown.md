@@ -11,7 +11,7 @@ tags:
 - video games
 ---
 
-[Anita Sarkeesian and Carolyn Petit of Feminist Frequency, contributing to Wired](https://www.wired.com/story/women-video-games-representation-e3/): 
+[Anita Sarkeesian and Carolyn Petit of Feminist Frequency, contributing to Wired](https://www.wired.com/story/women-video-games-representation-e3/):
 
 > This year also marks the narrowest divide between games featuring defined female protagonists and games featuring defined male protagonists that we’ve yet seen, with games starring male characters making up 23 percent of this year’s total, or just 5 percent more games overall. In previous years, there have always been at least three times as many games centering men as there were centering women, so the fact that this year both values are at least in the same ballpark is definitely a welcome development. However, while we should perhaps be cautiously optimistic about these numbers, we also shouldn’t break out the champagne just yet. It will naturally require another year or two before we can begin to determine if this shift reflects actual changes that are taking place, or if 2020 is a one-off statistical anomaly that will quickly see a return to the status quo.
 
