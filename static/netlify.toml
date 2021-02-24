@@ -77,5 +77,18 @@ redirects = [
   {from = "/good-sudoku-and-the-grid/", to = "/2020/08/01/good-sudoku-and-the-grid/", status = 301},
   {from = "/sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow/", to = "/2020/08/29/sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow/", status = 301},
   {from = "/super-mario-3d-all-stars-announcement/", to = "/2020/09/03/super-mario-3d-all-stars-announcement/", status = 301},
-  {from = "/2013/10/15/why-game/", to = "/2013/10/15/1985-burst-and-bloom/", status = 301}
+  {from = "/2013/10/15/why-game/", to = "/2013/10/15/1985-burst-and-bloom/", status = 301},
+  {from = "/thoughts-on-star-wars-teaser-2/", to = "/2015/04/17/thoughts-on-star-wars-teaser-2/", status = 301},
+  {from = "/tag/rocksmith-2014/", to = "/2015/01/25/goty-rocksmith-2014/", status = 301},
+  {from = "/general/ps4-fortnite-accounts-are-blocked-on-the-nintendo-switch/", to = "/2018/06/12/ps4-fortnite-accounts-are-blocked-on-the-nintendo-switch/", status = 301},
+  {from = "/tag/moneyball/", to = "/2014/05/23/people-of-a-certain-age/", status = 301},
+  {from = "/page/5/", to = "/5", status = 301},
+  {from = "/nintendo-switch-is-the-fastest-selling-console-in-u-s-history/", to = "/2018/01/23/nintendo-switch-is-the-fastest-selling-console-in-u-s-history/", status = 301},
+  {from = "/the-paradox-of-fun/", to = "/2018/09/15/the-paradox-of-fun/", status = 301},
+  {from = "/study-playing-video-games-can-increase-brain-size/", to = "/2013/11/05/study-playing-video-games-can-increase-brain-size/", status = 301},
+  {from = "/video-games-crash-course/", to = "/2014/06/02/video-games-crash-course/", status = 301},
+  {from = "/griffin-and-justin-mcelroy-depart-polygon/", to = "/2018/04/25/griffin-and-justin-mcelroy-depart-polygon/", status = 301},
+  {from = "/tag/reading/feed/", to = "/2014/02/24/on-reading/", status = 301},
+  {from = "/tag/playstation-4/feed/", to = "/", status = 301},
+  {from = "/tag/lgbt/page/2/", to = "/", status = 301}
 ]
