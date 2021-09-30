@@ -95,7 +95,7 @@ module.exports = {
         short_name: `Zero Counts`,
         start_url: `/`,
         background_color: `#000000`,
-        theme_color: `#004992`,
+        theme_color: `#000000`,
         display: `standalone`,
         icon: `content/assets/zero-counts-logo-512.png`,
       },
