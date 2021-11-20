@@ -37,6 +37,6 @@ Later in the episode…
 
 I’ve [griped about the number of buttons on modern video game controllers myself](https://zerocounts.net/2015/05/31/buttons/) and [praised innovations in accessibility](https://zerocounts.net/2018/05/17/microsofts-xbox-adaptive-controller/). Plante’s retrospective of the Wii Remote clearly illustrates the benefits of simplicity. Removing complexity removes the friction between the player/viewer/user and make-believe. Simplicity in and of itself creates wonder.
 
-For video game controllers, the metaphor I’ve come up with is puppeteering. Modern video game controllers are [marionette control bars](https://en.wikipedia.org/wiki/Marionette#Types_of_marionette_control_bar) — complex by design for the sake of precision and realism. But the Wii Remote, and NES controller before it, is a hand in [shadowgraphy](https://en.wikipedia.org/wiki/Shadowgraphy_(performing_art)) — more a bridge between worlds than a tool to recreate the world.
+For video game controllers, the metaphor I’ve come up with is puppeteering. Modern video game controllers are [marionette control bars](https://en.wikipedia.org/wiki/Marionette#Types_of_marionette_control_bar) — complex by design for the sake of precision and realism. But the Wii Remote, and NES controller before it, is a hand in [shadowgraphy](https://en.wikipedia.org/wiki/Shadowgraphy_(performing_art)) — more a bridge between worlds than a tool to recreate them.
 
 Wonder bars.
