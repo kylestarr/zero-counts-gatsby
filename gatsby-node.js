@@ -76,6 +76,12 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     });
   });
+
+  // Create archive list page
+  createPage({
+    path: `/archive`,
+    component: path.resolve('./src/templates/archive-list.js'),
+  })
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
