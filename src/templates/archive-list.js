@@ -17,22 +17,24 @@ class ArchiveIndex extends React.Component {
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         <div id="archive-list">
-        {posts.map(({ node }) => {
-            const title = node.frontmatter.title || node.fields.slug
-            return (
-                <article key={node.fields.slug}>
-                    <h2>
-                        <Link to={node.fields.slug}>
-                            {title}
-                        </Link>
-                    </h2>
-                    <date>
-                        {node.frontmatter.date}
-                    </date>
-                </article>
-            ) 
-        })}
-      </div>
+            {
+                posts.map(({ node }) => {
+                    const title = node.frontmatter.title || node.fields.slug
+                    return (
+                        <article key={node.fields.slug}>
+                            <h2>
+                                <Link to={node.fields.slug}>
+                                    {title}
+                                </Link>
+                            </h2>
+                            <date>
+                                {node.frontmatter.date}
+                            </date>
+                        </article>
+                    ) 
+                })
+            }
+        </div>
       </Layout>
     )
   }
