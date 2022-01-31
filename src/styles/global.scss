@@ -33,6 +33,29 @@ body {
   }
 }
 
+.nav {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+  padding-top: 2em;
+
+  a,
+  a:visited,
+  a:active {
+    display: inline-block;
+    color: #999;
+    text-decoration: none;
+    &:hover {
+      color: #004992;
+    }
+    border-bottom: none;
+  }
+}
+
 //Mobile header
 @media only screen and (max-width: 768px) {
   .header {
@@ -66,6 +89,7 @@ body {
 
 main {
   line-height: 175%;
+  padding-top: 1em;
 
   a,
   a:visited,
@@ -75,29 +99,6 @@ main {
     text-decoration: none;
     &:hover {
       color: #004992;
-    }
-  }
-
-  .nav {
-    margin: 0;
-    font-size: 12px;
-    font-weight: 600;
-    text-decoration: none;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    text-align: center;
-
-    a,
-    a:visited,
-    a:active {
-      display: inline-block;
-      margin-top: 30px;
-      color: #999;
-      text-decoration: none;
-      &:hover {
-        color: #004992;
-      }
-      border-bottom: none;
     }
   }
 }
@@ -322,7 +323,6 @@ footer {
 .row {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-gap: 15px;
 }
 
 [class^="col-"] {
