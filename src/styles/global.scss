@@ -77,6 +77,29 @@ main {
       color: #004992;
     }
   }
+
+  .nav {
+    margin: 0;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+
+    a,
+    a:visited,
+    a:active {
+      display: inline-block;
+      margin-top: 30px;
+      color: #999;
+      text-decoration: none;
+      &:hover {
+        color: #004992;
+      }
+      border-bottom: none;
+    }
+  }
 }
 
 article {
