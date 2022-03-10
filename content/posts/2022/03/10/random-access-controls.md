@@ -34,4 +34,4 @@ I was particularly fascinated by their discussion around controllers, limited in
 
 This bit pairs nicely with [Chris Plante and Jered Petty's conversation about Wii Sports and the Wii Remote](/2021/04/24/nintendos-wonder-bar/) as well as [my thinking about there being too many buttons for casual gaming](/2015/05/31/buttons/), of which I'm beginning to turn around on.
 
-(Hat tip to [Pavan Rajam](https://twitter.com/pavanrajam?s=21) on the podcast recommendation.)
+(Hat tip to [Rahim Sonawalla](https://twitter.com/rahims?s=21) on the podcast recommendation.)
