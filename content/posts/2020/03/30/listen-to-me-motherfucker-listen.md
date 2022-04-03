@@ -21,7 +21,7 @@ tags:
 
 > I would feel guilty. I’d sit in group sessions and listen to other patients talk about their lives, and what they’d endured was beyond anything I could imagine. They came from homes where they never felt safe; being physically and emotionally abused was just a day-to-day reality. Food was scarce, hope was scarcer, and it was a toss-up whether there was more danger outside or inside. One guy told us about seeing his father murder his mother when he was nine and that he had his first taste of alcohol that night because his father forced him to drink whiskey, thinking it would make him forget what he’d seen. Hearing a story like that made me ashamed of how little I had had to survive and how much pain I’d derived from so much less actual trauma. What was I gonna say when the group got to me? “Um . . . I cry a lot. I get scared sometimes. I have headaches, and it makes it hard to make music.” That was the worst of it. I was out of my league.
 
-> One time, after a group session, a few of us were in the smoking room and I confided to them, “I feel like I shouldn’t even open my mouth. I don’t want anyone to get the idea that I think my situation compares.
+> One time, after a group session, a few of us were in the smoking room and I confided to them, “I feel like I shouldn’t even open my mouth. I don’t want anyone to get the idea that I think my situation compares.”
 
 > This big black guy, who towered over me, turned around and started shouting at me. “What the fuck is that shit? Shut the fuck up! We all suffer the same, motherfucker!”
 
