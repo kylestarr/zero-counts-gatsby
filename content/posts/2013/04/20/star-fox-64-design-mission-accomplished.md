@@ -22,6 +22,8 @@ With today’s technology, possibilities seem limitless for gaming’s next-gene
 
 Example: _Star Fox 64_.
 
+![Star Fox 64 Nintendo 64 map of the Lylat System](star-fox-64-nintendo-64-screenshot-map-of-the-lylat-system.jpg)
+
 _Star Fox 64_ championed the idea of a branching, non-linear “linear” story. As one may recall, the map shown above is presented to the player at the onset of Star Fox’s journey. And, as most players began to discover, there remained a plethora of unvisited planets and galaxies by the game’s end.
 
 Without access to GamePro or online resources, most couldn’t quite figure out why those extra stages existed or how to reach them. Those gung-ho enough to research, attentive enough to listen for, or lucky enough to stumble upon the difficult but more rewarding progression, could reap the rewards of a richer story, unique mechanics/vehicles/characters, and largely undiscovered levels. Buddhist like patience rewarded the mastery of repetition.
