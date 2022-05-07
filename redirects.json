@@ -451,5 +451,10 @@
     "fromPath": "/video-games-do-not-exist/",
     "toPath": "/2019/10/01/video-games-do-not-exist/",
     "statusCode": 301
+  },
+  {
+    "fromPath": "/everything-wrong-with-modern-trailers/",
+    "toPath": "/2014/06/03/everything-wrong-with-modern-trailers/",
+    "statusCode": 301
   }
 ]
