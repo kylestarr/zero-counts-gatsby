@@ -33,7 +33,7 @@ Of course, just like a classic beat-em-up, *Shredder's Revenge* is designed for 
 
 https://twitter.com/genepark/status/1538281074865807360?s=21&t=3WJIA2YSi2IyfkB2Vk-7_A
 
-Perhaps the best part of the Shredder's Revenge experience is the ability to jump in to a random party's game. During stage select, you can pull up a menu of other parties currently playing that level, which characters they're playing as, and how far along they are in the level. At the press of a button, you can jump right into their game and fight alongside their party. The experience mimics the feeling of seeing an empty seat at an original 4-player TMNT arcade cabinet, dropping in a quarter, and joining the other three ~strangers~ players in their quest to best the Technodrome.
+Perhaps the best part of the Shredder's Revenge experience is the ability to jump in to a random party's game. During stage select, you can pull up a menu of other parties currently playing that level, which characters they're playing as, and how far along they are in the level. At the press of a button, you can jump right into their game and fight alongside their party. The experience mimics the feeling of seeing an empty seat at an original 4-player TMNT arcade cabinet, dropping in a quarter, and joining the other three ~~strangers~~ players in their quest to best the Technodrome.
 
 Some of the voice acting feels like a miss, and the final bosses aren't particularly challengeing. But overall, the game rips!
 
