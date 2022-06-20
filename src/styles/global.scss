@@ -128,8 +128,9 @@ h1,
 
 #blog-list article div h2 {
   font-weight: 600;
-  font-size: 20px;
-  text-transform: none;
+  font-size: 18px;
+  color: #999
+  /* text-transform: none; */
 }
 
 @media only screen and (max-width: 768px) {
@@ -141,7 +142,9 @@ h1,
 // Blog post
 h2 {
   font-weight: 600;
-  font-size: 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #999
 }
 
 h3 {
