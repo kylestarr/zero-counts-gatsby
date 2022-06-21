@@ -15,7 +15,7 @@ tags:
 
 _Teenage Mutant Ninja Turtles: Shredder's Revenge_ is tight. Both "tight" in the way Michelangelo would describe a new skateboard and "tight" in the way Leonardo leaves little room for anything other than his focus.
 
-## Tight 🤙
+## It’s Tight 🤙
 
 It's awesome! Righteous! [Bossa nova… er… Chevy Nova](https://www.youtube.com/watch?v=lJM9mAtlp6U)? Excellent! In the words of the '90s youth, it's tight!
 
@@ -37,7 +37,7 @@ Perhaps the best part of the Shredder's Revenge experience is the ability to jum
 
 Some of the voice acting feels like a miss, and the final bosses aren't particularly challengeing. But overall, the game rips!
 
-## It's Tight
+## It's Tight 🪢
 
 _TMNT: Shredder's Revenge_ is billed as a throwback/sequel to the original TMNT beat-em-up games. And that's exactly what it is. Full stop. Even with all that's new, the game is extremely focused. While it's jam-packed full of character(s), there isn't an ounce of fat on the game. It sets out to recreate the experience shared by many a '90s mall rat and sticks the landing. 10/10. A perfect [video game ass video game](/2019/10/01/video-games-do-not-exist/). Playing through it at age 36 sent me right back to playing _Hyperstone Heist_ on my family's 13-channel TV on loop. Scrolling through Twitter, I've come across well over a dozen tweets about parents playing through with their children, sharing an arcade experience from a bygone era.
 
