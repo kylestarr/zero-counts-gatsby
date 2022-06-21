@@ -17,6 +17,8 @@ _Teenage Mutant Ninja Turtles: Shredder's Revenge_ is tight. Both "tight" in the
 
 ## Tight 🤙
 
+It's awesome! Righteous! [Bossa nova… er… Chevy Nova](https://www.youtube.com/watch?v=lJM9mAtlp6U)? Excellent!
+
 Many reviews have already pointed out how awesome Shredder's Revenge is. It [absolutely rules](https://www.polygon.com/reviews/23167511/tmnt-shredders-revenge-review-windows-pc-switch). It's [a must-play arcade throwback](https://arstechnica.com/gaming/2022/06/review-tmnt-shredders-revenge-is-a-must-play-arcade-throwback/). It's [way more than retro-cool](https://www.latimes.com/entertainment-arts/story/2022-06-16/teenage-mutant-ninja-turtles-shredders-revenge-is-more-than-just-retro-cool). It's [the best nostalgia trip you'll ever have](https://news.yahoo.com/tmnt-shredders-revenge-review-best-nostalgia-trip-124510947.html). It's [heckin' dope](https://kotaku.com/tmnt-shredders-revenge-review-tribute-game-dotemu-multi-1849077972).
 
 The game overwhelming succeeds at recreating the '80s/'90s TMNT arcade beat-em-up experiences. If you spent any time with the original TMNT arcade game (arcade/NES), _Turtles in Time_ (arcade/SNES) or _Hyperstone Heist_ (Sega Genesis), you'll find the familiar variety of foot soldiers, patterns of obstacles to dodge while riding [cheapskates](https://turtlepedia.fandom.com/wiki/Cheapskate_(1987_TV_series)) and hoverboards, mutant (and robot) baddies from across the franchise, pizza boxes, and quotes likes, "Turtle Power!" and, "Ugh... shellshocked".
