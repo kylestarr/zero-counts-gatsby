@@ -15,7 +15,7 @@ tags:
 
 _Teenage Mutant Ninja Turtles: Shredder's Revenge_ is tight. Both "tight" in the way Michelangelo would describe a new skateboard and "tight" in the way Leonardo leaves little room for anything other than his focus.
 
-## Tight 🤙
+## It’s Tight 🤙
 
 It's awesome! Righteous! [Bossa nova… er… Chevy Nova](https://www.youtube.com/watch?v=lJM9mAtlp6U)? Excellent! In the words of the '90s youth, it's tight!
 
@@ -37,15 +37,15 @@ Perhaps the best part of the Shredder's Revenge experience is the ability to jum
 
 Some of the voice acting feels like a miss, and the final bosses aren't particularly challengeing. But overall, the game rips!
 
-## It's Tight
+## It's Tight 🪢
 
-_TMNT: Shredder's Revenge_ is billed as a throwback/sequel to the original TMNT beat-em-up games. And that's exactly what it is. Full stop. Even with all that's new, the game is extremely focused. While it's jam-packed full of character(s), there isn't an ounce of fat on the game. It sets out to recreate the experience shared by many a '90s mall rat and sticks the landing. 10/10. A perfect [video game ass video game](/2019/10/01/video-games-do-not-exist/). Playing through it at age 36 sent me right back to playing _Hyperstone Heist_ on my family's 13-channel TV on loop. Scrolling through Twitter, I've come across well over a dozen tweets about parents playing through with their children, sharing an arcade experience from a bygone era.
+_TMNT: Shredder's Revenge_ is billed as a throwback/sequel to the original TMNT beat-em-up games. And that's exactly what it is. Full stop. Even with all that's new, the game is extremely focused. While it's jam-packed full of character(s), there isn't an ounce of fat on the game. It sets out to recreate the experience shared by many a '90s mall rat and sticks the landing. 10/10. A perfect [video game ass video game](/2019/10/01/video-games-do-not-exist/). Playing it at age 36 sent me back to playing _Hyperstone Heist_ on my family's 13-channel TV on loop. Scrolling through Twitter, I've come across well over a dozen tweets about parents playing through with their children, sharing an arcade experience from a bygone era.
 
 ## A Little Too Tight?
 
 Immediately after my first playthrough (as Donatello, [of course](https://twitter.com/necrosofty/status/1537694984278708225?s=21&t=3WJIA2YSi2IyfkB2Vk-7_A)), I was left wanting, and I felt extremely conflicted by this. I'd gotten what I wanted of the game, but I didn't feel wholly satisfied. I didn't want my time as Donatello to be over. It felt like the game was missing something. Side quests. Time trials. More Easter eggs to uncover. But that's not the point of this game.
 
-It's probably not a shock to anyone reading this that video games are packed with optional tasks and mini-games. I'd be quick to point to the recently released _Kirby and the Forgotten Land_ as an example of a game that tactfully blends the critical path with side-missions/time-trials, town restoration, power ups, and collectables. But this isn't a new concept. _Super Mario Bros. 3_ was full of little mini-games, alternative paths, and secrets. Perhaps it's the overworld map in _Shredder's Revenge_ that led my imagination to wonder if there was more to this game than its 16 levels. The routes off of the critical path tease, only leading to fetch-quest statuses from the extra characters discovered during the game's story. There's a list of achievements to complete, but I had tackled 70% of those after my first story run and one online level. Essentially, once you've completed the story, all that's left to do is to play the game again.
+It's probably not a shock to anyone reading this that video games are packed with optional tasks and mini-games. I'd be quick to point to the recently released _Kirby and the Forgotten Land_ as an example of a game that tactfully blends the critical path with side-missions/time-trials, town restoration, power ups, and collectables, but this isn't a new concept. _Super Mario Bros. 3_ was full of little mini-games, alternative paths, and secrets. Perhaps it's the overworld map in _Shredder's Revenge_ that led my imagination to wonder if there was more to this game than its 16 levels. The routes off of the critical path tease, only leading to fetch-quest status screens from the extra characters discovered during the game's story. There's a list of achievements to complete, but I had tackled 70% of those after my first story run and one online level. Essentially, once you've completed the story, all that's left to do is to play the game again.
 
 It's completely unfair to ask of more from this masterpiece, but nonetheless, here I am wanting. This feeling must be akin to seeing Star Wars (A New Hope) in theaters in 1977. Audiences had just experienced something special, but what next? Surely there's more magic in that galaxy, but the the only way to feel it was to watch the film again.
 
