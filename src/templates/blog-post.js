@@ -30,12 +30,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       <nav id="post-pagination">
         
         {next && (
-          <Link to={next.fields.slug} rel="next" className="next-post">
+          <Link to={next.fields.filePath} rel="next" className="next-post">
             {next.frontmatter.title} →
           </Link>
         )}
         {previous && (
-          <Link to={previous.fields.slug} rel="prev" className="prev-post">
+          <Link to={previous.fields.filePath} rel="prev" className="prev-post">
             ← {previous.frontmatter.title}
           </Link>
         )}
@@ -47,13 +47,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug($slug: String!) {
+  query BlogPostByfilePath($filePath: String!) {
     site {
       siteMetadata {
         title
       }
     }
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+    markdownRemark(fields: { filePath: { eq: $filePath } }) {
       id
       excerpt(pruneLength: 160)
       html

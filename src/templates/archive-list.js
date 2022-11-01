@@ -19,11 +19,11 @@ class ArchiveIndex extends React.Component {
         <div id="archive-list">
             {
                 posts.map(({ node }) => {
-                    const title = node.frontmatter.title || node.fields.slug
+                    const title = node.frontmatter.title || node.fields.filePath
                     return (
-                        <article key={node.fields.slug}>
+                        <article key={node.fields.filePath}>
                             <h2>
-                                <Link to={node.fields.slug}>
+                                <Link to={node.fields.filePath}>
                                     {title}
                                 </Link>
                             </h2>
@@ -51,6 +51,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
         sort: { fields: [frontmatter___date], order: DESC }
+        filter: {fileAbsolutePath: {regex: "/posts/"}}
         ) {
         edges {
             node {
@@ -59,7 +60,7 @@ export const pageQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
               }
               fields {
-                slug
+                filePath
               }
             }
         }
