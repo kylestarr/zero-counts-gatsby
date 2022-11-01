@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
+import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
 import SEO from '../components/seo'
 import Layout from '../components/layout'
@@ -22,6 +23,7 @@ class GameBoysIndex extends React.Component {
                     const title = node.frontmatter.title
                     return (
                         <article key={node.frontmatter.slug}>
+                            <GatsbyImage image={getImage(node.frontmatter.thumbnail)} />
                             <h2>
                                 <Link to={node.frontmatter.slug}>
                                     {title}
@@ -58,6 +60,11 @@ export const pageQuery = graphql`
               frontmatter {
                 title
                 date(formatString: "MMMM DD, YYYY")
+                thumbnail {
+                  childImageSharp {
+                    gatsbyImageData(width: 200)
+                  }
+                }
                 slug
               }
             }
