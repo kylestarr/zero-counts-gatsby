@@ -19,11 +19,11 @@ class GameBoysIndex extends React.Component {
         <div id="gameboys-list">
             {
                 posts.map(({ node }) => {
-                    const title = node.frontmatter.title || node.fields.filePath
+                    const title = node.frontmatter.title
                     return (
-                        <article key={node.fields.filePath}>
+                        <article key={node.frontmatter.slug}>
                             <h2>
-                                <Link to={node.fields.filePath}>
+                                <Link to={node.frontmatter.slug}>
                                     {title}
                                 </Link>
                             </h2>
@@ -58,9 +58,7 @@ export const pageQuery = graphql`
               frontmatter {
                 title
                 date(formatString: "MMMM DD, YYYY")
-              }
-              fields {
-                filePath
+                slug
               }
             }
         }
