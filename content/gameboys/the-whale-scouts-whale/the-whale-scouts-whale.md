@@ -2,6 +2,7 @@
 title: "The Whale (Scout's Whale)"
 date: 2021-07-05 09:00:00
 slug: the-whale-scouts-whale
+thumbnail: ./the-whale-scouts-whale.jpeg
 tags:
   - game-boy-mods
 ---

@@ -2,6 +2,7 @@
 title: "GBA Daiei Hawks Restore"
 date: 2021-08-16 09:00:00
 slug: gba-daiei-hawks-restore
+thumbnail: ./gba-daiei-hawks-restore.jpeg
 tags:
   - game-boy-mods
 ---

@@ -2,6 +2,7 @@
 title: "The White Whale"
 date: 2021-07-05 09:00:00
 slug: the-white-whale
+thumbnail: ./the-white-whale.jpeg
 tags:
   - game-boy-mods
 ---

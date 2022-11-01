@@ -2,6 +2,7 @@
 title: "The Aether"
 date: 2021-07-05 09:00:00
 slug: the-aether
+thumbnail: ./the-aether.jpeg
 tags:
   - game-boy-mods
 ---

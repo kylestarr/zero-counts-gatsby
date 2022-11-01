@@ -2,6 +2,7 @@
 title: "Game Boy Advance, Mint"
 date: 2021-12-22 09:00:00
 slug: gba-mint
+thumbnail: ./gba-mint.jpeg
 tags:
   - game-boy-mods
 ---

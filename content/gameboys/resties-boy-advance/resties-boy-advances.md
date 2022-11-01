@@ -2,6 +2,7 @@
 title: "Resties Boy Advances"
 date: 2021-07-30 09:00:00
 slug: resties-boy-advances
+thumbnail: ./resties-boy-advances.jpeg
 tags:
   - game-boy-mods
 ---

@@ -2,6 +2,7 @@
 title: "Game Boy Advance, Kirby Edition"
 date: 2021-08-16 09:00:00
 slug: gba-kirby
+thumbnail: ./gba-kirby.jpeg
 tags:
   - game-boy-mods
 ---
