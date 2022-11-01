@@ -61,7 +61,26 @@ exports.createPages = async ({ graphql, actions }) => {
     })
   })
 
-  // Create Game Boy pages
+  // Create blog post list pages
+  const postsPerPage = 5;
+  const numPages = Math.ceil(posts.length / postsPerPage);
+
+  Array.from({ length: numPages }).forEach((_, i) => {
+    createPage({
+      path: i === 0 ? `/` : `/${i + 1}`,
+      component: path.resolve('./src/templates/blog-list.js'),
+      context: {
+        limit: postsPerPage,
+        skip: i * postsPerPage,
+        numPages,
+        currentPage: i + 1
+      },
+    });
+  });
+
+  // Create standalone articles. Ie. Non-filepath pages (Game Boy Post, etc)
+  const gameboyTemplate = path.resolve(`./src/templates/gameboy-template.js`)
+
   const gameBoyQuery = await graphql(
     `
       {
@@ -94,7 +113,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
     createPage({
       path: `/gameboys/${gameBoyPost.node.frontmatter.slug}`,
-      component: blogPostTemplate,
+      component: gameboyTemplate,
       context: {
         filePath: gameBoyPost.node.fields.filePath,
         previous,
@@ -102,23 +121,6 @@ exports.createPages = async ({ graphql, actions }) => {
       },
     })
   })
-
-  // Create blog post list pages
-  const postsPerPage = 5;
-  const numPages = Math.ceil(posts.length / postsPerPage);
-
-  Array.from({ length: numPages }).forEach((_, i) => {
-    createPage({
-      path: i === 0 ? `/` : `/${i + 1}`,
-      component: path.resolve('./src/templates/blog-list.js'),
-      context: {
-        limit: postsPerPage,
-        skip: i * postsPerPage,
-        numPages,
-        currentPage: i + 1
-      },
-    });
-  });
 
   // Create archive list page
   createPage({
