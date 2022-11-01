@@ -261,6 +261,30 @@ code {
   }
 }
 
+// Gameboys List
+#gameboys-list {
+  padding: 1em 0;
+
+  article {
+    padding: 0;
+
+    h2 {
+      margin: 0;
+      color: #999;
+      font-size: 16px;
+      font-weight: 600;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+
+      a {
+        display: block;
+        border-bottom: none;
+      }
+    }
+  }
+}
+
 // Navigation
 nav {
   a {
@@ -271,6 +295,10 @@ nav {
       border-bottom: none;
     }
   }
+}
+
+.nav a {
+  padding-inline: 10px;
 }
 
 #list-pagination {
