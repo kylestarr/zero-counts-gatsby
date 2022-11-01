@@ -15,18 +15,19 @@ exports.createPages = async ({ graphql, actions }) => {
 
   const { createPage } = actions
 
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
-  const result = await graphql(
+  const blogPostTemplate = path.resolve(`./src/templates/blog-post.js`)
+  const postQuery = await graphql(
     `
       {
         allMarkdownRemark(
+          filter: {fileAbsolutePath: {regex: "/posts/"}}
           sort: { fields: [frontmatter___date], order: DESC }
           limit: 1000
         ) {
           edges {
             node {
               fields {
-                slug
+                filePath
               }
               frontmatter {
                 title
@@ -38,22 +39,64 @@ exports.createPages = async ({ graphql, actions }) => {
     `
   )
 
-  if (result.errors) {
-    throw result.errors
+  if (postQuery.errors) {
+    throw postQuery.errors
   }
 
-  // Create blog posts pages.
-  const posts = result.data.allMarkdownRemark.edges
+  // Create blog post pages
+  const posts = postQuery.data.allMarkdownRemark.edges
 
   posts.forEach((post, index) => {
     const previous = index === posts.length - 1 ? null : posts[index + 1].node
     const next = index === 0 ? null : posts[index - 1].node
 
     createPage({
-      path: post.node.fields.slug,
-      component: blogPost,
+      path: post.node.fields.filePath,
+      component: blogPostTemplate,
       context: {
-        slug: post.node.fields.slug,
+        filePath: post.node.fields.filePath,
+        previous,
+        next,
+      },
+    })
+  })
+
+  // Create Game Boy pages
+  const gameBoyQuery = await graphql(
+    `
+      {
+        allMarkdownRemark(
+          filter: {fileAbsolutePath: {regex: "/gameboys/"}}
+          sort: { fields: [frontmatter___date], order: DESC }
+          limit: 1000
+        ) {
+          edges {
+            node {
+              fields {
+                filePath
+              }
+              frontmatter {
+                title
+                slug
+              }
+            }
+          }
+        }
+      }
+    `
+  )
+  
+  const gameBoyPosts = gameBoyQuery.data.allMarkdownRemark.edges
+
+  gameBoyPosts.forEach((gameBoyPost, index) => {
+    const previous = index === gameBoyPosts.length - 1 ? null : gameBoyPosts[index + 1].node
+    const next = index === 0 ? null : gameBoyPosts[index - 1].node
+
+    createPage({
+      path: `/gameboys/${gameBoyPost.node.frontmatter.slug}`,
+      component: blogPostTemplate,
+      context: {
+        filePath: gameBoyPost.node.fields.filePath,
         previous,
         next,
       },
@@ -82,6 +125,12 @@ exports.createPages = async ({ graphql, actions }) => {
     path: `/archive`,
     component: path.resolve('./src/templates/archive-list.js'),
   })
+
+  // Create archive list page
+  createPage({
+    path: `/gameboys`,
+    component: path.resolve('./src/templates/gameboys-list.js'),
+  })
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
@@ -90,7 +139,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   if (node.internal.type === `MarkdownRemark`) {
     const value = createFilePath({ node, getNode })
     createNodeField({
-      name: `slug`,
+      name: `filePath`,
       node,
       value,
     })
