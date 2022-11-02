@@ -9,7 +9,9 @@ tags:
 
 ![Resties Boy Advances](resties-boy-advances.jpeg)
 
-The Resties Boy Advances are companion pieces. Both are inspired from the magnificent cover art of The Resties podcast and include:
+The Resties Boy Advances were commissoned companion pieces for the launch of [The Besties: Resties podcast](https://podcasts.apple.com/us/podcast/the-besties/id505516789), inspired by its magnificent cover art.
+
+These builds include:
 
 - [New IPS LCD w/ brightness controls (select + L/R) by FunnyPlaying](https://funnyplaying.com/collections/product/products/gba)
 - [New speaker by FunnyPlaying](https://funnyplaying.com/collections/product/products/clear-gba-speaker)
