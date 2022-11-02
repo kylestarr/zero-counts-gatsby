@@ -9,7 +9,7 @@ tags:
 
 ![The White Whale](the-white-whale.jpeg)
 
-As a fan of [_Into the Aether_](https://intothecast.online), it excites me to no end to play a small role in the show. When Brendon and Stephen asked me to build three Game Boy Advance units for a giveaway, I was over the moon. The podcast has provided me much needed levity during heavy times and feels like I’m hanging out with friends more than listening to a show.
+As a fan of [_Into the Aether_](https://intothecast.online), it excited me to no end to play a small role in the show. When Brendon and Stephen asked me to build three Game Boy Advance units for a giveaway on the [Season 4 kickoff GBA episode](https://podcasts.apple.com/us/podcast/into-the-aether/id1415546090?i=1000526818592), I was over the moon. The podcast has provided me much needed levity during heavy times and feels like I’m hanging out with friends more than listening to a show.
 
 _The White Whale_ comes inspired by the ongoing podcast theme of “white whale” games that hosts Brendon and Stephen are chasing. The solid white shell + clear button build is the exact opposite of the companion [_Whale_](/gameboys/the-whale-scouts-whale) build which features a clear black shell + solid buttons.
 
