@@ -9,8 +9,7 @@ tags:
 
 ![GBA Daiei Hawks Restore](gba-daiei-hawks-restore.jpeg)
 
-When I picked up a broken one, I had no idea what I’d come across. It’s only fitting to wind up in your hands.
-This unit was in particularly bad shape when I opened it up. There was a large amount of corrosion on the start/select pads and gunk throughout. The headphone jack also had large amounts of corrosion and was preventing the audio from being sent to the speaker. Needless to say, these issues have now been resolved, along with the following repairs and restorations:
+When I picked up this broken Game Boy Advance, I had no idea what I’d come across. This unit was in particularly bad shape when I opened it up. There was a large amount of corrosion on the start/select pads and gunk throughout. The headphone jack also had large amounts of corrosion and was preventing the audio from being sent to the speaker. Needless to say, these issues have now been resolved, along with the following repairs and restorations:
 
 - [Buttons by FunnyPlaying](https://funnyplaying.com/collections/product/products/agb-custom-buttons)
 - [Silicone Pads by Funnyplaying](https://funnyplaying.com/collections/product/products/replacement-silicone-pads-for-gameboy-advance)
