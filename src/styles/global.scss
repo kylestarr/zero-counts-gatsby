@@ -382,7 +382,7 @@ nav {
     .article {
       h2 {
         margin: 0;
-        color: #999;
+        color: #FFFFFF;
         font-size: 13px;
         font-weight: 600;
         text-decoration: none;
@@ -393,6 +393,7 @@ nav {
       
       a {
         .article-thumbnail {
+          opacity: 1;
           border: none;
         }
       }
@@ -403,7 +404,7 @@ nav {
         }
   
         h2 {
-          color: #FFFFFF
+          color: #999
         }
       }
     }
