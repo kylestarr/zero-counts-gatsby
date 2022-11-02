@@ -9,7 +9,7 @@ tags:
 
 ![GBA, Kirby Edition](gba-kirby.jpeg)
 
-The Kirby themed unit you requested was more challenging than expected. I initially presented a minimal look, but you opened my eyes to how much color Kirby actually has going on! In fact, I used more colors on this GBA than any others I’ve built, spanning the purple to pink color spectrum in some creative ways. In addition to a range of colors, this GBA includes:
+This Kirby themed unit  was more challenging than expected. I initially presented a minimal look, but my eyes were opened to how much color Kirby actually has going on! In fact, I used more colors on this GBA than any others I'd built previously, spanning the purple to pink color spectrum in some creative ways. In addition to a range of colors, this GBA includes:
 
 - [New IPS LCD w/ brightness controls (select + L/R) by FunnyPlaying](https://funnyplaying.com/collections/product/products/gba)
 - [New speaker by FunnyPlaying](https://funnyplaying.com/collections/product/products/clear-gba-speaker)
