@@ -9,9 +9,11 @@ tags:
 
 ![The White Whale](the-white-whale.jpeg)
 
-As a fellow fan of Into the Aether, it excites me to no end to play a small role in the show. When Brendon and Stephen asked me to build three Game Boy Advance units for a giveaway, I was over the moon. The podcast has provided me much needed levity during heavy times and feels like I’m hanging out with friends more than listening to a show. I’m sure your feelings are no different.
+As a fan of [_Into the Aether_](https://intothecast.online), it excites me to no end to play a small role in the show. When Brendon and Stephen asked me to build three Game Boy Advance units for a giveaway, I was over the moon. The podcast has provided me much needed levity during heavy times and feels like I’m hanging out with friends more than listening to a show.
 
-The White Whale comes inspired by the ongoing theme of “white whale” games that Brendon and Stephen are chasing. The solid white shell + clear button build is the exact opposite of the companion Whale build which features a clear black shell + solid buttons. In total, The White Whale includes:
+_The White Whale_ comes inspired by the ongoing podcast theme of “white whale” games that hosts Brendon and Stephen are chasing. The solid white shell + clear button build is the exact opposite of the companion [_Whale_](/gameboys/the-whale-scouts-whale) build which features a clear black shell + solid buttons.
+
+In total, _The White Whale_ includes:
 
 - [New IPS LCD w/ brightness controls (select + L/R) by FunnyPlaying](https://funnyplaying.com/collections/product/products/gba)
 - [New speaker by FunnyPlaying](https://funnyplaying.com/collections/product/products/clear-gba-speaker)
