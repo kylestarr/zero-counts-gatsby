@@ -9,11 +9,11 @@ tags:
 
 ![Game Boy Advance, Mint](gba-mint.jpeg)
 
-This might be my favorite GBA color palette yet! Initially, I attempted to use a shell by RetroSix, but was disappointed by the display mounting solution and bad branding. Thankfully, I was able to track down a sold out light blue FunnyPlaying shell — the preferred shell of most modders — which also fits the FunnyPlaying glass nicely.
+This might be my favorite Game Boy Advance color palette yet! Initially, I attempted to use a shell by RetroSix, but was disappointed by the display mounting solution and bad branding. Thankfully, I was able to track down a (sold out) light blue FunnyPlaying shell — the preferred shell of most modders — which also fits the FunnyPlaying glass nicely.
 
-The logic board in came from an AGB-001 — the first run of GBAs produced in 2001. It was in extremely good condition, save a dirty power switch which prevented it from powering on, and a defective right-shoulder button. I believe this is the first AGB-001 unit I’ve worked on.
+The logic board came from an AGB-001 — the first run of GBAs produced in 2001. It was in extremely good condition, save a dirty power switch which prevented it from powering on, and a defective right-shoulder button. I believe this is the first AGB-001 unit I’d worked on.
 
-With that, here’s a breakdown of the full mod:
+Here’s a breakdown of the full mod:
 
 - [New IPS LCD w/ brightness controls (select + L/R) by FunnyPlaying](https://funnyplaying.com/collections/product/products/gba)
 - [New speaker by FunnyPlaying](https://funnyplaying.com/collections/product/products/clear-gba-speaker)
