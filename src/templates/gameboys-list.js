@@ -22,17 +22,23 @@ class GameBoysIndex extends React.Component {
                 posts.map(({ node }) => {
                     const title = node.frontmatter.title
                     return (
-                        <article key={node.frontmatter.slug}>
-                            <GatsbyImage image={getImage(node.frontmatter.thumbnail)} />
+                      <div class="article">
+                        <Link to={node.frontmatter.slug}>
+                        
+                          <article key={node.frontmatter.slug}>
+                            <div class="article-thumbnail">
+                                <GatsbyImage
+                                  image={getImage(node.frontmatter.thumbnail)}
+                                  alt={node.frontmatter.title}
+                                />
+                            </div>
                             <h2>
-                                <Link to={node.frontmatter.slug}>
-                                    {title}
-                                </Link>
+                              {title}
                             </h2>
-                            <date>
-                                {node.frontmatter.date}
-                            </date>
-                        </article>
+                          </article>
+                        
+                        </Link>
+                      </div>
                     ) 
                 })
             }
@@ -62,7 +68,7 @@ export const pageQuery = graphql`
                 date(formatString: "MMMM DD, YYYY")
                 thumbnail {
                   childImageSharp {
-                    gatsbyImageData(width: 200)
+                    gatsbyImageData
                   }
                 }
                 slug

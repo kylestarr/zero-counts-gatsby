@@ -335,6 +335,81 @@ nav {
   }
 }
 
+// Game Boy gallery
+#gameboys-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 15px;
+  align-items: stretch;
+  
+  .article {
+    h2 {
+      margin: 0;
+      color: #999;
+      font-size: 13px;
+      font-weight: 600;
+      text-decoration: none;
+      letter-spacing: 1px;
+      text-align: center;
+      line-height: 160%;
+    }
+    
+    a {
+      .article-thumbnail {
+        opacity: 0.7;
+        border: none;
+      }
+    }
+    
+    a:hover {
+      .article-thumbnail {
+        opacity: 1;
+      }
+
+      h2 {
+        color: #FFFFFF
+      }
+    }
+  }
+}
+
+// Game Boy Galery mobile
+@media screen and (max-width: 768px) {
+  #gameboys-list {
+    display: grid;
+    grid-template-columns: 1fr;
+    
+    .article {
+      h2 {
+        margin: 0;
+        color: #999;
+        font-size: 13px;
+        font-weight: 600;
+        text-decoration: none;
+        letter-spacing: 1px;
+        text-align: center;
+        line-height: 160%;
+      }
+      
+      a {
+        .article-thumbnail {
+          border: none;
+        }
+      }
+      
+      a:active {
+        .article-thumbnail {
+          opacity: .7;
+        }
+  
+        h2 {
+          color: #FFFFFF
+        }
+      }
+    }
+  }
+}
+
 // Footer
 footer {
   margin-top: 30px;

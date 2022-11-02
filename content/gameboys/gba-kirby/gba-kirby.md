@@ -1,5 +1,5 @@
 ---
-title: "Game Boy Advance, Kirby Edition"
+title: "GBA, Kirby Edition"
 date: 2021-08-16 09:00:00
 slug: gba-kirby
 thumbnail: ./gba-kirby.jpeg
@@ -7,7 +7,7 @@ tags:
   - game-boy-mods
 ---
 
-![Game Boy Advance, Kirby Edition](gba-kirby.jpeg)
+![GBA, Kirby Edition](gba-kirby.jpeg)
 
 The Kirby themed unit you requested was more challenging than expected. I initially presented a minimal look, but you opened my eyes to how much color Kirby actually has going on! In fact, I used more colors on this GBA than any others I’ve built, spanning the purple to pink color spectrum in some creative ways. In addition to a range of colors, this GBA includes:
 
