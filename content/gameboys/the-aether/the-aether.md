@@ -9,9 +9,9 @@ tags:
 
 ![The Aether](the-aether.jpeg)
 
-As a fan of [Into the Aether](https://intothecast.online), it excites me to no end to play a small role in the show. When Brendon and Stephen asked me to build three Game Boy Advance units for a giveaway, I was over the moon. The podcast has provided me much needed levity during heavy times and feels like I’m hanging out with friends more than listening to a show.
+As a fan of [_Into the Aether_](https://intothecast.online), it excites me to no end to play a small role in the show. When Brendon and Stephen asked me to build three Game Boy Advance units for a giveaway, I was over the moon. The podcast has provided me much needed levity during heavy times and feels like I’m hanging out with friends more than listening to a show.
 
-_The Aether_ is my own interpretation of the “the aether” — something light and ethereal with splashes of the signature Into the Aether purple to pink gradient. I’m a big fan of [berndog’s](https://instagram.com/berndoggers), and one of his builds featured a left/right dual-tone which got me thinking…
+_The Aether_ is my own interpretation of the “the aether” — something light and ethereal with splashes of the signature _Into the Aether_ purple to pink gradient. I’m a big fan of [berndog’s](https://instagram.com/berndoggers), and one of his builds featured a left/right dual-tone which got me thinking…
 
 In total, _The Aether_ includes:
 

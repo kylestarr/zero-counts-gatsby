@@ -9,9 +9,11 @@ tags:
 
 ![The Whale (Scout's Whale)](the-whale-scouts-whale.jpeg)
 
-As a fellow fan of Into the Aether, it excites me to no end to play a small role in the show. When Brendon and Stephen asked me to build three Game Boy Advance units for a giveaway, I was over the moon. The podcast has provided me much needed levity during heavy times and feels like I’m hanging out with friends more than listening to a show. I’m sure your feelings are no different.
+As a fan of [_Into the Aether_](https://intothecast.online), it excites me to no end to play a small role in the show. When Brendon and Stephen asked me to build three Game Boy Advance units for a giveaway, I was over the moon. The podcast has provided me much needed levity during heavy times and feels like I’m hanging out with friends more than listening to a show.
 
-The Whale comes inspired by the whale featured on the cover art of Seasons 3 and 4 by Scout. The clear black shell + solid button build is the exact opposite of the companion White Whale build which features a solid white shell + clear buttons. In total, The Whale includes:
+_The Whale_ comes inspired by the whale featured on the cover art of _Into the Aether_ Seasons 3 and 4 by [Scout Wilkinson](https://scoutwilkinson.myportfolio.com). The clear black shell + solid button build is the exact opposite of the companion [_White Whale_](/gameboys/the-white-whale) build which features a solid white shell + clear buttons.
+
+In total, _The Whale_ includes:
 
 - [New IPS LCD w/ brightness controls (select + L/R) by FunnyPlaying](https://funnyplaying.com/collections/product/products/gba)
 - [New speaker by FunnyPlaying](https://funnyplaying.com/collections/product/products/clear-gba-speaker)
