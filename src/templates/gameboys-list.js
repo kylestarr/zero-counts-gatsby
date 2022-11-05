@@ -14,8 +14,10 @@ class GameBoysIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title={siteTitle}
+          title={"Game Boy Modding Gallery"}
           keywords={[`video games`, `blog`, `business`, `education`, `culture`, `design`]}
+          thumbnail={`/game-boy-gallery-hero.jpeg`}
+          thumbnailAlt={"Three modded Game Boys"}
         />
         <div id="gameboys-list">
             {

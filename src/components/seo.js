@@ -58,15 +58,7 @@ const SEO = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
         {
           property: `og:type`,
           content: `website`,
-        },/* 
-        {
-          property: `og:image`,
-          content: `${site.siteMetadata.siteUrl}${site.siteMetadata.image}`,
-        }, *//* 
-        {
-          name: `twitter:card`,
-          content: `summary`,
-        }, */
+        },
         {
           name: `twitter:creator`,
           content: site.siteMetadata.social.twitterCreator,
@@ -82,11 +74,7 @@ const SEO = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
         {
           name: `twitter:description`,
           content: metaDescription,
-        },/* 
-        {
-          name: `twitter:image`,
-          content: `${site.siteMetadata.siteUrl}${site.siteMetadata.image}`,
-        }, */
+        },
       ]
       .concat(
         thumbnail
