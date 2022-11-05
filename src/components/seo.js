@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-const SEO = ({ description, lang, meta, title }) => {
+const SEO = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -31,6 +31,9 @@ const SEO = ({ description, lang, meta, title }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
+  
+  const defaultSeoImageUrl = `${site.siteMetadata.siteUrl}${site.siteMetadata.image}`
+  const thumbnailUrl = `${site.siteMetadata.siteUrl}${thumbnail}`
 
   return (
     <Helmet
@@ -55,15 +58,15 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           property: `og:type`,
           content: `website`,
-        },
+        },/* 
         {
           property: `og:image`,
           content: `${site.siteMetadata.siteUrl}${site.siteMetadata.image}`,
-        },
+        }, *//* 
         {
           name: `twitter:card`,
           content: `summary`,
-        },
+        }, */
         {
           name: `twitter:creator`,
           content: site.siteMetadata.social.twitterCreator,
@@ -79,12 +82,60 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           name: `twitter:description`,
           content: metaDescription,
-        },
+        },/* 
         {
           name: `twitter:image`,
           content: `${site.siteMetadata.siteUrl}${site.siteMetadata.image}`,
-        },
-      ].concat(meta)}
+        }, */
+      ]
+      .concat(
+        thumbnail
+          ? [
+              {
+                name: `og:image`,
+                content: thumbnailUrl,
+              },
+              {
+                name: `og:image:alt`,
+                content: thumbnailAlt || title,
+              },
+              {
+                name: `twitter:image`,
+                content: thumbnailUrl,
+              },
+              {
+                name: `twitter:image:alt`,
+                content: thumbnailAlt || title,
+              },
+              {
+                name: `twitter:card`,
+                content: `summary_large_image`,
+              },
+            ]
+          : [
+            {
+              name: `og:image`,
+              content: defaultSeoImageUrl,
+            },
+            {
+              name: `og:image:alt`,
+              content: thumbnailAlt || title,
+            },
+            {
+              name: `twitter:image`,
+              content: defaultSeoImageUrl,
+            },
+            {
+              name: `twitter:image:alt`,
+              content: thumbnailAlt || title,
+            },
+            {
+              name: `twitter:card`,
+              content: `summary`,
+            },
+            ]
+      )
+      .concat(meta)}
     />
   )
 }

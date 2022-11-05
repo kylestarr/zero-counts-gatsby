@@ -8,12 +8,15 @@ const GameboyTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
+  const seoThumbnail = (post.frontmatter.thumbnail.childImageSharp.original.src)
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        thumbnail={seoThumbnail}
+        thumbnailAlt={post.frontmatter.thumbnailAlt}
       />
       
       <article>
@@ -51,6 +54,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
       }
     }
     markdownRemark(fields: { filePath: { eq: $filePath } }) {
@@ -61,6 +65,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         slug
+        thumbnail {
+          childImageSharp {
+            original {
+              src
+            }
+          }
+        }
       }
     }
   }
