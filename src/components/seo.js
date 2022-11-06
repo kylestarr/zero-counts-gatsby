@@ -17,6 +17,9 @@ const SEO = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
         site {
           siteMetadata {
             title
+            author {
+              name
+            }
             description
             siteUrl
             image
@@ -43,6 +46,10 @@ const SEO = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
+        {
+          name: `author`,
+          content: site.siteMetadata.author.name,
+        },
         {
           name: `description`,
           content: metaDescription,
