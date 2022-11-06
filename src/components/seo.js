@@ -31,7 +31,7 @@ const SEO = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  
+
   const defaultSeoImageUrl = `${site.siteMetadata.siteUrl}${site.siteMetadata.image}`
   const thumbnailUrl = `${site.siteMetadata.siteUrl}${thumbnail}`
 
@@ -76,54 +76,56 @@ const SEO = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
           content: metaDescription,
         },
       ]
-      .concat(
-        thumbnail
-          ? [
-              {
-                name: `og:image`,
-                content: thumbnailUrl,
-              },
-              {
-                name: `og:image:alt`,
-                content: thumbnailAlt || title,
-              },
-              {
-                name: `twitter:image`,
-                content: thumbnailUrl,
-              },
-              {
-                name: `twitter:image:alt`,
-                content: thumbnailAlt || title,
-              },
-              {
-                name: `twitter:card`,
-                content: `summary_large_image`,
-              },
-            ]
-          : [
-            {
-              name: `og:image`,
-              content: defaultSeoImageUrl,
-            },
-            {
-              name: `og:image:alt`,
-              content: thumbnailAlt || title,
-            },
-            {
-              name: `twitter:image`,
-              content: defaultSeoImageUrl,
-            },
-            {
-              name: `twitter:image:alt`,
-              content: thumbnailAlt || title,
-            },
-            {
-              name: `twitter:card`,
-              content: `summary`,
-            },
-            ]
-      )
-      .concat(meta)}
+        .concat(
+          thumbnail
+            ? [
+                {
+                  name: `image`,
+                  property: `og:image`,
+                  content: thumbnailUrl,
+                },
+                {
+                  name: `og:image:alt`,
+                  content: thumbnailAlt || title,
+                },
+                {
+                  name: `twitter:image`,
+                  content: thumbnailUrl,
+                },
+                {
+                  name: `twitter:image:alt`,
+                  content: thumbnailAlt || title,
+                },
+                {
+                  name: `twitter:card`,
+                  content: `summary_large_image`,
+                },
+              ]
+            : [
+                {
+                  name: `image`,
+                  property: `og:image`,
+                  content: defaultSeoImageUrl,
+                },
+                {
+                  name: `og:image:alt`,
+                  content: thumbnailAlt || title,
+                },
+                {
+                  name: `twitter:image`,
+                  content: defaultSeoImageUrl,
+                },
+                {
+                  name: `twitter:image:alt`,
+                  content: thumbnailAlt || title,
+                },
+                {
+                  name: `twitter:card`,
+                  content: `summary`,
+                },
+              ]
+        )
+        .concat(meta)}
     />
   )
 }

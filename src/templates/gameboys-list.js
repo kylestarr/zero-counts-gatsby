@@ -25,6 +25,9 @@ class GameBoysIndex extends React.Component {
           ]}
           thumbnail={`/game-boy-gallery-hero.jpeg`}
           thumbnailAlt={"Three modded Game Boys"}
+          description={
+            "A gallery of custom Game Boy mods and materials used by Kyle Starr"
+          }
         />
         <div id="gameboys-list">
           {posts.map(({ node }) => {
