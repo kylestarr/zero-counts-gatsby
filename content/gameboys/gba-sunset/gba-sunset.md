@@ -1,6 +1,6 @@
 ---
 title: "Game Boy Advance, Sunset"
-date: 2021-12-22 09:00:00
+date: 2021-12-21 09:00:00
 slug: gba-sunset
 thumbnail: ./gba-sunset.jpeg
 tags:

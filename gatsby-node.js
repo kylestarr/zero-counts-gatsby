@@ -1,17 +1,16 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
-const redirects = require("./redirects.json");
+const redirects = require("./redirects.json")
 
 exports.createPages = async ({ graphql, actions }) => {
-  
   const { createRedirect } = actions
-  redirects.forEach(redirect => 
-		createRedirect({
-	    fromPath: redirect.fromPath,
-	    toPath: redirect.toPath,
-      statusCode: redirect.statusCode
-	  })
-	)
+  redirects.forEach(redirect =>
+    createRedirect({
+      fromPath: redirect.fromPath,
+      toPath: redirect.toPath,
+      statusCode: redirect.statusCode,
+    })
+  )
 
   const { createPage } = actions
 
@@ -20,7 +19,7 @@ exports.createPages = async ({ graphql, actions }) => {
     `
       {
         allMarkdownRemark(
-          filter: {fileAbsolutePath: {regex: "/posts/"}}
+          filter: { fileAbsolutePath: { regex: "/posts/" } }
           sort: { fields: [frontmatter___date], order: DESC }
           limit: 1000
         ) {
@@ -62,21 +61,21 @@ exports.createPages = async ({ graphql, actions }) => {
   })
 
   // Create blog post list pages
-  const postsPerPage = 5;
-  const numPages = Math.ceil(posts.length / postsPerPage);
+  const postsPerPage = 5
+  const numPages = Math.ceil(posts.length / postsPerPage)
 
   Array.from({ length: numPages }).forEach((_, i) => {
     createPage({
       path: i === 0 ? `/` : `/${i + 1}`,
-      component: path.resolve('./src/templates/blog-list.js'),
+      component: path.resolve("./src/templates/blog-list.js"),
       context: {
         limit: postsPerPage,
         skip: i * postsPerPage,
         numPages,
-        currentPage: i + 1
+        currentPage: i + 1,
       },
-    });
-  });
+    })
+  })
 
   // Create standalone articles. Ie. Non-filepath pages (Game Boy Post, etc)
   const gameboyTemplate = path.resolve(`./src/templates/gameboy-template.js`)
@@ -85,7 +84,7 @@ exports.createPages = async ({ graphql, actions }) => {
     `
       {
         allMarkdownRemark(
-          filter: {fileAbsolutePath: {regex: "/gameboys/"}}
+          filter: { fileAbsolutePath: { regex: "/gameboys/" } }
           sort: { fields: [frontmatter___date], order: DESC }
           limit: 1000
         ) {
@@ -104,11 +103,12 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     `
   )
-  
+
   const gameBoyPosts = gameBoyQuery.data.allMarkdownRemark.edges
 
   gameBoyPosts.forEach((gameBoyPost, index) => {
-    const previous = index === gameBoyPosts.length - 1 ? null : gameBoyPosts[index + 1].node
+    const previous =
+      index === gameBoyPosts.length - 1 ? null : gameBoyPosts[index + 1].node
     const next = index === 0 ? null : gameBoyPosts[index - 1].node
 
     createPage({
@@ -125,13 +125,13 @@ exports.createPages = async ({ graphql, actions }) => {
   // Create archive list page
   createPage({
     path: `/archive`,
-    component: path.resolve('./src/templates/archive-list.js'),
+    component: path.resolve("./src/templates/archive-list.js"),
   })
 
   // Create archive list page
   createPage({
-    path: `/gameboys`,
-    component: path.resolve('./src/templates/gameboys-list.js'),
+    path: `/gameboys/`,
+    component: path.resolve("./src/templates/gameboys-list.js"),
   })
 }
 
