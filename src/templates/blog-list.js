@@ -1,8 +1,8 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
+import React from "react"
+import { Link, graphql } from "gatsby"
 
-import SEO from '../components/seo'
-import Layout from '../components/layout'
+import Seo from "../components/seo"
+import Layout from "../components/layout"
 
 class BlogIndex extends React.Component {
   render() {
@@ -12,50 +12,53 @@ class BlogIndex extends React.Component {
     const { currentPage, numPages } = this.props.pageContext
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
-    const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
+    const prevPage = currentPage - 1 === 1 ? "/" : (currentPage - 1).toString()
     const nextPage = (currentPage + 1).toString()
-    
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
+        <Seo
           title={siteTitle}
-          keywords={[`video games`, `blog`, `business`, `education`, `culture`, `design`]}
+          keywords={[
+            `video games`,
+            `blog`,
+            `business`,
+            `education`,
+            `culture`,
+            `design`,
+          ]}
         />
-        
+
         <div id="blog-list">
-        {posts.map(({ node }) => {
-        const title = node.frontmatter.title || node.fields.filePath
-        return (
-          <article key={node.fields.filePath}>
-              <h2>
-                <Link to={node.fields.filePath}>
-                  {title}
-                </Link>
-              </h2>
-              <date>
-                {node.frontmatter.date}
-              </date>
-            <div
-                dangerouslySetInnerHTML={{
-                  __html: node.html,
-                }}
-              />
-          </article>
-        )
-      })}
-      </div>
-      <nav id="list-pagination">
-        {!isLast && (
-          <Link to={`../${nextPage}`} rel="next">
-            ← Older
-          </Link>
-        )}
-        {!isFirst && (
-          <Link to={`../${prevPage}`} rel="prev">
-            Newer →
-          </Link>
-        )}
-      </nav>
+          {posts.map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.filePath
+            return (
+              <article key={node.fields.filePath}>
+                <h2>
+                  <Link to={node.fields.filePath}>{title}</Link>
+                </h2>
+                <date>{node.frontmatter.date}</date>
+                <div
+                  dangerouslySetInnerHTML={{
+                    __html: node.html,
+                  }}
+                />
+              </article>
+            )
+          })}
+        </div>
+        <nav id="list-pagination">
+          {!isLast && (
+            <Link to={`../${nextPage}`} rel="next">
+              ← Older
+            </Link>
+          )}
+          {!isFirst && (
+            <Link to={`../${prevPage}`} rel="prev">
+              Newer →
+            </Link>
+          )}
+        </nav>
       </Layout>
     )
   }
@@ -71,7 +74,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
       limit: $limit
       skip: $skip
     ) {

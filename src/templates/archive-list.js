@@ -1,39 +1,40 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
+import React from "react"
+import { Link, graphql } from "gatsby"
 
-import SEO from '../components/seo'
-import Layout from '../components/layout'
+import Seo from "../components/seo"
+import Layout from "../components/layout"
 
 class ArchiveIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
-    
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
+        <Seo
           title={siteTitle}
-          keywords={[`video games`, `blog`, `business`, `education`, `culture`, `design`]}
+          keywords={[
+            `video games`,
+            `blog`,
+            `business`,
+            `education`,
+            `culture`,
+            `design`,
+          ]}
         />
         <div id="archive-list">
-            {
-                posts.map(({ node }) => {
-                    const title = node.frontmatter.title || node.fields.filePath
-                    return (
-                        <article key={node.fields.filePath}>
-                            <h2>
-                                <Link to={node.fields.filePath}>
-                                    {title}
-                                </Link>
-                            </h2>
-                            <date>
-                                {node.frontmatter.date}
-                            </date>
-                        </article>
-                    ) 
-                })
-            }
+          {posts.map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.filePath
+            return (
+              <article key={node.fields.filePath}>
+                <h2>
+                  <Link to={node.fields.filePath}>{title}</Link>
+                </h2>
+                <date>{node.frontmatter.date}</date>
+              </article>
+            )
+          })}
         </div>
       </Layout>
     )
@@ -50,20 +51,20 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-        filter: {fileAbsolutePath: {regex: "/posts/"}}
-        ) {
-        edges {
-            node {
-              frontmatter {
-                title
-                date(formatString: "MMMM DD, YYYY")
-              }
-              fields {
-                filePath
-              }
-            }
+      sort: { frontmatter: { date: DESC } }
+      filter: { fileAbsolutePath: { regex: "/posts/" } }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            title
+            date(formatString: "MMMM DD, YYYY")
+          }
+          fields {
+            filePath
+          }
         }
+      }
     }
   }
 `
