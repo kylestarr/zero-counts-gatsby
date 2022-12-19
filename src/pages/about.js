@@ -37,9 +37,9 @@ const About = ({ data, location }) => {
       <p>
         Email: <a href="mailto:info@zerocounts.net">info@zerocounts.net</a>
       </p>
-      <p>
+      {/* <p>
         Twitter: <a href="https://twitter.com/_zerocounts">@_zerocounts</a>
-      </p>
+      </p> */}
       <hr />
       {/* <h2>Other Projects by Kyle Starr</h2>
         <h3>Music</h3>
