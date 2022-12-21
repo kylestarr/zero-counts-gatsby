@@ -28,6 +28,6 @@ tags:
 >
 > That is quite the round trip, and it’s worth pointing out that attempting to freeze the market in its current iteration at any point over the last forty years would have foreclosed future changes.
 
-If I rely on Ben Thompson for one thing, it's to abstract core principles, milestones, and maneuvers from the complexities of business history into simple patterns and through lines. This piece is a shining example.
+If I rely on Ben Thompson for one thing, it's to distill core principles, milestones, and maneuvers from the complexities of business history into simple patterns and through lines. This piece is a shining example.
 
 Thompson's argument aside, "Consoles and Competition" serves as a tight history of the video game business.
