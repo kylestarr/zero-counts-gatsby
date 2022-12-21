@@ -14,7 +14,7 @@ tags:
   - atari
 ---
 
-[Ben Thompson, Stratechery](https://stratechery.com/2022/consoles-and-competition/):
+[Ben Thompson](https://stratechery.com/2022/consoles-and-competition/):
 
 > Forty years of context may seem like overkill when it comes to examining the FTC’s attempt to block Microsoft’s acquisition of Activision, but I think it is essential for multiple reasons.
 >
