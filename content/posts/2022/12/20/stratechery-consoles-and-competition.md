@@ -30,4 +30,4 @@ tags:
 
 If I rely on Ben Thompson for one thing, it's to distill core principles, milestones, and maneuvers from the complexities of business history into simple patterns and through lines. This piece is a shining example.
 
-Thompson's argument aside, "Consoles and Competition" serves as a tight history of the video game business.
+Thompson's argument aside, "Consoles and Competition" serves as a succinct and beautiful history of the video game business.
