@@ -1,7 +1,7 @@
 ---
-title: "Consoles and Competition"
+title: "Stratechery: Consoles and Competition"
 date: 2022-12-20 16:20:00
-url: /consoles-and-competition/
+url: /stratechery-consoles-and-competition/
 categories:
   - Business
 tags:
