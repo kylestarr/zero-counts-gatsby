@@ -21,6 +21,11 @@ const Footer = () => {
           gatsbyImageData(width: 42, layout: CONSTRAINED)
         }
       }
+      feed: file(absolutePath: { regex: "/feed-icon-84.png/" }) {
+        childImageSharp {
+          gatsbyImageData(width: 42, layout: CONSTRAINED)
+        }
+      }
     }
   `)
 
@@ -38,6 +43,14 @@ const Footer = () => {
         {/* <div class="social-icon">
                     <a href="http://twitter.com/_zerocounts" id="twitter"><GatsbyImage image={data.twitter.childImageSharp.gatsbyImageData} alt="twitter icon" /></a>
                 </div> */}
+        <div class="social-icon">
+          <a href="https://zerocounts.net/rss.xml" id="rss-feed">
+            <GatsbyImage
+              image={data.feed.childImageSharp.gatsbyImageData}
+              alt="feed icon"
+            />
+          </a>
+        </div>
         <div class="social-icon">
           <a href="mailto:info@zerocounts.net" id="email">
             <GatsbyImage

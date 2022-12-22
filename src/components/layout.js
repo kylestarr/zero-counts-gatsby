@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from 'gatsby'
+import { Link } from "gatsby"
 
 import Header from "../components/header"
 import Footer from "../components/footer"
@@ -15,13 +15,14 @@ const Layout = ({ title, children }) => {
         <div class="col-xs-0 col-sm-2 col-md-2 col-lg-3"></div>
       </div>
       <div class="row nav">
-          <div class="col-xs-0 col-sm-2 col-md-2 col-lg-3"></div>
-          <div class="col-xs-12 col-sm-8 col-md-8 col-lg-6">
-            <Link to={"/archive"}>Archive</Link>
-            <Link to={"/gameboys"}>Game Boy Mods</Link>
-          </div>
-          <div class="col-xs-0 col-sm-2 col-md-2 col-lg-3"></div>
+        <div class="col-xs-0 col-sm-2 col-md-2 col-lg-3"></div>
+        <div class="col-xs-12 col-sm-8 col-md-8 col-lg-6">
+          <Link to={"/archive"}>Archive</Link>
+          <Link to={"/gameboys"}>Game Boy Mods</Link>
+          <a href="https://zerocounts.net/rss.xml">RSS Feed</a>
         </div>
+        <div class="col-xs-0 col-sm-2 col-md-2 col-lg-3"></div>
+      </div>
       <div class="row">
         <div class="col-xs-0 col-sm-2 col-md-2 col-lg-3"></div>
         <div class="col-xs-12 col-sm-8 col-md-8 col-lg-6">
