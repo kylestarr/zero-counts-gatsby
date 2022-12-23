@@ -132,7 +132,7 @@ module.exports = {
             },
             query: `
               {
-                allMarkdownRemark(sort: { frontmatter: { date: DESC }}) {
+                allMarkdownRemark(sort: { frontmatter: { date: DESC }}, limit: 50) {
                   edges {
                     node {
                       excerpt
