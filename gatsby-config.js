@@ -105,7 +105,7 @@ module.exports = {
       resolve: `gatsby-plugin-gatsby-cloud`,
       options: {
         headers: {
-          "/rss.xml": ["Content-Type: application/rss+xml; charset=utf-8"],
+          "/rss.xml": ["Content-Type: application/xml"],
         },
       },
     },
@@ -160,8 +160,5 @@ module.exports = {
         ],
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 }
