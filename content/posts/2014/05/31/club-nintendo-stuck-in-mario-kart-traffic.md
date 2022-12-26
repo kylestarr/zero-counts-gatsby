@@ -31,11 +31,11 @@ Since opening my copy of Mario Kart 8 last night (7p PST), I've had intermittent
 > We apologize for any inconvenience.
 >
 > Remember to hang on to your product registration codes and make a note of your serial numbers - we'll be back soon so you can register your products.
-> 
+>
 > Please note, it is not necessary to register your hardware to begin your warranty. This is done automatically at the retailer when you purchase your product. However, please check back to register your products for Club Nintendo benefits, including hardware warranty extensions.
-> 
+>
 > Forum users please note, the Tech Support Forums will be in read-only mode during this time. All existing Forum topics, posts, and replies will remain available for those looking for technical assistance with Nintendo products. No new threads or messages can be created until Club Nintendo is back up.
-> 
+>
 > Please try back later.
 
 **UPDATE 2**: Club Nintendo seems to be back online, still with some spotty maintenance around account management.

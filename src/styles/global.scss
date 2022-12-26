@@ -42,6 +42,7 @@ body {
   letter-spacing: 2px;
   text-align: center;
   padding-top: 2em;
+  line-height: 2em;
 
   a,
   a:visited,
@@ -129,7 +130,7 @@ h1,
 #blog-list article div h2 {
   font-weight: 600;
   font-size: 18px;
-  color: #999
+  color: #999;
   /* text-transform: none; */
 }
 
@@ -144,7 +145,7 @@ h2 {
   font-weight: 600;
   font-size: 18px;
   text-transform: uppercase;
-  color: #999
+  color: #999;
 }
 
 h3 {
@@ -341,7 +342,7 @@ nav {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 15px;
   align-items: stretch;
-  
+
   .article {
     h2 {
       margin: 0;
@@ -353,21 +354,21 @@ nav {
       text-align: center;
       line-height: 160%;
     }
-    
+
     a {
       .article-thumbnail {
         opacity: 0.7;
         border: none;
       }
     }
-    
+
     a:hover {
       .article-thumbnail {
         opacity: 1;
       }
 
       h2 {
-        color: #FFFFFF
+        color: #ffffff;
       }
     }
   }
@@ -378,11 +379,11 @@ nav {
   #gameboys-list {
     display: grid;
     grid-template-columns: 1fr;
-    
+
     .article {
       h2 {
         margin: 0;
-        color: #FFFFFF;
+        color: #ffffff;
         font-size: 13px;
         font-weight: 600;
         text-decoration: none;
@@ -390,21 +391,21 @@ nav {
         text-align: center;
         line-height: 160%;
       }
-      
+
       a {
         .article-thumbnail {
           opacity: 1;
           border: none;
         }
       }
-      
+
       a:active {
         .article-thumbnail {
-          opacity: .7;
+          opacity: 0.7;
         }
-  
+
         h2 {
-          color: #999
+          color: #999;
         }
       }
     }

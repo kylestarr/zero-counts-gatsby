@@ -101,9 +101,64 @@ module.exports = {
     `gatsby-plugin-sass`,
     "gatsby-plugin-meta-redirect",
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-gatsby-cloud`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-gatsby-cloud`,
+      options: {
+        headers: {
+          "/rss.xml": ["Content-Type: application/xml"],
+        },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.excerpt,
+                  date: edge.node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + edge.node.fields.filePath,
+                  guid: site.siteMetadata.siteUrl + edge.node.fields.filePath,
+                  custom_elements: [{ "content:encoded": edge.node.html }],
+                })
+              })
+            },
+            query: `
+              {
+                allMarkdownRemark(sort: { frontmatter: { date: DESC }}, limit: 50) {
+                  edges {
+                    node {
+                      excerpt
+                      html
+                      fields { filePath }
+                      frontmatter {
+                        title
+                        date
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "rss.xml",
+            title: "Zero Counts",
+          },
+        ],
+      },
+    },
   ],
 }
