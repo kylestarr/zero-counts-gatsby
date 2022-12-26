@@ -40,16 +40,13 @@ const Footer = () => {
             />
           </Link>
         </div>
-        {/* <div class="social-icon">
-                    <a href="http://twitter.com/_zerocounts" id="twitter"><GatsbyImage image={data.twitter.childImageSharp.gatsbyImageData} alt="twitter icon" /></a>
-                </div> */}
         <div class="social-icon">
-          <a href="https://zerocounts.net/rss.xml" id="rss-feed">
+          <Link to={"/rss.xml"} id="rss-feed">
             <GatsbyImage
               image={data.feed.childImageSharp.gatsbyImageData}
               alt="feed icon"
             />
-          </a>
+          </Link>
         </div>
         <div class="social-icon">
           <a href="mailto:info@zerocounts.net" id="email">
