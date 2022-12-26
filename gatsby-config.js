@@ -105,7 +105,7 @@ module.exports = {
       resolve: `gatsby-plugin-gatsby-cloud`,
       options: {
         headers: {
-          "/rss.xml": ["Content-Type: application/rss+xml"],
+          "/rss.xml": ["content-type: application/rss+xml"],
         },
       },
     },
