@@ -101,17 +101,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     "gatsby-plugin-meta-redirect",
     `gatsby-plugin-sitemap`,
-    {
-      resolve: `gatsby-plugin-gatsby-cloud`,
-      options: {
-        headers: {
-          "/rss.xml": [
-            "Content-Type: application/rss+xml",
-            "Cache-Control: max-age=0",
-          ],
-        },
-      },
-    },
+    `gatsby-plugin-gatsby-cloud`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
