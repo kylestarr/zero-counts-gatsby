@@ -105,8 +105,14 @@ module.exports = {
       resolve: `gatsby-plugin-gatsby-cloud`,
       options: {
         headers: {
+          "/*": [
+            "X-Frame-Options: DENY",
+            "X-XSS-Protection: 1; mode=block",
+            "Referrer-Policy: same-origin",
+          ],
           "/rss.xml": ["Content-Type: text/xml"],
         },
+        mergeSecurityHeaders: false,
       },
     },
     {
