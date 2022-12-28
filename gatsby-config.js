@@ -102,20 +102,6 @@ module.exports = {
     "gatsby-plugin-meta-redirect",
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-gatsby-cloud`,
-    /* {
-      resolve: `gatsby-plugin-gatsby-cloud`,
-      options: {
-        headers: {
-          "/*": [
-            "X-Frame-Options: DENY",
-            "X-XSS-Protection: 1; mode=block",
-            "Referrer-Policy: same-origin",
-          ],
-          "/rss.xml": ["Content-Type: text/xml"],
-        },
-        mergeSecurityHeaders: false,
-      },
-    }, */
     {
       resolve: `gatsby-plugin-feed`,
       options: {
