@@ -7,7 +7,7 @@ module.exports = {
     },
     description: `A blog about video games, mostly.`,
     siteUrl: `https://zerocounts.net/`,
-    image: "/zero-counts-logo-1200.png",
+    image: "src/images/zero-counts-logo-5000.png",
     social: {
       twitterCreator: `@_kylestarr`,
       twitterSite: `@_zerocounts`,
@@ -19,13 +19,6 @@ module.exports = {
       options: {
         path: `${__dirname}/content/posts`,
         name: `posts`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
       },
     },
     {
@@ -101,7 +94,7 @@ module.exports = {
         background_color: `#000000`,
         theme_color: `#000000`,
         display: `standalone`,
-        icon: `content/assets/zero-counts-logo-512.png`,
+        icon: `src/images/zero-counts-logo-512.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
