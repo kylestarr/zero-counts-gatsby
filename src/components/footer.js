@@ -1,58 +1,38 @@
 import { Link } from "gatsby"
 import React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-import { GatsbyImage } from "gatsby-plugin-image"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Footer = () => {
-  const data = useStaticQuery(graphql`
-    query iconQuery {
-      logo: file(absolutePath: { regex: "/info-icon-84.png/" }) {
-        childImageSharp {
-          gatsbyImageData(width: 42, layout: CONSTRAINED)
-        }
-      }
-      twitter: file(absolutePath: { regex: "/twitter-logo-white-84.png/" }) {
-        childImageSharp {
-          gatsbyImageData(width: 42, layout: CONSTRAINED)
-        }
-      }
-      email: file(absolutePath: { regex: "/mail-icon-84.png/" }) {
-        childImageSharp {
-          gatsbyImageData(width: 42, layout: CONSTRAINED)
-        }
-      }
-      feed: file(absolutePath: { regex: "/feed-icon-84.png/" }) {
-        childImageSharp {
-          gatsbyImageData(width: 42, layout: CONSTRAINED)
-        }
-      }
-    }
-  `)
-
   return (
     <footer>
       <div class="social">
         <div class="social-icon">
           <Link to="/about">
-            <GatsbyImage
-              image={data.logo.childImageSharp.gatsbyImageData}
+            <StaticImage
+              src="../images/info-icon-84.png"
               alt="about icon"
+              layout="constrained"
+              width={42}
             />
           </Link>
         </div>
         <div class="social-icon">
           <Link to={"/rss.xml"} id="rss-feed">
-            <GatsbyImage
-              image={data.feed.childImageSharp.gatsbyImageData}
+            <StaticImage
+              src="../images/feed-icon-84.png"
               alt="feed icon"
+              layout="constrained"
+              width={42}
             />
           </Link>
         </div>
         <div class="social-icon">
           <a href="mailto:info@zerocounts.net" id="email">
-            <GatsbyImage
-              image={data.email.childImageSharp.gatsbyImageData}
-              alt="email icon"
+            <StaticImage
+              src="../images/mail-icon-84.png"
+              alt="feed icon"
+              layout="constrained"
+              width={42}
             />
           </a>
         </div>
