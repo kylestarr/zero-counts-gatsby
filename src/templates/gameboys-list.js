@@ -33,10 +33,10 @@ class GameBoysIndex extends React.Component {
           {posts.map(({ node }) => {
             const title = node.frontmatter.title
             return (
-              <div class="article">
+              <div className="article">
                 <Link to={node.frontmatter.slug}>
                   <article key={node.frontmatter.slug}>
-                    <div class="article-thumbnail">
+                    <div className="article-thumbnail">
                       <GatsbyImage
                         image={getImage(node.frontmatter.thumbnail)}
                         alt={node.frontmatter.title}

@@ -5,8 +5,8 @@ import { StaticImage } from "gatsby-plugin-image"
 const Footer = () => {
   return (
     <footer>
-      <div class="social">
-        <div class="social-icon">
+      <div className="social">
+        <div className="social-icon">
           <Link to="/about">
             <StaticImage
               src="../images/info-icon-84.png"
@@ -16,7 +16,7 @@ const Footer = () => {
             />
           </Link>
         </div>
-        <div class="social-icon">
+        <div className="social-icon">
           <Link to={"/rss.xml"} id="rss-feed">
             <StaticImage
               src="../images/feed-icon-84.png"
@@ -26,7 +26,7 @@ const Footer = () => {
             />
           </Link>
         </div>
-        <div class="social-icon">
+        <div className="social-icon">
           <a href="mailto:info@zerocounts.net" id="email">
             <StaticImage
               src="../images/mail-icon-84.png"
