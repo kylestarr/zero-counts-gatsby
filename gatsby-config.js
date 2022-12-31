@@ -1,17 +1,13 @@
 module.exports = {
   siteMetadata: {
     title: `Zero Counts`,
-    author: {
-      name: `Kyle Starr`,
-      summary: `Since 1985`,
-    },
     description: `A blog about video games, mostly.`,
+    name: `Kyle Starr`,
+    summary: `Since 1985`,
     siteUrl: `https://zerocounts.net/`,
     image: "src/images/zero-counts-logo-5000.png",
-    social: {
-      twitterCreator: `@_kylestarr`,
-      twitterSite: `@_zerocounts`,
-    },
+    twitterCreator: `@_kylestarr`,
+    twitterSite: `@_zerocounts`,
   },
   plugins: [
     {

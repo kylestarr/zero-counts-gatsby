@@ -17,16 +17,12 @@ const Seo = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
         site {
           siteMetadata {
             title
-            author {
-              name
-            }
+            name
             description
             siteUrl
             image
-            social {
-              twitterCreator
-              twitterSite
-            }
+            twitterCreator
+            twitterSite
           }
         }
       }
@@ -48,7 +44,7 @@ const Seo = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
       meta={[
         {
           name: `author`,
-          content: site.siteMetadata.author.name,
+          content: site.siteMetadata.name,
         },
         {
           name: `description`,
@@ -68,11 +64,11 @@ const Seo = ({ description, lang, meta, title, thumbnail, thumbnailAlt }) => {
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.social.twitterCreator,
+          content: site.siteMetadata.twitterCreator,
         },
         {
           name: `twitter:site`,
-          content: site.siteMetadata.social.twitterSite,
+          content: site.siteMetadata.twitterSite,
         },
         {
           name: `twitter:title`,

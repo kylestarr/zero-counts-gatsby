@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Seo from "../components/seo.jsx"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -11,15 +11,15 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo
+      {/* <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
-      />
+      /> */}
 
       <article>
         <header>
           <h1>{post.frontmatter.title}</h1>
-          <date>{post.frontmatter.date}</date>
+          <time>{post.frontmatter.date}</time>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>
@@ -40,6 +40,15 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
 }
 
 export default BlogPostTemplate
+
+export const Head = ({ data }) => (
+  <Seo
+    title={`${data.markdownRemark.frontmatter.title} - ${data.site.siteMetadata.title}`}
+    description={
+      data.markdownRemark.frontmatter.description || data.markdownRemark.excerpt
+    }
+  />
+)
 
 export const pageQuery = graphql`
   query BlogPostByfilePath($filePath: String!) {
