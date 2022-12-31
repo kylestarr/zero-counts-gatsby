@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Seo from "../components/seo"
+import Seo from "../components/seo.jsx"
 import Layout from "../components/layout"
 
 class BlogIndex extends React.Component {
@@ -17,18 +17,6 @@ class BlogIndex extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <Seo
-          title={siteTitle}
-          keywords={[
-            `video games`,
-            `blog`,
-            `business`,
-            `education`,
-            `culture`,
-            `design`,
-          ]}
-        />
-
         <div id="blog-list">
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.filePath
@@ -65,6 +53,10 @@ class BlogIndex extends React.Component {
 }
 
 export default BlogIndex
+
+export const Head = ({ data }) => (
+  <Seo title={`${data.site.siteMetadata.title}`} />
+)
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {

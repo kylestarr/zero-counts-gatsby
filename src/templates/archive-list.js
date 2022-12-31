@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
 
-import Seo from "../components/seo"
+import Seo from "../components/seo.jsx"
 import Layout from "../components/layout"
 
 class ArchiveIndex extends React.Component {
@@ -12,17 +12,6 @@ class ArchiveIndex extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <Seo
-          title={siteTitle}
-          keywords={[
-            `video games`,
-            `blog`,
-            `business`,
-            `education`,
-            `culture`,
-            `design`,
-          ]}
-        />
         <div id="archive-list">
           {posts.map(({ node }) => {
             const title = node.frontmatter.title || node.fields.filePath
@@ -42,6 +31,10 @@ class ArchiveIndex extends React.Component {
 }
 
 export default ArchiveIndex
+
+export const Head = ({ data }) => (
+  <Seo title={`Archive - ${data.site.siteMetadata.title}`} />
+)
 
 export const pageQuery = graphql`
   query archiveListQuery {

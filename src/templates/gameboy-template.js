@@ -2,23 +2,15 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Seo from "../components/seo.jsx"
 
 const GameboyTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
-  const seoThumbnail = post.frontmatter.thumbnail.childImageSharp.original.src
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
-        thumbnail={seoThumbnail}
-        thumbnailAlt={post.frontmatter.thumbnailAlt}
-      />
-
       <article>
         <header>
           <h1>{post.frontmatter.title}</h1>
@@ -51,6 +43,19 @@ const GameboyTemplate = ({ data, pageContext, location }) => {
 }
 
 export default GameboyTemplate
+
+export const Head = ({ data }) => (
+  <Seo
+    title={`${data.markdownRemark.frontmatter.title} - Game Boy Mods - ${data.site.siteMetadata.title}`}
+    description={
+      data.markdownRemark.frontmatter.description || data.markdownRemark.excerpt
+    }
+    thumbnail={
+      data.markdownRemark.frontmatter.thumbnail.childImageSharp.original.src
+    }
+    thumbnailAlt={data.markdownRemark.frontmatter.thumbnailAlt}
+  />
+)
 
 export const pageQuery = graphql`
   query GameboyByfilePath($filePath: String!) {

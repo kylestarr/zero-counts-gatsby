@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 
-import Seo from "../components/seo"
+import Seo from "../components/seo.jsx"
 import Layout from "../components/layout"
 
 class GameBoysIndex extends React.Component {
@@ -13,22 +13,6 @@ class GameBoysIndex extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <Seo
-          title={"Game Boy Modding Gallery"}
-          keywords={[
-            `video games`,
-            `blog`,
-            `business`,
-            `education`,
-            `culture`,
-            `design`,
-          ]}
-          thumbnail={`/game-boy-gallery-hero.jpeg`}
-          thumbnailAlt={"Three modded Game Boys"}
-          description={
-            "A gallery of custom Game Boy mods and materials used by Kyle Starr"
-          }
-        />
         <div id="gameboys-list">
           {posts.map(({ node }) => {
             const title = node.frontmatter.title
@@ -55,6 +39,17 @@ class GameBoysIndex extends React.Component {
 }
 
 export default GameBoysIndex
+
+export const Head = ({ data }) => (
+  <Seo
+    title={"Game Boy Modding Gallery"}
+    thumbnail={`/static/game-boy-gallery-hero.jpeg`}
+    thumbnailAlt={"Three modded Game Boys"}
+    description={
+      "A gallery of custom Game Boy mods and materials used by Kyle Starr"
+    }
+  />
+)
 
 export const pageQuery = graphql`
   query gameboysListQuery {
