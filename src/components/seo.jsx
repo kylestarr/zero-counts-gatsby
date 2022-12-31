@@ -23,7 +23,7 @@ const Seo = ({
     title: title || defaultTitle,
     description: description || defaultDescription,
     name,
-    image: `${siteUrl}${thumbnail}` || `${siteUrl}/${image}`,
+    image: `${siteUrl}${pathname || `/${image}`}`,
     url: `${siteUrl}${pathname || ``}`,
     twitterCreator,
     twitterSite,
