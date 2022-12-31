@@ -1,6 +1,6 @@
 ---
 title: "Monique Judge: ‘Bring back personal blogging’"
-date: 20221231T134500-0800
+date: 2022-12-31 13:45:00
 url: /monique-judge-bring-back-personal-blogging/
 categories:
   - Media
