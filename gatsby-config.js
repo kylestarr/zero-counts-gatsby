@@ -93,7 +93,6 @@ module.exports = {
         icon: `src/images/zero-counts-logo-512.png`,
       },
     },
-    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     "gatsby-plugin-meta-redirect",
     `gatsby-plugin-sitemap`,
