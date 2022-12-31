@@ -31,7 +31,7 @@ class ArchiveIndex extends React.Component {
                 <h2>
                   <Link to={node.fields.filePath}>{title}</Link>
                 </h2>
-                <date>{node.frontmatter.date}</date>
+                <time>{node.frontmatter.date}</time>
               </article>
             )
           })}
