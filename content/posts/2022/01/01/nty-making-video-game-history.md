@@ -1,6 +1,6 @@
 ---
 title: "NYT: Making video game history"
-date: 2022-01-03 08:00:00
+date: 2022-01-03 08:00:00-08:00
 url: /nyt-making-video-game-history/
 categories:
   - Media

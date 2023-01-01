@@ -1,6 +1,6 @@
 ---
 title: "Reggie Fils-Aimé on the Wii U Struggle"
-date: 2022-05-20 10:55:00
+date: 2022-05-20 10:55:00-08:00
 url: /reggie-fils-amie-on-the-wii-u-struggle/
 categories:
   - Business
@@ -12,6 +12,7 @@ tags:
 ---
 
 Reggie Fils-Aimé discussing the Wii U's struggle to perform in his new memior ["Disrupting the Game](https://www.reggiefils-aime.com/book):
+
 > New versions of key software in the _Mario Kart_ and _Legend of Zelda_ franchises were not coming until 2014 or later. Coupled with the announcements that new Xbox and PlayStation consoles were launching during holiday 2013, Wii U sales struggled to gain momentum.
 >
 > Once again, we were faced with a difficult situation that had to be addressed immediately. Wii U had launched with two versions: white with limited storage at $299 and black with four times the storage capacity at $349 including the game _Nintendo Land_, which we had featured during the 2012 E3 conference. We had hoped this game would be a system seller like _Wii Sports_, but it did not live up to our expectations. There was not enough volume to support the two different versions at retail, and the black bundle was outselling the white one dramatically, even with the higher price.

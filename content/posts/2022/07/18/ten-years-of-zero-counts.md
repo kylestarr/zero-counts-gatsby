@@ -1,6 +1,6 @@
 ---
 title: "Ten Years of Zero Counts"
-date: 2022-07-18 15:45:00
+date: 2022-07-18 15:45:00-08:00
 url: /ten-years-of-zero-counts/
 categories:
   - General
@@ -14,7 +14,7 @@ Today, I stumbled upon the [Rands in Repose 20th anniversary post](https://rands
 
 > Sometime during 2022, this weblog turned twenty years old. No one noticed, including me. While I write for this place actively, other creative endeavors increasingly occupy my free time, including the aforementioned Slack community, the podcast, and the bikes. This means fewer articles per year, but the writing… never stops.
 
-Sometime during 2022, *this* weblog turned ten years old. No one noticed, including me.
+Sometime during 2022, _this_ weblog turned ten years old. No one noticed, including me.
 
 In an fit of self-preservation and soul searching, I doled out the history of Zero Counts below. It's amazing to see what this blog has brought me. It was an effort to break into games journalism. Professionaly, that goal was never realized. But the blog exists, therefore my writings on the games industry also exist. So, in a way, the goal was realized from the start.
 
@@ -32,7 +32,7 @@ Here's to ten more years of writing, developing, and learning. 🥃
 
 Somewhere around April 13, 2012, I simultaneously fell in love with running, podcasts, and blogging. I had relocated for an intra-company internship away from friends and family. I would bide my time between work and sleep with jogging. I had grown tired of listening to music and decided to give podcasts a fair shake. The Nerdist Network of shows all featured cohesive artwork which enticed me to subscribe to a handful. I immediately locked into the (now defunct and delisted) Indoor Kids, a video game podcast hosted by (then small-time comedian) Kumail Nanjiani, his wife Emily Gordon, and a rotating cast of comedy and industry guests. I was smitten. Their mature conversations about video games came off as novel and inspired me to explore my own thoughts on games.
 
-During the internship, I'd purchased an Xbox 360 and *Skyrim* to pass the time. I quickly realized I was chasing more side-quests than focusing on the main objective. I drew a corollary to my own life, wrote my first post "[Finding the Rails](/2012/04/13/finding-the-rails/)", and sent a copy to Kumail and Emily. And Emily wrote back! This was a powerful moment. My writing felt validated and these podcasters felt real.
+During the internship, I'd purchased an Xbox 360 and _Skyrim_ to pass the time. I quickly realized I was chasing more side-quests than focusing on the main objective. I drew a corollary to my own life, wrote my first post "[Finding the Rails](/2012/04/13/finding-the-rails/)", and sent a copy to Kumail and Emily. And Emily wrote back! This was a powerful moment. My writing felt validated and these podcasters felt real.
 
 ## 2012–2014
 
@@ -46,7 +46,7 @@ I began writing multiple posts a week, squeezing the most fleeting thoughts for 
 
 ### INTERLUDE
 
-*As fate would have it, it was also around this time that I found myself joining the podcasts industry. After my internship, I'd struggled for more than a year to find the next step in my career journey. However, the inspiration I'd had from The Indoor Kids never left. I'd launched my own podcast focused on my friends' journeys into their dream jobs. Creating a podcast was harder than I thought it ought to be. I happened upon a job listening as a podcast content producer and landed the gig on my background in customer service, my experience launching a podcast, and my misgivings about the barrier to entry. This will serve me in the future...*
+_As fate would have it, it was also around this time that I found myself joining the podcasts industry. After my internship, I'd struggled for more than a year to find the next step in my career journey. However, the inspiration I'd had from The Indoor Kids never left. I'd launched my own podcast focused on my friends' journeys into their dream jobs. Creating a podcast was harder than I thought it ought to be. I happened upon a job listening as a podcast content producer and landed the gig on my background in customer service, my experience launching a podcast, and my misgivings about the barrier to entry. This will serve me in the future..._
 
 ---
 
@@ -56,7 +56,7 @@ In a desire to own my content, I took blogging beyond the writing itself and dec
 
 Seeing as my content was moving in an industry and culture focused direction, I felt a rebrand was also in order. I chose "The State of Gaming". "State" was play on "government", meant to focus on aspects outside of the games themselves — culture, social, education, health, business… government. This was the lens that Kumail and Emily used for Indoor Kids and inspired me to write in the first place.
 
-With this new format, I felt like I was making active contributions to video game journalism. In doing so, I began analyzing video game companies' business tactics. In "[Hail Mario](/2014/06/01/hail-mario/)", I took a stab at understanding Nintendo's *Mario Kart 8* release strategy. To my shock, the post was [picked up by Daring Fireball](https://daringfireball.net/linked/2014/06/01/hail-mario). Views on this post shot through the roof. It was also with the Daring Fireball link that I began to meet new acquaintances on Twitter. Folks like [Zach Kahn](https://twitter.com/zkahn?s=21&t=SLS5w90JQ66BrP_jTeqqvg) (then at Vox Media), [Into the Aether](https://intothecast.online)'s [Brendon Bigley](https://twitter.com/brendonbigley?s=21&t=SLS5w90JQ66BrP_jTeqqvg), [Stratechery](https://stratechery.com)'s [Ben Thompson](https://twitter.com/benthompson?s=21&t=SLS5w90JQ66BrP_jTeqqvg). There was a sense that connecting with the media world could become a reality.
+With this new format, I felt like I was making active contributions to video game journalism. In doing so, I began analyzing video game companies' business tactics. In "[Hail Mario](/2014/06/01/hail-mario/)", I took a stab at understanding Nintendo's _Mario Kart 8_ release strategy. To my shock, the post was [picked up by Daring Fireball](https://daringfireball.net/linked/2014/06/01/hail-mario). Views on this post shot through the roof. It was also with the Daring Fireball link that I began to meet new acquaintances on Twitter. Folks like [Zach Kahn](https://twitter.com/zkahn?s=21&t=SLS5w90JQ66BrP_jTeqqvg) (then at Vox Media), [Into the Aether](https://intothecast.online)'s [Brendon Bigley](https://twitter.com/brendonbigley?s=21&t=SLS5w90JQ66BrP_jTeqqvg), [Stratechery](https://stratechery.com)'s [Ben Thompson](https://twitter.com/benthompson?s=21&t=SLS5w90JQ66BrP_jTeqqvg). There was a sense that connecting with the media world could become a reality.
 
 But with all of this, I immediately hated the name and look of "The State of Gaming". I needed something fresh, personal, and unique. Not a month later, I rebranded again.
 
@@ -72,7 +72,7 @@ Relaunching The State of Gaming as Zero Counts felt like a sea change in the blo
 
 ### INTERLUDE
 
-*Work also began to heat up. My passion for online journalism and web development that Zero Counts enabled helped find me on the launch team of a major news aggregation service. This allowed me to peek behind the curtain of web development and CMSes as well as traveling the globe assisting various partners and heroes. Meeting folks like Polygon's then Editor-in-chief [Chris Grant](https://twitter.com/chrisgrant?s=21&t=SLS5w90JQ66BrP_jTeqqvg) (thanks Zach!), [Rene Ritchie](https://www.youtube.com/c/ReneRitchie/videos), [Steven Aquino](https://twitter.com/steven_aquino?s=21&t=SLS5w90JQ66BrP_jTeqqvg), and [Federico Viticci](https://twitter.com/viticci?s=21&t=SLS5w90JQ66BrP_jTeqqvg) was a dream come true.*
+_Work also began to heat up. My passion for online journalism and web development that Zero Counts enabled helped find me on the launch team of a major news aggregation service. This allowed me to peek behind the curtain of web development and CMSes as well as traveling the globe assisting various partners and heroes. Meeting folks like Polygon's then Editor-in-chief [Chris Grant](https://twitter.com/chrisgrant?s=21&t=SLS5w90JQ66BrP_jTeqqvg) (thanks Zach!), [Rene Ritchie](https://www.youtube.com/c/ReneRitchie/videos), [Steven Aquino](https://twitter.com/steven_aquino?s=21&t=SLS5w90JQ66BrP_jTeqqvg), and [Federico Viticci](https://twitter.com/viticci?s=21&t=SLS5w90JQ66BrP_jTeqqvg) was a dream come true._
 
 ---
 

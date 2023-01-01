@@ -1,6 +1,6 @@
 ---
 title: "Teenage Mutant Ninja Turtles: The Cowabunga Collection"
-date: 2022-03-10 09:30:00
+date: 2022-03-10 09:30:00-08:00
 url: /teenage-mutant-ninja-turtles-the-cowbunga-collection/
 categories:
   - Games
@@ -13,7 +13,8 @@ tags:
 <https://www.youtube.com/watch?v=R-78FD9xvc0>
 
 [Konami](https://www.konami.com/games/tmntcollection/):
-> Leonardo, Donatello, Raphael, and Michelangelo are back from the sewers with Teenage Mutant Ninja Turtles: The Cowabunga Collection! Thirteen radical games from KONAMI’s entire archive of retro 8-bit, 16-bit, and arcade Teenage Mutant Ninja Turtles (TMNT) titles and their Japanese versions* will be coming to PlayStation®5, PlayStation®4, Xbox Series X|S, Xbox One, Nintendo Switch and PC Steam. Physical retail and digital versions will be available in 2022 at SRP $39.99.
+
+> Leonardo, Donatello, Raphael, and Michelangelo are back from the sewers with Teenage Mutant Ninja Turtles: The Cowabunga Collection! Thirteen radical games from KONAMI’s entire archive of retro 8-bit, 16-bit, and arcade Teenage Mutant Ninja Turtles (TMNT) titles and their Japanese versions\* will be coming to PlayStation®5, PlayStation®4, Xbox Series X|S, Xbox One, Nintendo Switch and PC Steam. Physical retail and digital versions will be available in 2022 at SRP $39.99.
 >
 > This incredible collection of thirteen original classics gives chasing down Shredder, fighting the Foot, and tangling-up with Bebop and Rocksteady a fresh look at why KONAMI’s adaptations of the heroes in a half shell set the standard in beat ‘em up, action games. Teenage Mutant Ninja Turtles: The Cowabunga Collection includes:
 >
