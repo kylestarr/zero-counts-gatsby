@@ -26,4 +26,7 @@ Nova198Nine includes:
 
 Note: In DMGs, the new display requires more power than the original display, thus increasing the noise floor. Buzzing from the speaker is a normal side effect.
 
-![Nova198Nine powering on](nova198nine-power-on.gif)
+<video autoplay loop muted playsinline>
+  <source src="nova198nine-power-on.webm" type="video/webm">
+  <source src="nova198nine-power-on.mp4" type="video/mp4">
+</video>
