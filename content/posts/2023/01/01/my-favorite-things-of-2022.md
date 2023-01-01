@@ -54,3 +54,20 @@ These cores have changed my relationship with emulation and 8- and 16-bit retro 
 ## Steam Deck
 
 I've been missing out on PC gaming for some time. With the [Steam Deck](http://www.steamdeck.com), I can finally enjoy classics like _Half-Life 2_, _Halo_, _Mass Effect_, etc., etc. On top of that, the ease of emulation through the Steam Deck is remarkable. While the emulation is not operating at a hardware level like the aforementioned Analogue Pocket, I am able to quickly load-up 3D favorites from PS2, PS3, GameCube, Wii, and many other consoles of yore. The Steam Deck is a wonderful companion to my Analogue Pocket, a great current-gen console (in handheld form!), and a hopeful glimpse into the future of handheld gaming.
+
+## Music
+
+### New Releases
+
+- [Band of Horses - “Things Are Great”](https://music.apple.com/us/album/things-are-great/1584365296) — A return to form for pop/party rock indie mainstays.
+- [Momma - “Household Name”](https://music.apple.com/us/album/household-name/1614901722) — '90s era alternative wrapped up in a Gen-Z mindset.
+- [Dawes - “Misadventures of Doomscroller”](https://music.apple.com/us/album/misadventures-of-doomscroller/1634500601) - Throw Elvis Costello, The Greatful Dead, The Band, and a dash of Elton John into a blender.
+- [LIES - “Camera Chimera EP”](https://music.apple.com/us/album/camera-chimera-ep/1653655939) — One half of [American Football](https://music.apple.com/us/artist/american-football/27560658) picks up where LP3 left off.
+- [The Mars Volta - “s/t”](https://music.apple.com/us/album/the-mars-volta/1636983430) - Modern prog-rock legends return with a pivot into high-pop.
+- [mitch murder - “Selection 6”](https://music.apple.com/us/album/selection-6/1634367077) — Another collection of b-sides and rarties by the '80s cheese synthwave mastermind.
+
+### Vinyls
+
+- [Further Seems Forever — "The Moon Is Down" 20th Anniversary Deluxe Box Set](https://toothandnailrecords.merchnow.com/products/fsf0tmidcw-lp)
+- [Thursday - "Full Collapse" 21st Anniversary Edition (3-10" Box Set)](https://craftrecordings.com/products/thursday-full-collapse-3-lp-10-box-set-hardcover-book-limited-to-5-000)
+- [Sigur Rós - ( ) 20th anniversary edition - Signed Deluxe Box Set](https://shop.sigurros.com/products/20th-anniversary-edition-signed-deluxe-box-set)
