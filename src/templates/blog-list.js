@@ -69,6 +69,7 @@ export const pageQuery = graphql`
       sort: { frontmatter: { date: DESC } }
       limit: $limit
       skip: $skip
+      filter: { fileAbsolutePath: { regex: "/post/" } }
     ) {
       edges {
         node {
