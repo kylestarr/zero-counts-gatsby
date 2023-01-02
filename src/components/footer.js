@@ -2,6 +2,8 @@ import { Link } from "gatsby"
 import React from "react"
 import { StaticImage } from "gatsby-plugin-image"
 
+const definedHeight = 20
+
 const Footer = () => {
   return (
     <footer>
@@ -9,30 +11,40 @@ const Footer = () => {
         <div className="social-icon">
           <Link to="/about">
             <StaticImage
-              src="../images/info-icon-84.png"
+              src="../images/info-icon.svg"
               alt="about icon"
               layout="constrained"
-              width={42}
+              height={definedHeight}
             />
           </Link>
         </div>
         <div className="social-icon">
+          <a href="https://mas.to/@zerocounts" id="mastodon">
+            <StaticImage
+              src="../images/mastodon-icon.svg"
+              alt="mastodon icon"
+              layout="constrained"
+              height={definedHeight}
+            />
+          </a>
+        </div>
+        <div className="social-icon">
           <Link to={"/rss.xml"} id="rss-feed">
             <StaticImage
-              src="../images/feed-icon-84.png"
+              src="../images/feed-icon.svg"
               alt="feed icon"
               layout="constrained"
-              width={42}
+              height={definedHeight}
             />
           </Link>
         </div>
         <div className="social-icon">
           <a href="mailto:info@zerocounts.net" id="email">
             <StaticImage
-              src="../images/mail-icon-84.png"
-              alt="feed icon"
+              src="../images/mail-icon.svg"
+              alt="mail icon"
               layout="constrained"
-              width={42}
+              height={definedHeight}
             />
           </a>
         </div>
