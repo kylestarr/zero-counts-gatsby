@@ -43,7 +43,9 @@ I find these results shocking. Not only have I reduced my overall social media u
 
 While my time engaging with Mastodon is on the rise, that's not due to an algorithm. It genuinely feels like a healthier, friendlier social-network. And the decentralized nature means my content won't just disappear.
 
-In small part, I owe Musk thanks in prompting me to have a healthier relationship with social media. In large part, I owe Mastodon for being there when [the rug of a centralized platform was pulled out from under its users](/2022/12/31/monique-judge-bring-back-personal-blogging/). A brilliant technology at the right time. Thank you, Mastodon.
+In small part, I owe Musk thanks in prompting me to have a healthier relationship with social media. In large part, I owe Mastodon for being there when [the rug of a centralized platform was pulled out from under its users](/2022/12/31/monique-judge-bring-back-personal-blogging/). A brilliant technology at the right time.
+
+If you’re unfamiliar with Mastodon or think it might be too complex, check out Brendon Bigley’s “[How to Use Mastodon](https://www.wavelengths.online/about-mastodon/)” explainer at his blog, Wavelengths.
 
 ## Analogue Pocket Cores
 
