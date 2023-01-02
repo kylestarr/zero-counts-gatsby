@@ -29,14 +29,14 @@ const Footer = () => {
           </a>
         </div>
         <div className="social-icon">
-          <Link to={"/rss.xml"} id="rss-feed">
+          <a href={"https://zerocounts.net/rss.xml"} id="rss-feed">
             <StaticImage
               src="../images/feed-icon.svg"
               alt="feed icon"
               layout="constrained"
               height={definedHeight}
             />
-          </Link>
+          </a>
         </div>
         <div className="social-icon">
           <a href="mailto:info@zerocounts.net" id="email">
