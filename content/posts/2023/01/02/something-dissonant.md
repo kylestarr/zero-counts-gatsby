@@ -1,6 +1,6 @@
 ---
 title: "Something Dissonant"
-date: 2023-01-02T00:20:45-08:00
+date: 2023-01-02T20:45:00-08:00
 url: /something-dissonant/
 categories:
   - Media

@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import moment from "moment"
 
 import Seo from "../components/seo.jsx"
 import Layout from "../components/layout"
@@ -25,7 +26,11 @@ class BlogIndex extends React.Component {
                 <h2>
                   <Link to={node.fields.filePath}>{title}</Link>
                 </h2>
-                <time>{node.frontmatter.date}</time>
+                <time>
+                  {moment(node.frontmatter.date)
+                    .local()
+                    .format(`MMMM DD, YYYY`)}
+                </time>
                 <div
                   dangerouslySetInnerHTML={{
                     __html: node.html,
@@ -79,7 +84,7 @@ export const pageQuery = graphql`
             filePath
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date
             title
           }
         }

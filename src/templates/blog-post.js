@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import moment from "moment"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo.jsx"
@@ -14,7 +15,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       <article>
         <header>
           <h1>{post.frontmatter.title}</h1>
-          <time>{post.frontmatter.date}</time>
+          <time>
+            {moment(post.frontmatter.date).local().format(`MMMM DD, YYYY`)}
+          </time>
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>
@@ -58,7 +61,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date
       }
     }
   }
