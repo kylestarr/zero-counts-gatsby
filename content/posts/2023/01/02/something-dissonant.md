@@ -1,5 +1,5 @@
 ---
-title: "Something dissonant"
+title: "Something Dissonant"
 date: 2023-01-02T00:20:45-08:00
 url: /something-dissonant/
 categories:
