@@ -12,6 +12,8 @@ tags:
   - project-leonardo
 ---
 
+![Image of Project Leonardo hardware](project-leonardo-ps5.webp)
+
 [Playstation.Blog](https://blog.playstation.com/2023/01/04/introducing-project-leonardo-for-playstation-5-a-highly-customizable-accessibility-controller-kit/):
 
 > Through conversations with accessibility experts and incredible organizations like [AbleGamers](https://ablegamers.org/), [SpecialEffect](https://www.specialeffect.org.uk/) and [Stack Up](https://www.stackup.org/), we’ve designed a highly configurable controller that works in tandem with many third-party accessibility accessories and integrates with the PS5 console to open up new ways of gaming. It is built to address common challenges faced by many players with limited motor control, including difficulty holding a controller for long periods, accurately pressing small clusters of buttons or triggers, or positioning thumbs and fingers optimally on a standard controller.
