@@ -1,6 +1,6 @@
 ---
 title: "Nintendo Nintendos"
-date: 2023-01-10T08:15:00-08:00
+date: 2023-01-10T08:45:00-08:00
 url: /nintendo-nintendos/
 categories:
   - Design
