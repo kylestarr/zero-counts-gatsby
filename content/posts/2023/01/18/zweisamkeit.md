@@ -17,4 +17,4 @@ tags:
 
 I mostly enjoyed "Tomorrow, and Tomorrow, and Tomorrow". While the tapestry of the novel is of game development (which hooked me initially), as Zevin puts it, it's really a book about work and love, which stuck with me; namely the passage above.
 
-I'm so thankful for my wife and daughter, but I've had similar feelings of loneliness while in the company of others in other parts of my life for far too long. I resolve to change that this year.
+I'm so thankful for my wife and daughter, but I've had similar feelings of loneliness — lonely while in the company of others — in other parts of my life for far too long. I resolve to change that this year.
