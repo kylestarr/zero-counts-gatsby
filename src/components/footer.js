@@ -19,7 +19,7 @@ const Footer = () => {
           </Link>
         </div>
         <div className="social-icon">
-          <a href="https://mas.to/@zerocounts" id="mastodon">
+          <a href="https://mas.to/@zerocounts" id="mastodon" rel="me">
             <StaticImage
               src="../images/mastodon-icon.svg"
               alt="mastodon icon"
