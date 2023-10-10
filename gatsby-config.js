@@ -97,6 +97,7 @@ module.exports = {
     "gatsby-plugin-meta-redirect",
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-gatsby-cloud`,
+    `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
