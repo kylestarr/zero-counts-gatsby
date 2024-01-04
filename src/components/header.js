@@ -16,6 +16,9 @@ const Header = () => {
           />
         </Link>
       </div>
+      <div id="byline">
+        <address>By Kyle Starr</address>
+      </div>
     </header>
   )
 }
