@@ -20,7 +20,7 @@ const Layout = ({ title, children }) => {
           <Link to={"/archive"}>Archive</Link>
           <a href={"https://www.ybutton.online/"}>Podcast</a>
           <Link to={"/gameboys"}>Game Boy Mods</Link>
-          <!-- <a href={"https://zerocounts.net/rss.xml"}>RSS Feed</a> -->
+          <a href={"https://zerocounts.net/rss.xml"}>RSS Feed</a>
         </div>
         <div className="col-xs-0 col-sm-2 col-md-2 col-lg-3"></div>
       </div>
