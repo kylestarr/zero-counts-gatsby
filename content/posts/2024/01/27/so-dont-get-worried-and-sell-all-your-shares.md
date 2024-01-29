@@ -9,7 +9,7 @@ tags:
   - layoffs
 ---
 
-[Gita Jackson, episode 2 of the new Aftermath Hours podcast](https://sites.libsyn.com/506498/an-activision-blizzard-of-bad-news):
+[Gita Jackson, episode 2 of the new Aftermath Hours podcast (edited for clarity)](https://sites.libsyn.com/506498/an-activision-blizzard-of-bad-news):
 
 > Microsoft is beginning to gear up for their first financial meeting where they're discussing the impact of the Blizzard Activision acquisition. As sort of a runway up to that, they laid off a huge number of roles…
 >
