@@ -10,7 +10,7 @@ tags:
   - ubisoft
 —--
 
-[Matt and the Evil Empire team announcing a delayed release date for Ubisoft’s upcoming The Rogue Prince of Persia](https://store.steampowered.com/news/app/2717880/view/4167595772890807529?l=english):
+[Matt and the Evil Empire team announcing a delayed release date for Ubisoft’s upcoming _The Rogue Prince of Persia_](https://store.steampowered.com/news/app/2717880/view/4167595772890807529?l=english):
 
 > So it’s been a bit of a crazy week for us! It all started when a little game called Hades 2 released - you might have heard of it?
 > 
