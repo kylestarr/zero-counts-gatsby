@@ -24,7 +24,7 @@ Years ago, I wrote about [self-competing and time blocking](2017/04/23/self-comp
 
 As calendars become packed with incredible releases, many developers and publishers have found their highly anticipated game gets overshadowed by an even more highly anticipated game releasing in the same window. More often than not, it’s impossible for release dates to shift due to in-flight marketing campaigns, resource forecasts, and release management on various platforms.
 
-Seeing as this delay is specially for the Early Access (beta, more or less) version of _The Rogue Prince of Persia_, Evil Empire and Ubisoft have the benefit of a much smaller impact for delaying. Still, it’s a small step in the right direction. Even more shocking that this is an Ubisoft title. Maybe I’m naive, but I didn’t have “Ubisoft approved game delay” on my bingo card.
+Seeing as this delay is specifically for the Early Access (beta, more or less) version of _The Rogue Prince of Persia_, Evil Empire and Ubisoft have the benefit of a much smaller impact for delaying. Still, it’s a small step in the right direction. Even more shocking that this is an Ubisoft title. Maybe I’m naive, but I didn’t have “Ubisoft approved game delay” on my bingo card.
 
 My favorite part:
 
