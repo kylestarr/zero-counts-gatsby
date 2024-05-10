@@ -1,4 +1,4 @@
-—--
+---
 title: "Avoiding Hell"
 date: 2024-05-10T09:00:00-08:00
 url: /avoiding-hell/
@@ -8,7 +8,7 @@ tags:
   - hades-2
   - rogue-prince-of-persia
   - ubisoft
-—--
+---
 
 [Matt and the Evil Empire team announcing a delayed release date for Ubisoft’s upcoming _The Rogue Prince of Persia_](https://store.steampowered.com/news/app/2717880/view/4167595772890807529?l=english):
 
