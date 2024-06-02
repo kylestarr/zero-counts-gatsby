@@ -29,4 +29,4 @@ So, what are “oldies”?
 
 > In the 1980s and 1990s, "oldies" meant the 15 years from the birth of rock n roll to the beginning of the singer-songwriter era of the early 1970s, or about 1955 to 1972, although this varied and some stations chose 1950-1969.
 
-Doing the math, in the 1980 and 1990, "oldies" encompassed a format including music from 25-35+ years ago. I may be mistaken but Golden Oldies have always seemed like a tried and true radio station format.
+Doing the math, in the 1980s and 1990s, "oldies" encompassed a format including music from 25-35+ years ago. I may be mistaken but Golden Oldies have always seemed like a tried and true radio station format.
