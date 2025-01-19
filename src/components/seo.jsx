@@ -15,6 +15,7 @@ const Seo = ({
     name,
     image,
     siteUrl,
+    seoCardImage,
     twitterCreator,
     twitterSite,
   } = useSiteMetadata()
@@ -24,6 +25,7 @@ const Seo = ({
     description: description || defaultDescription,
     name,
     image: `${siteUrl}${thumbnail || `/${image}`}`,
+    seoCardImage: `/${seoCardImage}`,
     url: `${siteUrl}${pathname || ``}`,
     twitterCreator,
     twitterSite,
@@ -38,7 +40,7 @@ const Seo = ({
       <meta name="image" content={seo.image} />
       <meta name="og:title" content={seo.title} />
       <meta name="og:description" content={seo.description} />
-      <meta name="og:image" content={seo.image} />
+      <meta name="og:image" content={seo.seoCardImage} />
       <meta name="og:image:alt" content={seo.thumbnailAlt} />
       <meta name="og:type" content="website" />
       <meta name="twitter:card" content="summary_large_image" />

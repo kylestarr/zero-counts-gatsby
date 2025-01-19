@@ -6,6 +6,7 @@ module.exports = {
     summary: `Since 1985`,
     siteUrl: `https://zerocounts.net/`,
     image: "src/images/zero-counts-logo-5000.png",
+    seoCardImage: "src/images/seo-card-light-icon.jpg",
     twitterCreator: `@_kylestarr`,
     twitterSite: `@_zerocounts`,
   },
