@@ -12,11 +12,11 @@ tags:
 
 With Nintendo’s announcement and teaser of the Switch 2, a few thoughts have been percelating in my mind. I’ll keep this brief, inspired both by Brendon Bigley’s ingenius hot take “[Switch 2 thoughts but I only have as long as Nintendo’s announcement](https://wavelengths.online/posts/switch-2-thoughts-but-i-only-have-as-long-as-nintendos-announcement)” and the limited time I have while my daughter naps.
 
-I stated the following on my post [Nintendo Switch Presentation 2017 Impressions](/2017/01/14/nintendo-switch-presentation-2017-impressions):
+I stated the following on my post “[Nintendo Switch Presentation 2017 Impressions](/2017/01/14/nintendo-switch-presentation-2017-impressions)”:
 
 > Without question, Switch is another unique and possibly industry changing device. Like Apple, Nintendo often skates to where the puck is headed, defining industry trends. And without question, the biggest dream of all is being able to take your home console on the go.
 
-Boy, if that wasn’t an understatement. Five years after the launch of the Switch, Valve released the Steam Deck and we’ve seen a plethora of other manufacturers following Nintendo’s lead.
+Boy, if that wasn’t an understatement. At 146.04 million units sold (so far), Nintendo Switch is the third best-selling video game console of all time (and only ~14M units away from dethroning PS2 from the top spot). Five years after the launch of the Switch, Valve released the Steam Deck and we’ve seen a plethora of other manufacturers following Nintendo’s lead.
 
 But where does the puck go after the Switch and “[home console handhelds](/2017/01/15/the-switch-is-a-home-console-the-switch-is-a-home-console-the-switch-is-a-home-console/)”?
 
