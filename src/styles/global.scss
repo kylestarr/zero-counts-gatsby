@@ -10,7 +10,17 @@ body {
 }
 
 ul {
-  list-style-type: "-  ";
+  list-style-type: disc;
+}
+
+li {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  // display: block;
+  // margin-block-start: 1em;
+  // margin-block-end: 1em;
+  // margin-inline-start: 0px;
+  // margin-inline-end: 0px;
 }
 
 iframe {
