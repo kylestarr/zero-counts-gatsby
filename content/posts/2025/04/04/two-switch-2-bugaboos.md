@@ -1,6 +1,6 @@
 ---
 title: "Two Switch 2 Bugaboos"
-date: 2025-04-04T23:10:00-09:00
+date: 2025-04-04T23:10:00-08:00
 url: /two-switch-2-bugaboos/
 categories:
   - Business
