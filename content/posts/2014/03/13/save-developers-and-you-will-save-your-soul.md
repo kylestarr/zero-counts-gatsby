@@ -1,6 +1,6 @@
 ---
 author: kylestarr
-date: 2014-03-13 00:46:46+00:00
+date: 2014-03-13 00:46:46-08:00
 draft: false
 title: Save developers and you will save your soul
 type: post
@@ -38,7 +38,7 @@ tags:
 - [undisclosed] layoffs, EA Salt Lake ([Joystiq](http://www.joystiq.com/2014/01/30/layoffs-hit-multiple-teams-at-ea-salt-lake-studio-refocusing-on/), 1/30/14)
 - 3423+ industry layoffs from 1/7/13 - 10/29/13 ([GameJobWatch.com](http://gamejobwatch.com/))
 
-In a discussion on [IGN's Game Scoop!](https://itunes.apple.com/us/podcast/game-scoop!-episode-295/id276268226?i=274279266&mt=2). the Daemon Hatfield, Greg Miller, Justin Davis, and Brian Altano discussed the [Sony Santa Monica layoffs](http://www.polygon.com/2014/2/25/5447306/sony-santa-monica-layoffs) and the ongoing (and seemingly permanent) "ramp up / layoff" structure of AAA studios. During this discussion, the panel made comments around the need for the video game industry to unionize and operate in similar fashion to the film industry:
+In a discussion on [IGN's Game Scoop!](https://itunes.apple.com/us/podcast/game-scoop!-episode-295/id276268226?i=274279266&mt=2), Daemon Hatfield, Greg Miller, Justin Davis, and Brian Altano discussed the [Sony Santa Monica layoffs](http://www.polygon.com/2014/2/25/5447306/sony-santa-monica-layoffs) and the ongoing (and seemingly permanent) "ramp up / layoff" structure of AAA studios. During this discussion, the panel made comments around the need for the video game industry to unionize and operate in similar fashion to the film industry:
 
 > **Daemon Hatfield**: "I wonder if the video game industry should be more like the movie industry. You have a crew that works on a movie and when the movie is done, they go on to their next project. They are not full-time employees."
 > 
