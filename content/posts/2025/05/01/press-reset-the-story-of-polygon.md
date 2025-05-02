@@ -8,7 +8,9 @@ tags:
   - Polygon
 ---
 
-Here's a 13 part documentary on the creation of Polygon: https://www.youtube.com/watch?v=At1NP_hl7pc&list=PLFECD492AC5E3201F. I’m so glad this exists. (Truthfully, I couldn’t remember if this documentary was real or just a dream I had. I'd first seen it 13 years ago. I don't remember it being carved up into 13 parts.)
+Here's a 13 part documentary on the creation of Polygon: https://www.youtube.com/watch?v=At1NP_hl7pc&list=PLFECD492AC5E3201F.
+
+I’m so glad this exists. (Truthfully, I couldn’t remember if this documentary was real or just a dream I had. I'd first seen it 13 years ago. I don't remember it being carved up into 13 parts.)
 
 The introduction of this documentary is terribly ironic and depressing. Here’s a short snippet:
 
