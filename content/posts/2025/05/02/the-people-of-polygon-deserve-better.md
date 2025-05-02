@@ -1,5 +1,5 @@
 ---
-title: "’The people of *Polygon* deserved better’"
+title: "’The people of Polygon deserved better’"
 date: 2025-05-02T09:10:00-08:00
 url: /the-people-of-polygon-deserve-better/
 categories:
