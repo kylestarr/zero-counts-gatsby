@@ -1,6 +1,6 @@
 ---
 title: "Polygon’s Masthead"
-date: 2025-05-04T016:05:00-08:00
+date: 2025-05-04T16:05:00-08:00
 url: /polygons-masthead/
 categories:
   - Media
