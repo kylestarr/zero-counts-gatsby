@@ -13,7 +13,7 @@ Are you missing Polygon as much as I am? Do you appreciate in-depth journalism a
 
 [Post Games](https://www.patreon.com/PostGames), the new podcast from former Polygon editor-in-chief Chris Plante, feels like the canonical audio form of Polygon. Everything I loved about Polygon from its clean yet charming design to its niche stories to its rich journalism with personality is woven into Post Games.
 
-The first episode details an under appreciated game award that is damn near prophetic of seminal indie game success and stories and developers I’ve never heard of, but now can’t help but keep my eye fixed upon. Episode 0, an interview with [Platformer’s](https://www.platformer.news) Casey Newton, lends great insight into what a career in independent journalism looks like — a world Plante now finds himself in.
+I had the pleasure of providing early feedback on the first episode, which details an under appreciated game award that is damn near prophetic of seminal indie game success and stories and developers I’ve never heard of, but now can’t help but keep my eye fixed upon. Episode 0, an interview with [Platformer’s](https://www.platformer.news) Casey Newton, lends great insight into what a career in independent journalism looks like — a world Plante now finds himself in.
 
 While you can find the show for free on [Apple Podcasts](https://podcasts.apple.com/us/podcast/post-games/id1815131711), [Spotify](https://open.spotify.com/show/4bn8CFHz9RRWrYfTyWSnFx), and any other podcast app via [RSS](https://shows.acast.com/post-games), I encourage you to check out the show’s [Patreon](https://www.patreon.com/PostGames) to both support and receive a bevy of bonus perks.
 
