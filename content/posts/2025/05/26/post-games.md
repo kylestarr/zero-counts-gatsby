@@ -1,5 +1,5 @@
 ---
-title: "Post Games: A new podcast by former Polygon editor-in-chief Chris Plante"
+title: "Post Games: A new podcast by former Polygon Editor-in-Chief Chris Plante"
 date: 2025-05-26T08:00:00-08:00
 url: /post-games/
 categories:
@@ -11,7 +11,7 @@ tags:
 
 Are you missing Polygon as much as I am? Do you appreciate in-depth journalism about niche topics with your hobby of choice? Do you like tightly edited podcasts ￼with clear structure? Are you a fan of personality, interviews, and well-crafted story? Are you addicted to gaming podcasts because you have very little time to play yourself and/or you might just love the conversation around games more than the games themselves? Then you’re in luck.
 
-[Post Games](https://www.patreon.com/PostGames), the new podcast from former Polygon editor-in-chief Chris Plante, feels like the canonical audio form of Polygon. Everything I loved about Polygon from its clean yet charming design to its niche stories to its rich journalism with personality is woven into Post Games.
+[Post Games](https://www.patreon.com/PostGames), the new podcast from former Polygon Editor-in-Chief Chris Plante, feels like the canonical audio form of Polygon. Everything I loved about Polygon from its clean yet charming design to its niche stories to its rich journalism with personality is woven into Post Games.
 
 I had the pleasure of providing early feedback on the first episode, which details an under appreciated game award that is damn near prophetic of seminal indie game success and stories and developers I’ve never heard of, but now can’t help but keep my eye fixed upon. Episode 0, an interview with [Platformer’s](https://www.platformer.news) Casey Newton, lends great insight into what a career in independent journalism looks like — a world Plante now finds himself in.
 
