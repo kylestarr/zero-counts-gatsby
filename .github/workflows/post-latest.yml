@@ -1,0 +1,45 @@
+name: Post Latest to Social Media
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  post-latest:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Wait for Netlify deployment
+      run: |
+        echo "Waiting for Netlify deployment to complete..."
+        # Add a delay to ensure deployment is complete
+        sleep 60
+        
+    - name: Post latest to social media
+      env:
+        SITE_URL: ${{ secrets.SITE_URL }}
+        MASTODON_URL: ${{ secrets.MASTODON_URL }}
+        MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        BLUESKY_IDENTIFIER: ${{ secrets.BLUESKY_IDENTIFIER }}
+        BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
+      run: npm run post-latest
+      
+    - name: Upload posted history
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: posted-history
+        path: scripts/posted-history.json 

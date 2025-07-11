@@ -40,7 +40,10 @@
     "typeface-merriweather": "^1.1.13",
     "typeface-montserrat": "^1.1.13",
     "typography": "^0.16.21",
-    "typography-theme-wordpress-2016": "^0.16.19"
+    "typography-theme-wordpress-2016": "^0.16.19",
+    "gray-matter": "^4.0.3",
+    "masto": "^6.0.0",
+    "@atproto/api": "^0.8.0"
   },
   "devDependencies": {
     "prettier": "^2.8.1"
@@ -62,6 +65,9 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "post-latest": "node scripts/post-latest.js",
+    "test-post-latest": "node scripts/test-post-latest.js",
+    "history": "node scripts/manage-history.js"
   }
 }
