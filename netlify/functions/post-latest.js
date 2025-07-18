@@ -1,5 +1,4 @@
-const { exec } = require('child_process');
-const path = require('path');
+const https = require('https');
 
 exports.handler = async (event, context) => {
   console.log('🔔 Webhook received:', event.httpMethod, event.path);
@@ -33,24 +32,13 @@ exports.handler = async (event, context) => {
     console.log('🚀 Deployment succeeded!');
     console.log('   Site:', body.site_name);
     console.log('   Deploy URL:', body.deploy_url);
-    console.log('   Branch:', body.branch);
     
-    // Set environment variables
-    const env = {
-      SITE_URL: process.env.SITE_URL || 'https://zerocounts.com',
-      MASTODON_URL: process.env.MASTODON_URL,
-      MASTODON_ACCESS_TOKEN: process.env.MASTODON_ACCESS_TOKEN,
-      BLUESKY_IDENTIFIER: process.env.BLUESKY_IDENTIFIER,
-      BLUESKY_PASSWORD: process.env.BLUESKY_PASSWORD,
-      NODE_ENV: 'production'
-    };
-
     // Check if required environment variables are set
     const missingVars = [];
-    if (!env.MASTODON_URL || !env.MASTODON_ACCESS_TOKEN) {
+    if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
       missingVars.push('Mastodon credentials');
     }
-    if (!env.BLUESKY_IDENTIFIER || !env.BLUESKY_PASSWORD) {
+    if (!process.env.BLUESKY_IDENTIFIER || !process.env.BLUESKY_PASSWORD) {
       missingVars.push('Bluesky credentials');
     }
     
@@ -65,44 +53,19 @@ exports.handler = async (event, context) => {
       };
     }
 
-    // Execute the post-latest script
-    const scriptPath = path.join(__dirname, '../../scripts/post-latest.js');
-    console.log('📝 Running post-latest script...');
+    // For now, just return success without actually posting
+    // This will help us verify the function is working
+    console.log('✅ Function is working correctly');
     
-    return new Promise((resolve, reject) => {
-      exec(`node ${scriptPath}`, { 
-        env: { ...process.env, ...env },
-        cwd: path.join(__dirname, '../..'),
-        timeout: 30000 // 30 second timeout
-      }, (error, stdout, stderr) => {
-        if (error) {
-          console.error('❌ Error running post-latest script:', error);
-          resolve({
-            statusCode: 500,
-            body: JSON.stringify({ 
-              error: 'Failed to post to social media',
-              details: error.message,
-              stdout: stdout,
-              stderr: stderr
-            })
-          });
-        } else {
-          console.log('✅ Successfully posted to social media');
-          console.log('📤 Script output:', stdout);
-          if (stderr) console.log('⚠️  Script stderr:', stderr);
-          
-          resolve({
-            statusCode: 200,
-            body: JSON.stringify({ 
-              message: 'Successfully posted to social media',
-              output: stdout,
-              deploy_url: body.deploy_url,
-              site_name: body.site_name
-            })
-          });
-        }
-      });
-    });
+    return {
+      statusCode: 200,
+      body: JSON.stringify({ 
+        message: 'Function is working - ready to post to social media',
+        deploy_url: body.deploy_url,
+        site_name: body.site_name,
+        note: 'Add actual posting logic once function is confirmed working'
+      })
+    };
 
   } catch (error) {
     console.error('❌ Error in webhook handler:', error);
