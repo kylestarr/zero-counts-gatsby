@@ -19,62 +19,36 @@ function makeRequest(url, options) {
 // Recursively find all markdown files in the posts directory
 function findMarkdownFiles(dir, files = []) {
   const items = fs.readdirSync(dir);
-  
   for (const item of items) {
     const fullPath = path.join(dir, item);
     const stat = fs.statSync(fullPath);
-    
     if (stat.isDirectory()) {
       findMarkdownFiles(fullPath, files);
     } else if (item.endsWith('.md')) {
       files.push(fullPath);
     }
   }
-  
   return files;
-}
-
-// Get file modification time
-function getFileTime(filePath) {
-  const stat = fs.statSync(filePath);
-  return stat.mtime.getTime();
-}
-
-// Find the most recently modified markdown file
-function findMostRecentPost(postsDir) {
-  const markdownFiles = findMarkdownFiles(postsDir);
-  
-  if (markdownFiles.length === 0) {
-    throw new Error('No markdown files found in posts directory');
-  }
-  
-  // Sort by modification time (most recent first)
-  const sortedFiles = markdownFiles.sort((a, b) => getFileTime(b) - getFileTime(a));
-  
-  return sortedFiles[0];
 }
 
 // Extract frontmatter from markdown file
 function extractFrontmatter(filePath) {
   const content = fs.readFileSync(filePath, 'utf8');
-  
   // Simple frontmatter extraction
   const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
   if (!frontmatterMatch) {
     throw new Error(`No frontmatter found in ${filePath}`);
   }
-  
   const frontmatter = frontmatterMatch[1];
   const titleMatch = frontmatter.match(/title:\s*["']?([^"\n]+)["']?/);
-  const urlMatch = frontmatter.match(/url:\s*([^\n]+)/);
-  
-  if (!titleMatch || !urlMatch) {
-    throw new Error(`Missing title or url in frontmatter for ${filePath}`);
+  const dateMatch = frontmatter.match(/date:\s*([^\n]+)/);
+  // url field is ignored for URL construction
+  if (!titleMatch || !dateMatch) {
+    throw new Error(`Missing title or date in frontmatter for ${filePath}`);
   }
-  
   return {
     title: titleMatch[1].trim(),
-    url: urlMatch[1].trim()
+    date: new Date(dateMatch[1].trim()),
   };
 }
 
@@ -82,22 +56,44 @@ function extractFrontmatter(filePath) {
 function filePathToUrlPath(filePath) {
   // Remove the content/posts/ prefix and .md extension
   const relativePath = filePath.replace(/^content\/posts\//, '').replace(/\.md$/, '');
-  
   // Split by directory separators and join with /
   const pathParts = relativePath.split(path.sep);
-  
   // Format as YYYY/MM/DD/slug
   if (pathParts.length >= 4) {
     const year = pathParts[0];
     const month = pathParts[1];
     const day = pathParts[2];
     const slug = pathParts[3];
-    
     return `/${year}/${month}/${day}/${slug}/`;
   }
-  
   // Fallback: just use the relative path
   return `/${relativePath.replace(/\\/g, '/')}/`;
+}
+
+// Find the most recent post by frontmatter date
+function findMostRecentPostByDate(postsDir) {
+  const markdownFiles = findMarkdownFiles(postsDir);
+  if (markdownFiles.length === 0) {
+    throw new Error('No markdown files found in posts directory');
+  }
+  let mostRecent = null;
+  let mostRecentData = null;
+  for (const file of markdownFiles) {
+    try {
+      const data = extractFrontmatter(file);
+      if (!mostRecent || (data.date > mostRecentData.date)) {
+        mostRecent = file;
+        mostRecentData = data;
+      }
+    } catch (e) {
+      // Ignore files with invalid frontmatter
+      continue;
+    }
+  }
+  if (!mostRecent) {
+    throw new Error('No valid markdown files with date found');
+  }
+  return { file: mostRecent, ...mostRecentData };
 }
 
 // Post to Mastodon
@@ -106,11 +102,9 @@ async function postToMastodon(title, fullUrl) {
     console.log('Mastodon credentials not configured, skipping...');
     return { success: false, reason: 'Missing credentials' };
   }
-  
   try {
     const status = `New post: ${title}\n\n${fullUrl}`;
     const url = `${process.env.MASTODON_URL}/api/v1/statuses`;
-    
     const response = await makeRequest(url, {
       method: 'POST',
       headers: {
@@ -122,7 +116,6 @@ async function postToMastodon(title, fullUrl) {
         visibility: 'public'
       })
     });
-    
     if (response.statusCode === 200) {
       console.log('✅ Posted to Mastodon successfully');
       return { success: true };
@@ -142,7 +135,6 @@ async function postToBluesky(title, fullUrl) {
     console.log('Bluesky credentials not configured, skipping...');
     return { success: false, reason: 'Missing credentials' };
   }
-  
   try {
     // First, authenticate with Bluesky
     const authResponse = await makeRequest('https://bsky.social/xrpc/com.atproto.server.createSession', {
@@ -153,15 +145,12 @@ async function postToBluesky(title, fullUrl) {
         password: process.env.BLUESKY_PASSWORD
       })
     });
-    
     if (authResponse.statusCode !== 200) {
       console.error('❌ Failed to authenticate with Bluesky:', authResponse.statusCode);
       return { success: false, reason: 'Authentication failed' };
     }
-    
     const authData = JSON.parse(authResponse.data);
     const accessJwt = authData.accessJwt;
-    
     // Now post to Bluesky
     const text = `New post: ${title}\n\n${fullUrl}`;
     const postResponse = await makeRequest('https://bsky.social/xrpc/com.atproto.repo.createRecord', {
@@ -179,7 +168,6 @@ async function postToBluesky(title, fullUrl) {
         }
       })
     });
-    
     if (postResponse.statusCode === 200) {
       console.log('✅ Posted to Bluesky successfully');
       return { success: true };
@@ -195,7 +183,6 @@ async function postToBluesky(title, fullUrl) {
 
 exports.handler = async (event, context) => {
   console.log('🔔 Webhook received:', event.httpMethod, event.path);
-  
   // Only process POST requests
   if (event.httpMethod !== 'POST') {
     return {
@@ -203,12 +190,10 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({ error: 'Method not allowed' })
     };
   }
-
   try {
     // Parse the webhook payload
     const body = JSON.parse(event.body);
     console.log('📦 Webhook payload event type:', body.event_type);
-    
     // Only process deployment success events
     if (body.event_type !== 'deploy_succeeded') {
       console.log('⏭️  Skipping non-deployment event');
@@ -220,12 +205,10 @@ exports.handler = async (event, context) => {
         })
       };
     }
-
     // Log deployment details
     console.log('🚀 Deployment succeeded!');
     console.log('   Site:', body.site_name);
     console.log('   Deploy URL:', body.deploy_url);
-    
     // Check if required environment variables are set
     const missingVars = [];
     if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
@@ -234,7 +217,6 @@ exports.handler = async (event, context) => {
     if (!process.env.BLUESKY_IDENTIFIER || !process.env.BLUESKY_PASSWORD) {
       missingVars.push('Bluesky credentials');
     }
-    
     if (missingVars.length > 0) {
       console.warn('⚠️  Missing environment variables:', missingVars.join(', '));
       return {
@@ -245,47 +227,37 @@ exports.handler = async (event, context) => {
         })
       };
     }
-
-    // Find the most recent post
-    console.log('🔍 Scanning for most recent post...');
+    // Find the most recent post by date
+    console.log('🔍 Scanning for most recent post by date...');
     const postsDir = path.join(process.cwd(), 'content', 'posts');
-    const mostRecentFile = findMostRecentPost(postsDir);
+    const { file: mostRecentFile, title, date } = findMostRecentPostByDate(postsDir);
     console.log(`📄 Found most recent file: ${mostRecentFile}`);
-    
-    // Extract frontmatter
-    const { title, url } = extractFrontmatter(mostRecentFile);
     console.log(`📝 Title: ${title}`);
-    console.log(`🔗 URL from frontmatter: ${url}`);
-    
-    // Convert file path to URL path
+    console.log(`📅 Date: ${date}`);
+    // Always construct the URL from the file path
     const urlPath = filePathToUrlPath(mostRecentFile);
     const fullUrl = `https://zerocounts.net${urlPath}`;
     console.log(`🌐 Full URL: ${fullUrl}`);
-    
     console.log('📤 Posting to social media...');
-    
     const mastodonResult = await postToMastodon(title, fullUrl);
     const blueskyResult = await postToBluesky(title, fullUrl);
-    
     const results = {
       mastodon: mastodonResult,
       bluesky: blueskyResult,
       post: {
         title,
         url: fullUrl,
-        file: mostRecentFile
+        file: mostRecentFile,
+        date: date
       },
       deploy_url: body.deploy_url,
       site_name: body.site_name
     };
-    
     console.log('📊 Posting results:', results);
-    
     return {
       statusCode: 200,
       body: JSON.stringify(results)
     };
-
   } catch (error) {
     console.error('❌ Error in webhook handler:', error);
     return {
