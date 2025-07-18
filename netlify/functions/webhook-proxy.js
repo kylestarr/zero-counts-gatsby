@@ -48,13 +48,13 @@ exports.handler = async (event, context) => {
     console.log('   Deploy URL:', body.deploy_url);
     
     // Check if required environment variables are set
-    if (!process.env.GITHUB_TOKEN || !process.env.GITHUB_REPO) {
+    if (!process.env.GH_TOKEN || !process.env.GH_REPO) {
       console.error('❌ Missing GitHub environment variables');
       return {
         statusCode: 500,
         body: JSON.stringify({ 
           error: 'Missing GitHub configuration',
-          required: ['GITHUB_TOKEN', 'GITHUB_REPO']
+          required: ['GH_TOKEN', 'GH_REPO']
         })
       };
     }
@@ -62,13 +62,13 @@ exports.handler = async (event, context) => {
     // Trigger GitHub Actions workflow
     console.log('📤 Triggering GitHub Actions workflow...');
     
-    const [owner, repo] = process.env.GITHUB_REPO.split('/');
+    const [owner, repo] = process.env.GH_REPO.split('/');
     const url = `https://api.github.com/repos/${owner}/${repo}/dispatches`;
     
     const response = await makeRequest(url, {
       method: 'POST',
       headers: {
-        'Authorization': `token ${process.env.GITHUB_TOKEN}`,
+        'Authorization': `token ${process.env.GH_TOKEN}`,
         'Accept': 'application/vnd.github.v3+json',
         'User-Agent': 'Netlify-Webhook-Proxy'
       },
