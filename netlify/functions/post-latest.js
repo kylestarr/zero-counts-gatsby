@@ -16,6 +16,90 @@ function makeRequest(url, options) {
   });
 }
 
+// Recursively find all markdown files in the posts directory
+function findMarkdownFiles(dir, files = []) {
+  const items = fs.readdirSync(dir);
+  
+  for (const item of items) {
+    const fullPath = path.join(dir, item);
+    const stat = fs.statSync(fullPath);
+    
+    if (stat.isDirectory()) {
+      findMarkdownFiles(fullPath, files);
+    } else if (item.endsWith('.md')) {
+      files.push(fullPath);
+    }
+  }
+  
+  return files;
+}
+
+// Get file modification time
+function getFileTime(filePath) {
+  const stat = fs.statSync(filePath);
+  return stat.mtime.getTime();
+}
+
+// Find the most recently modified markdown file
+function findMostRecentPost(postsDir) {
+  const markdownFiles = findMarkdownFiles(postsDir);
+  
+  if (markdownFiles.length === 0) {
+    throw new Error('No markdown files found in posts directory');
+  }
+  
+  // Sort by modification time (most recent first)
+  const sortedFiles = markdownFiles.sort((a, b) => getFileTime(b) - getFileTime(a));
+  
+  return sortedFiles[0];
+}
+
+// Extract frontmatter from markdown file
+function extractFrontmatter(filePath) {
+  const content = fs.readFileSync(filePath, 'utf8');
+  
+  // Simple frontmatter extraction
+  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!frontmatterMatch) {
+    throw new Error(`No frontmatter found in ${filePath}`);
+  }
+  
+  const frontmatter = frontmatterMatch[1];
+  const titleMatch = frontmatter.match(/title:\s*["']?([^"\n]+)["']?/);
+  const urlMatch = frontmatter.match(/url:\s*([^\n]+)/);
+  
+  if (!titleMatch || !urlMatch) {
+    throw new Error(`Missing title or url in frontmatter for ${filePath}`);
+  }
+  
+  return {
+    title: titleMatch[1].trim(),
+    url: urlMatch[1].trim()
+  };
+}
+
+// Convert file path to URL path
+function filePathToUrlPath(filePath) {
+  // Remove the content/posts/ prefix and .md extension
+  const relativePath = filePath.replace(/^content\/posts\//, '').replace(/\.md$/, '');
+  
+  // Split by directory separators and join with /
+  const pathParts = relativePath.split(path.sep);
+  
+  // Format as YYYY/MM/DD/slug
+  if (pathParts.length >= 4) {
+    const year = pathParts[0];
+    const month = pathParts[1];
+    const day = pathParts[2];
+    const slug = pathParts[3];
+    
+    return `/${year}/${month}/${day}/${slug}/`;
+  }
+  
+  // Fallback: just use the relative path
+  return `/${relativePath.replace(/\\/g, '/')}/`;
+}
+
 // Post to Mastodon
 async function postToMastodon(title, fullUrl) {
   if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
@@ -162,19 +246,35 @@ exports.handler = async (event, context) => {
       };
     }
 
-    // For now, we'll post a test message
-    // In a real implementation, you'd scan the content directory for the latest post
-    const testTitle = "Test post from Netlify function";
-    const testUrl = "https://zerocounts.net/test-post/";
+    // Find the most recent post
+    console.log('🔍 Scanning for most recent post...');
+    const postsDir = path.join(process.cwd(), 'content', 'posts');
+    const mostRecentFile = findMostRecentPost(postsDir);
+    console.log(`📄 Found most recent file: ${mostRecentFile}`);
+    
+    // Extract frontmatter
+    const { title, url } = extractFrontmatter(mostRecentFile);
+    console.log(`📝 Title: ${title}`);
+    console.log(`🔗 URL from frontmatter: ${url}`);
+    
+    // Convert file path to URL path
+    const urlPath = filePathToUrlPath(mostRecentFile);
+    const fullUrl = `https://zerocounts.net${urlPath}`;
+    console.log(`🌐 Full URL: ${fullUrl}`);
     
     console.log('📤 Posting to social media...');
     
-    const mastodonResult = await postToMastodon(testTitle, testUrl);
-    const blueskyResult = await postToBluesky(testTitle, testUrl);
+    const mastodonResult = await postToMastodon(title, fullUrl);
+    const blueskyResult = await postToBluesky(title, fullUrl);
     
     const results = {
       mastodon: mastodonResult,
       bluesky: blueskyResult,
+      post: {
+        title,
+        url: fullUrl,
+        file: mostRecentFile
+      },
       deploy_url: body.deploy_url,
       site_name: body.site_name
     };
