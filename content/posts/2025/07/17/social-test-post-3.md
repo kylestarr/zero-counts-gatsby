@@ -1,7 +1,7 @@
 ---
-title: "Test Social Posting 2"
+title: "Test Social Posting 3"
 date: 2025-07-17T21:00:00-08:00
-url: /social-post-test-2/
+url: /social-post-test-3/
 categories:
 tags:
 ---
