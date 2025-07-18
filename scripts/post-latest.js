@@ -161,7 +161,7 @@ async function postToMastodon(title, fullUrl) {
       accessToken: config.mastodon.accessToken,
     });
     
-    const status = `New post: ${title}\n\n${fullUrl}`;
+    const status = `${title}\n\n${fullUrl}`;
     
     const response = await masto.statuses.create({
       status,
@@ -194,7 +194,7 @@ async function postToBluesky(title, fullUrl) {
       password: config.bluesky.password,
     });
     
-    const text = `New post: ${title}\n\n${fullUrl}`;
+    const text = `${title}\n\n${fullUrl}`;
     
     const response = await agent.post({
       text,
