@@ -28,24 +28,24 @@ exports.handler = async (event, context) => {
   try {
     // Parse the webhook payload
     const body = JSON.parse(event.body);
-    console.log('📦 Webhook payload event type:', body.event_type);
-    
-    // Only process deployment success events
-    if (body.event_type !== 'deploy_succeeded') {
+    // Netlify sends "state": "ready" for successful deploys
+    const isDeploySucceeded = body.state === 'ready';
+    console.log('📦 Netlify webhook state:', body.state);
+    if (!isDeploySucceeded) {
       console.log('⏭️  Skipping non-deployment event');
       return {
         statusCode: 200,
         body: JSON.stringify({ 
           message: 'Not a deployment success event, skipping',
-          event_type: body.event_type 
+          state: body.state 
         })
       };
     }
 
     // Log deployment details
     console.log('🚀 Deployment succeeded!');
-    console.log('   Site:', body.site_name);
-    console.log('   Deploy URL:', body.deploy_url);
+    console.log('   Site:', body.site_name || body.site_id);
+    console.log('   Deploy URL:', body.deploy_ssl_url || body.deploy_url);
     
     // Check if required environment variables are set
     if (!process.env.GH_TOKEN || !process.env.GH_REPO) {
@@ -61,10 +61,8 @@ exports.handler = async (event, context) => {
 
     // Trigger GitHub Actions workflow
     console.log('📤 Triggering GitHub Actions workflow...');
-    
     const [owner, repo] = process.env.GH_REPO.split('/');
     const url = `https://api.github.com/repos/${owner}/${repo}/dispatches`;
-    
     const response = await makeRequest(url, {
       method: 'POST',
       headers: {
@@ -75,8 +73,8 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         event_type: 'netlify_deploy_succeeded',
         client_payload: {
-          deploy_url: body.deploy_url,
-          site_name: body.site_name,
+          deploy_url: body.deploy_ssl_url || body.deploy_url,
+          site_name: body.site_name || body.site_id,
           deploy_id: body.id,
           deploy_time: body.created_at
         }
@@ -89,8 +87,8 @@ exports.handler = async (event, context) => {
         statusCode: 200,
         body: JSON.stringify({ 
           message: 'Successfully triggered GitHub Actions workflow',
-          deploy_url: body.deploy_url,
-          site_name: body.site_name
+          deploy_url: body.deploy_ssl_url || body.deploy_url,
+          site_name: body.site_name || body.site_id
         })
       };
     } else {
