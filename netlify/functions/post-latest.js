@@ -95,47 +95,31 @@ function findMostRecentPostByDate(postsDir) {
   return { file: mostRecent, ...mostRecentData };
 }
 
-// Post to Mastodon
+// Mastodon posting (using masto package)
 async function postToMastodon(title, fullUrl) {
-  if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
-    console.log('Mastodon credentials not configured, skipping...');
-    return { success: false, reason: 'Missing credentials' };
-  }
   try {
-    const status = `New post: ${title}\n\n${fullUrl}`;
-    const url = `${process.env.MASTODON_URL}/api/v1/statuses`;
-    const response = await makeRequest(url, {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${process.env.MASTODON_ACCESS_TOKEN}`,
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({
-        status,
-        visibility: 'public'
-      })
+    const { login } = await import('masto');
+    const masto = await login({
+      url: process.env.MASTODON_URL,
+      accessToken: process.env.MASTODON_ACCESS_TOKEN,
     });
-    if (response.statusCode === 200) {
-      console.log('✅ Posted to Mastodon successfully');
-      return { success: true };
-    } else {
-      console.error('❌ Failed to post to Mastodon:', response.statusCode, response.data);
-      return { success: false, reason: `HTTP ${response.statusCode}` };
-    }
+    const status = `New post: ${title}\n\n${fullUrl}`;
+    await masto.v1.statuses.create({ status, visibility: 'public' });
+    console.log('✅ Posted to Mastodon successfully');
+    return { success: true };
   } catch (error) {
-    console.error('❌ Error posting to Mastodon:', error.message);
+    console.error('❌ Failed to post to Mastodon:', error.message);
     return { success: false, reason: error.message };
   }
 }
 
-// Post to Bluesky
+// Bluesky posting (unchanged)
 async function postToBluesky(title, fullUrl) {
   if (!process.env.BLUESKY_IDENTIFIER || !process.env.BLUESKY_PASSWORD) {
     console.log('Bluesky credentials not configured, skipping...');
     return { success: false, reason: 'Missing credentials' };
   }
   try {
-    // First, authenticate with Bluesky
     const authResponse = await makeRequest('https://bsky.social/xrpc/com.atproto.server.createSession', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -150,7 +134,6 @@ async function postToBluesky(title, fullUrl) {
     }
     const authData = JSON.parse(authResponse.data);
     const accessJwt = authData.accessJwt;
-    // Now post to Bluesky
     const text = `New post: ${title}\n\n${fullUrl}`;
     const postResponse = await makeRequest('https://bsky.social/xrpc/com.atproto.repo.createRecord', {
       method: 'POST',
@@ -194,20 +177,22 @@ exports.handler = async (event, context) => {
     const body = JSON.parse(event.body);
     console.log('📦 Webhook payload event type:', body.event_type);
     // Only process deployment success events
-    if (body.event_type !== 'deploy_succeeded') {
+    const isDeploySucceeded = body.state === 'ready';
+    console.log('📦 Netlify webhook state:', body.state);
+    if (!isDeploySucceeded) {
       console.log('⏭️  Skipping non-deployment event');
       return {
         statusCode: 200,
         body: JSON.stringify({ 
           message: 'Not a deployment success event, skipping',
-          event_type: body.event_type 
+          state: body.state 
         })
       };
     }
     // Log deployment details
     console.log('🚀 Deployment succeeded!');
-    console.log('   Site:', body.site_name);
-    console.log('   Deploy URL:', body.deploy_url);
+    console.log('   Site:', body.site_name || body.site_id);
+    console.log('   Deploy URL:', body.deploy_ssl_url || body.deploy_url);
     // Check if required environment variables are set
     const missingVars = [];
     if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
@@ -249,8 +234,8 @@ exports.handler = async (event, context) => {
         file: mostRecentFile,
         date: date
       },
-      deploy_url: body.deploy_url,
-      site_name: body.site_name
+      deploy_url: body.deploy_ssl_url || body.deploy_url,
+      site_name: body.site_name || body.site_id
     };
     console.log('📊 Posting results:', results);
     return {
