@@ -42,13 +42,12 @@ function extractFrontmatter(filePath) {
   const frontmatter = frontmatterMatch[1];
   const titleMatch = frontmatter.match(/title:\s*["']?([^"\n]+)["']?/);
   const dateMatch = frontmatter.match(/date:\s*([^\n]+)/);
-  // url field is ignored for URL construction
   if (!titleMatch || !dateMatch) {
     throw new Error(`Missing title or date in frontmatter for ${filePath}`);
   }
   return {
     title: titleMatch[1].trim(),
-    date: new Date(dateMatch[1].trim()),
+    date: new Date(dateMatch[1].trim())
   };
 }
 
