@@ -29,9 +29,11 @@ jobs:
           BLUESKY_PASSWORD: ${{ secrets.BLUESKY_PASSWORD }}
         run: npm run post-latest
 
-      - name: Upload posted history
+      - name: Upload debug artifacts
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: posted-history
-          path: scripts/posted-history.json 
+          name: social-media-debug-netlify
+          path: |
+            scripts/posted-history.json
+            debug-log.json 

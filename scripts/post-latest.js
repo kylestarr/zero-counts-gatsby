@@ -227,6 +227,19 @@ async function postToBluesky(title, fullUrl) {
 
 // Main function
 async function main() {
+  // Create initial debug file in case of early failures
+  const initialDebug = {
+    timestamp: new Date().toISOString(),
+    phase: 'startup',
+    environment: {
+      mastodonUrl: !!process.env.MASTODON_URL,
+      mastodonToken: !!process.env.MASTODON_ACCESS_TOKEN,
+      blueskyId: !!process.env.BLUESKY_IDENTIFIER,
+      blueskyPass: !!process.env.BLUESKY_PASSWORD
+    }
+  };
+  require('fs').writeFileSync('debug-log.json', JSON.stringify(initialDebug, null, 2));
+  
   try {
     console.log('🚀 Starting social media posting script...');
     console.log('🌍 Environment check:');
@@ -253,10 +266,34 @@ async function main() {
     console.log(`🔗 URL: ${fullUrl}`);
     // Post to social platforms
     console.log('\n📤 Posting to social platforms...');
-    await Promise.all([
+    const [mastodonResult, blueskyResult] = await Promise.all([
       postToMastodon(title, fullUrl),
       postToBluesky(title, fullUrl)
     ]);
+    
+    // Log results for debugging
+    console.log('\n📊 Posting results:');
+    console.log('   Mastodon:', mastodonResult);
+    console.log('   Bluesky:', blueskyResult);
+    
+    // Write debug info to file for GitHub Actions artifact
+    const debugInfo = {
+      timestamp: new Date().toISOString(),
+      post: { title, fullUrl, file },
+      environment: {
+        mastodonUrl: !!process.env.MASTODON_URL,
+        mastodonToken: !!process.env.MASTODON_ACCESS_TOKEN,
+        blueskyId: !!process.env.BLUESKY_IDENTIFIER,
+        blueskyPass: !!process.env.BLUESKY_PASSWORD
+      },
+      results: {
+        mastodon: mastodonResult,
+        bluesky: blueskyResult
+      }
+    };
+    
+    require('fs').writeFileSync('debug-log.json', JSON.stringify(debugInfo, null, 2));
+    console.log('📝 Debug info written to debug-log.json');
     // Add to posted history
     history.postedUrls.push(urlPath);
     history.lastPosted = new Date().toISOString();
