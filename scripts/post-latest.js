@@ -214,8 +214,40 @@ async function postToBluesky(title, fullUrl) {
       identifier: process.env.BLUESKY_IDENTIFIER,
       password: process.env.BLUESKY_PASSWORD,
     });
+    
+    // Create text with proper link embedding
     const text = `New post: ${title}\n\n${fullUrl}`;
-    const response = await agent.post({ text });
+    
+    // Calculate byte positions for the URL (needed for facets)
+    const textEncoder = new TextEncoder();
+    const textBytes = textEncoder.encode(text);
+    const urlStart = textEncoder.encode(`New post: ${title}\n\n`).length;
+    const urlEnd = textBytes.length;
+    
+    // Create the post with embedded link facet
+    const postData = {
+      text: text,
+      facets: [
+        {
+          index: {
+            byteStart: urlStart,
+            byteEnd: urlEnd
+          },
+          features: [
+            {
+              $type: 'app.bsky.richtext.facet#link',
+              uri: fullUrl
+            }
+          ]
+        }
+      ]
+    };
+    
+    console.log('📝 Posting to Bluesky with embedded link...');
+    console.log('   Text:', text);
+    console.log('   Link facet:', { start: urlStart, end: urlEnd, uri: fullUrl });
+    
+    const response = await agent.post(postData);
     console.log('✅ Posted to Bluesky successfully');
     console.log(`   Post URI: ${response.uri}`);
     return { success: true };
