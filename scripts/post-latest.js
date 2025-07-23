@@ -135,26 +135,69 @@ async function postToMastodon(title, fullUrl) {
   console.log('🔑 MASTODON_URL configured:', !!process.env.MASTODON_URL);
   console.log('🔑 MASTODON_ACCESS_TOKEN configured:', !!process.env.MASTODON_ACCESS_TOKEN);
   
+  // Debug: show partial values (first 10 chars) to verify they're actually set
+  if (process.env.MASTODON_URL) {
+    console.log('🔑 MASTODON_URL starts with:', process.env.MASTODON_URL.substring(0, 20) + '...');
+  }
+  if (process.env.MASTODON_ACCESS_TOKEN) {
+    console.log('🔑 MASTODON_ACCESS_TOKEN starts with:', process.env.MASTODON_ACCESS_TOKEN.substring(0, 10) + '...');
+  }
+  
   if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
     console.log('❌ Mastodon credentials not configured, skipping...');
     return { success: false, reason: 'Missing credentials' };
   }
   
   try {
-    console.log('🔗 Connecting to Mastodon...');
+    console.log('📦 Importing masto package...');
+    const { login } = require('masto');
+    console.log('✅ Masto package imported successfully');
+    
+    console.log('🔗 Connecting to Mastodon server...');
+    console.log('🌐 Server URL:', process.env.MASTODON_URL);
+    
     const masto = await login({
       url: process.env.MASTODON_URL,
       accessToken: process.env.MASTODON_ACCESS_TOKEN,
     });
     
+    console.log('✅ Connected to Mastodon successfully');
+    console.log('🔍 Masto client created:', typeof masto);
+    
     const status = `New post: ${title}\n\n${fullUrl}`;
     console.log('📝 Posting status:', status);
-    await masto.v1.statuses.create({ status, visibility: 'public' });
+    console.log('📝 Status length:', status.length, 'characters');
+    
+    const result = await masto.v1.statuses.create({ 
+      status, 
+      visibility: 'public' 
+    });
+    
     console.log('✅ Posted to Mastodon successfully');
+    console.log('📊 Post result:', {
+      id: result.id,
+      url: result.url,
+      created_at: result.createdAt
+    });
+    
     return { success: true };
   } catch (error) {
     console.error('❌ Failed to post to Mastodon:', error.message);
-    console.error('❌ Full error:', error);
+    console.error('❌ Error name:', error.name);
+    console.error('❌ Error code:', error.code);
+    console.error('❌ Error status:', error.status);
+    
+    // Log the full error object structure to understand what we're dealing with
+    const errorInfo = {
+      name: error.name,
+      message: error.message,
+      code: error.code,
+      status: error.status,
+      statusText: error.statusText,
+      stack: error.stack?.split('\n').slice(0, 3).join('\n') // First 3 lines of stack
+    };
+    console.error('❌ Full error info:', JSON.stringify(errorInfo, null, 2));
+    
     return { success: false, reason: error.message };
   }
 }
@@ -185,6 +228,13 @@ async function postToBluesky(title, fullUrl) {
 // Main function
 async function main() {
   try {
+    console.log('🚀 Starting social media posting script...');
+    console.log('🌍 Environment check:');
+    console.log('   - MASTODON_URL:', !!process.env.MASTODON_URL);
+    console.log('   - MASTODON_ACCESS_TOKEN:', !!process.env.MASTODON_ACCESS_TOKEN);
+    console.log('   - BLUESKY_IDENTIFIER:', !!process.env.BLUESKY_IDENTIFIER);
+    console.log('   - BLUESKY_PASSWORD:', !!process.env.BLUESKY_PASSWORD);
+    
     console.log('🔍 Scanning for most recent unposted post...');
     const postsDir = path.join(process.cwd(), 'content', 'posts');
     const history = loadPostedHistory();
