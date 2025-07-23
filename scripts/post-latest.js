@@ -51,16 +51,53 @@ function extractFrontmatter(filePath) {
 
 // Convert file path to URL path (always use file path, not frontmatter)
 function filePathToUrlPath(filePath) {
-  const relativePath = filePath.replace(/^content\/posts\//, '').replace(/\.md$/, '');
-  const pathParts = relativePath.split(path.sep);
+  console.log(`🔍 Processing file path: ${filePath}`);
+  
+  // Normalize path separators
+  let normalizedPath = filePath.replace(/\\/g, '/');
+  console.log(`📝 Normalized path: ${normalizedPath}`);
+  
+  // Find the content/posts/ part and extract everything after it
+  const contentPostsIndex = normalizedPath.indexOf('content/posts/');
+  console.log(`📍 content/posts/ index: ${contentPostsIndex}`);
+  
+  if (contentPostsIndex !== -1) {
+    normalizedPath = normalizedPath.substring(contentPostsIndex + 'content/posts/'.length);
+    console.log(`✂️ After content/posts/ removal: ${normalizedPath}`);
+  } else {
+    console.log(`⚠️ content/posts/ not found in path: ${filePath}`);
+    return '/ERROR-INVALID-FILE-PATH/';
+  }
+  
+  // Remove .md extension
+  const relativePath = normalizedPath.replace(/\.md$/, '');
+  console.log(`📄 After .md removal: ${relativePath}`);
+  
+  // Split by directory separators and filter out empty parts
+  const pathParts = relativePath.split('/').filter(part => part.length > 0);
+  console.log(`🔢 Path parts: [${pathParts.join(', ')}] (length: ${pathParts.length})`);
+  
+  // Format as YYYY/MM/DD/slug
   if (pathParts.length >= 4) {
     const year = pathParts[0];
     const month = pathParts[1];
     const day = pathParts[2];
     const slug = pathParts[3];
-    return `/${year}/${month}/${day}/${slug}/`;
+    
+    // Validate that year, month, day look like numbers
+    if (!/^\d{4}$/.test(year) || !/^\d{2}$/.test(month) || !/^\d{2}$/.test(day)) {
+      console.log(`⚠️ Invalid date format: ${year}/${month}/${day}`);
+      return '/ERROR-INVALID-DATE-FORMAT/';
+    }
+    
+    const urlPath = `/${year}/${month}/${day}/${slug}/`;
+    console.log(`✅ Generated URL path: ${urlPath}`);
+    return urlPath;
   }
-  return `/${relativePath.replace(/\\/g, '/')}/`;
+  
+  // Fallback: return error URL
+  console.log(`⚠️ Insufficient path parts (need at least 4): [${pathParts.join(', ')}]`);
+  return '/ERROR-INSUFFICIENT-PATH-PARTS/';
 }
 
 // Find the most recent unposted post by date (using file path URL for history check)
@@ -94,21 +131,30 @@ function findMostRecentUnpostedPost(postsDir, history) {
 
 // Post to Mastodon
 async function postToMastodon(title, fullUrl) {
+  console.log('🐘 Attempting Mastodon posting...');
+  console.log('🔑 MASTODON_URL configured:', !!process.env.MASTODON_URL);
+  console.log('🔑 MASTODON_ACCESS_TOKEN configured:', !!process.env.MASTODON_ACCESS_TOKEN);
+  
   if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
-    console.log('Mastodon credentials not configured, skipping...');
+    console.log('❌ Mastodon credentials not configured, skipping...');
     return { success: false, reason: 'Missing credentials' };
   }
+  
   try {
+    console.log('🔗 Connecting to Mastodon...');
     const masto = await login({
       url: process.env.MASTODON_URL,
       accessToken: process.env.MASTODON_ACCESS_TOKEN,
     });
+    
     const status = `New post: ${title}\n\n${fullUrl}`;
+    console.log('📝 Posting status:', status);
     await masto.v1.statuses.create({ status, visibility: 'public' });
     console.log('✅ Posted to Mastodon successfully');
     return { success: true };
   } catch (error) {
     console.error('❌ Failed to post to Mastodon:', error.message);
+    console.error('❌ Full error:', error);
     return { success: false, reason: error.message };
   }
 }
