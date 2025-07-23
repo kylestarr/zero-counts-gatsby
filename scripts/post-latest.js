@@ -155,6 +155,10 @@ async function postToMastodon(title, fullUrl) {
     
     console.log('🔗 Connecting to Mastodon server...');
     console.log('🌐 Server URL:', process.env.MASTODON_URL);
+    console.log('🔑 Token format check:', {
+      length: process.env.MASTODON_ACCESS_TOKEN.length,
+      startsCorrectly: /^[a-zA-Z0-9_-]/.test(process.env.MASTODON_ACCESS_TOKEN)
+    });
     
     const masto = await login({
       url: process.env.MASTODON_URL,
@@ -163,6 +167,15 @@ async function postToMastodon(title, fullUrl) {
     
     console.log('✅ Connected to Mastodon successfully');
     console.log('🔍 Masto client created:', typeof masto);
+    
+    // Test account verification first
+    console.log('👤 Verifying account credentials...');
+    const account = await masto.v1.accounts.verifyCredentials();
+    console.log('✅ Account verified:', {
+      username: account.username,
+      displayName: account.displayName,
+      id: account.id
+    });
     
     const status = `New post: ${title}\n\n${fullUrl}`;
     console.log('📝 Posting status:', status);
@@ -186,6 +199,24 @@ async function postToMastodon(title, fullUrl) {
     console.error('❌ Error name:', error.name);
     console.error('❌ Error code:', error.code);
     console.error('❌ Error status:', error.status);
+    
+    // Provide specific guidance based on error type
+    if (error.status === 401) {
+      console.error('🔑 AUTHENTICATION ERROR: Your Mastodon access token is invalid or expired');
+      console.error('   → Generate a new token at: [your-instance]/settings/applications');
+    } else if (error.status === 403) {
+      console.error('🚫 PERMISSION ERROR: Your token doesn\'t have posting permissions');
+      console.error('   → Check token scopes include "write:statuses"');
+    } else if (error.status === 422) {
+      console.error('📝 CONTENT ERROR: The post content was rejected');
+      console.error('   → Check character limits or forbidden content');
+    } else if (error.code === 'ENOTFOUND') {
+      console.error('🌐 URL ERROR: Cannot find the Mastodon server');
+      console.error('   → Check MASTODON_URL is correct (e.g., https://mastodon.social)');
+    } else if (error.code === 'ECONNREFUSED') {
+      console.error('🔌 CONNECTION ERROR: Server refused connection');
+      console.error('   → Server may be down or URL incorrect');
+    }
     
     // Log the full error object structure to understand what we're dealing with
     const errorInfo = {
