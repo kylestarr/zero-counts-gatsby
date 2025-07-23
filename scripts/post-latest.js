@@ -3,277 +3,176 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
-const { Mastodon } = require('masto');
+const { login } = require('masto');
 const { BskyAgent } = require('@atproto/api');
 
-// Configuration - you'll need to set these environment variables
-const config = {
-  siteUrl: process.env.SITE_URL || 'https://zerocounts.com',
-  mastodon: {
-    url: process.env.MASTODON_URL,
-    accessToken: process.env.MASTODON_ACCESS_TOKEN,
-  },
-  bluesky: {
-    identifier: process.env.BLUESKY_IDENTIFIER,
-    password: process.env.BLUESKY_PASSWORD,
-  }
-};
-
-// File to track posted URLs
-const POSTED_HISTORY_FILE = path.join(__dirname, 'posted-history.json');
-
-/**
- * Load the history of posted URLs
- */
+// Load posted history
 function loadPostedHistory() {
   try {
-    if (fs.existsSync(POSTED_HISTORY_FILE)) {
-      const data = fs.readFileSync(POSTED_HISTORY_FILE, 'utf8');
-      return JSON.parse(data);
-    }
-  } catch (error) {
-    console.warn('⚠️  Could not load posted history:', error.message);
+    const data = fs.readFileSync(path.join(__dirname, 'posted-history.json'), 'utf8');
+    return JSON.parse(data);
+  } catch (e) {
+    return { postedUrls: [], lastPosted: null };
   }
-  return { postedUrls: [], lastPosted: null };
 }
 
-/**
- * Save the history of posted URLs
- */
+// Save posted history
 function savePostedHistory(history) {
-  try {
-    fs.writeFileSync(POSTED_HISTORY_FILE, JSON.stringify(history, null, 2));
-  } catch (error) {
-    console.warn('⚠️  Could not save posted history:', error.message);
-  }
+  fs.writeFileSync(path.join(__dirname, 'posted-history.json'), JSON.stringify(history, null, 2));
 }
 
-/**
- * Check if a URL has already been posted
- */
-function hasBeenPosted(url, history) {
-  return history.postedUrls.includes(url);
-}
-
-/**
- * Add a URL to the posted history
- */
-function addToPostedHistory(url, history) {
-  history.postedUrls.push(url);
-  history.lastPosted = new Date().toISOString();
-  
-  // Keep only the last 100 posted URLs to prevent the file from growing too large
-  if (history.postedUrls.length > 100) {
-    history.postedUrls = history.postedUrls.slice(-100);
-  }
-  
-  savePostedHistory(history);
-}
-
-/**
- * Recursively find all markdown files in the posts directory
- */
+// Recursively find all markdown files in the posts directory
 function findMarkdownFiles(dir, files = []) {
   const items = fs.readdirSync(dir);
-  
   for (const item of items) {
     const fullPath = path.join(dir, item);
     const stat = fs.statSync(fullPath);
-    
     if (stat.isDirectory()) {
       findMarkdownFiles(fullPath, files);
     } else if (item.endsWith('.md')) {
       files.push(fullPath);
     }
   }
-  
   return files;
 }
 
-/**
- * Get file creation/modification time
- */
-function getFileTime(filePath) {
-  const stat = fs.statSync(filePath);
-  return stat.mtime.getTime();
-}
-
-/**
- * Find the most recently modified markdown file that hasn't been posted yet
- */
-function findMostRecentUnpostedPost(postsDir, history) {
-  const markdownFiles = findMarkdownFiles(postsDir);
-  
-  if (markdownFiles.length === 0) {
-    throw new Error('No markdown files found in posts directory');
-  }
-  
-  // Sort by modification time (most recent first)
-  const sortedFiles = markdownFiles.sort((a, b) => getFileTime(b) - getFileTime(a));
-  
-  // Find the first file that hasn't been posted yet
-  for (const file of sortedFiles) {
-    const { url } = extractFrontmatter(file);
-    const fullUrl = `${config.siteUrl}${url}`;
-    
-    if (!hasBeenPosted(fullUrl, history)) {
-      return file;
-    }
-  }
-  
-  return null; // All recent files have been posted
-}
-
-/**
- * Extract frontmatter from markdown file
- */
+// Extract frontmatter from markdown file
 function extractFrontmatter(filePath) {
   const content = fs.readFileSync(filePath, 'utf8');
   const { data } = matter(content);
-  
-  if (!data.title) {
-    throw new Error(`No title found in frontmatter for ${filePath}`);
+  if (!data.title || !data.date) {
+    throw new Error(`Missing title or date in frontmatter for ${filePath}`);
   }
-  
-  if (!data.url) {
-    throw new Error(`No URL found in frontmatter for ${filePath}`);
-  }
-  
   return {
     title: data.title,
-    url: data.url,
-    date: data.date
+    date: new Date(data.date)
   };
 }
 
-/**
- * Post to Mastodon
- */
-async function postToMastodon(title, fullUrl) {
-  if (!config.mastodon.url || !config.mastodon.accessToken) {
-    console.log('Mastodon credentials not configured, skipping...');
-    return;
+// Convert file path to URL path (always use file path, not frontmatter)
+function filePathToUrlPath(filePath) {
+  const relativePath = filePath.replace(/^content\/posts\//, '').replace(/\.md$/, '');
+  const pathParts = relativePath.split(path.sep);
+  if (pathParts.length >= 4) {
+    const year = pathParts[0];
+    const month = pathParts[1];
+    const day = pathParts[2];
+    const slug = pathParts[3];
+    return `/${year}/${month}/${day}/${slug}/`;
   }
-  
+  return `/${relativePath.replace(/\\/g, '/')}/`;
+}
+
+// Find the most recent unposted post by date (using file path URL for history check)
+function findMostRecentUnpostedPost(postsDir, history) {
+  const markdownFiles = findMarkdownFiles(postsDir);
+  if (markdownFiles.length === 0) {
+    throw new Error('No markdown files found in posts directory');
+  }
+  let mostRecent = null;
+  let mostRecentData = null;
+  for (const file of markdownFiles) {
+    try {
+      const data = extractFrontmatter(file);
+      const urlPath = filePathToUrlPath(file);
+      // Only consider posts not in posted-history.json (by file path URL)
+      if (!history.postedUrls.includes(urlPath)) {
+        if (!mostRecent || (data.date > mostRecentData.date)) {
+          mostRecent = file;
+          mostRecentData = { ...data, urlPath };
+        }
+      }
+    } catch (e) {
+      continue;
+    }
+  }
+  if (!mostRecent) {
+    return null;
+  }
+  return { file: mostRecent, ...mostRecentData };
+}
+
+// Post to Mastodon
+async function postToMastodon(title, fullUrl) {
+  if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
+    console.log('Mastodon credentials not configured, skipping...');
+    return { success: false, reason: 'Missing credentials' };
+  }
   try {
-    const masto = new Mastodon({
-      url: config.mastodon.url,
-      accessToken: config.mastodon.accessToken,
+    const masto = await login({
+      url: process.env.MASTODON_URL,
+      accessToken: process.env.MASTODON_ACCESS_TOKEN,
     });
-    
-    const status = `${title}\n\n${fullUrl}`;
-    
-    const response = await masto.statuses.create({
-      status,
-      visibility: 'public',
-    });
-    
+    const status = `New post: ${title}\n\n${fullUrl}`;
+    await masto.v1.statuses.create({ status, visibility: 'public' });
     console.log('✅ Posted to Mastodon successfully');
-    console.log(`   Status ID: ${response.data.id}`);
+    return { success: true };
   } catch (error) {
     console.error('❌ Failed to post to Mastodon:', error.message);
+    return { success: false, reason: error.message };
   }
 }
 
-/**
- * Post to Bluesky
- */
+// Post to Bluesky
 async function postToBluesky(title, fullUrl) {
-  if (!config.bluesky.identifier || !config.bluesky.password) {
+  if (!process.env.BLUESKY_IDENTIFIER || !process.env.BLUESKY_PASSWORD) {
     console.log('Bluesky credentials not configured, skipping...');
-    return;
+    return { success: false, reason: 'Missing credentials' };
   }
-  
   try {
-    const agent = new BskyAgent({
-      service: 'https://bsky.social',
-    });
-    
+    const agent = new BskyAgent({ service: 'https://bsky.social' });
     await agent.login({
-      identifier: config.bluesky.identifier,
-      password: config.bluesky.password,
+      identifier: process.env.BLUESKY_IDENTIFIER,
+      password: process.env.BLUESKY_PASSWORD,
     });
-    
-    const text = `${title}\n\n${fullUrl}`;
-    
-    const response = await agent.post({
-      text,
-    });
-    
+    const text = `New post: ${title}\n\n${fullUrl}`;
+    const response = await agent.post({ text });
     console.log('✅ Posted to Bluesky successfully');
     console.log(`   Post URI: ${response.uri}`);
+    return { success: true };
   } catch (error) {
     console.error('❌ Failed to post to Bluesky:', error.message);
+    return { success: false, reason: error.message };
   }
 }
 
-/**
- * Main function
- */
+// Main function
 async function main() {
   try {
     console.log('🔍 Scanning for most recent unposted post...');
-    
     const postsDir = path.join(process.cwd(), 'content', 'posts');
-    
-    if (!fs.existsSync(postsDir)) {
-      throw new Error(`Posts directory not found: ${postsDir}`);
-    }
-    
-    // Load posted history
     const history = loadPostedHistory();
     console.log(`📊 Found ${history.postedUrls.length} previously posted URLs`);
-    
-    // Find the most recent unposted post
-    const mostRecentFile = findMostRecentUnpostedPost(postsDir, history);
-    
-    if (!mostRecentFile) {
+    const mostRecent = findMostRecentUnpostedPost(postsDir, history);
+    if (!mostRecent) {
       console.log('✅ All recent posts have already been posted to social media!');
       console.log('   No new posts to share.');
       return;
     }
-    
-    console.log(`📄 Found unposted file: ${path.relative(process.cwd(), mostRecentFile)}`);
-    
-    // Extract frontmatter
-    const { title, url } = extractFrontmatter(mostRecentFile);
-    const fullUrl = `${config.siteUrl}${url}`;
-    
+    const { file, title, date, urlPath } = mostRecent;
+    const fullUrl = `https://zerocounts.net${urlPath}`;
+    console.log(`📄 Found unposted file: ${file}`);
     console.log(`📝 Title: ${title}`);
+    console.log(`📅 Date: ${date}`);
     console.log(`🔗 URL: ${fullUrl}`);
-    
     // Post to social platforms
     console.log('\n📤 Posting to social platforms...');
-    
     await Promise.all([
       postToMastodon(title, fullUrl),
       postToBluesky(title, fullUrl)
     ]);
-    
     // Add to posted history
-    addToPostedHistory(fullUrl, history);
-    console.log(`📝 Added ${fullUrl} to posted history`);
-    
+    history.postedUrls.push(urlPath);
+    history.lastPosted = new Date().toISOString();
+    savePostedHistory(history);
+    console.log(`📝 Added ${urlPath} to posted history`);
     console.log('\n✅ All done!');
-    
   } catch (error) {
     console.error('❌ Error:', error.message);
     process.exit(1);
   }
 }
 
-// Run the script
 if (require.main === module) {
   main();
-}
-
-module.exports = {
-  findMostRecentUnpostedPost,
-  extractFrontmatter,
-  postToMastodon,
-  postToBluesky,
-  loadPostedHistory,
-  savePostedHistory,
-  hasBeenPosted,
-  addToPostedHistory
-}; 
+} 
