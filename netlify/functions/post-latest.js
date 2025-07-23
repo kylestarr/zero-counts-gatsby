@@ -53,10 +53,21 @@ function extractFrontmatter(filePath) {
 
 // Convert file path to URL path
 function filePathToUrlPath(filePath) {
-  // Remove the content/posts/ prefix and .md extension
-  const relativePath = filePath.replace(/^content\/posts\//, '').replace(/\.md$/, '');
-  // Split by directory separators and join with /
-  const pathParts = relativePath.split(path.sep);
+  // Normalize path separators and remove any absolute path prefixes
+  let normalizedPath = filePath.replace(/\\/g, '/');
+  
+  // Find the content/posts/ part and extract everything after it
+  const contentPostsIndex = normalizedPath.indexOf('content/posts/');
+  if (contentPostsIndex !== -1) {
+    normalizedPath = normalizedPath.substring(contentPostsIndex + 'content/posts/'.length);
+  }
+  
+  // Remove .md extension
+  const relativePath = normalizedPath.replace(/\.md$/, '');
+  
+  // Split by directory separators
+  const pathParts = relativePath.split('/');
+  
   // Format as YYYY/MM/DD/slug
   if (pathParts.length >= 4) {
     const year = pathParts[0];
@@ -65,8 +76,9 @@ function filePathToUrlPath(filePath) {
     const slug = pathParts[3];
     return `/${year}/${month}/${day}/${slug}/`;
   }
+  
   // Fallback: just use the relative path
-  return `/${relativePath.replace(/\\/g, '/')}/`;
+  return `/${relativePath}/`;
 }
 
 // Find the most recent post by frontmatter date
@@ -97,8 +109,14 @@ function findMostRecentPostByDate(postsDir) {
 
 // Mastodon posting (using masto package)
 async function postToMastodon(title, fullUrl) {
+  if (!process.env.MASTODON_URL || !process.env.MASTODON_ACCESS_TOKEN) {
+    console.log('Mastodon credentials not configured, skipping...');
+    return { success: false, reason: 'missing credentials' };
+  }
+  
   try {
-    const { login } = await import('masto');
+    // Use require instead of dynamic import for better Netlify compatibility
+    const { login } = require('masto');
     const masto = await login({
       url: process.env.MASTODON_URL,
       accessToken: process.env.MASTODON_ACCESS_TOKEN,
