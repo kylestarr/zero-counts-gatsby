@@ -4,7 +4,7 @@ date: 2014-10-29 17:37:04+00:00
 draft: false
 title: Nintendo Sees $244M in Profit
 type: post
-url: /nintendo-sees-244m-profit/
+slug: /nintendo-sees-244m-profit/
 categories:
 - Business
 tags:

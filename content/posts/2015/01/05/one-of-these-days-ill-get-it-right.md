@@ -4,7 +4,7 @@ date: 2015-01-05 21:27:57+00:00
 draft: false
 title: One of These Days I'll Get It Right
 type: post
-url: /one-of-these-days-ill-get-it-right/
+slug: /one-of-these-days-ill-get-it-right/
 categories:
 - Music
 tags:

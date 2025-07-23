@@ -4,7 +4,7 @@ date: 2014-07-08 12:55:29+00:00
 draft: false
 title: Gambling for Kids
 type: post
-url: /gambling-for-kids/
+slug: /gambling-for-kids/
 categories:
 - Business
 tags:

@@ -4,7 +4,7 @@ date: 2015-03-11 17:48:35+00:00
 draft: false
 title: The New Normal
 type: post
-url: /the-new-normal/
+slug: /the-new-normal/
 categories:
 - Health
 tags:

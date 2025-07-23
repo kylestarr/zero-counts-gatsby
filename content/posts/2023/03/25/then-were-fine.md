@@ -1,7 +1,7 @@
 ---
 title: "Gunpei Yokoi, Game Boy creator: Our competition has a color screen? 'Then we're fine'"
 date: 2023-03-25T11:15:00-08:00
-url: /then-were-fine/
+slug: /then-were-fine/
 categories:
   - Design
 tags:

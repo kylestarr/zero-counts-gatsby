@@ -4,7 +4,7 @@ date: 2019-02-09 20:57:01+00:00
 draft: false
 title: Activision-Blizzard Employees Brace For Massive Layoffs
 type: post
-url: /activision-blizzard-employees-brace-for-massive-layoffs/
+slug: /activision-blizzard-employees-brace-for-massive-layoffs/
 categories:
 - Business
 tags:

@@ -4,7 +4,7 @@ date: 2014-10-04 23:06:52+00:00
 draft: false
 title: The Players' Score Enters Final Week of Funding
 type: post
-url: /the-players-score-enters-final-week-of-funding/
+slug: /the-players-score-enters-final-week-of-funding/
 categories:
 - History
 - Music

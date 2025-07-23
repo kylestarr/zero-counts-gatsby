@@ -4,7 +4,7 @@ date: 2018-03-25 16:18:14+00:00
 draft: false
 title: Cross-Network Play is "the Next Logical Step"
 type: post
-url: /cross-network-play-is-the-next-logical-step/
+slug: /cross-network-play-is-the-next-logical-step/
 categories:
 - Business
 postFormat:

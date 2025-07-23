@@ -4,7 +4,7 @@ date: 2015-02-04 00:39:44+00:00
 draft: false
 title: There is No End
 type: post
-url: /there-is-no-end/
+slug: /there-is-no-end/
 categories:
 - Media
 tags:

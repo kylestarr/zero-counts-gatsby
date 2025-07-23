@@ -4,7 +4,7 @@ date: 2015-04-15 05:14:26+00:00
 draft: false
 title: David Benioff on Writing Fiction v. Screenplays
 type: post
-url: /david-benioff-on-writing-fiction-v-screenplays/
+slug: /david-benioff-on-writing-fiction-v-screenplays/
 categories:
 - Art
 tags:

@@ -4,7 +4,7 @@ date: 2014-05-29 15:04:02+00:00
 draft: false
 title: Pretty In Pink
 type: post
-url: /pretty-in-pink/
+slug: /pretty-in-pink/
 categories:
 - Culture
 tags:

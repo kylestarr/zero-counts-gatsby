@@ -4,7 +4,7 @@ date: 2017-02-09 15:39:55+00:00
 draft: false
 title: The Besties Are Back
 type: post
-url: /the-besties-are-back/
+slug: /the-besties-are-back/
 categories:
 - Media
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Switch 2 Teaser Impressions"
 date: 2025-01-18T14:30:00-08:00
-url: /switch-2-teaser-impressions/
+slug: /switch-2-teaser-impressions/
 categories:
   - Business
 tags:

@@ -4,7 +4,7 @@ date: 2013-03-20 10:00:00+00:00
 draft: false
 title: 'Identity Crisis: Kids Know Best'
 type: post
-url: /identity-crisis-kids-know-best/
+slug: /identity-crisis-kids-know-best/
 categories:
 - Health
 tags:

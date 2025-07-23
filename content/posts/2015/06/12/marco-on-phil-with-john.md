@@ -4,7 +4,7 @@ date: 2015-06-12 04:40:39+00:00
 draft: false
 title: Marco on Phil with John
 type: post
-url: /marco-on-phil-with-john/
+slug: /marco-on-phil-with-john/
 categories:
 - Business
 - Culture

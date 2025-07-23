@@ -4,7 +4,7 @@ date: 2014-08-06 13:39:20+00:00
 draft: false
 title: '''How video games have the power to change real lives'''
 type: post
-url: /how-video-games-have-the-power-to-change-real-lives/
+slug: /how-video-games-have-the-power-to-change-real-lives/
 categories:
 - Culture
 - Education

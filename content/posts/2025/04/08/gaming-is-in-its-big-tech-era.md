@@ -1,7 +1,7 @@
 ---
 title: "Gaming is in its big tech era"
 date: 2025-04-08T21:15:00-08:00
-url: /gaming-is-in-its-big-tech-era/
+slug: /gaming-is-in-its-big-tech-era/
 categories:
   - Design
 tags:

@@ -4,7 +4,7 @@ date: 2015-11-15 07:22:24+00:00
 draft: false
 title: The Room Three
 type: post
-url: /the-room-three/
+slug: /the-room-three/
 categories:
 - Review
 tags:

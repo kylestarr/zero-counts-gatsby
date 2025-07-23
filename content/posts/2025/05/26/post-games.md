@@ -1,7 +1,7 @@
 ---
 title: "Post Games: A new podcast by former Polygon Editor-in-Chief Chris Plante"
 date: 2025-05-26T08:00:00-08:00
-url: /post-games/
+slug: /post-games/
 categories:
   - Media
 tags:

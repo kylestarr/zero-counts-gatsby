@@ -4,7 +4,7 @@ date: 2019-05-22 04:17:15+00:00
 draft: false
 title: Playdate
 type: post
-url: /playdate/
+slug: /playdate/
 categories:
 - Design
 postFormat:

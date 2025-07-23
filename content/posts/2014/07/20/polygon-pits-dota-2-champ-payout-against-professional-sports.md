@@ -4,7 +4,7 @@ date: 2014-07-20 15:26:14+00:00
 draft: false
 title: Polygon pits Dota 2 champ payout against professional sports
 type: post
-url: /polygon-pits-dota-2-champ-payout-against-professional-sports/
+slug: /polygon-pits-dota-2-champ-payout-against-professional-sports/
 categories:
 - eSports
 tags:

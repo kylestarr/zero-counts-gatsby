@@ -4,7 +4,7 @@ date: 2014-12-03 20:14:05+00:00
 draft: false
 title: Monument Valley is Magic
 type: post
-url: /monument-valley-is-magic/
+slug: /monument-valley-is-magic/
 categories:
 - Art
 - Design

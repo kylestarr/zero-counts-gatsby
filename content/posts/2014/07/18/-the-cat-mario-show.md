@@ -4,7 +4,7 @@ date: 2014-07-18 13:49:36+00:00
 draft: false
 title: The Cat Mario Show
 type: post
-url: /the-cat-mario-show/
+slug: /the-cat-mario-show/
 categories:
 - Business
 - History

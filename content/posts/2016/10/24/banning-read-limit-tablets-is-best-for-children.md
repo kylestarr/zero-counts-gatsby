@@ -4,7 +4,7 @@ date: 2016-10-24 14:40:00+00:00
 draft: false
 title: 'WSJ: Banning Tablets Is Best for Children'
 type: post
-url: /banning-read-limit-tablets-is-best-for-children/
+slug: /banning-read-limit-tablets-is-best-for-children/
 categories:
 - Children
 - Parenting

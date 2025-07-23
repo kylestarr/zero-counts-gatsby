@@ -4,7 +4,7 @@ date: 2017-12-30 14:44:36+00:00
 draft: false
 title: 'Miyamoto: ‘I always look for designers who aren’t super-passionate game fans’'
 type: post
-url: /miyamoto-i-always-look-for-designers-who-arent-super-passionate-game-fans/
+slug: /miyamoto-i-always-look-for-designers-who-arent-super-passionate-game-fans/
 categories:
 - Business
 - Design

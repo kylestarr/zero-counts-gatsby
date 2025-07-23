@@ -1,7 +1,7 @@
 ---
 title: "'I Just Took the One with the Best Story'"
 date: 2023-01-18T07:55:00-08:00
-url: /i-just-took-the-one-with-the-best-story/
+slug: /i-just-took-the-one-with-the-best-story/
 categories:
   - Design
 tags:

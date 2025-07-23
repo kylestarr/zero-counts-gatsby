@@ -4,7 +4,7 @@ date: 2018-05-30 02:15:24+00:00
 draft: false
 title: 'Pokémon: Let’s Go!'
 type: post
-url: /pokemon-lets-go/
+slug: /pokemon-lets-go/
 categories:
 - General
 tags:

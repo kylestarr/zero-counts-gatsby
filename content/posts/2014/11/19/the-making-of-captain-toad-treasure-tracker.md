@@ -4,7 +4,7 @@ date: 2014-11-19 17:32:14+00:00
 draft: false
 title: '''The making of Captain Toad: Treasure Tracker'''
 type: post
-url: /the-making-of-captain-toad-treasure-tracker/
+slug: /the-making-of-captain-toad-treasure-tracker/
 categories:
 - Design
 - History

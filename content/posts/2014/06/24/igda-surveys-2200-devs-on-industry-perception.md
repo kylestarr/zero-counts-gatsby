@@ -4,7 +4,7 @@ date: 2014-06-24 19:25:50+00:00
 draft: false
 title: IGDA surveys 2,200 devs on industry perception
 type: post
-url: /igda-surveys-2200-devs-on-industry-perception/
+slug: /igda-surveys-2200-devs-on-industry-perception/
 categories:
 - Culture
 - Work

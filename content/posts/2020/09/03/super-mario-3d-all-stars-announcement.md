@@ -1,7 +1,7 @@
 ---
 title: "Super Mario 3D All-Stars Announcement"
 date: "2020-09-03"
-url: "super-mario-3d-all-stars-announcement"
+slug: "super-mario-3d-all-stars-announcement"
 category: "general"
 postFormat:
 - Link

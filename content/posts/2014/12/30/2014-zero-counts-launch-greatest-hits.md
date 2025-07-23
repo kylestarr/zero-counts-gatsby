@@ -4,7 +4,7 @@ date: 2014-12-30 17:39:58+00:00
 draft: false
 title: "2014: Zero Counts Launch + Greatest Hits"
 type: post
-url: /2014-zero-counts-launch-greatest-hits/
+slug: /2014-zero-counts-launch-greatest-hits/
 categories:
   - General
 tags:

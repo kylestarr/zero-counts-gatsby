@@ -4,7 +4,7 @@ date: 2014-12-28 23:18:32+00:00
 draft: false
 title: Old School Hip Hop is the new Golden Oldies
 type: post
-url: /old-school-hip-hop-is-the-new-golden-oldies/
+slug: /old-school-hip-hop-is-the-new-golden-oldies/
 categories:
 - History
 - Music

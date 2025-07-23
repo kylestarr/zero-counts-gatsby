@@ -4,7 +4,7 @@ date: 2014-08-12 05:34:12+00:00
 draft: false
 title: Visual Polish
 type: post
-url: /visual-polish/
+slug: /visual-polish/
 categories:
 - Design
 postFormat:

@@ -4,7 +4,7 @@ date: 2017-02-10 18:25:14+00:00
 draft: false
 title: The Second Console
 type: post
-url: /the-second-console/
+slug: /the-second-console/
 categories:
 - Business
 tags:

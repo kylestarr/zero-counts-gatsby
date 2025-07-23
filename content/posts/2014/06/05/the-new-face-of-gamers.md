@@ -4,7 +4,7 @@ date: 2014-06-05 17:26:37+00:00
 draft: false
 title: The New Face of Gamers
 type: post
-url: /the-new-face-of-gamers/
+slug: /the-new-face-of-gamers/
 categories:
 - Culture
 tags:

@@ -4,7 +4,7 @@ date: 2016-01-08 02:39:54+00:00
 draft: false
 title: 'Intel, Vox Media, Re/code and the Born This Way Foundation Launch #HackHarassment'
 type: post
-url: /intel-vox-media-recode-and-the-born-this-way-foundation-launch-hackharassment/
+slug: /intel-vox-media-recode-and-the-born-this-way-foundation-launch-hackharassment/
 categories:
 - Culture
 - Health

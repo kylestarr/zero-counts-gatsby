@@ -4,7 +4,7 @@ date: 2018-07-16 14:06:21+00:00
 draft: false
 title: Bloated from all he had acquired
 type: post
-url: /bloated-from-all-he-had-acquired/
+slug: /bloated-from-all-he-had-acquired/
 categories:
 - Commonplace
 tags:

@@ -4,7 +4,7 @@ date: 2014-06-12 17:08:44+00:00
 draft: false
 title: The state of gaming in mainstream media
 type: post
-url: /the-state-of-gaming-in-mainstream-media/
+slug: /the-state-of-gaming-in-mainstream-media/
 categories:
 - Culture
 tags:

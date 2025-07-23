@@ -4,7 +4,7 @@ date: 2017-02-04 18:22:07+00:00
 draft: false
 title: '''Same playbook, just on a wider scale'''
 type: post
-url: /same-playbook-just-on-a-wider-scale/
+slug: /same-playbook-just-on-a-wider-scale/
 categories:
 - Politics
 ---

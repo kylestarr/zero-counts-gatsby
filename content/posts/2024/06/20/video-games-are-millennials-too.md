@@ -1,7 +1,7 @@
 ---
 title: "Video games are Millennials too"
 date: 2024-06-20T22:00:00-08:00
-url: /video-games-are-millennials-too/
+slug: /video-games-are-millennials-too/
 categories:
   - Business
 tags:

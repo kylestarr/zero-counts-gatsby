@@ -4,7 +4,7 @@ date: 2014-12-27 16:21:48+00:00
 draft: false
 title: St. George California Reserve Agricole Rum
 type: post
-url: /st-george-california-reserve-agricole-rum/
+slug: /st-george-california-reserve-agricole-rum/
 categories:
 - General
 tags:

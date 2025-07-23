@@ -4,7 +4,7 @@ date: 2014-08-22 17:02:51+00:00
 draft: false
 title: Russ Frushtick says Goodbye to Polygon
 type: post
-url: /russ-frushtick-says-goodbye-to-polygon/
+slug: /russ-frushtick-says-goodbye-to-polygon/
 categories:
 - Media
 tags:

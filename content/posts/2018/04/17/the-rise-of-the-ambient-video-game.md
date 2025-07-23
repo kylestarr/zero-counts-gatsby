@@ -4,7 +4,7 @@ date: 2018-04-17 14:41:35+00:00
 draft: false
 title: The rise of the ambient video game
 type: post
-url: /the-rise-of-the-ambient-video-game/
+slug: /the-rise-of-the-ambient-video-game/
 categories:
 - Design
 ---

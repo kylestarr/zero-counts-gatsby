@@ -4,7 +4,7 @@ date: 2015-01-01 23:25:11+00:00
 draft: false
 title: Jason Snell on Solo Blogging Stresses
 type: post
-url: /jason-snell-on-solo-blogging-stresses/
+slug: /jason-snell-on-solo-blogging-stresses/
 categories:
 - Media
 tags:

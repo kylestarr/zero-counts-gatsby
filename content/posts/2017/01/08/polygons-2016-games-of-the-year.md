@@ -4,7 +4,7 @@ date: 2017-01-08 17:50:37+00:00
 draft: false
 title: Polygon's 2016 Games of the Year
 type: post
-url: /polygons-2016-games-of-the-year/
+slug: /polygons-2016-games-of-the-year/
 categories:
 - Review
 tags:

@@ -4,7 +4,7 @@ date: 2019-02-01 16:04:46+00:00
 draft: false
 title: Microsoft’s Super Bowl Ad
 type: post
-url: /microsofts-super-bowl-ad/
+slug: /microsofts-super-bowl-ad/
 categories:
 - Accessibility
 tags:

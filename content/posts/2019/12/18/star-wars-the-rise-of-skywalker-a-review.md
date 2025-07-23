@@ -4,7 +4,7 @@ date: 2019-12-18 08:00:56+00:00
 draft: false
 title: 'Star Wars: The Rise of Skywalker — A Review'
 type: post
-url: /star-wars-the-rise-of-skywalker-a-review/
+slug: /star-wars-the-rise-of-skywalker-a-review/
 categories:
 - Review
 tags:

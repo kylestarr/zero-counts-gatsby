@@ -4,7 +4,7 @@ date: 2014-07-15 17:41:48+00:00
 draft: false
 title: Order and Chaos
 type: post
-url: /order-and-chaos/
+slug: /order-and-chaos/
 categories:
 - Design
 tags:

@@ -4,7 +4,7 @@ date: 2018-07-08 00:20:43+00:00
 draft: false
 title: 'Kotaku: Octopath Traveler Is Nothing Like Final Fantasy VI'
 type: post
-url: /kotaku-octopath-traveler-is-nothing-like-final-fantasy-vi/
+slug: /kotaku-octopath-traveler-is-nothing-like-final-fantasy-vi/
 categories:
 - General
 tags:

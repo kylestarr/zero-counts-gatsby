@@ -4,7 +4,7 @@ date: 2019-11-08 14:43:22+00:00
 draft: false
 title: 'Hail Mario 3: Revenge of the Stock'
 type: post
-url: /hail-mario-3-revenge-of-the-stock/
+slug: /hail-mario-3-revenge-of-the-stock/
 categories:
 - Business
 postFormat:

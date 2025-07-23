@@ -4,7 +4,7 @@ date: 2014-06-07 14:00:30+00:00
 draft: false
 title: Nintendo consolidates, lays off 130
 type: post
-url: /nintendo-consolidates-lays-off-130/
+slug: /nintendo-consolidates-lays-off-130/
 categories:
 - Business
 tags:

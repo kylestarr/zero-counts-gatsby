@@ -4,7 +4,7 @@ date: 2015-01-05 00:55:07+00:00
 draft: false
 title: Playing with Limitations
 type: post
-url: /playing-with-limitations/
+slug: /playing-with-limitations/
 categories:
 - Design
 tags:

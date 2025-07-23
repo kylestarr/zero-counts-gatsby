@@ -4,7 +4,7 @@ date: 2019-01-23 05:50:46+00:00
 draft: false
 title: Switch Is Selling Like Wii, Thanks To Traditional Nintendo Games
 type: post
-url: /switch-is-selling-like-wii-thanks-to-traditional-nintendo-games/
+slug: /switch-is-selling-like-wii-thanks-to-traditional-nintendo-games/
 categories:
 - Business
 postFormat:

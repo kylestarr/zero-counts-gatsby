@@ -4,7 +4,7 @@ date: 2018-09-24 20:19:36+00:00
 draft: false
 title: Books Are My New Albums
 type: post
-url: /books-are-my-new-albums/
+slug: /books-are-my-new-albums/
 categories:
 - Media
 tags:

@@ -4,7 +4,7 @@ date: 2014-11-12 06:42:48+00:00
 draft: false
 title: Assassin-in-the-room
 type: post
-url: /assassin-in-the-room/
+slug: /assassin-in-the-room/
 categories:
 - Design
 - Gender

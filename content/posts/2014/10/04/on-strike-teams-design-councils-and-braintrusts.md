@@ -4,7 +4,7 @@ date: 2014-10-04 01:27:29+00:00
 draft: false
 title: On Strike Teams, Design Councils, and Braintrusts
 type: post
-url: /on-strike-teams-design-councils-and-braintrusts/
+slug: /on-strike-teams-design-councils-and-braintrusts/
 categories:
 - Business
 - Design

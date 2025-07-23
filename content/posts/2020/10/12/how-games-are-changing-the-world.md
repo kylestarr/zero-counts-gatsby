@@ -1,7 +1,7 @@
 ---
 title: "How Games are Changing the World"
 date: 2020-10-12 21:00:00
-url: /how-games-are-changing-the-world/
+slug: /how-games-are-changing-the-world/
 categories:
     - Business
 tags:

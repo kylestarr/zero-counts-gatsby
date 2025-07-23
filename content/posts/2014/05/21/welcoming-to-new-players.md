@@ -4,7 +4,7 @@ date: 2014-05-21 22:16:16+00:00
 draft: false
 title: Welcoming to new players
 type: post
-url: /welcoming-to-new-players/
+slug: /welcoming-to-new-players/
 categories:
 - Business
 tags:

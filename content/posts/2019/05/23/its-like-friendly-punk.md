@@ -4,7 +4,7 @@ date: 2019-05-23 05:01:26+00:00
 draft: false
 title: ‘It’s like friendly punk’
 type: post
-url: /its-like-friendly-punk/
+slug: /its-like-friendly-punk/
 categories:
 - Design
 postFormat:

@@ -4,7 +4,7 @@ date: 2015-11-02 15:54:57+00:00
 draft: false
 title: Lumino City on iOS
 type: post
-url: /lumino-city-on-ios/
+slug: /lumino-city-on-ios/
 categories:
 - Art
 - Design

@@ -4,7 +4,7 @@ date: 2015-01-05 05:41:04+00:00
 draft: false
 title: Greg Miller, Colin Moriarty, Nick Scarpino, and Tim Gettys Quit IGN
 type: post
-url: /greg-miller-colin-moriarty-nick-scarpino-and-tim-gettys-quit-ign/
+slug: /greg-miller-colin-moriarty-nick-scarpino-and-tim-gettys-quit-ign/
 categories:
 - Media
 tags:

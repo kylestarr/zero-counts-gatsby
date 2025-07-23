@@ -4,7 +4,7 @@ date: 2014-08-29 16:43:55+00:00
 draft: false
 title: Grand Theft Mario
 type: post
-url: /grand-theft-mario/
+slug: /grand-theft-mario/
 categories:
 - Design
 - General

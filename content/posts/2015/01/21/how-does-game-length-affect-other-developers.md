@@ -4,7 +4,7 @@ date: 2015-01-21 18:02:54+00:00
 draft: false
 title: How Does Game Length Affect Other Developers?
 type: post
-url: /how-does-game-length-affect-other-developers/
+slug: /how-does-game-length-affect-other-developers/
 categories:
 - Business
 tags:

@@ -4,7 +4,7 @@ date: 2018-08-19 16:15:00+00:00
 draft: false
 title: Third Worlders are forward-looking
 type: post
-url: /third-worlders-are-forward-looking/
+slug: /third-worlders-are-forward-looking/
 categories:
 - Commonplace
 tags:

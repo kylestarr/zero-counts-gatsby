@@ -4,7 +4,7 @@ date: 2017-11-22 22:54:25+00:00
 draft: false
 title: Good Enough
 type: post
-url: /good-enough/
+slug: /good-enough/
 categories:
 - Business
 - Design

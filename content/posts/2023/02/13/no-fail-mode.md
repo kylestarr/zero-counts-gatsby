@@ -1,7 +1,7 @@
 ---
 title: "No Fail Mode"
 date: 2023-02-13T13:30:00-08:00
-url: /no-fail-mode/
+slug: /no-fail-mode/
 categories:
   - Design
 tags:

@@ -4,7 +4,7 @@ date: 2014-07-02 04:50:18+00:00
 draft: false
 title: Oddworld and Malcolm X
 type: post
-url: /oddworld-and-malcolm-x/
+slug: /oddworld-and-malcolm-x/
 categories:
 - Culture
 - Design

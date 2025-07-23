@@ -1,7 +1,7 @@
 ---
 title: "Random Access Controls"
 date: 2022-03-10 10:20:00-08:00
-url: /random-access-controls/
+slug: /random-access-controls/
 categories:
   - Design
 tags:

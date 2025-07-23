@@ -4,7 +4,7 @@ date: 2019-07-07 23:15:43+00:00
 draft: false
 title: ‘But when I play video games, I begin feeling guilty and even bored’
 type: post
-url: /but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/
+slug: /but-when-i-play-video-games-i-begin-feeling-guilty-and-even-bored/
 categories:
 - Health
 postFormat:

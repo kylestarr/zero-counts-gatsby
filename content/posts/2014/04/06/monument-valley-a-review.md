@@ -4,7 +4,7 @@ date: 2014-04-06 20:56:51+00:00
 draft: false
 title: Monument Valley - A Review
 type: post
-url: /monument-valley-a-review/
+slug: /monument-valley-a-review/
 categories:
 - Review
 tags:

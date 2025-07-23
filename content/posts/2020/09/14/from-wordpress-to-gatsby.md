@@ -1,7 +1,7 @@
 ---
 title: "From WordPress to Gatsby"
 date: "2020-09-14"
-url: "from-wordpress-to-gatsby"
+slug: "from-wordpress-to-gatsby"
 category: "general"
 postFormat:
 - Link

@@ -4,7 +4,7 @@ date: 2013-04-20 17:00:24+00:00
 draft: false
 title: 'Star Fox 64: Design Mission Accomplished'
 type: post
-url: /star-fox-64-design-mission-accomplished/
+slug: /star-fox-64-design-mission-accomplished/
 categories:
 - Design
 tags:

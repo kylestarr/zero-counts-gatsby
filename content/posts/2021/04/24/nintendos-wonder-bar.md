@@ -1,7 +1,7 @@
 ---
 title: "Nintendo's Wonder Bar"
 date: 2021-04-24 19:00:00
-url: /nintendos-wonder-bar/
+slug: /nintendos-wonder-bar/
 categories:
     - Design
 tags:

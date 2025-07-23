@@ -4,7 +4,7 @@ date: 2019-03-10 01:59:12+00:00
 draft: false
 title: Nintendo Knew How
 type: post
-url: /nintendo-knew-how/
+slug: /nintendo-knew-how/
 categories:
 - Accessibility
 postFormat:

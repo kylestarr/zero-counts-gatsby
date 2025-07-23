@@ -4,7 +4,7 @@ date: 2014-05-24 01:07:42+00:00
 draft: false
 title: Webster Goomez the stuffed Goomba
 type: post
-url: /webster-goomez-the-stuffed-goomba/
+slug: /webster-goomez-the-stuffed-goomba/
 categories:
 - Children
 - Psychology

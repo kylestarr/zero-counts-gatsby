@@ -4,7 +4,7 @@ date: 2015-12-07 01:23:02+00:00
 draft: false
 title: Porting Primer
 type: post
-url: /porting-primer/
+slug: /porting-primer/
 categories:
 - Design
 tags:

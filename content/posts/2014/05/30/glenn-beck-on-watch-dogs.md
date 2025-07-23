@@ -4,7 +4,7 @@ date: 2014-05-30 12:40:50+00:00
 draft: false
 title: Glenn Beck on Watch Dogs
 type: post
-url: /glenn-beck-on-watch-dogs/
+slug: /glenn-beck-on-watch-dogs/
 categories:
 - Culture
 tags:

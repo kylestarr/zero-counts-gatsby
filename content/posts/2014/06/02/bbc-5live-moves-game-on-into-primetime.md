@@ -4,7 +4,7 @@ date: 2014-06-02 05:11:33+00:00
 draft: false
 title: BBC 5Live moves Game On into Primetime
 type: post
-url: /bbc-5live-moves-game-on-into-primetime/
+slug: /bbc-5live-moves-game-on-into-primetime/
 categories:
 - Business
 - General

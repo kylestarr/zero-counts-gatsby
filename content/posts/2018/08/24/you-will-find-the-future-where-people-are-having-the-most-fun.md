@@ -4,7 +4,7 @@ date: 2018-08-24 02:33:44+00:00
 draft: false
 title: You will find the future where people are having the most fun
 type: post
-url: /you-will-find-the-future-where-people-are-having-the-most-fun/
+slug: /you-will-find-the-future-where-people-are-having-the-most-fun/
 categories:
 - Commonplace
 tags:

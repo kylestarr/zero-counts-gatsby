@@ -4,7 +4,7 @@ date: 2019-02-12 05:08:30+00:00
 draft: false
 title: Activision Blizzard cuts hundreds of jobs despite ‘record revenue’ year
 type: post
-url: /activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/
+slug: /activision-blizzard-cuts-hundreds-of-jobs-despite-record-revenue-year/
 categories:
 - Business
 tags:

@@ -4,7 +4,7 @@ date: 2015-07-13 02:37:42+00:00
 draft: false
 title: Niche
 type: post
-url: /niche/
+slug: /niche/
 categories:
 - Business
 - Design

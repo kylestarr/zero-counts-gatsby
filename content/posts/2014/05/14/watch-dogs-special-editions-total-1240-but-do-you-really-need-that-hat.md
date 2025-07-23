@@ -4,7 +4,7 @@ date: 2014-05-14 15:40:42+00:00
 draft: false
 title: Watch Dogs special editions total $1,240, but do you really need that hat?
 type: post
-url: /watch-dogs-special-editions-total-1240-but-do-you-really-need-that-hat/
+slug: /watch-dogs-special-editions-total-1240-but-do-you-really-need-that-hat/
 categories:
 - Business
 tags:

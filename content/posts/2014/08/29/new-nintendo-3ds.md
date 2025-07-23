@@ -4,7 +4,7 @@ date: 2014-08-29 14:54:55+00:00
 draft: false
 title: New Nintendo 3DS
 type: post
-url: /new-nintendo-3ds/
+slug: /new-nintendo-3ds/
 categories:
 - General
 tags:

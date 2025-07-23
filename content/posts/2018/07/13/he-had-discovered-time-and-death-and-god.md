@@ -4,7 +4,7 @@ date: 2018-07-13 23:37:35+00:00
 draft: false
 title: He had discovered Time and Death and God
 type: post
-url: /he-had-discovered-time-and-death-and-god/
+slug: /he-had-discovered-time-and-death-and-god/
 categories:
 - Commonplace
 tags:

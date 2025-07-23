@@ -4,7 +4,7 @@ date: 2014-06-11 13:26:45+00:00
 draft: false
 title: Tumbleweed
 type: post
-url: /free-to-play/
+slug: /free-to-play/
 categories:
 - Business
 - General

@@ -5,7 +5,7 @@ draft: false
 title: 'The Verge: ''How the Xbox One and PS4 are helping bring Chinese indie games
   to the West'''
 type: post
-url: /the-verge-how-the-xbox-one-and-ps4-are-helping-bring-chinese-indie-games-to-the-west/
+slug: /the-verge-how-the-xbox-one-and-ps4-are-helping-bring-chinese-indie-games-to-the-west/
 categories:
 - Culture
 - History

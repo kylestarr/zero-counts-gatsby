@@ -4,7 +4,7 @@ date: 2014-12-01 15:34:18+00:00
 draft: false
 title: 'The Verge Reviews Captain Toad: Treasure Tracker'
 type: post
-url: /captain-toad-treasure-tracker-is-a-hidden-gem/
+slug: /captain-toad-treasure-tracker-is-a-hidden-gem/
 categories:
 - Design
 - General

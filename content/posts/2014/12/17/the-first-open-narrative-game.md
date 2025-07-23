@@ -4,7 +4,7 @@ date: 2014-12-17 18:11:44+00:00
 draft: false
 title: '''The first “open narrative” game'''
 type: post
-url: /the-first-open-narrative-game/
+slug: /the-first-open-narrative-game/
 categories:
 - Design
 tags:

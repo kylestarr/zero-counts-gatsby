@@ -4,7 +4,7 @@ date: 2018-06-30 20:41:05+00:00
 draft: false
 title: The Hard Times’ Hard Drive
 type: post
-url: /blue-shells/
+slug: /blue-shells/
 categories:
 - Humor
 tags:

@@ -4,7 +4,7 @@ date: 2018-12-18 03:48:11+00:00
 draft: false
 title: Vox Video Lab
 type: post
-url: /vox-video-lab/
+slug: /vox-video-lab/
 categories:
 - Media
 tags:

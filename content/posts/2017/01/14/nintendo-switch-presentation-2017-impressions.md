@@ -4,7 +4,7 @@ date: 2017-01-14 21:36:19+00:00
 draft: false
 title: Nintendo Switch Presentation 2017 Impressions
 type: post
-url: /nintendo-switch-presentation-2017-impressions/
+slug: /nintendo-switch-presentation-2017-impressions/
 categories:
 - General
 - Technology

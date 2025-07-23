@@ -4,7 +4,7 @@ date: 2014-05-12 15:39:30+00:00
 draft: false
 title: 'Re: Video games, art and noise'
 type: post
-url: /re-video-games-art-and-noise/
+slug: /re-video-games-art-and-noise/
 categories:
 - Art
 tags:

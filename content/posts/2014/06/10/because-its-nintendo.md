@@ -4,7 +4,7 @@ date: 2014-06-10 20:24:53+00:00
 draft: false
 title: Because, it's Nintendo
 type: post
-url: /because-its-nintendo/
+slug: /because-its-nintendo/
 categories:
 - General
 tags:

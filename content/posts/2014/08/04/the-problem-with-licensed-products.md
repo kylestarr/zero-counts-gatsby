@@ -4,7 +4,7 @@ date: 2014-08-04 17:27:58+00:00
 draft: false
 title: The Problem with Licensed Products
 type: post
-url: /the-problem-with-licensed-products/
+slug: /the-problem-with-licensed-products/
 categories:
 - Design
 tags:

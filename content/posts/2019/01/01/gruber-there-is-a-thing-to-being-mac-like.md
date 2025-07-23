@@ -4,7 +4,7 @@ date: 2019-01-01 22:41:11+00:00
 draft: false
 title: 'Gruber: ‘There is a thing to being “Mac-like”’'
 type: post
-url: /gruber-there-is-a-thing-to-being-mac-like/
+slug: /gruber-there-is-a-thing-to-being-mac-like/
 categories:
 - Design
 postFormat:

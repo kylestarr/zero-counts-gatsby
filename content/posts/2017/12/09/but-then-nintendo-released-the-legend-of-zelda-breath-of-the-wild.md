@@ -4,7 +4,7 @@ date: 2017-12-09 20:25:41+00:00
 draft: false
 title: '‘But then Nintendo released The Legend of Zelda: Breath of the Wild’'
 type: post
-url: /but-then-nintendo-released-the-legend-of-zelda-breath-of-the-wild/
+slug: /but-then-nintendo-released-the-legend-of-zelda-breath-of-the-wild/
 categories:
 - Business
 - Design

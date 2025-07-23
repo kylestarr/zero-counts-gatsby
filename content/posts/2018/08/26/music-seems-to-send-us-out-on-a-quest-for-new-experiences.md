@@ -4,7 +4,7 @@ date: 2018-08-26 15:22:28+00:00
 draft: false
 title: Music seems to send us out on a quest for new experiences
 type: post
-url: /music-seems-to-send-us-out-on-a-quest-for-new-experiences/
+slug: /music-seems-to-send-us-out-on-a-quest-for-new-experiences/
 categories:
 - Commonplace
 tags:

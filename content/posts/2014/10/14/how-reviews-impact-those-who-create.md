@@ -4,7 +4,7 @@ date: 2014-10-14 19:44:39+00:00
 draft: false
 title: '''How Reviews Impact Those Who Create'''
 type: post
-url: /how-reviews-impact-those-who-create/
+slug: /how-reviews-impact-those-who-create/
 categories:
 - Business
 - Design

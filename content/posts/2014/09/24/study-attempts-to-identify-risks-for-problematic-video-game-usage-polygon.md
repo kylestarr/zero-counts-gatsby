@@ -4,7 +4,7 @@ date: 2013-09-24 20:47:25+00:00
 draft: false
 title: Study attempts to identify risks for 'problematic' video game usage
 type: post
-url: /study-attempts-to-identify-risks-for-problematic-video-game-usage-polygon/
+slug: /study-attempts-to-identify-risks-for-problematic-video-game-usage-polygon/
 categories:
 - Psychology
 tags:

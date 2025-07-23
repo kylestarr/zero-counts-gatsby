@@ -1,7 +1,7 @@
 ---
 title: "Anybody's Game"
 date: 2022-01-01 16:30:00-08:00
-url: /anybodys-game/
+slug: /anybodys-game/
 categories:
   - Reviews
 tags:

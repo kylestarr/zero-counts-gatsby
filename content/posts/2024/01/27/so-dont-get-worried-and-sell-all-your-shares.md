@@ -1,7 +1,7 @@
 ---
 title: "'So don't get worried and sell all your shares'"
 date: 2024-01-27T23:00:00-08:00
-url: /so-dont-get-worried-and-sell-all-your-shares/
+slug: /so-dont-get-worried-and-sell-all-your-shares/
 categories:
   - Business
 tags:

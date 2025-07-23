@@ -4,7 +4,7 @@ date: 2017-02-01 15:30:40+00:00
 draft: false
 title: 100 Nintendo Switch Titles in Development
 type: post
-url: /100-nintendo-switch-titles-in-development/
+slug: /100-nintendo-switch-titles-in-development/
 categories:
 - Business
 tags:

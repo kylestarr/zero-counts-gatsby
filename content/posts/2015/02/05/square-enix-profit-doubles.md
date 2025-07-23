@@ -4,7 +4,7 @@ date: 2015-02-05 05:16:31+00:00
 draft: false
 title: Square Enix Profit Doubles
 type: post
-url: /square-enix-profit-doubles/
+slug: /square-enix-profit-doubles/
 categories:
 - Business
 - General

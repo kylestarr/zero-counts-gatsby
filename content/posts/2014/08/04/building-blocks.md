@@ -4,7 +4,7 @@ date: 2014-08-04 05:07:15+00:00
 draft: false
 title: Building Blocks
 type: post
-url: /building-blocks/
+slug: /building-blocks/
 categories:
 - Culture
 - Technology

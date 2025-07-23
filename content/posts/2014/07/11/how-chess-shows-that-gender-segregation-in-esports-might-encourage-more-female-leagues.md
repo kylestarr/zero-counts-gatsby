@@ -5,7 +5,7 @@ draft: false
 title: "How chess shows that gender segregation in eSports might encourage more
   female leagues"
 type: post
-url: /how-chess-shows-that-gender-segregation-in-esports-might-encourage-more-female-leagues/
+slug: /how-chess-shows-that-gender-segregation-in-esports-might-encourage-more-female-leagues/
 categories:
 - Gender
 tags:

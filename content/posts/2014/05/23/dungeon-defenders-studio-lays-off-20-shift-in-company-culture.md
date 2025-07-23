@@ -4,7 +4,7 @@ date: 2014-05-23 15:35:15+00:00
 draft: false
 title: Dungeon Defenders studio lays off 20%, shift in company culture
 type: post
-url: /dungeon-defenders-studio-lays-off-20-shift-in-company-culture/
+slug: /dungeon-defenders-studio-lays-off-20-shift-in-company-culture/
 categories:
 - Business
 tags:

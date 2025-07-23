@@ -4,7 +4,7 @@ date: 2014-05-23 05:35:16+00:00
 draft: false
 title: People of a certain age
 type: post
-url: /people-of-a-certain-age/
+slug: /people-of-a-certain-age/
 categories:
 - Culture
 - General

@@ -4,7 +4,7 @@ date: 2014-07-01 19:33:42+00:00
 draft: false
 title: Bioware intros first gay male character
 type: post
-url: /bioware-intros-first-gay-male-character/
+slug: /bioware-intros-first-gay-male-character/
 categories:
 - Sexuality
 postFormat:

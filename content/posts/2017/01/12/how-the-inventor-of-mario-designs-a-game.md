@@ -4,7 +4,7 @@ date: 2017-01-12 16:34:50+00:00
 draft: false
 title: How the inventor of Mario designs a game
 type: post
-url: /how-the-inventor-of-mario-designs-a-game/
+slug: /how-the-inventor-of-mario-designs-a-game/
 categories:
 - Design
 tags:

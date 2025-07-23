@@ -4,7 +4,7 @@ date: 2016-01-04 15:29:18+00:00
 draft: false
 title: Blind Gamer Beats Ocarina of Time
 type: post
-url: /blind-gamer-beats-ocarina-of-time/
+slug: /blind-gamer-beats-ocarina-of-time/
 categories:
 - Accessibility
 - Design

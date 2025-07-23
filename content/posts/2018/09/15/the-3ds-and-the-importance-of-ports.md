@@ -4,7 +4,7 @@ date: 2018-09-15 21:21:56+00:00
 draft: false
 title: The Nintendo 3DS and the Importance of Ports
 type: post
-url: /the-3ds-and-the-importance-of-ports/
+slug: /the-3ds-and-the-importance-of-ports/
 categories:
 - Business
 tags:

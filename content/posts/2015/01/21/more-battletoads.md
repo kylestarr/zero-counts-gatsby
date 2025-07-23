@@ -4,7 +4,7 @@ date: 2015-01-21 23:04:06+00:00
 draft: false
 title: More Battletoads
 type: post
-url: /more-battletoads/
+slug: /more-battletoads/
 categories:
 - Business
 - General

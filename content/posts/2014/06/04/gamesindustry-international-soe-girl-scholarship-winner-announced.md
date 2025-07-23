@@ -4,7 +4,7 @@ date: 2014-06-04 13:36:53+00:00
 draft: false
 title: 'GamesIndustry International: ''SOE GIRL Scholarship winner announced'''
 type: post
-url: /gamesindustry-international-soe-girl-scholarship-winner-announced/
+slug: /gamesindustry-international-soe-girl-scholarship-winner-announced/
 categories:
 - Business
 - Education

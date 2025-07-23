@@ -4,7 +4,7 @@ date: 2014-06-04 20:23:45+00:00
 draft: false
 title: Pipe Dream
 type: post
-url: /pipe-dream/
+slug: /pipe-dream/
 categories:
 - Business
 tags:

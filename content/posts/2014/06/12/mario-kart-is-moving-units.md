@@ -4,7 +4,7 @@ date: 2014-06-12 03:11:03+00:00
 draft: false
 title: Mario Kart is moving units
 type: post
-url: /mario-kart-is-moving-units/
+slug: /mario-kart-is-moving-units/
 categories:
 - Business
 - General

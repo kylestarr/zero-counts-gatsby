@@ -4,7 +4,7 @@ date: 2014-10-07 20:00:18+00:00
 draft: false
 title: The Element of Surprise
 type: post
-url: /the-element-of-surprise/
+slug: /the-element-of-surprise/
 categories:
 - Music
 - Psychology

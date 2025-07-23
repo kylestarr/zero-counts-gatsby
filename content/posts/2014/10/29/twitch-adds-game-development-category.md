@@ -4,7 +4,7 @@ date: 2014-10-29 19:31:24+00:00
 draft: false
 title: Twitch Adds Game Development Category
 type: post
-url: /twitch-adds-game-development-category/
+slug: /twitch-adds-game-development-category/
 categories:
 - Design
 - Media

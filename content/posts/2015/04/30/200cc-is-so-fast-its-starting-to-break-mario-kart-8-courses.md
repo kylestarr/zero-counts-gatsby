@@ -4,7 +4,7 @@ date: 2015-04-30 16:56:11+00:00
 draft: false
 title: '''200CC Is So Fast It''s Starting To Break Mario Kart 8 Courses'''
 type: post
-url: /200cc-is-so-fast-its-starting-to-break-mario-kart-8-courses/
+slug: /200cc-is-so-fast-its-starting-to-break-mario-kart-8-courses/
 categories:
 - Design
 tags:

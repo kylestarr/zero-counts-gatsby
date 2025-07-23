@@ -1,7 +1,7 @@
 ---
 title: "'Nintendo’s game streaming strategy is not having one'"
 date: 2020-10-28 19:00:00
-url: /nintendos-game-streaming-strategy-is-not-having-one/
+slug: /nintendos-game-streaming-strategy-is-not-having-one/
 categories:
     - Business
 tags:

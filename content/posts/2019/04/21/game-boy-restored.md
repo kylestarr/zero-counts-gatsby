@@ -4,7 +4,7 @@ date: 2019-04-21
 draft: false
 title: Game Boy Restored
 type: post
-url: /game-boy-restored/
+slug: /game-boy-restored/
 categories:
 - Design
 - General

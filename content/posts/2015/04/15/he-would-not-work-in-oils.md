@@ -4,7 +4,7 @@ date: 2015-04-15 05:55:42+00:00
 draft: false
 title: He Would Not Work in Oils
 type: post
-url: /he-would-not-work-in-oils/
+slug: /he-would-not-work-in-oils/
 categories:
 - Art
 - Culture

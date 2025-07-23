@@ -4,7 +4,7 @@ date: 2014-06-25 13:46:11+00:00
 draft: false
 title: Minecraft enforces EULA
 type: post
-url: /minecraft-enforces-eula/
+slug: /minecraft-enforces-eula/
 categories:
 - Business
 tags:

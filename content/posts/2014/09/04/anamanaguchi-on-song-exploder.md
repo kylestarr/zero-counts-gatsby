@@ -4,7 +4,7 @@ date: 2014-09-04 02:14:50+00:00
 draft: false
 title: Anamanaguchi on Song Exploder
 type: post
-url: /anamanaguchi-on-song-exploder/
+slug: /anamanaguchi-on-song-exploder/
 categories:
 - History
 - Music

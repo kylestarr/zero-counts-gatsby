@@ -4,7 +4,7 @@ date: 2014-06-28 20:42:21+00:00
 draft: false
 title: Hacking, puzzle-boxes and company culture
 type: post
-url: /hacking-puzzle-boxes-and-company-culture/
+slug: /hacking-puzzle-boxes-and-company-culture/
 categories:
 - Business
 - Gender

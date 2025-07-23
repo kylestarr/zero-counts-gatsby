@@ -4,7 +4,7 @@ date: 2014-04-08 18:04:12+00:00
 draft: false
 title: Juxtaposition in Video Game Commercials
 type: post
-url: /juxtaposition-in-video-game-commercials/
+slug: /juxtaposition-in-video-game-commercials/
 categories:
 - Business
 - Music

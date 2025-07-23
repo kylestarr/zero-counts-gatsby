@@ -4,7 +4,7 @@ date: 2014-06-07 16:36:12+00:00
 draft: false
 title: A new definition of manhood
 type: post
-url: /a-new-definition-of-manhood/
+slug: /a-new-definition-of-manhood/
 categories:
 - Children
 - Gender

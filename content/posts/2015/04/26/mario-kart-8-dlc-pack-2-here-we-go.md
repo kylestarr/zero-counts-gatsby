@@ -4,7 +4,7 @@ date: 2015-04-26 23:27:42+00:00
 draft: false
 title: 'Mario Kart 8 DLC Pack 2: Here We Go!'
 type: post
-url: /mario-kart-8-dlc-pack-2-here-we-go/
+slug: /mario-kart-8-dlc-pack-2-here-we-go/
 categories:
 - Design
 tags:

@@ -4,7 +4,7 @@ date: 2014-08-27 14:30:33+00:00
 draft: false
 title: Love is Strange
 type: post
-url: /love-is-strange/
+slug: /love-is-strange/
 categories:
 - Children
 - Culture

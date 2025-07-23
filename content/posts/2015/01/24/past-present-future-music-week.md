@@ -4,7 +4,7 @@ date: 2015-01-24 06:58:31+00:00
 draft: false
 title: Past, Present, Future Music Week
 type: post
-url: /past-present-future-music-week/
+slug: /past-present-future-music-week/
 categories:
 - Music
 tags:

@@ -4,7 +4,7 @@ date: 2014-06-17 12:35:19+00:00
 draft: false
 title: Personality
 type: post
-url: /personality/
+slug: /personality/
 categories:
 - Business
 - General

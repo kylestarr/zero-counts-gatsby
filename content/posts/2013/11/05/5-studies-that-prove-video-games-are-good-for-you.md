@@ -4,7 +4,7 @@ date: 2013-11-05 17:07:28+00:00
 draft: false
 title: 5 Studies That Prove Video Games Are Good For You
 type: post
-url: /5-studies-that-prove-video-games-are-good-for-you/
+slug: /5-studies-that-prove-video-games-are-good-for-you/
 categories:
 - Health
 tags:

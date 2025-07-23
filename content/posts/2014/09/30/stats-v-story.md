@@ -4,7 +4,7 @@ date: 2014-09-30 18:47:27+00:00
 draft: false
 title: Stats v. Story
 type: post
-url: /stats-v-story/
+slug: /stats-v-story/
 categories:
 - History
 tags:

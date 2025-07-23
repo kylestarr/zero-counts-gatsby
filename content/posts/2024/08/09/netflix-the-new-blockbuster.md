@@ -1,7 +1,7 @@
 ---
 title: "Netflix: The New Blockbuster"
 date: 2024-08-09T14:30:00-08:00
-url: /netflix-the-new-blockbuster/
+slug: /netflix-the-new-blockbuster/
 categories:
   - Business
 tags:

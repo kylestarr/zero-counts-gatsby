@@ -4,7 +4,7 @@ date: 2013-10-22 15:59:51+00:00
 draft: false
 title: Why video games are more Britney Spears and less Pink Floyd
 type: post
-url: /why-video-games-are-more-britney-spears-and-less-pink-floyd/
+slug: /why-video-games-are-more-britney-spears-and-less-pink-floyd/
 categories:
 - Business
 - Society

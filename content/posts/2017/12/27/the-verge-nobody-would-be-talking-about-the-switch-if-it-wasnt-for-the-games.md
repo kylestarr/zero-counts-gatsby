@@ -5,7 +5,7 @@ draft: false
 title: 'The Verge: ‘Nobody would be talking about the Switch if it wasn’t for the
   games’'
 type: post
-url: /the-verge-nobody-would-be-talking-about-the-switch-if-it-wasnt-for-the-games/
+slug: /the-verge-nobody-would-be-talking-about-the-switch-if-it-wasnt-for-the-games/
 categories:
 - Business
 - General

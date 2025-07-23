@@ -4,7 +4,7 @@ date: 2014-06-17 19:50:07+00:00
 draft: false
 title: Not from school
 type: post
-url: /not-from-school/
+slug: /not-from-school/
 categories:
 - Education
 tags:

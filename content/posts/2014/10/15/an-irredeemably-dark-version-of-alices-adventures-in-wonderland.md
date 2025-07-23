@@ -4,7 +4,7 @@ date: 2014-10-15 21:54:31+00:00
 draft: false
 title: '''An irredeemably dark version of Alice''s Adventures in Wonderland'''
 type: post
-url: /an-irredeemably-dark-version-of-alices-adventures-in-wonderland/
+slug: /an-irredeemably-dark-version-of-alices-adventures-in-wonderland/
 categories:
 - Culture
 - Gender

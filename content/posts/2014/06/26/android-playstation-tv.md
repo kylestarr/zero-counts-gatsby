@@ -4,7 +4,7 @@ date: 2014-06-26 14:17:18+00:00
 draft: false
 title: Android & Playstation TV
 type: post
-url: /android-playstation-tv/
+slug: /android-playstation-tv/
 categories:
 - Business
 tags:

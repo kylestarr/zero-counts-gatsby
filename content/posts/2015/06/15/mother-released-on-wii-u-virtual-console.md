@@ -4,7 +4,7 @@ date: 2015-06-15 03:01:47+00:00
 draft: false
 title: Mother Released on Wii U Virtual Console
 type: post
-url: /mother-released-on-wii-u-virtual-console/
+slug: /mother-released-on-wii-u-virtual-console/
 categories:
 - Business
 tags:

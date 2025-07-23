@@ -4,7 +4,7 @@ date: 2015-11-03 04:45:22+00:00
 draft: false
 title: How Videogames Are Saving the Symphony Orchestra
 type: post
-url: /how-videogames-are-saving-the-symphony-orchestra/
+slug: /how-videogames-are-saving-the-symphony-orchestra/
 categories:
 - Art
 - Business

@@ -5,7 +5,7 @@ draft: false
 title: The Switch is a home console. The Switch is a "home" console. The Switch is
   a "home" console?
 type: post
-url: /the-switch-is-a-home-console-the-switch-is-a-home-console-the-switch-is-a-home-console/
+slug: /the-switch-is-a-home-console-the-switch-is-a-home-console-the-switch-is-a-home-console/
 categories:
 - Design
 - General

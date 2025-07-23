@@ -4,7 +4,7 @@ date: 2014-05-23 21:44:59+00:00
 draft: false
 title: '"what do you think about us copying the game?"'
 type: post
-url: /what-do-you-think-about-us-copying-the-game/
+slug: /what-do-you-think-about-us-copying-the-game/
 categories:
 - Business
 tags:

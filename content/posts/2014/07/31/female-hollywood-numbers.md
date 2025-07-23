@@ -4,7 +4,7 @@ date: 2014-07-31 17:01:01+00:00
 draft: false
 title: Female Hollywood Numbers
 type: post
-url: /female-hollywood-numbers/
+slug: /female-hollywood-numbers/
 categories:
 - Gender
 tags:

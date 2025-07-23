@@ -4,7 +4,7 @@ date: 2019-02-21 05:40:30+00:00
 draft: false
 title: 'Rumor: Microsoft Bringing Game Pass And Published Titles To Switch'
 type: post
-url: /rumor-microsoft-bringing-game-pass-and-published-titles-to-switch/
+slug: /rumor-microsoft-bringing-game-pass-and-published-titles-to-switch/
 categories:
 - Business
 postFormat:

@@ -4,7 +4,7 @@ date: 2014-06-19 22:58:48+00:00
 draft: false
 title: '#stopTDV game jam'
 type: post
-url: /stoptdv-game-jam/
+slug: /stoptdv-game-jam/
 categories:
 - Culture
 tags:

@@ -4,7 +4,7 @@ date: 2014-08-15 20:29:47+00:00
 draft: false
 title: Your Brain Sucks at Video Games
 type: post
-url: /your-brain-sucks-at-video-games/
+slug: /your-brain-sucks-at-video-games/
 categories:
 - Design
 tags:

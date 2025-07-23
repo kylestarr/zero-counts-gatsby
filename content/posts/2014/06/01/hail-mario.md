@@ -4,7 +4,7 @@ date: 2014-06-01 07:15:10+00:00
 draft: false
 title: Hail Mario
 type: post
-url: /hail-mario/
+slug: /hail-mario/
 categories:
 - Business
 - General

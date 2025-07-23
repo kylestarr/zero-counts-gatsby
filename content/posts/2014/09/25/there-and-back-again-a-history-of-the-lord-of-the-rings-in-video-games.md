@@ -4,7 +4,7 @@ date: 2014-09-25 17:52:51+00:00
 draft: false
 title: '''There and Back Again: A History of The Lord of the Rings in Video Games'''
 type: post
-url: /there-and-back-again-a-history-of-the-lord-of-the-rings-in-video-games/
+slug: /there-and-back-again-a-history-of-the-lord-of-the-rings-in-video-games/
 categories:
 - Design
 - History

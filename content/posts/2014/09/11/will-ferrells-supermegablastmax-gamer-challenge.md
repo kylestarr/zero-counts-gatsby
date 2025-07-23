@@ -4,7 +4,7 @@ date: 2014-09-11 14:45:26+00:00
 draft: false
 title: Will Ferrell's SuperMegaBlastMax Gamer Challenge
 type: post
-url: /will-ferrells-supermegablastmax-gamer-challenge/
+slug: /will-ferrells-supermegablastmax-gamer-challenge/
 categories:
 - Health
 tags:

@@ -4,7 +4,7 @@ date: 2014-05-24 16:50:54+00:00
 draft: false
 title: Super Mario Lovers
 type: post
-url: /super-mario-lovers/
+slug: /super-mario-lovers/
 categories:
 - Sexuality
 tags:

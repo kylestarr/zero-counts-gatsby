@@ -4,7 +4,7 @@ date: 2014-05-21 16:48:19+00:00
 draft: false
 title: 'Polygon Human Angle: Queer Games'
 type: post
-url: /polygon-human-angle-queer-games/
+slug: /polygon-human-angle-queer-games/
 categories:
 - Culture
 - Gender

@@ -4,7 +4,7 @@ date: 2018-01-11 16:08:29+00:00
 draft: false
 title: 'Dark Souls: Remastered Announced for Nintendo Switch'
 type: post
-url: /dark-souls-remastered-announce-for-nintendo-switch/
+slug: /dark-souls-remastered-announce-for-nintendo-switch/
 categories:
 - Business
 tags:

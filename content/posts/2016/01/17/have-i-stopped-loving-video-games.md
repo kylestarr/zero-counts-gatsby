@@ -4,7 +4,7 @@ date: 2016-01-17 18:10:02+00:00
 draft: false
 title: Have I Stopped Loving Video Games?
 type: post
-url: /have-i-stopped-loving-video-games/
+slug: /have-i-stopped-loving-video-games/
 categories:
 - Culture
 tags:

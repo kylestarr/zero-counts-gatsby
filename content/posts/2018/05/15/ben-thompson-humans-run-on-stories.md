@@ -4,7 +4,7 @@ date: 2018-05-15 01:48:15+00:00
 draft: false
 title: 'Ben Thompson: ‘Humans Run on Stories’'
 type: post
-url: /ben-thompson-humans-run-on-stories/
+slug: /ben-thompson-humans-run-on-stories/
 categories:
 - Art
 - General

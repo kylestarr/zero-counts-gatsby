@@ -4,7 +4,7 @@ date: 2014-11-11 03:12:46+00:00
 draft: false
 title: Embargoes and Appetites
 type: post
-url: /embargoes-and-appetites/
+slug: /embargoes-and-appetites/
 categories:
 - Media
 tags:

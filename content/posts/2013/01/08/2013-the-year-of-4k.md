@@ -4,7 +4,7 @@ date: 2013-01-08 14:34:03+00:00
 draft: false
 title: '2013: The Year of 4K'
 type: post
-url: /2013-the-year-of-4k/
+slug: /2013-the-year-of-4k/
 categories:
 - Technology
 tags:

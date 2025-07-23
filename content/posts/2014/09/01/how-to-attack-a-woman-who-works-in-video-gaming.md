@@ -4,7 +4,7 @@ date: 2014-09-01 15:28:16+00:00
 draft: false
 title: '''How to attack a woman who works in video gaming'''
 type: post
-url: /how-to-attack-a-woman-who-works-in-video-gaming/
+slug: /how-to-attack-a-woman-who-works-in-video-gaming/
 categories:
 - Gender
 - Media

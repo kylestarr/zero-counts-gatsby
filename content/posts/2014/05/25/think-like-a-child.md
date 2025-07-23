@@ -4,7 +4,7 @@ date: 2014-05-25 19:27:51+00:00
 draft: false
 title: 'Freakonomics Radio: ''Think Like a Child'''
 type: post
-url: /think-like-a-child/
+slug: /think-like-a-child/
 categories:
 - Business
 - Children

@@ -4,7 +4,7 @@ date: 2013-12-16 21:16:54+00:00
 draft: false
 title: Launching Operation Supply Drop
 type: post
-url: /launching-operation-supply-drop/
+slug: /launching-operation-supply-drop/
 categories:
 - Charity
 - Society

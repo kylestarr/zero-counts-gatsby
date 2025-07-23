@@ -1,7 +1,7 @@
 ---
 title: "Video \"Games\" in 2020"
 date: 2020-12-27 17:30:00
-url: /video-games-in-2020/
+slug: /video-games-in-2020/
 categories:
     - General
 tags:

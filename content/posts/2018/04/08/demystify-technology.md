@@ -4,7 +4,7 @@ date: 2018-04-08 21:45:51+00:00
 draft: false
 title: Demystify Technology
 type: post
-url: /demystify-technology/
+slug: /demystify-technology/
 categories:
 - Education
 tags:

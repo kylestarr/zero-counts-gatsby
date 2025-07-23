@@ -4,7 +4,7 @@ date: 2017-06-30 04:59:17+00:00
 draft: false
 title: John Gruber's Review of the Nintendo Switch
 type: post
-url: /john-grubers-review-of-the-nintendo-switch/
+slug: /john-grubers-review-of-the-nintendo-switch/
 categories:
 - Media
 - Review

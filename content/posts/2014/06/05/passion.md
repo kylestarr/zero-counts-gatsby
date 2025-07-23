@@ -4,7 +4,7 @@ date: 2014-06-05 13:28:23+00:00
 draft: false
 title: Passion
 type: post
-url: /passion/
+slug: /passion/
 categories:
 - Business
 - Culture

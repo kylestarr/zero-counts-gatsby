@@ -4,7 +4,7 @@ date: 2014-12-15 21:25:01+00:00
 draft: false
 title: Nostalgia, Feminism Top Merriam-Webster's Words of the Year
 type: post
-url: /nostalgia-feminism-top-merriam-websters-words-of-the-year/
+slug: /nostalgia-feminism-top-merriam-websters-words-of-the-year/
 categories:
 - Culture
 - Gender

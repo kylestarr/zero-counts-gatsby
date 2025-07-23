@@ -4,7 +4,7 @@ date: 2014-06-11 16:41:33+00:00
 draft: false
 title: Final Fantasy 14 gets same-sex marriage
 type: post
-url: /final-fantasy-14-gets-same-sex-marriage/
+slug: /final-fantasy-14-gets-same-sex-marriage/
 categories:
 - Sexuality
 tags:

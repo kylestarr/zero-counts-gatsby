@@ -4,7 +4,7 @@ date: 2014-10-07 06:02:47+00:00
 draft: false
 title: Hard-Working Schlubs
 type: post
-url: /hard-working-schlubs/
+slug: /hard-working-schlubs/
 categories:
 - Media
 tags:

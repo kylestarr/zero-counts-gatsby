@@ -1,7 +1,7 @@
 ---
 title: "Rewind My Heart"
 date: 2023-03-23T21:40:00-08:00
-url: /rewind-my-heart/
+slug: /rewind-my-heart/
 categories:
   - General
 tags:

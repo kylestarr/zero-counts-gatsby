@@ -4,7 +4,7 @@ date: 2014-08-15 18:47:35+00:00
 draft: false
 title: 15 Percent Gamer
 type: post
-url: /15-percent-gamer/
+slug: /15-percent-gamer/
 categories:
 - Culture
 tags:

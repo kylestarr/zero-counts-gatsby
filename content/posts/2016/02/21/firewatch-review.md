@@ -4,7 +4,7 @@ date: 2016-02-21 02:26:19+00:00
 draft: false
 title: 'Firewatch: A Review'
 type: post
-url: /firewatch-review/
+slug: /firewatch-review/
 categories:
 - Review
 tags:

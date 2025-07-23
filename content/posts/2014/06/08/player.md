@@ -4,7 +4,7 @@ date: 2014-06-08 22:44:18+00:00
 draft: false
 title: Player
 type: post
-url: /player/
+slug: /player/
 categories:
 - General
 tags:

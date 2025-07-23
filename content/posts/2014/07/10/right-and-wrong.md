@@ -4,7 +4,7 @@ date: 2014-07-10 20:24:20+00:00
 draft: false
 title: Right and Wrong
 type: post
-url: /right-and-wrong/
+slug: /right-and-wrong/
 categories:
 - Children
 - Parenting

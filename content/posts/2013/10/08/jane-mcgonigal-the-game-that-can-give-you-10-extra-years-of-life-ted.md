@@ -4,7 +4,7 @@ date: 2013-10-08 16:29:38+00:00
 draft: false
 title: 'Jane McGonigal: The game that can give you 10 extra years of life | TED'
 type: post
-url: /jane-mcgonigal-the-game-that-can-give-you-10-extra-years-of-life-ted/
+slug: /jane-mcgonigal-the-game-that-can-give-you-10-extra-years-of-life-ted/
 categories:
 - Gamification
 - Health

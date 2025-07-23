@@ -4,7 +4,7 @@ date: 2017-01-03 16:54:11+00:00
 draft: false
 title: 'Rogue One: The Sound of a Story'
 type: post
-url: /rogue-one-the-sound-of-a-story/
+slug: /rogue-one-the-sound-of-a-story/
 categories:
 - Film
 - Music

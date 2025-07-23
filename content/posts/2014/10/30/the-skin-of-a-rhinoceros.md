@@ -4,7 +4,7 @@ date: 2014-10-30 15:56:38+00:00
 draft: false
 title: The Skin of a Rhinoceros
 type: post
-url: /the-skin-of-a-rhinoceros/
+slug: /the-skin-of-a-rhinoceros/
 categories:
 - Culture
 - Sexuality

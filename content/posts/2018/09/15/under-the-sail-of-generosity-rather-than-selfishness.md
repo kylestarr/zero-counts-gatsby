@@ -4,7 +4,7 @@ date: 2018-09-15 16:40:01+00:00
 draft: false
 title: Under the sail of generosity rather than selfishness
 type: post
-url: /under-the-sail-of-generosity-rather-than-selfishness/
+slug: /under-the-sail-of-generosity-rather-than-selfishness/
 categories:
 - Commonplace
 tags:

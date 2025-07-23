@@ -4,7 +4,7 @@ date: 2014-08-28 17:59:51+00:00
 draft: false
 title: IGN Celebrates Nintendo's 125th Anniversary by Playing 125 Nintendo Games
 type: post
-url: /ign-celebrates-nintendos-125th-anniversary-by-playing-125-nintendo-games/
+slug: /ign-celebrates-nintendos-125th-anniversary-by-playing-125-nintendo-games/
 categories:
 - History
 ---

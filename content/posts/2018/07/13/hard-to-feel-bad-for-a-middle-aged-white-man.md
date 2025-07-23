@@ -4,7 +4,7 @@ date: 2018-07-13 04:27:36+00:00
 draft: false
 title: Hard to feel bad for a middle-aged white man
 type: post
-url: /hard-to-feel-bad-for-a-middle-aged-white-man/
+slug: /hard-to-feel-bad-for-a-middle-aged-white-man/
 categories:
 - Commonplace
 tags:

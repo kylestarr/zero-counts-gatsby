@@ -4,7 +4,7 @@ date: 2014-07-15 19:24:43+00:00
 draft: false
 title: A Tale of Two Trailers
 type: post
-url: /a-tale-of-two-trailers/
+slug: /a-tale-of-two-trailers/
 categories:
 - Culture
 tags:

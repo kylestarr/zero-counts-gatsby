@@ -4,7 +4,7 @@ date: 2019-01-03 16:23:04+00:00
 draft: false
 title: UK video games market is now 80% digital
 type: post
-url: /uk-video-games-market-is-now-80-digital/
+slug: /uk-video-games-market-is-now-80-digital/
 categories:
 - Business
 postFormat:

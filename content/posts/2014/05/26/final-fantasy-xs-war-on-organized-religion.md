@@ -4,7 +4,7 @@ date: 2014-05-26 16:41:48+00:00
 draft: false
 title: 'IGN: ''Final Fantasy X''s war on organized religion'''
 type: post
-url: /final-fantasy-xs-war-on-organized-religion/
+slug: /final-fantasy-xs-war-on-organized-religion/
 categories:
 - Religion
 tags:

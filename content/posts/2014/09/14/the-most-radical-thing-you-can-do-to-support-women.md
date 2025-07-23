@@ -4,7 +4,7 @@ date: 2014-09-14 15:43:01+00:00
 draft: false
 title: '''The most radical thing you can do to support women'''
 type: post
-url: /the-most-radical-thing-you-can-do-to-support-women/
+slug: /the-most-radical-thing-you-can-do-to-support-women/
 categories:
 - Culture
 - Gender

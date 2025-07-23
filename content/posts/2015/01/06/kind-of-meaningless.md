@@ -4,7 +4,7 @@ date: 2015-01-06 19:04:47+00:00
 draft: false
 title: Kind of Meaningless
 type: post
-url: /kind-of-meaningless/
+slug: /kind-of-meaningless/
 categories:
 - Media
 tags:

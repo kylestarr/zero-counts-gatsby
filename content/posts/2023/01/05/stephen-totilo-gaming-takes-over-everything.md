@@ -1,7 +1,7 @@
 ---
 title: "Stephen Totilo: ‘Gaming takes over everything’"
 date: 2023-01-05T18:20:00-08:00
-url: /stephen-totilo-gaming-takes-over-everything/
+slug: /stephen-totilo-gaming-takes-over-everything/
 categories:
   - Business
   - Media

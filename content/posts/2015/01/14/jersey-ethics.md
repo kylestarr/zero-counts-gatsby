@@ -4,7 +4,7 @@ date: 2015-01-14 04:07:04+00:00
 draft: false
 title: Jersey Ethics
 type: post
-url: /jersey-ethics/
+slug: /jersey-ethics/
 categories:
 - Race
 tags:

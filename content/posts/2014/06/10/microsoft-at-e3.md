@@ -4,7 +4,7 @@ date: 2014-06-10 12:40:16+00:00
 draft: false
 title: Microsoft at E3
 type: post
-url: /microsoft-at-e3/
+slug: /microsoft-at-e3/
 categories:
 - General
 tags:

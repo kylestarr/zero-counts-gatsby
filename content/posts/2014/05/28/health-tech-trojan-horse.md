@@ -4,7 +4,7 @@ date: 2014-05-28 16:21:35+00:00
 draft: false
 title: Health tech Trojan horse
 type: post
-url: /health-tech-trojan-horse/
+slug: /health-tech-trojan-horse/
 categories:
 - Business
 - Health

@@ -4,7 +4,7 @@ date: 2014-07-28 14:07:20+00:00
 draft: false
 title: More on Minecraft
 type: post
-url: /more-on-minecraft/
+slug: /more-on-minecraft/
 categories:
 - Children
 - Education

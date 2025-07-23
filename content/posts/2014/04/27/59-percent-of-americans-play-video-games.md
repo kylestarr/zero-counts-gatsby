@@ -4,7 +4,7 @@ date: 2014-04-27 14:43:13+00:00
 draft: false
 title: 59% of Americans play video games
 type: post
-url: /59-percent-of-americans-play-video-games/
+slug: /59-percent-of-americans-play-video-games/
 categories:
 - Culture
 tags:

@@ -4,7 +4,7 @@ date: 2014-06-03 02:23:33+00:00
 draft: false
 title: Tunnel vision
 type: post
-url: /tunnel-vision/
+slug: /tunnel-vision/
 categories:
 - Culture
 - Health

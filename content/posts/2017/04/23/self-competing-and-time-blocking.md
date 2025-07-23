@@ -4,7 +4,7 @@ date: 2017-04-23 16:38:17+00:00
 draft: false
 title: Self-Competing and Time Blocking
 type: post
-url: /self-competing-and-time-blocking/
+slug: /self-competing-and-time-blocking/
 categories:
 - Business
 - Design

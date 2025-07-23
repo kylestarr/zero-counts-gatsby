@@ -4,7 +4,7 @@ date: 2017-12-23 22:34:38+00:00
 draft: false
 title: Nintendo of America launches Nintendo Power Podcast
 type: post
-url: /nintendo-of-america-launches-nintendo-power-podcast/
+slug: /nintendo-of-america-launches-nintendo-power-podcast/
 categories:
 - General
 tags:

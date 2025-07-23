@@ -4,7 +4,7 @@ date: 2013-10-18 15:47:49+00:00
 draft: false
 title: Chris Grant on Reasons to Invest in PC gaming
 type: post
-url: /whats-it-like-to-build-a-pc-polygon-friends-list-10142013/
+slug: /whats-it-like-to-build-a-pc-polygon-friends-list-10142013/
 categories:
 - Business
 - Society

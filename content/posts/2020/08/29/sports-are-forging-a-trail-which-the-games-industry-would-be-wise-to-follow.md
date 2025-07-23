@@ -1,7 +1,7 @@
 ---
 title: "'[Sports are] forging a trail which the games industry would be wise to follow'"
 date: "2020-08-29"
-url: "sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow"
+slug: "sports-are-forging-a-trail-which-the-games-industry-would-be-wise-to-follow"
 category: "business"
 postFormat:
 - Link

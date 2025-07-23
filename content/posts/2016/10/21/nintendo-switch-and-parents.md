@@ -4,7 +4,7 @@ date: 2016-10-21 04:02:35+00:00
 draft: false
 title: Nintendo Switch and Parents
 type: post
-url: /nintendo-switch-and-parents/
+slug: /nintendo-switch-and-parents/
 categories:
 - Children
 - Design

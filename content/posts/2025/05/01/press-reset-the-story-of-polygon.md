@@ -1,7 +1,7 @@
 ---
 title: "Press Reset: The Story of Polygon"
 date: 2025-05-01T20:55:00-08:00
-url: /press-reset-the-story-of-polygon/
+slug: /press-reset-the-story-of-polygon/
 categories:
   - Media
 tags:

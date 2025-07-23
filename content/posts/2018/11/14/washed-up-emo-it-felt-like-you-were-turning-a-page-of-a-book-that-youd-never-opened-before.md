@@ -5,7 +5,7 @@ draft: false
 title: 'Washed Up Emo: ‘It felt like you were turning a page of a book that you’d
   never opened before’'
 type: post
-url: /washed-up-emo-it-felt-like-you-were-turning-a-page-of-a-book-that-youd-never-opened-before/
+slug: /washed-up-emo-it-felt-like-you-were-turning-a-page-of-a-book-that-youd-never-opened-before/
 categories:
 - Media
 tags:

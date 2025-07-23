@@ -4,7 +4,7 @@ date: 2018-03-24 19:42:16+00:00
 draft: false
 title: Switch Ports Hamstrung by Mario Carts
 type: post
-url: /switch-ports-hamstrung-by-mario-carts/
+slug: /switch-ports-hamstrung-by-mario-carts/
 categories:
 - Design
 - Technology

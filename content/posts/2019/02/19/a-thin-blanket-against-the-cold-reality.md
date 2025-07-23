@@ -4,7 +4,7 @@ date: 2019-02-19 16:07:29+00:00
 draft: false
 title: ‘A thin blanket against the cold reality’
 type: post
-url: /a-thin-blanket-against-the-cold-reality/
+slug: /a-thin-blanket-against-the-cold-reality/
 categories:
 - Business
 postFormat:

@@ -4,7 +4,7 @@ date: 2015-04-17 03:11:14+00:00
 draft: false
 title: 'Thoughts on Star Wars Teaser #2'
 type: post
-url: /thoughts-on-star-wars-teaser-2/
+slug: /thoughts-on-star-wars-teaser-2/
 categories:
 - General
 tags:

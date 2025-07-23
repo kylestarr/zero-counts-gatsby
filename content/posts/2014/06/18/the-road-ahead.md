@@ -4,7 +4,7 @@ date: 2014-06-18 23:57:52+00:00
 draft: false
 title: The road ahead
 type: post
-url: /the-road-ahead/
+slug: /the-road-ahead/
 categories:
 - Business
 tags:

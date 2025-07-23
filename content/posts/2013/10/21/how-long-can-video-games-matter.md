@@ -4,7 +4,7 @@ date: 2013-10-21 18:51:27+00:00
 draft: false
 title: How Long Can Video Games Matter?
 type: post
-url: /how-long-can-video-games-matter/
+slug: /how-long-can-video-games-matter/
 categories:
 - Art
 - Business

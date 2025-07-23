@@ -4,7 +4,7 @@ date: 2014-08-30 14:38:03+00:00
 draft: false
 title: MMOs, English, and Experiential Learning
 type: post
-url: /mmos-english-and-experiential-learning/
+slug: /mmos-english-and-experiential-learning/
 categories:
 - Design
 - Education

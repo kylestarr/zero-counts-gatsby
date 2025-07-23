@@ -4,7 +4,7 @@ date: 2015-03-26 19:25:39+00:00
 draft: false
 title: PS4 Adds Console Wide Button Remapping
 type: post
-url: /ps4-adds-console-wide-button-remapping/
+slug: /ps4-adds-console-wide-button-remapping/
 categories:
 - Accessibility
 tags:

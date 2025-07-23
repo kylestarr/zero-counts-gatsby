@@ -4,7 +4,7 @@ date: 2015-01-16 16:31:55+00:00
 draft: false
 title: Nintendo Direct Play-by-Play
 type: post
-url: /nintendo-direct-play-by-play/
+slug: /nintendo-direct-play-by-play/
 categories:
 - Business
 postFormat:

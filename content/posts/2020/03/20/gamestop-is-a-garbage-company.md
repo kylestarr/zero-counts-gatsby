@@ -4,7 +4,7 @@ date: 2020-03-20 15:52:44+00:00
 draft: false
 title: GameStop is a garbage company
 type: post
-url: /gamestop-is-a-garbage-company/
+slug: /gamestop-is-a-garbage-company/
 categories:
 - Business
 postFormat:

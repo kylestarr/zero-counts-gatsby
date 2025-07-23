@@ -4,7 +4,7 @@ date: 2013-10-15 18:24:53+00:00
 draft: false
 title: '1985: Burst and Bloom'
 type: post
-url: /1985-burst-and-bloom/
+slug: /1985-burst-and-bloom/
 categories:
 - Society
 tags:

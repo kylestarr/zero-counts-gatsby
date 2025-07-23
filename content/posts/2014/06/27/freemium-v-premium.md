@@ -4,7 +4,7 @@ date: 2014-06-27 13:16:57+00:00
 draft: false
 title: Freemium v. Premium
 type: post
-url: /freemium-v-premium/
+slug: /freemium-v-premium/
 categories:
 - Business
 tags:

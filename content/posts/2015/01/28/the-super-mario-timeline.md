@@ -4,7 +4,7 @@ date: 2015-01-28 23:36:33+00:00
 draft: false
 title: The Super Mario Timeline
 type: post
-url: /the-super-mario-timeline/
+slug: /the-super-mario-timeline/
 categories:
 - Fun
 - History

@@ -1,7 +1,7 @@
 ---
 title: "Marvel Snap's Bedlam Highlights Mario Kart's Balance"
 date: 2022-12-21 16:45:00-08:00
-url: /marvel-snaps-bedlam-highlights-mario-karts-balance/
+slug: /marvel-snaps-bedlam-highlights-mario-karts-balance/
 categories:
   - Design
 tags:

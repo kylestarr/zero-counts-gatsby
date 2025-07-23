@@ -4,7 +4,7 @@ date: 2016-07-30 23:50:51+00:00
 draft: false
 title: 'Uncharted 4: A Thief''s End'
 type: post
-url: /uncharted-4-a-thiefs-end-a-review/
+slug: /uncharted-4-a-thiefs-end-a-review/
 categories:
 - Review
 tags:

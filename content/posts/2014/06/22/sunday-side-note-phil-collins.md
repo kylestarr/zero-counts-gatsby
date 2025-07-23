@@ -4,7 +4,7 @@ date: 2014-06-22 16:03:19+00:00
 draft: false
 title: 'Sunday side note: Phil Collins'
 type: post
-url: /sunday-side-note-phil-collins/
+slug: /sunday-side-note-phil-collins/
 categories:
 - Music
 tags:

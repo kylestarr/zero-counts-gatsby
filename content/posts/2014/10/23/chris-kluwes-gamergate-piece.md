@@ -4,7 +4,7 @@ date: 2014-10-23 01:29:04+00:00
 draft: false
 title: 'Chris Kluwe''s #Gamergate Piece'
 type: post
-url: /chris-kluwes-gamergate-piece/
+slug: /chris-kluwes-gamergate-piece/
 categories:
 - Culture
 - Gender

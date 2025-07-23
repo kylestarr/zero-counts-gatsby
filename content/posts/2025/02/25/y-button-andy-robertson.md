@@ -1,7 +1,7 @@
 ---
 title: "Y-Button: Andy Robertson (Ludocene)"
 date: 2025-02-25T09:35:00-08:00
-url: /y-button-andy-robertson/
+slug: /y-button-andy-robertson/
 categories:
   - Business
 tags:

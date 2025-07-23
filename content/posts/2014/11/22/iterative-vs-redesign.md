@@ -4,7 +4,7 @@ date: 2014-11-22 08:35:09+00:00
 draft: false
 title: Iterative vs. Redesigned Experiences
 type: post
-url: /iterative-vs-redesign/
+slug: /iterative-vs-redesign/
 categories:
 - Design
 - History

@@ -4,7 +4,7 @@ date: 2018-09-01 19:00:46+00:00
 draft: false
 title: The television equivalent of the novel
 type: post
-url: /the-television-equivalent-of-the-novel/
+slug: /the-television-equivalent-of-the-novel/
 categories:
 - Media
 tags:

@@ -4,7 +4,7 @@ date: 2014-07-06 01:48:14+00:00
 draft: false
 title: Mario Kart 8 lifts console sales more than Titanfall or Second Son
 type: post
-url: /mario-kart-8-lifts-console-sales-more-than-titanfall-or-second-son/
+slug: /mario-kart-8-lifts-console-sales-more-than-titanfall-or-second-son/
 categories:
 - Business
 tags:

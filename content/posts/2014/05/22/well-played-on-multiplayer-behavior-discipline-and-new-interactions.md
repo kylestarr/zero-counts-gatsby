@@ -4,7 +4,7 @@ date: 2014-05-22 16:29:16+00:00
 draft: false
 title: 'Well played: On multiplayer behavior, discipline, and new interactions'
 type: post
-url: /well-played-on-multiplayer-behavior-discipline-and-new-interactions/
+slug: /well-played-on-multiplayer-behavior-discipline-and-new-interactions/
 categories:
 - Culture
 - Gender

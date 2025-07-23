@@ -4,7 +4,7 @@ date: 2015-11-30 00:43:28+00:00
 draft: false
 title: Kobe to Retire
 type: post
-url: /kobe-to-retire/
+slug: /kobe-to-retire/
 categories:
 - Sports
 ---

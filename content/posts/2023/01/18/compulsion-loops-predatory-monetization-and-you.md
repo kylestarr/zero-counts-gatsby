@@ -1,7 +1,7 @@
 ---
 title: "GameDiscoverCo: ‘Compulsion loops’, predatory monetization & you.."
 date: 2023-01-18T10:00:00-08:00
-url: /compulsion-loops-predatory-monetization-and-you/
+slug: /compulsion-loops-predatory-monetization-and-you/
 categories:
   - Business
 tags:

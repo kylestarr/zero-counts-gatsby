@@ -4,7 +4,7 @@ date: 2017-01-31 14:39:36+00:00
 draft: false
 title: 'Nintendo''s Q3 Fiscal Year: Pocket Monsters'
 type: post
-url: /nintendos-fy-2016-q3-pocket-monsters/
+slug: /nintendos-fy-2016-q3-pocket-monsters/
 categories:
 - Business
 tags:

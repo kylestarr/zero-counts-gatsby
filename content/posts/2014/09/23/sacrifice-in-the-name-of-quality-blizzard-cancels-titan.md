@@ -4,7 +4,7 @@ date: 2014-09-23 19:48:35+00:00
 draft: false
 title: 'Sacrifice in the name of quality: Blizzard cancels Titan'
 type: post
-url: /sacrifice-in-the-name-of-quality-blizzard-cancels-titan/
+slug: /sacrifice-in-the-name-of-quality-blizzard-cancels-titan/
 categories:
 - Business
 - Design

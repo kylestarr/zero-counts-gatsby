@@ -4,7 +4,7 @@ date: 2018-09-26 15:48:52+00:00
 draft: false
 title: Cross-platform play coming to PS4, starting with Fortnite
 type: post
-url: /cross-platform-play-coming-to-ps4-starting-with-fortnite/
+slug: /cross-platform-play-coming-to-ps4-starting-with-fortnite/
 categories:
 - Business
 tags:

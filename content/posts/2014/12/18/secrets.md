@@ -4,7 +4,7 @@ date: 2014-12-18 21:16:48+00:00
 draft: false
 title: Secrets
 type: post
-url: /secrets/
+slug: /secrets/
 categories:
 - Culture
 - Design

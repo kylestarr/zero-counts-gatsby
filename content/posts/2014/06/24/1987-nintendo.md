@@ -4,7 +4,7 @@ date: 2014-06-24 14:25:04+00:00
 draft: false
 title: 1987 Nintendo
 type: post
-url: /1987-nintendo/
+slug: /1987-nintendo/
 categories:
 - Business
 - History

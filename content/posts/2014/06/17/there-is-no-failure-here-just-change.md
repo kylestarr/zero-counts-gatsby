@@ -4,7 +4,7 @@ date: 2014-06-17 22:01:41+00:00
 draft: false
 title: There is no failure here, just change.
 type: post
-url: /there-is-no-failure-here-just-change/
+slug: /there-is-no-failure-here-just-change/
 categories:
 - General
 tags:

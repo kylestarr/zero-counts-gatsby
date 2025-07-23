@@ -4,7 +4,7 @@ date: 2017-12-12 14:12:30+00:00
 draft: false
 title: Nintendo Switch Sells 10 Million Units in 9 Months
 type: post
-url: /nintendo-switch-sells-10-million-units-in-9-months/
+slug: /nintendo-switch-sells-10-million-units-in-9-months/
 categories:
 - Business
 tags:

@@ -4,7 +4,7 @@ date: 2014-11-30 15:56:21+00:00
 draft: false
 title: '''Wii U Was A Better Console For Third-Party Games'''
 type: post
-url: /wii-u-was-a-better-console-for-third-party-games/
+slug: /wii-u-was-a-better-console-for-third-party-games/
 categories:
 - Design
 tags:

@@ -4,7 +4,7 @@ date: 2017-12-29 05:15:25+00:00
 draft: false
 title: Joy-Confirmation
 type: post
-url: /joy-confirmation/
+slug: /joy-confirmation/
 categories:
 - General
 tags:

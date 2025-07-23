@@ -4,7 +4,7 @@ date: 2014-08-28 18:28:59+00:00
 draft: false
 title: '''The Truth About Zoe Quinn'''
 type: post
-url: /the-truth-about-zoe-quinn/
+slug: /the-truth-about-zoe-quinn/
 categories:
 - Gender
 - Media

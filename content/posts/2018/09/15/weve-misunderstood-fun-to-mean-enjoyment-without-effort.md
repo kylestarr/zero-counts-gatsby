@@ -4,7 +4,7 @@ date: 2018-09-15 18:05:20+00:00
 draft: false
 title: We've misunderstood fun to mean enjoyment without effort
 type: post
-url: /weve-misunderstood-fun-to-mean-enjoyment-without-effort/
+slug: /weve-misunderstood-fun-to-mean-enjoyment-without-effort/
 categories:
 - Commonplace
 tags:

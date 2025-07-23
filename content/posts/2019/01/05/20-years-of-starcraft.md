@@ -4,7 +4,7 @@ date: 2019-01-05 22:27:33+00:00
 draft: false
 title: 20 Years of StarCraft
 type: post
-url: /20-years-of-starcraft/
+slug: /20-years-of-starcraft/
 categories:
 - History
 postFormat:

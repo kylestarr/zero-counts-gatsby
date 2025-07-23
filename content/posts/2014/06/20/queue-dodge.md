@@ -4,7 +4,7 @@ date: 2014-06-20 17:11:09+00:00
 draft: false
 title: Queue Dodge
 type: post
-url: /queue-dodge/
+slug: /queue-dodge/
 categories:
 - Business
 tags:

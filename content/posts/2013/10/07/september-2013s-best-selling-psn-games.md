@@ -4,7 +4,7 @@ date: 2013-10-07 19:47:22+00:00
 draft: false
 title: September 2013’s Best-Selling PSN Games
 type: post
-url: /september-2013s-best-selling-psn-games/
+slug: /september-2013s-best-selling-psn-games/
 categories:
 - Business
 postFormat:

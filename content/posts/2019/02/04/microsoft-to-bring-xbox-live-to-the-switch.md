@@ -4,7 +4,7 @@ date: 2019-02-04 15:05:03+00:00
 draft: false
 title: Microsoft to Bring Xbox Live to the Switch
 type: post
-url: /microsoft-to-bring-xbox-live-to-the-switch/
+slug: /microsoft-to-bring-xbox-live-to-the-switch/
 categories:
 - Business
 tags:

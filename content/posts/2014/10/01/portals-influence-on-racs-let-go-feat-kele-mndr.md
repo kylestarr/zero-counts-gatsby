@@ -4,7 +4,7 @@ date: 2014-10-01 17:48:38+00:00
 draft: false
 title: Portal's Influence on RAC's "Let Go (feat. Kele & MNDR)
 type: post
-url: /portals-influence-on-racs-let-go-feat-kele-mndr/
+slug: /portals-influence-on-racs-let-go-feat-kele-mndr/
 categories:
 - Music
 tags:

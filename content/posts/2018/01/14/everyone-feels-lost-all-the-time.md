@@ -4,7 +4,7 @@ date: 2018-01-14 18:47:12+00:00
 draft: false
 title: ‘Everyone feels lost all the time’
 type: post
-url: /everyone-feels-lost-all-the-time/
+slug: /everyone-feels-lost-all-the-time/
 categories:
 - Business
 tags:

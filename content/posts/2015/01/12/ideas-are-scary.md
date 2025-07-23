@@ -4,7 +4,7 @@ date: 2015-01-12 19:57:33+00:00
 draft: false
 title: Ideas Are Scary
 type: post
-url: /ideas-are-scary/
+slug: /ideas-are-scary/
 categories:
 - General
 tags:

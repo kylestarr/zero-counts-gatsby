@@ -4,7 +4,7 @@ date: 2015-02-02 22:59:34+00:00
 draft: false
 title: Heroes of Might & Magic III HD Edition
 type: post
-url: /heroes-of-might-magic-iii-hd-edition/
+slug: /heroes-of-might-magic-iii-hd-edition/
 categories:
 - General
 tags:

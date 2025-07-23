@@ -4,7 +4,7 @@ date: 2018-05-17 05:12:39+00:00
 draft: false
 title: Microsoft’s Xbox Adaptive Controller
 type: post
-url: /microsofts-xbox-adaptive-controller/
+slug: /microsofts-xbox-adaptive-controller/
 categories:
 - Accessibility
 - Design

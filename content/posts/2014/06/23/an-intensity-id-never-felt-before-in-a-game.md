@@ -4,7 +4,7 @@ date: 2014-06-23 14:25:39+00:00
 draft: false
 title: '"An intensity I''d never felt before in a game."'
 type: post
-url: /an-intensity-id-never-felt-before-in-a-game/
+slug: /an-intensity-id-never-felt-before-in-a-game/
 categories:
 - General
 tags:

@@ -4,7 +4,7 @@ date: 2014-05-29 13:26:55+00:00
 draft: false
 title: '#YesAllWomen'
 type: post
-url: /yesallwomen/
+slug: /yesallwomen/
 categories:
 - Culture
 - Gender

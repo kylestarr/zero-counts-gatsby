@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Hell"
 date: 2024-05-10T09:00:00-08:00
-url: /avoiding-hell/
+slug: /avoiding-hell/
 categories:
   - Business
 tags:

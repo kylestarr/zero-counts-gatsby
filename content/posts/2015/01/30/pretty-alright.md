@@ -4,7 +4,7 @@ date: 2015-01-30 21:19:08+00:00
 draft: false
 title: Pretty Alright
 type: post
-url: /pretty-alright/
+slug: /pretty-alright/
 categories:
 - Music
 tags:

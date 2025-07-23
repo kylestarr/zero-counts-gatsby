@@ -4,7 +4,7 @@ date: 2014-06-10 23:00:58+00:00
 draft: false
 title: Diversity at press events
 type: post
-url: /diversity-at-press-events/
+slug: /diversity-at-press-events/
 categories:
 - Gender
 tags:

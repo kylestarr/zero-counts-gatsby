@@ -4,7 +4,7 @@ date: 2014-06-06 18:09:29+00:00
 draft: false
 title: LEGO female scientists
 type: post
-url: /lego-female-scientists/
+slug: /lego-female-scientists/
 categories:
 - Culture
 - Gender

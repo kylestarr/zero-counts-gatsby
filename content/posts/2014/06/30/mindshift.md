@@ -4,7 +4,7 @@ date: 2014-06-30 17:03:52+00:00
 draft: false
 title: Mindshift
 type: post
-url: /mindshift/
+slug: /mindshift/
 categories:
 - Education
 - Health

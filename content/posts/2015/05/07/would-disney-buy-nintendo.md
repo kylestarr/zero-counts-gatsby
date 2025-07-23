@@ -4,7 +4,7 @@ date: 2015-05-07 22:38:27+00:00
 draft: false
 title: Would Disney Buy Nintendo?
 type: post
-url: /would-disney-buy-nintendo/
+slug: /would-disney-buy-nintendo/
 categories:
 - Business
 tags:

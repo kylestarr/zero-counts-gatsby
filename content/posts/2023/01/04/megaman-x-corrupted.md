@@ -1,7 +1,7 @@
 ---
 title: "MegaMan X: Corrupted"
 date: 2023-01-04T13:50:00-08:00
-url: /megaman-x-corrupted/
+slug: /megaman-x-corrupted/
 categories:
   - General
 tags:

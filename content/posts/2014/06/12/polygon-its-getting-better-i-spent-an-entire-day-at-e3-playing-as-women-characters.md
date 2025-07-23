@@ -5,7 +5,7 @@ draft: false
 title: 'Polygon: ''It''s getting better: I spent an entire day at E3 playing as women
   characters'''
 type: post
-url: /polygon-its-getting-better-i-spent-an-entire-day-at-e3-playing-as-women-characters/
+slug: /polygon-its-getting-better-i-spent-an-entire-day-at-e3-playing-as-women-characters/
 categories:
 - Gender
 tags:

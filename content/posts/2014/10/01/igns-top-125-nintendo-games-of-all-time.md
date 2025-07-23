@@ -4,7 +4,7 @@ date: 2014-10-01 14:58:39+00:00
 draft: false
 title: IGN's Top 125 Nintendo Games of All Time
 type: post
-url: /igns-top-125-nintendo-games-of-all-time/
+slug: /igns-top-125-nintendo-games-of-all-time/
 categories:
 - Design
 - History

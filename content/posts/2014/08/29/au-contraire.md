@@ -4,7 +4,7 @@ date: 2014-08-29 17:47:12+00:00
 draft: false
 title: Au contraire
 type: post
-url: /au-contraire/
+slug: /au-contraire/
 categories:
 - Gender
 - Media

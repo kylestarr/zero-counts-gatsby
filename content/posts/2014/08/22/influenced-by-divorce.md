@@ -4,7 +4,7 @@ date: 2014-08-22 04:24:12+00:00
 draft: false
 title: Influenced by Divorce
 type: post
-url: /influenced-by-divorce/
+slug: /influenced-by-divorce/
 categories:
 - Children
 - Design

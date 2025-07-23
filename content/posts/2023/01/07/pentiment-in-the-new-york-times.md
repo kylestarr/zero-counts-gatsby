@@ -1,7 +1,7 @@
 ---
 title: "Pentiment in The New York Times"
 date: 2023-01-07T21:45:00-08:00
-url: /pentiment-in-the-new-york-times/
+slug: /pentiment-in-the-new-york-times/
 categories:
   - General
 tags:

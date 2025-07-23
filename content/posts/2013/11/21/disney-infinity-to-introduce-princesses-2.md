@@ -4,7 +4,7 @@ date: 2013-11-21 16:03:46+00:00
 draft: false
 title: '''Disney Infinity'' to introduce Princesses'
 type: post
-url: /disney-infinity-to-introduce-princesses-2/
+slug: /disney-infinity-to-introduce-princesses-2/
 categories:
 - Gender
 tags:

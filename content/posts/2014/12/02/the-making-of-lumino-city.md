@@ -4,7 +4,7 @@ date: 2014-12-02 20:01:01+00:00
 draft: false
 title: The Making of Lumino City
 type: post
-url: /the-making-of-lumino-city/
+slug: /the-making-of-lumino-city/
 categories:
 - Art
 - Design

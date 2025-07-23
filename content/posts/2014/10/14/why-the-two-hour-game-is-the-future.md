@@ -4,7 +4,7 @@ date: 2014-10-14 18:00:00+00:00
 draft: false
 title: '''Why the Two-Hour Game is the Future'''
 type: post
-url: /why-the-two-hour-game-is-the-future/
+slug: /why-the-two-hour-game-is-the-future/
 categories:
 - Design
 - General

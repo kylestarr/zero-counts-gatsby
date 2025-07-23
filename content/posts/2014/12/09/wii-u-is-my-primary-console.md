@@ -4,7 +4,7 @@ date: 2014-12-09 21:12:46+00:00
 draft: false
 title: Wii U is My Primary Console
 type: post
-url: /wii-u-is-my-primary-console/
+slug: /wii-u-is-my-primary-console/
 categories:
 - Design
 tags:

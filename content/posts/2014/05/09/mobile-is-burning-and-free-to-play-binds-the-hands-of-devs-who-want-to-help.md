@@ -4,7 +4,7 @@ date: 2014-05-09 15:32:41+00:00
 draft: false
 title: Mobile is burning, and free-to-play binds the hands of devs who want to help
 type: post
-url: /mobile-is-burning-and-free-to-play-binds-the-hands-of-devs-who-want-to-help/
+slug: /mobile-is-burning-and-free-to-play-binds-the-hands-of-devs-who-want-to-help/
 categories:
 - Business
 tags:

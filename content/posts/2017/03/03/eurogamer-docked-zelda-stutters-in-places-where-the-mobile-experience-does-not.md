@@ -5,7 +5,7 @@ draft: false
 title: 'Eurogamer: ''Docked Zelda Stutters in Places Where the Mobile Experience Does
   Not'''
 type: post
-url: /eurogamer-docked-zelda-stutters-in-places-where-the-mobile-experience-does-not/
+slug: /eurogamer-docked-zelda-stutters-in-places-where-the-mobile-experience-does-not/
 categories:
 - General
 tags:

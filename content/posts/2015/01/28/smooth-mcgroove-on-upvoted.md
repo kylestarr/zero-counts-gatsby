@@ -4,7 +4,7 @@ date: 2015-01-28 20:53:18+00:00
 draft: false
 title: Smooth McGroove on Upvoted
 type: post
-url: /smooth-mcgroove-on-upvoted/
+slug: /smooth-mcgroove-on-upvoted/
 categories:
 - Business
 - Media

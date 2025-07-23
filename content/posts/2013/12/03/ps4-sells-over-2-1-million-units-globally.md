@@ -4,7 +4,7 @@ date: 2013-12-03 16:18:00+00:00
 draft: false
 title: PS4 Sells Over 2.1 Million Units Globally
 type: post
-url: /ps4-sells-over-2-1-million-units-globally/
+slug: /ps4-sells-over-2-1-million-units-globally/
 categories:
 - Business
 tags:

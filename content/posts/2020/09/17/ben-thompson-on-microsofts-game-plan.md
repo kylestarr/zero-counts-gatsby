@@ -1,7 +1,7 @@
 ---
 title: "Ben Thompson on Microsoft's Game Plan"
 date: 2020-09-17 8:00:00
-url: /ben-thompson-on-microsofts-game-plan/
+slug: /ben-thompson-on-microsofts-game-plan/
 categories:
     - Business
 tags:

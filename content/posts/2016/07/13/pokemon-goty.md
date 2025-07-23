@@ -4,7 +4,7 @@ date: 2016-07-13 14:54:09+00:00
 draft: false
 title: Pokémon GOTY
 type: post
-url: /pokemon-goty/
+slug: /pokemon-goty/
 categories:
 - Culture
 - History

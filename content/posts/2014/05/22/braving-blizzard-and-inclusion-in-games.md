@@ -4,7 +4,7 @@ date: 2014-05-22 20:20:29+00:00
 draft: false
 title: Braving Blizzard and inclusion in games
 type: post
-url: /braving-blizzard-and-inclusion-in-games/
+slug: /braving-blizzard-and-inclusion-in-games/
 categories:
 - Business
 - Culture

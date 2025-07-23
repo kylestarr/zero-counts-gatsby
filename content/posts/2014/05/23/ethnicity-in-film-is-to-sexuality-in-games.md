@@ -4,7 +4,7 @@ date: 2014-05-23 01:55:40+00:00
 draft: false
 title: Ethnicity in film is to sexuality in games
 type: post
-url: /ethnicity-in-film-is-to-sexuality-in-games/
+slug: /ethnicity-in-film-is-to-sexuality-in-games/
 categories:
 - Culture
 - Sexuality

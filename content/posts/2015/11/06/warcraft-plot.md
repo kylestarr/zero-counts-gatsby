@@ -4,7 +4,7 @@ date: 2015-11-07 01:44:36+00:00
 draft: false
 title: Warcraft Plot
 type: post
-url: /warcraft-plot/
+slug: /warcraft-plot/
 categories:
 - Design
 postFormat:

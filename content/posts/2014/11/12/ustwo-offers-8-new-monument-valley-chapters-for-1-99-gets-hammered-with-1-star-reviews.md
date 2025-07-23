@@ -5,7 +5,7 @@ draft: false
 title: Ustwo Offers 8 New Monument Valley Chapters for $1.99, Gets Hammered with 1-Star
   Reviews
 type: post
-url: /ustwo-offers-8-new-monument-valley-chapters-for-1-99-gets-hammered-with-1-star-reviews/
+slug: /ustwo-offers-8-new-monument-valley-chapters-for-1-99-gets-hammered-with-1-star-reviews/
 categories:
 - Business
 - Design

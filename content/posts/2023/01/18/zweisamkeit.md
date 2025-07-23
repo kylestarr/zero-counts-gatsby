@@ -1,7 +1,7 @@
 ---
 title: "Zweisamkeit"
 date: 2023-01-18T11:00:00-08:00
-url: /zweisamkeit/
+slug: /zweisamkeit/
 categories:
   - General
 tags:

@@ -4,7 +4,7 @@ date: 2014-10-14 19:32:57+00:00
 draft: false
 title: A $60 Gamble
 type: post
-url: /a-60-gamble/
+slug: /a-60-gamble/
 categories:
 - Business
 - Media

@@ -4,7 +4,7 @@ date: 2014-09-24 04:17:56+00:00
 draft: false
 title: Anamanaguchi Pops It
 type: post
-url: /anamanaguchi-pops-it/
+slug: /anamanaguchi-pops-it/
 categories:
 - Music
 tags:

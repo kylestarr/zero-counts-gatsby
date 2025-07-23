@@ -4,7 +4,7 @@ date: 2013-10-26 00:29:37+00:00
 draft: false
 title: Go Right by YouTuber RockyPlanetesimal
 type: post
-url: /go-right-by-youtuber-rockyplanetesimal/
+slug: /go-right-by-youtuber-rockyplanetesimal/
 categories:
 - Art
 tags:

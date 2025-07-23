@@ -4,7 +4,7 @@ date: 2014-07-02 14:39:50+00:00
 draft: false
 title: Console Love?
 type: post
-url: /console-love/
+slug: /console-love/
 categories:
 - Business
 tags:

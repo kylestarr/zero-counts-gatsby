@@ -4,7 +4,7 @@ date: 2017-03-11 22:20:37+00:00
 draft: false
 title: Switch On, Switched Off
 type: post
-url: /switch-on-switched-off/
+slug: /switch-on-switched-off/
 categories:
 - Design
 - Review

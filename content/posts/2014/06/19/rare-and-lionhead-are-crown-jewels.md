@@ -4,7 +4,7 @@ date: 2014-06-19 17:14:37+00:00
 draft: false
 title: Rare and Lionhead are Crown Jewels
 type: post
-url: /rare-and-lionhead-are-crown-jewels/
+slug: /rare-and-lionhead-are-crown-jewels/
 categories:
 - General
 tags:

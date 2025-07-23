@@ -4,7 +4,7 @@ date: 2013-04-09 17:00:24+00:00
 draft: false
 title: 'Journey: 1 Year Later'
 type: post
-url: /journey-1-year-later/
+slug: /journey-1-year-later/
 categories:
 - Review
 tags:

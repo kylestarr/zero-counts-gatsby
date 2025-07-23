@@ -1,7 +1,7 @@
 ---
 title: "My Favorite Things of 2022"
 date: 2023-01-01T00:15:00-08:00
-url: /my-favorite-things-of-2022/
+slug: /my-favorite-things-of-2022/
 categories:
   - General
 tags:

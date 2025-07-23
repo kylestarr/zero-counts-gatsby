@@ -4,7 +4,7 @@ date: 2014-07-09 12:50:37+00:00
 draft: false
 title: Tipping Point
 type: post
-url: /tipping-point/
+slug: /tipping-point/
 categories:
 - Technology
 tags:

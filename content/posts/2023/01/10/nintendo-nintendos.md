@@ -1,7 +1,7 @@
 ---
 title: "Nintendo Nintendos"
 date: 2023-01-10T08:45:00-08:00
-url: /nintendo-nintendos/
+slug: /nintendo-nintendos/
 categories:
   - Design
 tags:

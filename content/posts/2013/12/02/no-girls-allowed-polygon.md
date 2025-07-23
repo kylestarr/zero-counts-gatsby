@@ -4,7 +4,7 @@ date: 2013-12-02 23:21:13+00:00
 draft: false
 title: No girls allowed
 type: post
-url: /no-girls-allowed-polygon/
+slug: /no-girls-allowed-polygon/
 categories:
 - Business
 - Gender

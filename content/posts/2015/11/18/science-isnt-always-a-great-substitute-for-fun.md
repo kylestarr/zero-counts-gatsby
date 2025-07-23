@@ -4,7 +4,7 @@ date: 2015-11-18 00:10:17+00:00
 draft: false
 title: '"Science isn''t always a great substitute for fun."'
 type: post
-url: /science-isnt-always-a-great-substitute-for-fun/
+slug: /science-isnt-always-a-great-substitute-for-fun/
 categories:
 - Design
 - Fun

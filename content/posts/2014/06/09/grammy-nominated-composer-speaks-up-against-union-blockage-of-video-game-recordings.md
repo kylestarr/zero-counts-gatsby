@@ -4,7 +4,7 @@ date: 2014-06-09 16:16:57+00:00
 draft: false
 title: Grammy-nominated composer speaks up against union blockage of video game recordings
 type: post
-url: /grammy-nominated-composer-speaks-up-against-union-blockage-of-video-game-recordings/
+slug: /grammy-nominated-composer-speaks-up-against-union-blockage-of-video-game-recordings/
 categories:
 - Business
 - Music

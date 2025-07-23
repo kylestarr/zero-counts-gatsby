@@ -4,7 +4,7 @@ date: 2013-10-16 15:34:10+00:00
 draft: false
 title: Wii U sees estimated 79 percent sales climb in North America
 type: post
-url: /wii-u-sees-estimated-79-percent-sales-climb-in-north-america/
+slug: /wii-u-sees-estimated-79-percent-sales-climb-in-north-america/
 categories:
 - Business
 tags:

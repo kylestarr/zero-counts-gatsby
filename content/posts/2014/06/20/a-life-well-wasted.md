@@ -4,7 +4,7 @@ date: 2014-06-20 01:13:25+00:00
 draft: false
 title: A Life Well Wasted
 type: post
-url: /a-life-well-wasted/
+slug: /a-life-well-wasted/
 categories:
 - Culture
 - History

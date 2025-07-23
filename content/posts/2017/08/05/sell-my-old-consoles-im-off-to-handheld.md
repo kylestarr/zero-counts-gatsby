@@ -4,7 +4,7 @@ date: 2017-08-05 23:38:32+00:00
 draft: false
 title: Sell My Old Consoles, I'm Off To Handheld
 type: post
-url: /sell-my-old-consoles-im-off-to-handheld/
+slug: /sell-my-old-consoles-im-off-to-handheld/
 categories:
 - Business
 - Design

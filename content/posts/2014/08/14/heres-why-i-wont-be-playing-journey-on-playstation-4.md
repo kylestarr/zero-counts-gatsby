@@ -4,7 +4,7 @@ date: 2014-08-14 02:04:09+00:00
 draft: false
 title: '''Here''s why I won''t be playing Journey on PlayStation 4'''
 type: post
-url: /heres-why-i-wont-be-playing-journey-on-playstation-4/
+slug: /heres-why-i-wont-be-playing-journey-on-playstation-4/
 categories:
 - Art
 tags:

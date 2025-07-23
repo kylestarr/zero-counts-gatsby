@@ -4,7 +4,7 @@ date: 2014-06-11 00:21:49+00:00
 draft: false
 title: Sonic the Hedgehog feature film
 type: post
-url: /sonic-the-hedgehog-feature-film/
+slug: /sonic-the-hedgehog-feature-film/
 categories:
 - General
 tags:

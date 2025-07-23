@@ -4,7 +4,7 @@ date: 2014-05-24 14:20:37+00:00
 draft: false
 title: 'NYT: ''Rusty’s Real Deal Baseball Video Game Tests Haggling Skills'''
 type: post
-url: /rustys-real-deal-baseball/
+slug: /rustys-real-deal-baseball/
 categories:
 - Business
 - General

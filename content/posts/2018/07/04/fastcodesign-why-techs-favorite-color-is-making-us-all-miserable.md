@@ -4,7 +4,7 @@ date: 2018-07-04 15:56:01+00:00
 draft: false
 title: 'FastCoDesign: Why tech’s favorite color is making us all miserable'
 type: post
-url: /fastcodesign-why-techs-favorite-color-is-making-us-all-miserable/
+slug: /fastcodesign-why-techs-favorite-color-is-making-us-all-miserable/
 categories:
 - Design
 tags:

@@ -4,7 +4,7 @@ date: 2017-01-18 18:01:08+00:00
 draft: false
 title: 'Nintendo: Amusement Provider'
 type: post
-url: /nintendo-amusement-provider/
+slug: /nintendo-amusement-provider/
 categories:
 - Design
 - General

@@ -4,7 +4,7 @@ date: 2014-06-22 15:43:22+00:00
 draft: false
 title: 'Minecraft: You make the story'
 type: post
-url: /minecraft-you-make-the-story/
+slug: /minecraft-you-make-the-story/
 categories:
 - Education
 - General

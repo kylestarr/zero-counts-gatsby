@@ -4,7 +4,7 @@ date: 2017-01-04 20:34:22+00:00
 draft: false
 title: 'Edwards: ''The wipes are the cheesiest thing in the world'''
 type: post
-url: /edwards-the-wipes-are-the-cheesiest-thing-in-the-world/
+slug: /edwards-the-wipes-are-the-cheesiest-thing-in-the-world/
 categories:
 - Film
 tags:

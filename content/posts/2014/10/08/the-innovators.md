@@ -4,7 +4,7 @@ date: 2014-10-08 06:32:12+00:00
 draft: false
 title: The Innovators
 type: post
-url: /the-innovators/
+slug: /the-innovators/
 categories:
 - Culture
 - Technology

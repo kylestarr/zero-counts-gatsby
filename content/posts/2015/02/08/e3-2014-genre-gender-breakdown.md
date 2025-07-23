@@ -4,7 +4,7 @@ date: 2015-02-08 03:28:53+00:00
 draft: false
 title: 'E3 2014: Genre/Gender Breakdown'
 type: post
-url: /e3-2014-genre-gender-breakdown/
+slug: /e3-2014-genre-gender-breakdown/
 categories:
 - Gender
 tags:

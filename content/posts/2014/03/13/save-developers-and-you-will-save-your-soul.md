@@ -4,7 +4,7 @@ date: 2014-03-13 00:46:46-08:00
 draft: false
 title: Save developers and you will save your soul
 type: post
-url: /save-developers-and-you-will-save-your-soul/
+slug: /save-developers-and-you-will-save-your-soul/
 categories:
 - Business
 tags:

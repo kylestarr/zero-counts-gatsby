@@ -4,7 +4,7 @@ date: 2014-07-14 16:06:51+00:00
 draft: false
 title: 8bit Football
 type: post
-url: /8bit-football/
+slug: /8bit-football/
 categories:
 - Art
 - Culture

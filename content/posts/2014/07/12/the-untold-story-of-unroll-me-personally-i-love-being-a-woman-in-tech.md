@@ -4,7 +4,7 @@ date: 2014-07-12 18:58:12+00:00
 draft: false
 title: The Untold Story of Unroll.Me
 type: post
-url: /the-untold-story-of-unroll-me-personally-i-love-being-a-woman-in-tech/
+slug: /the-untold-story-of-unroll-me-personally-i-love-being-a-woman-in-tech/
 categories:
 - Gender
 - Technology

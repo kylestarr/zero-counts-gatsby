@@ -4,7 +4,7 @@ date: 2014-06-23 07:01:22+00:00
 draft: false
 title: Siracusa on the end of humanity
 type: post
-url: /siracusa-on-the-end-of-humanity/
+slug: /siracusa-on-the-end-of-humanity/
 categories:
 - General
 tags:

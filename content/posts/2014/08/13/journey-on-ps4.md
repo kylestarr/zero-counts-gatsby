@@ -4,7 +4,7 @@ date: 2014-08-13 19:14:32+00:00
 draft: false
 title: Journey on PS4
 type: post
-url: /journey-on-ps4/
+slug: /journey-on-ps4/
 categories:
 - General
 postFormat:

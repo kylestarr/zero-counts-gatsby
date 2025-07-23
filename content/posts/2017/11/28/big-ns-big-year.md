@@ -4,7 +4,7 @@ date: 2017-11-28 15:54:13+00:00
 draft: false
 title: Big-N’s Big Year
 type: post
-url: /big-ns-big-year/
+slug: /big-ns-big-year/
 categories:
 - Business
 - General

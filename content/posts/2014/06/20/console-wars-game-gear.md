@@ -4,7 +4,7 @@ date: 2014-06-20 15:04:50+00:00
 draft: false
 title: 'Console Wars: Game Gear'
 type: post
-url: /console-wars-game-gear/
+slug: /console-wars-game-gear/
 categories:
 - History
 tags:

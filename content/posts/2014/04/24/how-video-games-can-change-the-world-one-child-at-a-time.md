@@ -4,7 +4,7 @@ date: 2014-04-24 15:10:32+00:00
 draft: false
 title: How video games can change the world, one child at a time
 type: post
-url: /how-video-games-can-change-the-world-one-child-at-a-time/
+slug: /how-video-games-can-change-the-world-one-child-at-a-time/
 categories:
 - Education
 ---

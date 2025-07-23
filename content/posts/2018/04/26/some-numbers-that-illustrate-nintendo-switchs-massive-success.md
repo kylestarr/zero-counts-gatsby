@@ -4,7 +4,7 @@ date: 2018-04-26 18:35:43+00:00
 draft: false
 title: Some Numbers That Illustrate Nintendo Switch's Massive Success
 type: post
-url: /some-numbers-that-illustrate-nintendo-switchs-massive-success/
+slug: /some-numbers-that-illustrate-nintendo-switchs-massive-success/
 categories:
 - Business
 tags:

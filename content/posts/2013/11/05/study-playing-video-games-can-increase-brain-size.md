@@ -4,7 +4,7 @@ date: 2013-11-05 20:39:11+00:00
 draft: false
 title: 'Study: Playing video games can increase brain size'
 type: post
-url: /study-playing-video-games-can-increase-brain-size/
+slug: /study-playing-video-games-can-increase-brain-size/
 categories:
 - Health
 tags:

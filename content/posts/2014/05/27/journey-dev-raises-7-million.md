@@ -4,7 +4,7 @@ date: 2014-05-27 20:32:02+00:00
 draft: false
 title: Journey dev raises $7 million
 type: post
-url: /journey-dev-raises-7-million/
+slug: /journey-dev-raises-7-million/
 categories:
 - Business
 - General

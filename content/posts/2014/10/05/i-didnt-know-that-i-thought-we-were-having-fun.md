@@ -4,7 +4,7 @@ date: 2014-10-05 05:53:03+00:00
 draft: false
 title: '''I didn''t know that. I thought we were having fun.'''
 type: post
-url: /i-didnt-know-that-i-thought-we-were-having-fun/
+slug: /i-didnt-know-that-i-thought-we-were-having-fun/
 categories:
 - General
 - Media

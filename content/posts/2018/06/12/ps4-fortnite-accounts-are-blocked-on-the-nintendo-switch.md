@@ -4,7 +4,7 @@ date: 2018-06-12 04:13:26+00:00
 draft: false
 title: PS4 Fortnite Accounts Are Blocked On The Nintendo Switch
 type: post
-url: /ps4-fortnite-accounts-are-blocked-on-the-nintendo-switch/
+slug: /ps4-fortnite-accounts-are-blocked-on-the-nintendo-switch/
 categories:
 - General
 postFormat:

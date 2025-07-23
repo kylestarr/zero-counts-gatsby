@@ -4,7 +4,7 @@ date: 2018-05-09 04:34:47+00:00
 draft: false
 title: Virtual Console kinda sucked
 type: post
-url: /virtual-console-kinda-sucked/
+slug: /virtual-console-kinda-sucked/
 categories:
 - Business
 postFormat:

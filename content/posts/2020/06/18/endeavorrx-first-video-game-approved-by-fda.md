@@ -1,7 +1,7 @@
 ---
 date: "2020-06-18"
 title: 'EndeavorRx: First Video Game Approved by FDA'
-url: endeavorrx-first-video-game-approved-by-fda
+slug: endeavorrx-first-video-game-approved-by-fda
 category: "health"
 postFormat:
 - Link

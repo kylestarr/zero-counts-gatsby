@@ -4,7 +4,7 @@ date: 2014-08-27 17:32:11+00:00
 draft: false
 title: Madeleines
 type: post
-url: /madeleines/
+slug: /madeleines/
 categories:
 - Children
 - Culture

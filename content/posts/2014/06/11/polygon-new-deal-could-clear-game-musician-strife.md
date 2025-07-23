@@ -4,7 +4,7 @@ date: 2014-06-11 18:23:55+00:00
 draft: false
 title: 'Polygon: ''New deal could clear game musician strife'''
 type: post
-url: /polygon-new-deal-could-clear-game-musician-strife/
+slug: /polygon-new-deal-could-clear-game-musician-strife/
 categories:
 - Music
 tags:

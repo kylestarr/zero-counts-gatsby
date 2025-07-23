@@ -5,7 +5,7 @@ draft: false
 title: 'Jose Otero, IGN: ''Attaching and detaching [Joy-Con] from the [Switch] is
   satisfying to the point that it''s almost addictive'''
 type: post
-url: /jose-otero-ign-attaching-and-detaching-joy-con-from-the-switch-is-satisfying-to-the-point-that-its-almost-addictive/
+slug: /jose-otero-ign-attaching-and-detaching-joy-con-from-the-switch-is-satisfying-to-the-point-that-its-almost-addictive/
 categories:
 - Design
 - General

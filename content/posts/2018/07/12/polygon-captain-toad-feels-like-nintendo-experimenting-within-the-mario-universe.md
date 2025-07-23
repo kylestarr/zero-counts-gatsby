@@ -5,7 +5,7 @@ draft: false
 title: 'Polygon: Captain Toad feels like “Nintendo experimenting within the Mario
   Universe”'
 type: post
-url: /polygon-captain-toad-feels-like-nintendo-experimenting-within-the-mario-universe/
+slug: /polygon-captain-toad-feels-like-nintendo-experimenting-within-the-mario-universe/
 categories:
 - Design
 tags:

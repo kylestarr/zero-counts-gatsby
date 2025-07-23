@@ -4,7 +4,7 @@ date: 2018-09-15 18:11:55+00:00
 draft: false
 title: The paradox of fun
 type: post
-url: /the-paradox-of-fun/
+slug: /the-paradox-of-fun/
 categories:
 - Commonplace
 tags:

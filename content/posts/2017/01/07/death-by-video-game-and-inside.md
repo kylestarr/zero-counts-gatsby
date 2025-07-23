@@ -4,7 +4,7 @@ date: 2017-01-07 02:06:23+00:00
 draft: false
 title: 'Inside: A Review via ''Death by Video Game'''
 type: post
-url: /death-by-video-game-and-inside/
+slug: /death-by-video-game-and-inside/
 categories:
 - Art
 - Media

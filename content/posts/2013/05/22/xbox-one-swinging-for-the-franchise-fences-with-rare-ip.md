@@ -4,7 +4,7 @@ date: 2013-05-22 23:21:11+00:00
 draft: false
 title: 'Xbox One: Swinging for the Franchise Fences with Rare IP?'
 type: post
-url: /xbox-one-swinging-for-the-franchise-fences-with-rare-ip/
+slug: /xbox-one-swinging-for-the-franchise-fences-with-rare-ip/
 categories:
 - General
 tags:

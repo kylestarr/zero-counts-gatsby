@@ -4,7 +4,7 @@ date: 2014-05-28 13:18:50+00:00
 draft: false
 title: Microsoft not selling off Xbox
 type: post
-url: /microsoft-not-selling-off-xbox/
+slug: /microsoft-not-selling-off-xbox/
 categories:
 - Business
 tags:

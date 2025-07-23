@@ -4,7 +4,7 @@ date: 2015-08-03 08:10:54+00:00
 draft: false
 title: King's Quest
 type: post
-url: /kings-quest/
+slug: /kings-quest/
 categories:
 - Review
 tags:

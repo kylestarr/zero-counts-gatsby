@@ -4,7 +4,7 @@ date: 2017-11-19 16:50:45+00:00
 draft: false
 title: Super Mario Odyssey — A Review
 type: post
-url: /super-mario-odyssey-a-review/
+slug: /super-mario-odyssey-a-review/
 categories:
 - Design
 - General

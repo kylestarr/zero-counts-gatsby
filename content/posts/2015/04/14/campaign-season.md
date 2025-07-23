@@ -4,7 +4,7 @@ date: 2015-04-15 06:39:24+00:00
 draft: false
 title: Campaign Season
 type: post
-url: /campaign-season/
+slug: /campaign-season/
 categories:
 - Politics
 tags:

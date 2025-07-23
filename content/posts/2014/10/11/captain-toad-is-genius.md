@@ -4,7 +4,7 @@ date: 2014-10-11 07:31:56+00:00
 draft: false
 title: Captain Toad is Genius
 type: post
-url: /captain-toad-is-genius/
+slug: /captain-toad-is-genius/
 categories:
 - Design
 - General

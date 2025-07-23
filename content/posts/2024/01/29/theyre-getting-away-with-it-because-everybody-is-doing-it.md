@@ -1,7 +1,7 @@
 ---
 title: "'They’re getting away with it because everybody is doing it.'"
 date: 2024-01-29T18:45:00-08:00
-url: /theyre-getting-away-with-it-because-everybody-is-doing-it/
+slug: /theyre-getting-away-with-it-because-everybody-is-doing-it/
 categories:
   - Business
 tags:

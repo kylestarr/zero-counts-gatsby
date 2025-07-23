@@ -4,7 +4,7 @@ date: 2014-09-11 02:40:54+00:00
 draft: false
 title: Chocolate-Covered Broccoli
 type: post
-url: /chocolate-covered-broccoli/
+slug: /chocolate-covered-broccoli/
 categories:
 - Design
 - Education

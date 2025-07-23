@@ -4,7 +4,7 @@ date: 2014-05-25 14:37:14+00:00
 draft: false
 title: 'Polygon: ''How gaming in wartime connected soldiers, a father and a son'''
 type: post
-url: /how-gaming-in-wartime-connected-soldiers-a-father-and-a-son/
+slug: /how-gaming-in-wartime-connected-soldiers-a-father-and-a-son/
 categories:
 - Culture
 - Military

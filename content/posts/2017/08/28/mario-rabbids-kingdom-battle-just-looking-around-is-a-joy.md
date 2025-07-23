@@ -4,7 +4,7 @@ date: 2017-08-28 01:46:13+00:00
 draft: false
 title: 'Mario + Rabbids Kingdom Battle: "Just looking around is a joy"'
 type: post
-url: /mario-rabbids-kingdom-battle-just-looking-around-is-a-joy/
+slug: /mario-rabbids-kingdom-battle-just-looking-around-is-a-joy/
 categories:
 - Design
 postFormat:

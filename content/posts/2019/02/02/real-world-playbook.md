@@ -4,7 +4,7 @@ date: 2019-02-02 17:50:03+00:00
 draft: false
 title: Real World Playbook
 type: post
-url: /real-world-playbook/
+slug: /real-world-playbook/
 categories:
 - Education
 tags:

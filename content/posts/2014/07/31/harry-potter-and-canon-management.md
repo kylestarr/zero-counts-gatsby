@@ -4,7 +4,7 @@ date: 2014-07-31 17:42:52+00:00
 draft: false
 title: Harry Potter and Canon Management
 type: post
-url: /harry-potter-and-canon-management/
+slug: /harry-potter-and-canon-management/
 categories:
 - General
 tags:

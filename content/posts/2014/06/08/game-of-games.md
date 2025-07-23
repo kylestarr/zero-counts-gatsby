@@ -4,7 +4,7 @@ date: 2014-06-08 00:26:56+00:00
 draft: false
 title: Game of Games
 type: post
-url: /game-of-games/
+slug: /game-of-games/
 categories:
 - Business
 - General

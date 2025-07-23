@@ -4,7 +4,7 @@ date: 2017-12-31 04:39:45+00:00
 draft: false
 title: Switch Sales Top PS2 in First-Year, Wii U Lifetime in Japan
 type: post
-url: /switch-sales-top-ps2-in-first-year-wii-u-lifetime-in-japan/
+slug: /switch-sales-top-ps2-in-first-year-wii-u-lifetime-in-japan/
 categories:
 - Business
 tags:

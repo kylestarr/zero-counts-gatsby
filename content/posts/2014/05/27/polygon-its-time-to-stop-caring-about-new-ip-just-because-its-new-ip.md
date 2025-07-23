@@ -5,7 +5,7 @@ draft: false
 title: 'Polygon: ''It''s time to stop caring about new IP (just because it''s new
   IP)'''
 type: post
-url: /polygon-its-time-to-stop-caring-about-new-ip-just-because-its-new-ip/
+slug: /polygon-its-time-to-stop-caring-about-new-ip-just-because-its-new-ip/
 categories:
 - Business
 - General

@@ -4,7 +4,7 @@ date: 2014-05-03 15:43:14+00:00
 draft: false
 title: Mariothon
 type: post
-url: /mariothon/
+slug: /mariothon/
 categories:
 - Gamification
 tags:

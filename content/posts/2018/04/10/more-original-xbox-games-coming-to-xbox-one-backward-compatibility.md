@@ -4,7 +4,7 @@ date: 2018-04-11 05:31:58+00:00
 draft: false
 title: More Original Xbox Games Coming to Xbox One Backward Compatibility
 type: post
-url: /more-original-xbox-games-coming-to-xbox-one-backward-compatibility/
+slug: /more-original-xbox-games-coming-to-xbox-one-backward-compatibility/
 categories:
 - Business
 postFormat:

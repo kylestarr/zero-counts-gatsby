@@ -4,7 +4,7 @@ date: 2012-04-13 10:00:00+00:00
 draft: false
 title: Finding The Rails
 type: post
-url: /finding-the-rails/
+slug: /finding-the-rails/
 categories:
 - Health
 tags:

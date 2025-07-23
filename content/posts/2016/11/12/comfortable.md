@@ -4,7 +4,7 @@ date: 2016-11-12 22:31:18+00:00
 draft: false
 title: Comfortable
 type: post
-url: /comfortable/
+slug: /comfortable/
 categories:
 - Politics
 tags:

@@ -4,7 +4,7 @@ date: 2017-02-06 14:42:32+00:00
 draft: false
 title: Nintendo's 'Conductor'
 type: post
-url: /nintendos-conductor/
+slug: /nintendos-conductor/
 categories:
 - Business
 - Design

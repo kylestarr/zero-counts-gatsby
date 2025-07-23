@@ -4,7 +4,7 @@ date: 2018-10-04 05:23:13+00:00
 draft: false
 title: 'Hunch: Nintendo Revives “Super” Branding'
 type: post
-url: /hunch-nintendo-revives-super-branding/
+slug: /hunch-nintendo-revives-super-branding/
 categories:
 - Business
 - Media

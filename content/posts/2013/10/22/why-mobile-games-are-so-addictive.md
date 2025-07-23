@@ -4,7 +4,7 @@ date: 2013-10-22 23:19:27+00:00
 draft: false
 title: Why mobile games are so addictive
 type: post
-url: /why-mobile-games-are-so-addictive/
+slug: /why-mobile-games-are-so-addictive/
 categories:
 - Design
 - Health

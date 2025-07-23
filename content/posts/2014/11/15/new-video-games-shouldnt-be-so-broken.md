@@ -4,7 +4,7 @@ date: 2014-11-15 19:26:05+00:00
 draft: false
 title: '''New Video Games Shouldn''t Be So Broken'''
 type: post
-url: /new-video-games-shouldnt-be-so-broken/
+slug: /new-video-games-shouldnt-be-so-broken/
 categories:
 - Business
 - Design

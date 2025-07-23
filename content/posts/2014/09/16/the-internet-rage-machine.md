@@ -4,7 +4,7 @@ date: 2014-09-16 02:19:29+00:00
 draft: false
 title: The Internet Rage Machine
 type: post
-url: /the-internet-rage-machine/
+slug: /the-internet-rage-machine/
 categories:
 - Culture
 tags:

@@ -4,7 +4,7 @@ date: 2014-08-26 14:45:23+00:00
 draft: false
 title: Switch to Sony
 type: post
-url: /switch-to-sony/
+slug: /switch-to-sony/
 categories:
 - Business
 tags:

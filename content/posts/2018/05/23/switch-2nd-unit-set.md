@@ -4,7 +4,7 @@ date: 2018-05-23 04:45:37+00:00
 draft: false
 title: Switch 2nd Unit Set
 type: post
-url: /switch-2nd-unit-set/
+slug: /switch-2nd-unit-set/
 categories:
 - Business
 - General

@@ -4,7 +4,7 @@ date: 2015-03-08 21:27:08+00:00
 draft: false
 title: One Tool to Rule Them All
 type: post
-url: /one-tool-to-rule-them-all/
+slug: /one-tool-to-rule-them-all/
 categories:
 - Business
 - Design

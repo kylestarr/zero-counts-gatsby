@@ -4,7 +4,7 @@ date: 2016-10-02 15:53:39+00:00
 draft: false
 title: Nintendo 64 and Avoiding 'Sequelitis'
 type: post
-url: /nintendo-64-and-avoiding-sequelitis/
+slug: /nintendo-64-and-avoiding-sequelitis/
 categories:
 - Design
 - History

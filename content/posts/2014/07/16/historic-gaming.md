@@ -4,7 +4,7 @@ date: 2014-07-16 13:20:45+00:00
 draft: false
 title: Historic Gaming
 type: post
-url: /historic-gaming/
+slug: /historic-gaming/
 categories:
 - Design
 tags:

@@ -4,7 +4,7 @@ date: 2014-08-12 01:33:25+00:00
 draft: false
 title: O Captain! My Captain!
 type: post
-url: /o-captain-my-captain/
+slug: /o-captain-my-captain/
 categories:
 - General
 ---

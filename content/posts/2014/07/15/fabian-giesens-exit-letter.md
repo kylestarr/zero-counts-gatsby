@@ -4,7 +4,7 @@ date: 2014-07-15 12:46:46+00:00
 draft: false
 title: Fabian Giesen's exit letter
 type: post
-url: /fabian-giesens-exit-letter/
+slug: /fabian-giesens-exit-letter/
 categories:
 - Technology
 tags:

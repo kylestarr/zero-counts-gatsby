@@ -4,7 +4,7 @@ date: 2017-02-23 04:35:56+00:00
 draft: false
 title: GameStop Announces Midnight Switch Launch
 type: post
-url: /gamestop-midnight-switch-launch/
+slug: /gamestop-midnight-switch-launch/
 categories:
 - Business
 - Media

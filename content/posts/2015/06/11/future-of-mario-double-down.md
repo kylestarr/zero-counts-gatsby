@@ -4,7 +4,7 @@ date: 2015-06-11 07:25:23+00:00
 draft: false
 title: The Future of Mario Double-Down
 type: post
-url: /future-of-mario-double-down/
+slug: /future-of-mario-double-down/
 categories:
 - Design
 tags:

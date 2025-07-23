@@ -4,7 +4,7 @@ date: 2014-02-04 10:00:00+00:00
 draft: false
 title: The Altamont Archives
 type: post
-url: /the-altamont-archives/
+slug: /the-altamont-archives/
 categories:
 - Music
 tags:

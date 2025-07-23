@@ -4,7 +4,7 @@ date: 2014-06-12 14:47:12+00:00
 draft: false
 title: No girls allowed
 type: post
-url: /no-girls-allowed/
+slug: /no-girls-allowed/
 categories:
 - Gender
 tags:

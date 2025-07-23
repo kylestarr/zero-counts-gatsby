@@ -4,7 +4,7 @@ date: 2015-01-26 00:53:41+00:00
 draft: false
 title: 'American Horror Story: McDonald''s Museum'
 type: post
-url: /american-horror-story-mcdonalds-museum/
+slug: /american-horror-story-mcdonalds-museum/
 categories:
 - General
 ---

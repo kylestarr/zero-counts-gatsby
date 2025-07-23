@@ -4,7 +4,7 @@ date: 2018-08-15 02:39:09+00:00
 draft: false
 title: Old things
 type: post
-url: /old-things/
+slug: /old-things/
 categories:
 - Commonplace
 tags:

@@ -4,7 +4,7 @@ date: 2014-05-26 15:54:43+00:00
 draft: false
 title: Transistor OST
 type: post
-url: /transistor-ost/
+slug: /transistor-ost/
 categories:
 - Music
 tags:

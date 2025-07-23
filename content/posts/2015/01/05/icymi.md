@@ -4,7 +4,7 @@ date: 2015-01-05 03:09:51+00:00
 draft: false
 title: ICYMI
 type: post
-url: /icymi/
+slug: /icymi/
 categories:
 - Media
 tags:

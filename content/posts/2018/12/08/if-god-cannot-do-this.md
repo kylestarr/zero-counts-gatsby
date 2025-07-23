@@ -4,7 +4,7 @@ date: 2018-12-08 22:30:19+00:00
 draft: false
 title: If God cannot do this…
 type: post
-url: /if-god-cannot-do-this/
+slug: /if-god-cannot-do-this/
 categories:
 - Commonplace
 tags:

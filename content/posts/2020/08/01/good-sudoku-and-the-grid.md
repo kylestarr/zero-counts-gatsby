@@ -1,7 +1,7 @@
 ---
 title: "Good Sudoku and The Grid"
 date: "2020-08-01"
-url: "good-sudoku-and-the-grid"
+slug: "good-sudoku-and-the-grid"
 category: "design"
 postFormat:
 - Link

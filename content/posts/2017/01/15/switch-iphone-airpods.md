@@ -5,7 +5,7 @@ draft: false
 title: Nintendo Switch's 'dedicated smart device app' to allow consumers 'to play
   those connected experiences... while they’re on the go'
 type: post
-url: /switch-iphone-airpods/
+slug: /switch-iphone-airpods/
 categories:
 - General
 tags:

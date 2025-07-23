@@ -4,7 +4,7 @@ date: 2013-12-03 16:09:58+00:00
 draft: false
 title: Give8Bit - How To Give While You Game
 type: post
-url: /give8bit-how-to-give-while-you-game/
+slug: /give8bit-how-to-give-while-you-game/
 categories:
 - Charity
 tags:

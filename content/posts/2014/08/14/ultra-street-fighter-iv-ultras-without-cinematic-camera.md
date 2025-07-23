@@ -4,7 +4,7 @@ date: 2014-08-14 00:56:24+00:00
 draft: false
 title: Ultra Street Fighter IV Ultras without Cinematic Camera
 type: post
-url: /ultra-street-fighter-iv-ultras-without-cinematic-camera/
+slug: /ultra-street-fighter-iv-ultras-without-cinematic-camera/
 categories:
 - Design
 tags:

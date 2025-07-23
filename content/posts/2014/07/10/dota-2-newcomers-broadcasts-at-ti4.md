@@ -4,7 +4,7 @@ date: 2014-07-10 21:54:11+00:00
 draft: false
 title: 'Dota 2: Newcomer’s Broadcasts at TI4'
 type: post
-url: /dota-2-newcomers-broadcasts-at-ti4/
+slug: /dota-2-newcomers-broadcasts-at-ti4/
 categories:
 - eSports
 - Technology

@@ -4,7 +4,7 @@ date: 2016-03-11 15:00:47+00:00
 draft: false
 title: 'The Witness: A (Cheater''s) Review'
 type: post
-url: /the-witness-a-cheaters-review/
+slug: /the-witness-a-cheaters-review/
 categories:
 - Review
 tags:

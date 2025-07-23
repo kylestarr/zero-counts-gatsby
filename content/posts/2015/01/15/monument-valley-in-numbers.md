@@ -4,7 +4,7 @@ date: 2015-01-15 19:31:01+00:00
 draft: false
 title: Monument Valley in Numbers
 type: post
-url: /monument-valley-in-numbers/
+slug: /monument-valley-in-numbers/
 categories:
 - Business
 tags:

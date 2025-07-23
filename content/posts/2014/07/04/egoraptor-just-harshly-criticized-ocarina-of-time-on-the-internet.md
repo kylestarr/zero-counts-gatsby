@@ -4,7 +4,7 @@ date: 2014-07-04 00:31:11+00:00
 draft: false
 title: Egoraptor just harshly criticized Ocarina of Time on the Internet
 type: post
-url: /egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/
+slug: /egoraptor-just-harshly-criticized-ocarina-of-time-on-the-internet/
 categories:
 - Design
 postFormat:

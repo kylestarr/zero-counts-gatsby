@@ -4,7 +4,7 @@ date: 2018-09-09 20:27:21+00:00
 draft: false
 title: The limitations make games fun
 type: post
-url: /the-limitations-make-games-fun/
+slug: /the-limitations-make-games-fun/
 categories:
 - Commonplace
 tags:

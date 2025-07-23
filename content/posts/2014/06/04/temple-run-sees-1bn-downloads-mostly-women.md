@@ -4,7 +4,7 @@ date: 2014-06-04 13:20:15+00:00
 draft: false
 title: '''Temple Run'' sees 1bn downloads, mostly women'
 type: post
-url: /temple-run-sees-1bn-downloads-mostly-women/
+slug: /temple-run-sees-1bn-downloads-mostly-women/
 categories:
 - Business
 - Gender

@@ -1,7 +1,7 @@
 ---
 title: "Polygone"
 date: 2025-05-01T09:45:00-08:00
-url: /polygone/
+slug: /polygone/
 categories:
   - Media
 tags:

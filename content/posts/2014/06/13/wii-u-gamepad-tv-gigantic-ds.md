@@ -4,7 +4,7 @@ date: 2014-06-13 18:10:50+00:00
 draft: false
 title: Gigantic DS
 type: post
-url: /wii-u-gamepad-tv-gigantic-ds/
+slug: /wii-u-gamepad-tv-gigantic-ds/
 categories:
 - General
 tags:

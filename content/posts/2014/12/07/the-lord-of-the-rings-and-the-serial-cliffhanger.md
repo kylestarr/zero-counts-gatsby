@@ -4,7 +4,7 @@ date: 2014-12-07 18:03:57+00:00
 draft: false
 title: The Lord of the Rings and the Serial Cliffhanger
 type: post
-url: /the-lord-of-the-rings-and-the-serial-cliffhanger/
+slug: /the-lord-of-the-rings-and-the-serial-cliffhanger/
 categories:
 - Culture
 - General

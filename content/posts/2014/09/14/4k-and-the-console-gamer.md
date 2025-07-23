@@ -4,7 +4,7 @@ date: 2014-09-14 16:55:24+00:00
 draft: false
 title: 4K and the Console Gamer
 type: post
-url: /4k-and-the-console-gamer/
+slug: /4k-and-the-console-gamer/
 categories:
 - Technology
 tags:

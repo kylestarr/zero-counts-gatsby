@@ -4,7 +4,7 @@ date: 2015-11-27 16:42:42+00:00
 draft: false
 title: Wii U on Target's T-Day Top Three
 type: post
-url: /wii-u-on-targets-t-day-top-three/
+slug: /wii-u-on-targets-t-day-top-three/
 categories:
 - Business
 ---

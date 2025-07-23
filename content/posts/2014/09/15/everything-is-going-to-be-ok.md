@@ -4,7 +4,7 @@ date: 2014-09-15 16:33:07+00:00
 draft: false
 title: '''Everything is going to be OK.'
 type: post
-url: /everything-is-going-to-be-ok/
+slug: /everything-is-going-to-be-ok/
 categories:
 - Business
 tags:

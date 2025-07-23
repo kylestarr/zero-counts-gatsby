@@ -4,7 +4,7 @@ date: 2013-12-15 16:23:14+00:00
 draft: false
 title: StarCraft 2 player receives the sport's first US athlete visa
 type: post
-url: /starcraft-2-player-receives-the-sports-first-us-athlete-visa/
+slug: /starcraft-2-player-receives-the-sports-first-us-athlete-visa/
 categories:
 - eSports
 - Politics

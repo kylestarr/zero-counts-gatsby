@@ -4,7 +4,7 @@ date: 2017-01-22 06:53:13+00:00
 draft: false
 title: '''A Disney character in every home in America'''
 type: post
-url: /a-disney-character-in-every-home-in-america/
+slug: /a-disney-character-in-every-home-in-america/
 categories:
 - Gender
 tags:

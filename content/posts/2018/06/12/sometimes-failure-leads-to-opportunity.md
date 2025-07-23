@@ -4,7 +4,7 @@ date: 2018-06-12 05:02:48+00:00
 draft: false
 title: Sometimes Failure Leads to Opportunity
 type: post
-url: /sometimes-failure-leads-to-opportunity/
+slug: /sometimes-failure-leads-to-opportunity/
 categories:
 - Business
 postFormat:

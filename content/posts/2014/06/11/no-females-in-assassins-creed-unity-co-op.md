@@ -4,7 +4,7 @@ date: 2014-06-11 02:42:03+00:00
 draft: false
 title: No females in Assassin's Creed Unity co-op
 type: post
-url: /no-females-in-assassins-creed-unity-co-op/
+slug: /no-females-in-assassins-creed-unity-co-op/
 categories:
 - Gender
 tags:

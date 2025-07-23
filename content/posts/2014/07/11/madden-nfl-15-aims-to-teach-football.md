@@ -4,7 +4,7 @@ date: 2014-07-11 13:43:05+00:00
 draft: false
 title: Madden NFL 15 Aims to Teach Football
 type: post
-url: /madden-nfl-15-aims-to-teach-football/
+slug: /madden-nfl-15-aims-to-teach-football/
 categories:
 - Design
 - Education

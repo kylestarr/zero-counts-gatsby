@@ -1,7 +1,7 @@
 ---
 title: "Miyamoto: 'The border of video game is becoming less and less set in stone'"
 date: 2024-01-04T07:00:00-08:00
-url: /miyamoto-the-border-of-video-game/
+slug: /miyamoto-the-border-of-video-game/
 categories:
   - Design
 tags:

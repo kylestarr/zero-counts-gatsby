@@ -4,7 +4,7 @@ date: 2014-10-28 03:30:17+00:00
 draft: false
 title: Clash of Clans Nearly Crushed Kansas City
 type: post
-url: /clash-of-clans-nearly-crushed-kansas-city/
+slug: /clash-of-clans-nearly-crushed-kansas-city/
 categories:
 - Design
 tags:

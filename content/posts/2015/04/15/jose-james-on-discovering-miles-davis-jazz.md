@@ -4,7 +4,7 @@ date: 2015-04-15 05:39:46+00:00
 draft: false
 title: José James on Discovering Miles Davis, Jazz
 type: post
-url: /jose-james-on-discovering-miles-davis-jazz/
+slug: /jose-james-on-discovering-miles-davis-jazz/
 categories:
 - Music
 tags:

@@ -4,7 +4,7 @@ date: 2014-08-14 06:23:04+00:00
 draft: false
 title: 'Goal: 15 Percent Turnover Every Year'
 type: post
-url: /goal-15-percent-turnover-every-year/
+slug: /goal-15-percent-turnover-every-year/
 categories:
 - Work
 ---

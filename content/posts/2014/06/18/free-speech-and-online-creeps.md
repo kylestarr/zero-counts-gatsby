@@ -4,7 +4,7 @@ date: 2014-06-18 13:38:05+00:00
 draft: false
 title: Free speech and online creeps
 type: post
-url: /free-speech-and-online-creeps/
+slug: /free-speech-and-online-creeps/
 categories:
 - General
 tags:

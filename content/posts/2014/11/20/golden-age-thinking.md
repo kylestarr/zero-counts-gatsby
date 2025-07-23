@@ -4,7 +4,7 @@ date: 2014-11-20 05:00:11+00:00
 draft: false
 title: Golden Age Thinking
 type: post
-url: /golden-age-thinking/
+slug: /golden-age-thinking/
 categories:
 - Culture
 - Technology

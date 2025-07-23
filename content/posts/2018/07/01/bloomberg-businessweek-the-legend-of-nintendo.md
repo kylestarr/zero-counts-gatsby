@@ -4,7 +4,7 @@ date: 2018-07-01 11:18:13+00:00
 draft: false
 title: 'Bloomberg Businessweek: The Legend of Nintendo'
 type: post
-url: /bloomberg-businessweek-the-legend-of-nintendo/
+slug: /bloomberg-businessweek-the-legend-of-nintendo/
 categories:
 - Business
 - General

@@ -4,7 +4,7 @@ date: 2014-05-29 16:25:31+00:00
 draft: false
 title: Harmonix lays off 37
 type: post
-url: /harmonix-lays-off-37/
+slug: /harmonix-lays-off-37/
 categories:
 - Business
 tags:

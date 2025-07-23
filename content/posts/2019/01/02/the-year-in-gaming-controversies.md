@@ -4,7 +4,7 @@ date: 2019-01-02 16:02:34+00:00
 draft: false
 title: The year in gaming controversies
 type: post
-url: /the-year-in-gaming-controversies/
+slug: /the-year-in-gaming-controversies/
 categories:
 - Business
 postFormat:

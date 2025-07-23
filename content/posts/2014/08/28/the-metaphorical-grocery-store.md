@@ -4,7 +4,7 @@ date: 2014-08-28 22:57:36+00:00
 draft: false
 title: The Metaphorical Grocery Store
 type: post
-url: /the-metaphorical-grocery-store/
+slug: /the-metaphorical-grocery-store/
 categories:
 - Gender
 - Media

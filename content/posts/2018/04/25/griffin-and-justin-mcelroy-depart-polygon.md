@@ -4,7 +4,7 @@ date: 2018-04-25 02:30:19+00:00
 draft: false
 title: Griffin and Justin McElroy Depart Polygon
 type: post
-url: /griffin-and-justin-mcelroy-depart-polygon/
+slug: /griffin-and-justin-mcelroy-depart-polygon/
 categories:
 - Media
 tags:

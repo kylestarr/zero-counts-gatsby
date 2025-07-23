@@ -4,7 +4,7 @@ date: 2015-01-10 07:33:07+00:00
 draft: false
 title: Online-Only Consoles
 type: post
-url: /online-only-consoles/
+slug: /online-only-consoles/
 categories:
 - Design
 - Technology

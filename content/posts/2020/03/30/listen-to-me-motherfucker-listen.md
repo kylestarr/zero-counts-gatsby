@@ -4,7 +4,7 @@ date: 2020-03-30 22:40:54+00:00
 draft: false
 title: '''Listen to me, motherfucker, listen'''
 type: post
-url: /listen-to-me-motherfucker-listen/
+slug: /listen-to-me-motherfucker-listen/
 categories:
 - Health
 postFormat:

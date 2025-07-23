@@ -4,7 +4,7 @@ date: 2014-06-03 12:48:03+00:00
 draft: false
 title: 'The Guardian: ''Tetris: how we made the addictive computer game'''
 type: post
-url: /the-guardian-tetris-how-we-made-the-addictive-computer-game/
+slug: /the-guardian-tetris-how-we-made-the-addictive-computer-game/
 categories:
 - History
 tags:

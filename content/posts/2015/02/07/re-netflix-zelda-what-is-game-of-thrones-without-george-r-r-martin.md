@@ -4,7 +4,7 @@ date: 2015-02-07 00:02:35+00:00
 draft: false
 title: 'Re Netflix-Zelda: What is Game of Thrones without George R. R. Martin?'
 type: post
-url: /re-netflix-zelda-what-is-game-of-thrones-without-george-r-r-martin/
+slug: /re-netflix-zelda-what-is-game-of-thrones-without-george-r-r-martin/
 categories:
 - Business
 - Media

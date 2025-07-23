@@ -4,7 +4,7 @@ date: 2013-09-25 16:43:32+00:00
 draft: false
 title: 'Study: Video games causing spike in music composer employment'
 type: post
-url: /study-video-games-causing-spike-in-music-composer-employment/
+slug: /study-video-games-causing-spike-in-music-composer-employment/
 categories:
 - Business
 - Music

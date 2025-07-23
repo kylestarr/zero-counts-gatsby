@@ -4,7 +4,7 @@ date: 2014-05-27 14:29:39+00:00
 draft: false
 title: The topic of misogyny
 type: post
-url: /the-topic-of-misogyny/
+slug: /the-topic-of-misogyny/
 categories:
 - Culture
 - Gender

@@ -4,7 +4,7 @@ date: 2016-02-05 21:19:37+00:00
 draft: false
 title: Gaming likely to be big part of Obama's $4B computer science initiative
 type: post
-url: /gaming-likely-to-be-big-part-of-obamas-4b-computer-science-initiative/
+slug: /gaming-likely-to-be-big-part-of-obamas-4b-computer-science-initiative/
 categories:
 - Education
 tags:

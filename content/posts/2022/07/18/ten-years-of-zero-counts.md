@@ -1,7 +1,7 @@
 ---
 title: "Ten Years of Zero Counts"
 date: 2022-07-18 15:45:00-08:00
-url: /ten-years-of-zero-counts/
+slug: /ten-years-of-zero-counts/
 categories:
   - General
 tags:

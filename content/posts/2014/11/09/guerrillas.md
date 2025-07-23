@@ -4,7 +4,7 @@ date: 2014-11-09 20:52:04+00:00
 draft: false
 title: Guerrillas
 type: post
-url: /guerrillas/
+slug: /guerrillas/
 categories:
 - Design
 - Military

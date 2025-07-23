@@ -4,7 +4,7 @@ date: 2014-11-01 23:30:36+00:00
 draft: false
 title: K&K
 type: post
-url: /kk/
+slug: /kk/
 categories:
 - General
 ---

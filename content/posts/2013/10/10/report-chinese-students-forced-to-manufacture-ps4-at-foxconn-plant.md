@@ -4,7 +4,7 @@ date: 2013-10-10 16:30:15+00:00
 draft: false
 title: 'Report: Chinese students forced to manufacture PS4 at Foxconn plant'
 type: post
-url: /report-chinese-students-forced-to-manufacture-ps4-at-foxconn-plant/
+slug: /report-chinese-students-forced-to-manufacture-ps4-at-foxconn-plant/
 categories:
 - Business
 tags:

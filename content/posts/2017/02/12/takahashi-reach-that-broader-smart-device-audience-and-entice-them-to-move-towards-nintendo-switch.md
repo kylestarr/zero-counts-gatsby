@@ -5,7 +5,7 @@ draft: false
 title: 'Takahashi: ''reach that broader smart device audience and entice them to move
   towards Nintendo Switch'''
 type: post
-url: /takahashi-reach-that-broader-smart-device-audience-and-entice-them-to-move-towards-nintendo-switch/
+slug: /takahashi-reach-that-broader-smart-device-audience-and-entice-them-to-move-towards-nintendo-switch/
 categories:
 - Business
 tags:

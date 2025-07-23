@@ -4,7 +4,7 @@ date: 2014-05-20 21:55:02+00:00
 draft: false
 title: Ben Kuchera on sex in Wolfenstein
 type: post
-url: /wolfenstein-is-the-rare-game-that-shows-sex-as-both-fun-and-healing/
+slug: /wolfenstein-is-the-rare-game-that-shows-sex-as-both-fun-and-healing/
 categories:
 - Sexuality
 tags:

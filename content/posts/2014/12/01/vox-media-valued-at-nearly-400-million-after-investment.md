@@ -4,7 +4,7 @@ date: 2014-12-01 05:15:01+00:00
 draft: false
 title: '''Vox Media Valued at Nearly $400 Million After Investment'''
 type: post
-url: /vox-media-valued-at-nearly-400-million-after-investment/
+slug: /vox-media-valued-at-nearly-400-million-after-investment/
 categories:
 - Media
 tags:

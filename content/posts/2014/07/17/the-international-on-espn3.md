@@ -4,7 +4,7 @@ date: 2014-07-17 20:40:21+00:00
 draft: false
 title: The International on ESPN3
 type: post
-url: /the-international-on-espn3/
+slug: /the-international-on-espn3/
 categories:
 - eSports
 tags:

@@ -4,7 +4,7 @@ date: 2014-12-10 17:24:07+00:00
 draft: false
 title: Chronological Console Crash Course
 type: post
-url: /chronological-console-crash-course/
+slug: /chronological-console-crash-course/
 categories:
 - Health
 - History

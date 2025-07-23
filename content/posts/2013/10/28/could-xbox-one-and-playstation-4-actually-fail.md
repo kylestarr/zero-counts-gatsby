@@ -4,7 +4,7 @@ date: 2013-10-28 20:58:51+00:00
 draft: false
 title: Could Xbox One and PlayStation 4 actually fail?
 type: post
-url: /could-xbox-one-and-playstation-4-actually-fail/
+slug: /could-xbox-one-and-playstation-4-actually-fail/
 categories:
 - Business
 tags:

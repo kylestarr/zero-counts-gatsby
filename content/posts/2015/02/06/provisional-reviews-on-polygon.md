@@ -4,7 +4,7 @@ date: 2015-02-06 23:03:14+00:00
 draft: false
 title: Provisional Reviews on Polygon
 type: post
-url: /provisional-reviews-on-polygon/
+slug: /provisional-reviews-on-polygon/
 categories:
 - Design
 - Media

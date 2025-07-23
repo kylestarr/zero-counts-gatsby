@@ -4,7 +4,7 @@ date: 2014-05-20 22:23:05+00:00
 draft: false
 title: Layoffs hit Rare
 type: post
-url: /layoffs-hit-rare/
+slug: /layoffs-hit-rare/
 categories:
 - Business
 tags:

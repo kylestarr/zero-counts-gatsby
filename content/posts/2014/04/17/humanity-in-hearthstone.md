@@ -4,7 +4,7 @@ date: 2014-04-17 15:46:54+00:00
 draft: false
 title: Humanity in Hearthstone
 type: post
-url: /humanity-in-hearthstone/
+slug: /humanity-in-hearthstone/
 categories:
 - Gender
 postFormat:

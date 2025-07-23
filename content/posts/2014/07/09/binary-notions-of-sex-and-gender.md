@@ -4,7 +4,7 @@ date: 2014-07-09 22:36:51+00:00
 draft: false
 title: Binary Notions of Sex and Gender
 type: post
-url: /binary-notions-of-sex-and-gender/
+slug: /binary-notions-of-sex-and-gender/
 categories:
 - Gender
 - Sexuality

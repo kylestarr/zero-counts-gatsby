@@ -4,7 +4,7 @@ date: 2014-06-16 10:18:07+00:00
 draft: false
 title: Fanboy Wars
 type: post
-url: /fanboy-wars/
+slug: /fanboy-wars/
 categories:
 - Business
 - Culture

@@ -4,7 +4,7 @@ date: 2018-05-09 02:16:18+00:00
 draft: false
 title: Adjustable Charging Stand for Nintendo Switch
 type: post
-url: /adjustable-charging-stand-for-nintendo-switch/
+slug: /adjustable-charging-stand-for-nintendo-switch/
 categories:
 - Design
 postFormat:

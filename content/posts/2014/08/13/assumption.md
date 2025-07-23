@@ -4,7 +4,7 @@ date: 2014-08-13 17:49:56+00:00
 draft: false
 title: Assumption
 type: post
-url: /assumption/
+slug: /assumption/
 categories:
 - Gender
 tags:

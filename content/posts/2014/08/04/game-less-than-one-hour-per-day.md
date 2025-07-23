@@ -4,7 +4,7 @@ date: 2014-08-04 21:22:38+00:00
 draft: false
 title: Game Less Than One Hour Per Day
 type: post
-url: /game-less-than-one-hour-per-day/
+slug: /game-less-than-one-hour-per-day/
 categories:
 - Children
 - Health

@@ -4,7 +4,7 @@ date: 2020-03-29 22:41:52+00:00
 draft: false
 title: The Comfort of Childhood Media During Lockdown
 type: post
-url: /the-comfort-of-childhood-media-during-lockdown/
+slug: /the-comfort-of-childhood-media-during-lockdown/
 categories:
 - Culture
 postFormat:

@@ -4,7 +4,7 @@ date: 2014-06-18 23:33:26+00:00
 draft: false
 title: Dual GamePad play
 type: post
-url: /dual-gamepad-play/
+slug: /dual-gamepad-play/
 categories:
 - General
 tags:

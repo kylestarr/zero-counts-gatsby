@@ -4,7 +4,7 @@ date: 2017-01-29 16:39:44+00:00
 draft: false
 title: Just (Quietly) Dance
 type: post
-url: /just-quietly-dance/
+slug: /just-quietly-dance/
 categories:
 - General
 tags:

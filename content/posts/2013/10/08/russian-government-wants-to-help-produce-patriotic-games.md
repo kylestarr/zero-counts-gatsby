@@ -4,7 +4,7 @@ date: 2013-10-08 23:07:04+00:00
 draft: false
 title: Russian government wants to help produce patriotic games
 type: post
-url: /russian-government-wants-to-help-produce-patriotic-games/
+slug: /russian-government-wants-to-help-produce-patriotic-games/
 categories:
 - Society
 tags:

@@ -4,7 +4,7 @@ date: 2014-05-21 16:02:03+00:00
 draft: false
 title: Jordan Shapiro on the current reading habits of children
 type: post
-url: /jordan-shapiro-on-the-current-reading-habits-of-children/
+slug: /jordan-shapiro-on-the-current-reading-habits-of-children/
 categories:
 - Culture
 - Education

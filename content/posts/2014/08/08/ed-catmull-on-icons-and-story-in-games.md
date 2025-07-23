@@ -4,7 +4,7 @@ date: 2014-08-08 00:45:25+00:00
 draft: false
 title: Ed Catmull on Icons and Story in Games
 type: post
-url: /ed-catmull-on-icons-and-story-in-games/
+slug: /ed-catmull-on-icons-and-story-in-games/
 categories:
 - Art
 - Culture

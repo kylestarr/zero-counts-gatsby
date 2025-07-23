@@ -4,7 +4,7 @@ date: 2014-06-13 04:12:48+00:00
 draft: false
 title: The problem with humanoids
 type: post
-url: /the-problem-with-humanoids/
+slug: /the-problem-with-humanoids/
 categories:
 - Gender
 - General

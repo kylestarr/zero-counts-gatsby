@@ -4,7 +4,7 @@ date: 2014-06-08 19:34:50+00:00
 draft: false
 title: The Sacred and Profane
 type: post
-url: /the-sacred-and-profane/
+slug: /the-sacred-and-profane/
 categories:
 - General
 tags:

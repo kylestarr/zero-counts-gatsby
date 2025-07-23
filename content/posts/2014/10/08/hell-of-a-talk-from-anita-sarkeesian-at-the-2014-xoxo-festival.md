@@ -4,7 +4,7 @@ date: 2014-10-08 19:40:11+00:00
 draft: false
 title: One Hell of a Talk from Anita Sarkeesian at the 2014 XOXO Festival
 type: post
-url: /hell-of-a-talk-from-anita-sarkeesian-at-the-2014-xoxo-festival/
+slug: /hell-of-a-talk-from-anita-sarkeesian-at-the-2014-xoxo-festival/
 categories:
 - Culture
 - Gender

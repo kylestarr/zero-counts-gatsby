@@ -4,7 +4,7 @@ date: 2017-02-03 15:09:56+00:00
 draft: false
 title: '''Is there an exodus from indie back to AAA?'''
 type: post
-url: /is-there-an-exodus-from-indie-back-to-aaa/
+slug: /is-there-an-exodus-from-indie-back-to-aaa/
 categories:
 - Work
 tags:

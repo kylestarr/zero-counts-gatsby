@@ -4,7 +4,7 @@ date: 2014-06-17 13:16:19+00:00
 draft: false
 title: Compliance for positive females, negative males
 type: post
-url: /compliance-for-positive-females-negative-males/
+slug: /compliance-for-positive-females-negative-males/
 categories:
 - Gender
 tags:

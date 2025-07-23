@@ -4,7 +4,7 @@ date: 2014-06-26 19:31:31+00:00
 draft: false
 title: Level 1-1
 type: post
-url: /level-1-1/
+slug: /level-1-1/
 categories:
 - Design
 tags:

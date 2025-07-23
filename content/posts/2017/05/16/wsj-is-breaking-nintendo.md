@@ -4,7 +4,7 @@ date: 2017-05-16 02:24:50+00:00
 draft: false
 title: WSJ is Breaking Nintendo
 type: post
-url: /wsj-is-breaking-nintendo/
+slug: /wsj-is-breaking-nintendo/
 categories:
 - Business
 - Media

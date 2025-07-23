@@ -4,7 +4,7 @@ date: 2017-02-11 01:02:47+00:00
 draft: false
 title: '''On the internet, no one still knows you''re a dog'''
 type: post
-url: /on-the-internet-no-one-still-knows-youre-a-dog/
+slug: /on-the-internet-no-one-still-knows-youre-a-dog/
 categories:
 - Media
 - Society

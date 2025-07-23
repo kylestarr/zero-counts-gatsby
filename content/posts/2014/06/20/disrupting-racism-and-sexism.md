@@ -4,7 +4,7 @@ date: 2014-06-20 13:32:28+00:00
 draft: false
 title: Disrupting racism and sexism
 type: post
-url: /disrupting-racism-and-sexism/
+slug: /disrupting-racism-and-sexism/
 categories:
 - Gender
 - Race

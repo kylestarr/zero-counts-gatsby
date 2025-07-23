@@ -4,7 +4,7 @@ date: 2018-11-12 05:28:21+00:00
 draft: false
 title: Hot Wheels don’t teach auto mechanics
 type: post
-url: /hot-wheels-dont-teach-auto-mechanics/
+slug: /hot-wheels-dont-teach-auto-mechanics/
 categories:
 - Commonplace
 tags:

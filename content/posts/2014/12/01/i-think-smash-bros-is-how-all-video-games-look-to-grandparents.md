@@ -4,7 +4,7 @@ date: 2014-12-01 06:06:10+00:00
 draft: false
 title: 'I think Smash Bros. is how all video games look to grandparents.'
 type: post
-url: /i-think-smash-bros-is-how-all-video-games-look-to-grandparents/
+slug: /i-think-smash-bros-is-how-all-video-games-look-to-grandparents/
 categories:
 - Design
 - General

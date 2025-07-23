@@ -4,7 +4,7 @@ date: 2015-12-19 02:13:36+00:00
 draft: false
 title: 'Star Wars: The Force Awakens'
 type: post
-url: /star-wars-the-force-awakens-review/
+slug: /star-wars-the-force-awakens-review/
 categories:
 - Review
 tags:

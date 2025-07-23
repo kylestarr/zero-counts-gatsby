@@ -4,7 +4,7 @@ date: 2014-10-17 03:31:23+00:00
 draft: false
 title: '''My opinion is I hate it.'''
 type: post
-url: /my-opinion-is-i-hate-it/
+slug: /my-opinion-is-i-hate-it/
 categories:
 - General
 tags:

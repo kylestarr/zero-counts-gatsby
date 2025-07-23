@@ -4,7 +4,7 @@ date: 2017-07-12 04:51:28+00:00
 draft: false
 title: Brian Crecente says Goodbye to Polygon
 type: post
-url: /brian-crecente-says-goodbye-to-polygon/
+slug: /brian-crecente-says-goodbye-to-polygon/
 categories:
 - Media
 tags:

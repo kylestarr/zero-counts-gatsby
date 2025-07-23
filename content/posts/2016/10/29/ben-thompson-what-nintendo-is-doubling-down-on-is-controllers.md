@@ -4,7 +4,7 @@ date: 2016-10-29 04:51:02+00:00
 draft: false
 title: 'Ben Thompson: "What Nintendo is doubling down on is controllers"'
 type: post
-url: /ben-thompson-what-nintendo-is-doubling-down-on-is-controllers/
+slug: /ben-thompson-what-nintendo-is-doubling-down-on-is-controllers/
 categories:
 - Design
 tags:

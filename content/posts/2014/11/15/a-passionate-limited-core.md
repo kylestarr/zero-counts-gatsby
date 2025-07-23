@@ -4,7 +4,7 @@ date: 2014-11-15 17:47:37+00:00
 draft: false
 title: '''A Passionate, Limited Core'''
 type: post
-url: /a-passionate-limited-core/
+slug: /a-passionate-limited-core/
 categories:
 - Culture
 - Media

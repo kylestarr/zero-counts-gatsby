@@ -4,7 +4,7 @@ date: 2015-04-28 18:22:43+00:00
 draft: false
 title: All Killer, No Filler
 type: post
-url: /all-killer-no-filler/
+slug: /all-killer-no-filler/
 categories:
 - Design
 tags:

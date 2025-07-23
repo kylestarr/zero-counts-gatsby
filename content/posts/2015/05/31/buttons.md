@@ -4,7 +4,7 @@ date: 2015-05-31 04:13:12+00:00
 draft: false
 title: Buttons
 type: post
-url: /buttons/
+slug: /buttons/
 categories:
 - Business
 - Design

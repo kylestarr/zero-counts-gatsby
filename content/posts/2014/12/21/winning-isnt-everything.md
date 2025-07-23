@@ -4,7 +4,7 @@ date: 2014-12-21 16:47:26+00:00
 draft: false
 title: Winning Isn’t Everything
 type: post
-url: /winning-isnt-everything/
+slug: /winning-isnt-everything/
 categories:
 - Culture
 - History

@@ -4,7 +4,7 @@ date: 2018-01-23 05:06:38+00:00
 draft: false
 title: Nintendo Switch Is the Fastest-Selling Console in U.S. History
 type: post
-url: /nintendo-switch-is-the-fastest-selling-console-in-u-s-history/
+slug: /nintendo-switch-is-the-fastest-selling-console-in-u-s-history/
 categories:
 - Business
 tags:

@@ -4,7 +4,7 @@ date: 2017-02-07 15:00:00+00:00
 draft: false
 title: Nintendo 3DS and NES Classic Still Out of Stock
 type: post
-url: /nintendo-3ds-and-nes-classic-still-out-of-stock/
+slug: /nintendo-3ds-and-nes-classic-still-out-of-stock/
 categories:
 - Business
 tags:

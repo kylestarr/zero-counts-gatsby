@@ -4,7 +4,7 @@ date: 2013-10-25 19:43:01+00:00
 draft: false
 title: How a video game could help children with food allergies
 type: post
-url: /how-a-video-game-could-help-children-with-food-allergies/
+slug: /how-a-video-game-could-help-children-with-food-allergies/
 categories:
 - Education
 - Health

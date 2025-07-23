@@ -1,7 +1,7 @@
 ---
 title: "’An implosion supervised by idiots who have been grifted by other idiots who have been grifted by actual grifters’"
 date: 2025-05-03T08:30:00-08:00
-url: /an-implosion-supervised-by-idiots-who-have-been-grifted-by-other-idiots-who-have-been-grifted-by-actual-grifters/
+slug: /an-implosion-supervised-by-idiots-who-have-been-grifted-by-other-idiots-who-have-been-grifted-by-actual-grifters/
 categories:
   - Media
 tags:

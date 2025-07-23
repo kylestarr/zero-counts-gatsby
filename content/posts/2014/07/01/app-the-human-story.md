@@ -4,7 +4,7 @@ date: 2014-07-01 19:08:42+00:00
 draft: false
 title: 'App: The Human Story'
 type: post
-url: /app-the-human-story/
+slug: /app-the-human-story/
 categories:
 - Children
 - Design

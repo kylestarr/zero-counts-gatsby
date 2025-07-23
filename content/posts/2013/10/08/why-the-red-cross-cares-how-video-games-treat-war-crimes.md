@@ -4,7 +4,7 @@ date: 2013-10-08 20:14:04+00:00
 draft: false
 title: Why the Red Cross cares how video games treat war crimes
 type: post
-url: /why-the-red-cross-cares-how-video-games-treat-war-crimes/
+slug: /why-the-red-cross-cares-how-video-games-treat-war-crimes/
 categories:
 - Society
 tags:

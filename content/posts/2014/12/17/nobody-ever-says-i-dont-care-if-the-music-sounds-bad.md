@@ -4,7 +4,7 @@ date: 2014-12-17 23:35:21+00:00
 draft: false
 title: '''Nobody ever says "I don''t care if the music sounds bad."'''
 type: post
-url: /nobody-ever-says-i-dont-care-if-the-music-sounds-bad/
+slug: /nobody-ever-says-i-dont-care-if-the-music-sounds-bad/
 categories:
 - Design
 tags:

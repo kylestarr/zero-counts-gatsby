@@ -4,7 +4,7 @@ date: 2014-12-03 01:45:36+00:00
 draft: false
 title: Water Coolers, Spoilers, and Serial
 type: post
-url: /water-coolers-spoilers-and-serial/
+slug: /water-coolers-spoilers-and-serial/
 categories:
 - Culture
 - General

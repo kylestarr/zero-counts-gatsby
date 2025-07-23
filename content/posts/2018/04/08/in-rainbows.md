@@ -4,7 +4,7 @@ date: 2018-04-08 21:00:20+00:00
 draft: false
 title: In Rainbows
 type: post
-url: /in-rainbows/
+slug: /in-rainbows/
 categories:
 - Design
 tags:

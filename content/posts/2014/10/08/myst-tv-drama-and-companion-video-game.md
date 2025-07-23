@@ -4,7 +4,7 @@ date: 2014-10-08 13:55:45+00:00
 draft: false
 title: Myst TV Drama and Companion Video Game
 type: post
-url: /myst-tv-drama-and-companion-video-game/
+slug: /myst-tv-drama-and-companion-video-game/
 categories:
 - General
 tags:

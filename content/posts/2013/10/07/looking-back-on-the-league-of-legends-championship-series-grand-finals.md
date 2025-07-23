@@ -4,7 +4,7 @@ date: 2013-10-07 19:39:14+00:00
 draft: false
 title: Looking Back on the League of Legends Championship Series Grand Finals
 type: post
-url: /looking-back-on-the-league-of-legends-championship-series-grand-finals/
+slug: /looking-back-on-the-league-of-legends-championship-series-grand-finals/
 categories:
 - eSports
 tags:

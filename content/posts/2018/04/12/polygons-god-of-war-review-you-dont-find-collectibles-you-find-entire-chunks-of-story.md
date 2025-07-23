@@ -5,7 +5,7 @@ draft: false
 title: 'Polygon''s God of War Review: ''You don’t find collectibles; you find entire
   chunks of story'''
 type: post
-url: /polygons-god-of-war-review-you-dont-find-collectibles-you-find-entire-chunks-of-story/
+slug: /polygons-god-of-war-review-you-dont-find-collectibles-you-find-entire-chunks-of-story/
 categories:
 - General
 tags:

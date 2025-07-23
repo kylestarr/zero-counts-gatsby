@@ -4,7 +4,7 @@ date: 2015-01-27 07:33:00+00:00
 draft: false
 title: Home Economics 2.0
 type: post
-url: /home-economics-2-0/
+slug: /home-economics-2-0/
 categories:
 - Education
 - Technology

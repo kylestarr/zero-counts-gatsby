@@ -4,7 +4,7 @@ date: 2018-06-21 12:07:31+00:00
 draft: false
 title: Nintendo Tops E3 Tweets
 type: post
-url: /nintendo-tops-e3-tweets/
+slug: /nintendo-tops-e3-tweets/
 categories:
 - Business
 tags:

@@ -4,7 +4,7 @@ date: 2014-10-13 13:49:55+00:00
 draft: false
 title: Three Monkeys
 type: post
-url: /three-monkeys/
+slug: /three-monkeys/
 categories:
 - Accessibility
 - Design

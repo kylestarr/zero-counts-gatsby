@@ -4,7 +4,7 @@ date: 2014-06-25 15:58:14+00:00
 draft: false
 title: '''Yes, vinyl prices are going up. No, I don’t feel bad.'''
 type: post
-url: /yes-vinyl-prices-are-going-up-no-i-dont-feel-bad/
+slug: /yes-vinyl-prices-are-going-up-no-i-dont-feel-bad/
 categories:
 - Business
 tags:

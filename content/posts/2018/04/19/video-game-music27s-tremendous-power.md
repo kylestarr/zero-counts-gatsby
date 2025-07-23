@@ -4,7 +4,7 @@ date: 2018-04-19 03:04:04+00:00
 draft: false
 title: Video Game Music’s Tremendous Power
 type: post
-url: /video-game-music%27s-tremendous-power/
+slug: /video-game-music%27s-tremendous-power/
 categories:
 - Music
 tags:

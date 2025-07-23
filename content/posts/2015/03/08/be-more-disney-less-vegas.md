@@ -4,7 +4,7 @@ date: 2015-03-08 05:17:30+00:00
 draft: false
 title: Be more Disney, less Vegas
 type: post
-url: /be-more-disney-less-vegas/
+slug: /be-more-disney-less-vegas/
 categories:
 - Business
 - Design

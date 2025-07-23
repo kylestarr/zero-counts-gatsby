@@ -4,7 +4,7 @@ date: 2014-07-24 15:55:13+00:00
 draft: false
 title: FFXIV Pixel Pride 2014
 type: post
-url: /ffxiv-pixel-pride-2014/
+slug: /ffxiv-pixel-pride-2014/
 categories:
 - Sexuality
 tags:

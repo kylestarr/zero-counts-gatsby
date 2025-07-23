@@ -4,7 +4,7 @@ date: 2013-11-21 15:51:09+00:00
 draft: false
 title: GameStop global sales hit $2.11 billion, store sales rise 20.5 percent
 type: post
-url: /gamestop-global-sales-hit-2-11-billion-store-sales-rise-20-5-percent/
+slug: /gamestop-global-sales-hit-2-11-billion-store-sales-rise-20-5-percent/
 categories:
 - Business
 tags:

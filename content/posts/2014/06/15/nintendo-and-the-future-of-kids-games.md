@@ -4,7 +4,7 @@ date: 2014-06-15 21:45:36+00:00
 draft: false
 title: Nintendo And The Future Of Kids' Games
 type: post
-url: /nintendo-and-the-future-of-kids-games/
+slug: /nintendo-and-the-future-of-kids-games/
 categories:
 - General
 tags:

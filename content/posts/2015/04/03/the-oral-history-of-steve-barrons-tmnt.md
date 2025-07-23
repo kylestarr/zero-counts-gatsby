@@ -4,7 +4,7 @@ date: 2015-04-03 16:27:38+00:00
 draft: false
 title: The Oral History of Steve Barron's TMNT
 type: post
-url: /the-oral-history-of-steve-barrons-tmnt/
+slug: /the-oral-history-of-steve-barrons-tmnt/
 categories:
 - General
 tags:

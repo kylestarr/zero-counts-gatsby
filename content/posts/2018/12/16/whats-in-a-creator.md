@@ -4,7 +4,7 @@ date: 2018-12-16 21:46:57+00:00
 draft: false
 title: What’s in a Creator?
 type: post
-url: /whats-in-a-creator/
+slug: /whats-in-a-creator/
 categories:
 - Media
 tags:

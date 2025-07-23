@@ -4,7 +4,7 @@ date: 2018-12-30 15:42:03+00:00
 draft: false
 title: 2018 Reads
 type: post
-url: /2018-reads/
+slug: /2018-reads/
 categories:
 - General
 tags:

@@ -4,7 +4,7 @@ date: 2014-11-12 17:40:18+00:00
 draft: false
 title: Embargoes and Appetites, Simplified
 type: post
-url: /embargoes-and-appetites-simplified/
+slug: /embargoes-and-appetites-simplified/
 categories:
 - Design
 - Media

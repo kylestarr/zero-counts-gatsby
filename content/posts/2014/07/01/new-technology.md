@@ -4,7 +4,7 @@ date: 2014-07-01 04:27:34+00:00
 draft: false
 title: New technology
 type: post
-url: /new-technology/
+slug: /new-technology/
 categories:
 - History
 postFormat:

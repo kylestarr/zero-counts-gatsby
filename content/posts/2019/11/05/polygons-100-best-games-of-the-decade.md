@@ -4,7 +4,7 @@ date: 2019-11-05 15:24:01+00:00
 draft: false
 title: Polygon’s 100 Best Games of the Decade
 type: post
-url: /polygons-100-best-games-of-the-decade/
+slug: /polygons-100-best-games-of-the-decade/
 categories:
 - Culture
 - Design

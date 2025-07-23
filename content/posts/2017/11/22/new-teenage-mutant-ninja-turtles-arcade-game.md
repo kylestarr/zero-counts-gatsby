@@ -4,7 +4,7 @@ date: 2017-11-22 23:07:18+00:00
 draft: false
 title: New Teenage Mutant Ninja Turtles Arcade Game
 type: post
-url: /new-teenage-mutant-ninja-turtles-arcade-game/
+slug: /new-teenage-mutant-ninja-turtles-arcade-game/
 categories:
 - General
 tags:

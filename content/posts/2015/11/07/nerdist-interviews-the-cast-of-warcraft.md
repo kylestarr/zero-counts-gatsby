@@ -4,7 +4,7 @@ date: 2015-11-07 20:07:23+00:00
 draft: false
 title: Nerdist Interviews the Cast of Warcraft
 type: post
-url: /nerdist-interviews-the-cast-of-warcraft/
+slug: /nerdist-interviews-the-cast-of-warcraft/
 categories:
 - Design
 tags:

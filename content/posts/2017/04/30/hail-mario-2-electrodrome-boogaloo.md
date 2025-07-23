@@ -4,7 +4,7 @@ date: 2017-04-30 15:26:17+00:00
 draft: false
 title: 'Hail Mario 2: Electrodrome Boogaloo'
 type: post
-url: /hail-mario-2-electrodrome-boogaloo/
+slug: /hail-mario-2-electrodrome-boogaloo/
 categories:
 - Business
 - General

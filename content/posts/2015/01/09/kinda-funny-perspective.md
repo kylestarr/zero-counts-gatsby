@@ -4,7 +4,7 @@ date: 2015-01-09 19:11:34+00:00
 draft: false
 title: Kinda Funny Perspective
 type: post
-url: /kinda-funny-perspective/
+slug: /kinda-funny-perspective/
 categories:
 - Media
 tags:

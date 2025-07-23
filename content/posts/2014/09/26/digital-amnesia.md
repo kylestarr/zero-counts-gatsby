@@ -4,7 +4,7 @@ date: 2014-09-26 19:51:35+00:00
 draft: false
 title: Digital Amnesia
 type: post
-url: /digital-amnesia/
+slug: /digital-amnesia/
 categories:
 - Culture
 - History

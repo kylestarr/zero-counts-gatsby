@@ -4,7 +4,7 @@ date: 2017-02-14 03:57:17+00:00
 draft: false
 title: Humble Freedom Bundle
 type: post
-url: /humble-freedom-bundle-do-this-do-this-now/
+slug: /humble-freedom-bundle-do-this-do-this-now/
 categories:
 - Charity
 tags:

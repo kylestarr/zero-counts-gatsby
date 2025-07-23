@@ -4,7 +4,7 @@ date: 2015-07-28 07:20:26+00:00
 draft: false
 title: Disneyland's 60th Nighttime Entertainment
 type: post
-url: /disneylands-60th-nighttime-entertainment/
+slug: /disneylands-60th-nighttime-entertainment/
 categories:
 - Design
 - General

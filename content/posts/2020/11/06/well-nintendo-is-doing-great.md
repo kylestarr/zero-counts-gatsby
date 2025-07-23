@@ -1,7 +1,7 @@
 ---
 title: "'Well, Nintendo Is Doing Great'"
 date: 2020-11-06 08:00:00
-url: /well-nintendo-is-doing-great/
+slug: /well-nintendo-is-doing-great/
 categories:
     - Business
 tags:

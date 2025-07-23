@@ -5,7 +5,7 @@ draft: false
 title: 'Polygon: ''E3 is loud, expensive, sexist and violent: It''s also the only
   place to be next week'''
 type: post
-url: /polygon-e3-is-loud-expensive-sexist-and-violent-its-also-the-only-place-to-be-next-week/
+slug: /polygon-e3-is-loud-expensive-sexist-and-violent-its-also-the-only-place-to-be-next-week/
 categories:
 - Business
 - Culture

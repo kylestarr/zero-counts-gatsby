@@ -1,7 +1,7 @@
 ---
 title: "NYT: ”Metroidvanias: The Video Games You Can Get Lost In”"
 date: 2025-02-25T22:00:00-08:00
-url: /nyt-metroidvanias-the-video-games-you-can-get-lost-in/
+slug: /nyt-metroidvanias-the-video-games-you-can-get-lost-in/
 categories:
   - Design
 tags:

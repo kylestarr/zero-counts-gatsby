@@ -4,7 +4,7 @@ date: 2015-11-06 21:56:26+00:00
 draft: false
 title: Warcraft and Toontown
 type: post
-url: /warcraft-and-toontown/
+slug: /warcraft-and-toontown/
 categories:
 - Design
 postFormat:

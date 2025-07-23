@@ -4,7 +4,7 @@ date: 2014-08-21 15:37:38+00:00
 draft: false
 title: The Gimmick Girl
 type: post
-url: /the-gimmick-girl/
+slug: /the-gimmick-girl/
 categories:
 - Gender
 tags:

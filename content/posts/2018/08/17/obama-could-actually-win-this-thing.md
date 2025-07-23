@@ -4,7 +4,7 @@ date: 2018-08-17 02:16:27+00:00
 draft: false
 title: Obama could actually win this thing
 type: post
-url: /obama-could-actually-win-this-thing/
+slug: /obama-could-actually-win-this-thing/
 categories:
 - Commonplace
 tags:

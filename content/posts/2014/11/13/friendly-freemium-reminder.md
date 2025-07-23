@@ -4,7 +4,7 @@ date: 2014-11-13 01:00:12+00:00
 draft: false
 title: Friendly Freemium Reminder
 type: post
-url: /friendly-freemium-reminder/
+slug: /friendly-freemium-reminder/
 categories:
 - Business
 tags:

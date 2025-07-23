@@ -4,7 +4,7 @@ date: 2013-09-27 15:47:35+00:00
 draft: false
 title: China creates Shanghai-based free trade zone, ending game console ban
 type: post
-url: /china-creates-shanghai-based-free-trade-zone-ending-game-console-ban/
+slug: /china-creates-shanghai-based-free-trade-zone-ending-game-console-ban/
 categories:
 - Business
 tags:

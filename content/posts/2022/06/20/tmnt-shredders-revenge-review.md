@@ -1,7 +1,7 @@
 ---
 title: "Teenage Mutant Ninja Turtles: Shredder's Revenge Review"
 date: 2022-06-20 16:30:00-08:00
-url: /tmnt-shredders-revenge-review/
+slug: /tmnt-shredders-revenge-review/
 categories:
   - Review
 tags:

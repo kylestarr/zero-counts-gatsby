@@ -4,7 +4,7 @@ date: 2013-02-06 10:00:00+00:00
 draft: false
 title: 'Editor’s Choice: EDGE Extended'
 type: post
-url: /editors-choice-edge-extended/
+slug: /editors-choice-edge-extended/
 categories:
 - Review
 tags:

@@ -4,7 +4,7 @@ date: 2014-10-22 01:22:15+00:00
 draft: false
 title: Official Elder Scrolls Books Coming March 2015
 type: post
-url: /official-elder-scrolls-books-coming-march-2015/
+slug: /official-elder-scrolls-books-coming-march-2015/
 categories:
 - General
 tags:

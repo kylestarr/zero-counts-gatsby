@@ -4,7 +4,7 @@ date: 2018-03-21 21:33:08+00:00
 draft: false
 title: Nintendo Switch breaks records for first-year US sales
 type: post
-url: /nintendo-switch-breaks-records-for-first-year-us-sales/
+slug: /nintendo-switch-breaks-records-for-first-year-us-sales/
 categories:
 - Business
 tags:

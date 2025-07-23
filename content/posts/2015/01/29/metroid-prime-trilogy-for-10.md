@@ -4,7 +4,7 @@ date: 2015-01-29 20:09:51+00:00
 draft: false
 title: Metroid Prime Trilogy for $10
 type: post
-url: /metroid-prime-trilogy-for-10/
+slug: /metroid-prime-trilogy-for-10/
 categories:
 - General
 tags:

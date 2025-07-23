@@ -4,7 +4,7 @@ date: 2014-10-05 15:46:53+00:00
 draft: false
 title: 'Sexism, Lies and Video Games: The Culture War Nobody Is Winning'
 type: post
-url: /sexism-lies-and-video-games-the-culture-war-nobody-is-winning/
+slug: /sexism-lies-and-video-games-the-culture-war-nobody-is-winning/
 categories:
 - Culture
 - Gender

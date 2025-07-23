@@ -4,7 +4,7 @@ date: 2015-01-03 19:20:47+00:00
 draft: false
 title: Xbox One's 7th Core
 type: post
-url: /xbox-ones-7th-core/
+slug: /xbox-ones-7th-core/
 categories:
 - Design
 - Technology

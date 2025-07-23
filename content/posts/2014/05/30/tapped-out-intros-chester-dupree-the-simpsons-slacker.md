@@ -4,7 +4,7 @@ date: 2014-05-30 20:24:51+00:00
 draft: false
 title: Tapped Out Intros Chester Dupree, The Simpsons Slacker
 type: post
-url: /tapped-out-intros-chester-dupree-the-simpsons-slacker/
+slug: /tapped-out-intros-chester-dupree-the-simpsons-slacker/
 categories:
 - Business
 - General

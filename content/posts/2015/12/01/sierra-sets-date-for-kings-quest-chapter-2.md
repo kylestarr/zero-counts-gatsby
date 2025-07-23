@@ -4,7 +4,7 @@ date: 2015-12-01 21:10:26+00:00
 draft: false
 title: Sierra Sets Date for King's Quest, Chapter 2
 type: post
-url: /sierra-sets-date-for-kings-quest-chapter-2/
+slug: /sierra-sets-date-for-kings-quest-chapter-2/
 categories:
 - General
 tags:

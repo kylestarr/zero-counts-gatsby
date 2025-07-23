@@ -4,7 +4,7 @@ date: 2014-07-03 16:22:42+00:00
 draft: false
 title: Pixel Art
 type: post
-url: /pixel-art/
+slug: /pixel-art/
 categories:
 - Design
 tags:

@@ -4,7 +4,7 @@ date: 2015-01-31 07:28:01+00:00
 draft: false
 title: Pissing into the Wind
 type: post
-url: /pissing-into-the-wind/
+slug: /pissing-into-the-wind/
 categories:
 - General
 tags:

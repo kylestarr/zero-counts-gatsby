@@ -4,7 +4,7 @@ date: 2018-06-22 15:35:22+00:00
 draft: false
 title: Xbox Switch “Better Together” Campaign
 type: post
-url: /xbox-switch-better-together-campaign/
+slug: /xbox-switch-better-together-campaign/
 categories:
 - Business
 tags:

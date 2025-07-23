@@ -4,7 +4,7 @@ date: 2015-06-02 03:28:40+00:00
 draft: false
 title: Mega Man 2017
 type: post
-url: /mega-man-2017/
+slug: /mega-man-2017/
 categories:
 - General
 ---

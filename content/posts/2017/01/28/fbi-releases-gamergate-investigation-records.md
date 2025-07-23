@@ -4,7 +4,7 @@ date: 2017-01-28 05:37:35+00:00
 draft: false
 title: FBI releases Gamergate investigation records
 type: post
-url: /fbi-releases-gamergate-investigation-records/
+slug: /fbi-releases-gamergate-investigation-records/
 categories:
 - Culture
 - Media

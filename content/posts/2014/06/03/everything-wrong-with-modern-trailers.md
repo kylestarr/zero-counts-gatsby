@@ -4,7 +4,7 @@ date: 2014-06-03 16:36:43+00:00
 draft: false
 title: Everything wrong with modern trailers
 type: post
-url: /everything-wrong-with-modern-trailers/
+slug: /everything-wrong-with-modern-trailers/
 categories:
 - Business
 - General

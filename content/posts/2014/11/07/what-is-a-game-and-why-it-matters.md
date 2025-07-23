@@ -4,7 +4,7 @@ date: 2014-11-07 00:23:37+00:00
 draft: false
 title: What is a game? And why it matters!
 type: post
-url: /what-is-a-game-and-why-it-matters/
+slug: /what-is-a-game-and-why-it-matters/
 categories:
 - Art
 - Design

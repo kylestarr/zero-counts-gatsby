@@ -4,7 +4,7 @@ date: 2015-01-10 20:16:10+00:00
 draft: false
 title: On Copying
 type: post
-url: /on-copying/
+slug: /on-copying/
 categories:
 - Business
 - Design

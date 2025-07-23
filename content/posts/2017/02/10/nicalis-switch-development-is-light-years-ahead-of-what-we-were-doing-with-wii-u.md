@@ -5,7 +5,7 @@ draft: false
 title: 'Nicalis: Switch development is ''light years ahead of what we were doing with
   Wii U'''
 type: post
-url: /nicalis-switch-development-is-light-years-ahead-of-what-we-were-doing-with-wii-u/
+slug: /nicalis-switch-development-is-light-years-ahead-of-what-we-were-doing-with-wii-u/
 categories:
 - Business
 - Design

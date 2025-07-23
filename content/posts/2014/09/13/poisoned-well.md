@@ -4,7 +4,7 @@ date: 2014-09-13 16:17:10+00:00
 draft: false
 title: Poisoned Well
 type: post
-url: /poisoned-well/
+slug: /poisoned-well/
 categories:
 - Culture
 - Gender

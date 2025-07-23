@@ -4,7 +4,7 @@ date: 2015-04-03 16:46:27+00:00
 draft: false
 title: Nintendo's Trickle-Release of Retro Titles, Round 2
 type: post
-url: /nintendos-trickle-release-of-retro-titles-round-2/
+slug: /nintendos-trickle-release-of-retro-titles-round-2/
 categories:
 - Business
 tags:

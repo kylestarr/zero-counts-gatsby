@@ -4,7 +4,7 @@ date: 2017-03-14 01:07:57+00:00
 draft: false
 title: '''The schoolyard is the entirety of the internet'''
 type: post
-url: /the-schoolyard-is-the-entirety-of-the-internet/
+slug: /the-schoolyard-is-the-entirety-of-the-internet/
 categories:
 - Design
 postFormat:

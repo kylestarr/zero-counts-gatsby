@@ -4,7 +4,7 @@ date: 2014-07-23 19:29:01+00:00
 draft: false
 title: War Ensemble
 type: post
-url: /war-ensemble/
+slug: /war-ensemble/
 categories:
 - Children
 - Education

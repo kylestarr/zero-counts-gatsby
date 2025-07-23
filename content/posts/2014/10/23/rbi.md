@@ -4,7 +4,7 @@ date: 2014-10-23 03:29:27+00:00
 draft: false
 title: RBI
 type: post
-url: /rbi/
+slug: /rbi/
 categories:
 - General
 tags:

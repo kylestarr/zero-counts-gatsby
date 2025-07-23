@@ -4,7 +4,7 @@ date: 2014-07-18 13:29:39+00:00
 draft: false
 title: 'Sokobond: Chemistry-themed 2D indie puzzle game'
 type: post
-url: /sokobond-chemistry-themed-2d-indie-puzzle-game/
+slug: /sokobond-chemistry-themed-2d-indie-puzzle-game/
 categories:
 - Design
 - Education

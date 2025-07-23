@@ -1,7 +1,7 @@
 ---
 title: "Announcing Y-Button"
 date: 2023-04-20T06:00:00-08:00
-url: /announcing-y-button/
+slug: /announcing-y-button/
 categories:
   - General
 tags:

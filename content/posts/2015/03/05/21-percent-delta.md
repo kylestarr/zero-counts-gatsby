@@ -4,7 +4,7 @@ date: 2015-03-05 18:23:51+00:00
 draft: false
 title: 21 Percent Delta
 type: post
-url: /21-percent-delta/
+slug: /21-percent-delta/
 categories:
 - Children
 - Design

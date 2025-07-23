@@ -4,7 +4,7 @@ date: 2014-06-12 17:03:43+00:00
 draft: false
 title: Splatoon
 type: post
-url: /splatoon/
+slug: /splatoon/
 categories:
 - Children
 - Gender

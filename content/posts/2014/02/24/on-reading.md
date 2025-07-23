@@ -4,7 +4,7 @@ date: 2014-02-24 18:00:00+00:00
 draft: false
 title: On Reading
 type: post
-url: /on-reading/
+slug: /on-reading/
 categories:
 - General
 tags:

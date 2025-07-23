@@ -4,7 +4,7 @@ date: 2018-01-21 00:57:25+00:00
 draft: false
 title: Nintendo Stock Jumps 4.2% After Labo Reveal
 type: post
-url: /nintendo-stock-jumps-4-2-after-labo-reveal/
+slug: /nintendo-stock-jumps-4-2-after-labo-reveal/
 categories:
 - Business
 - Children

@@ -4,7 +4,7 @@ date: 2019-04-28 18:24:06+00:00
 draft: false
 title: A Video Game Developed To Detect Alzheimer’s Disease Seems To Be Working
 type: post
-url: /a-video-game-developed-to-detect-alzheimers-disease-seems-to-be-working/
+slug: /a-video-game-developed-to-detect-alzheimers-disease-seems-to-be-working/
 categories:
 - Health
 - Science

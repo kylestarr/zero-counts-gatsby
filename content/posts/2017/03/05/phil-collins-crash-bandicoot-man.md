@@ -4,7 +4,7 @@ date: 2017-03-05 18:29:28+00:00
 draft: false
 title: 'Phil Collins: Crash Bandicoot man'
 type: post
-url: /phil-collins-crash-bandicoot-man/
+slug: /phil-collins-crash-bandicoot-man/
 categories:
 - General
 - Parenting

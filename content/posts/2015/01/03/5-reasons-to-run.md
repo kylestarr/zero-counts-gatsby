@@ -4,7 +4,7 @@ date: 2015-01-03 05:25:20+00:00
 draft: false
 title: 5 Reasons to Run
 type: post
-url: /5-reasons-to-run/
+slug: /5-reasons-to-run/
 categories:
 - Health
 tags:

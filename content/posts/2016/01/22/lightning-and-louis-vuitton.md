@@ -4,7 +4,7 @@ date: 2016-01-22 15:29:58+00:00
 draft: false
 title: Lightning and Louis Vuitton
 type: post
-url: /lightning-and-louis-vuitton/
+slug: /lightning-and-louis-vuitton/
 categories:
 - Art
 - Business

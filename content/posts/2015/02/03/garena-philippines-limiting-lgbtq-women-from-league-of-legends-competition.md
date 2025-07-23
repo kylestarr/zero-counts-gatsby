@@ -4,7 +4,7 @@ date: 2015-02-03 20:45:27+00:00
 draft: false
 title: Garena Philippines Limiting LGBTQ Women from League of Legends Competition
 type: post
-url: /garena-philippines-limiting-lgbtq-women-from-league-of-legends-competition/
+slug: /garena-philippines-limiting-lgbtq-women-from-league-of-legends-competition/
 categories:
 - eSports
 - Gender

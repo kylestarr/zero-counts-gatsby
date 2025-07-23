@@ -4,7 +4,7 @@ date: 2015-01-25 06:37:20+00:00
 draft: false
 title: 'GOTY: Rocksmith 2014'
 type: post
-url: /goty-rocksmith-2014/
+slug: /goty-rocksmith-2014/
 categories:
 - Education
 - Music

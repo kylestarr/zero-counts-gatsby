@@ -4,7 +4,7 @@ date: 2014-05-16 15:30:00+00:00
 draft: false
 title: Rare is evaluating what to do after Kinect, says Phil Spencer
 type: post
-url: /rare-is-evaluating-what-to-do-after-kinect-says-phil-spencer-polygon/
+slug: /rare-is-evaluating-what-to-do-after-kinect-says-phil-spencer-polygon/
 categories:
 - Business
 tags:

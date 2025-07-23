@@ -4,7 +4,7 @@ date: 2018-04-17 16:08:08+00:00
 draft: false
 title: Most Video Games Are Too Long
 type: post
-url: /most-video-games-are-too-long/
+slug: /most-video-games-are-too-long/
 categories:
 - Design
 tags:

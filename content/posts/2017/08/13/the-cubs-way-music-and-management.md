@@ -4,7 +4,7 @@ date: 2017-08-13 00:11:12+00:00
 draft: false
 title: The Cubs Way, Music, and Management
 type: post
-url: /the-cubs-way-music-and-management/
+slug: /the-cubs-way-music-and-management/
 categories:
 - Media
 - Sports

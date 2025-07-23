@@ -4,7 +4,7 @@ date: 2014-12-17 21:11:28+00:00
 draft: false
 title: Welcome to The New York Review of Video Games
 type: post
-url: /welcome-to-the-new-york-review-of-video-games/
+slug: /welcome-to-the-new-york-review-of-video-games/
 categories:
 - Culture
 - Media

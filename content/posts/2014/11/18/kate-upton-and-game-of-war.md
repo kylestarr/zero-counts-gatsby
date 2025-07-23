@@ -4,7 +4,7 @@ date: 2014-11-18 16:22:55+00:00
 draft: false
 title: Kate Upton and Game of War
 type: post
-url: /kate-upton-and-game-of-war/
+slug: /kate-upton-and-game-of-war/
 categories:
 - Business
 tags:

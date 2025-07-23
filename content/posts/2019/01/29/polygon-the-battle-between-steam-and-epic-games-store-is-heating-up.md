@@ -4,7 +4,7 @@ date: 2019-01-29 03:11:19+00:00
 draft: false
 title: 'Polygon: The battle between Steam and Epic Games Store is heating up'
 type: post
-url: /polygon-the-battle-between-steam-and-epic-games-store-is-heating-up/
+slug: /polygon-the-battle-between-steam-and-epic-games-store-is-heating-up/
 categories:
 - Business
 postFormat:

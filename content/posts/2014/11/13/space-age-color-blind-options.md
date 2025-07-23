@@ -4,7 +4,7 @@ date: 2014-11-13 18:06:58+00:00
 draft: false
 title: Space Age Color Blindness Options
 type: post
-url: /space-age-color-blind-options/
+slug: /space-age-color-blind-options/
 categories:
 - Accessibility
 - Design

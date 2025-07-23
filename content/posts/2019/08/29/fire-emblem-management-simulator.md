@@ -4,7 +4,7 @@ date: 2019-08-29 17:22:46+00:00
 draft: false
 title: 'Fire Emblem: Management Simulator'
 type: post
-url: /fire-emblem-management-simulator/
+slug: /fire-emblem-management-simulator/
 categories:
 - Work
 tags:

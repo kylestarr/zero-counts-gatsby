@@ -4,7 +4,7 @@ date: 2014-07-07 15:22:17+00:00
 draft: false
 title: If not Disneyland or Nintendo...
 type: post
-url: /if-not-disneyland-or-nintendo/
+slug: /if-not-disneyland-or-nintendo/
 categories:
 - Children
 - Culture

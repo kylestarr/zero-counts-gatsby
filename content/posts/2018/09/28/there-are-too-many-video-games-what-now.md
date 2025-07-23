@@ -4,7 +4,7 @@ date: 2018-09-28 21:21:57+00:00
 draft: false
 title: There are too many video games. What now?
 type: post
-url: /there-are-too-many-video-games-what-now/
+slug: /there-are-too-many-video-games-what-now/
 categories:
 - Business
 postFormat:

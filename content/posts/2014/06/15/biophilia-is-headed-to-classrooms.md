@@ -4,7 +4,7 @@ date: 2014-06-15 18:20:08+00:00
 draft: false
 title: Biophilia is headed to classrooms
 type: post
-url: /biophilia-is-headed-to-classrooms/
+slug: /biophilia-is-headed-to-classrooms/
 categories:
 - Education
 tags:

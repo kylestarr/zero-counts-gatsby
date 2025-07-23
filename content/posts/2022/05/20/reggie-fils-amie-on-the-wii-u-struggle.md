@@ -1,7 +1,7 @@
 ---
 title: "Reggie Fils-Aimé on the Wii U Struggle"
 date: 2022-05-20 10:55:00-08:00
-url: /reggie-fils-amie-on-the-wii-u-struggle/
+slug: /reggie-fils-amie-on-the-wii-u-struggle/
 categories:
   - Business
 tags:

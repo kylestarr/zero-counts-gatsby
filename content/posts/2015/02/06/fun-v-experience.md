@@ -4,7 +4,7 @@ date: 2015-02-06 01:40:18+00:00
 draft: false
 title: Fun v. Experience
 type: post
-url: /fun-v-experience/
+slug: /fun-v-experience/
 categories:
 - Design
 - Media

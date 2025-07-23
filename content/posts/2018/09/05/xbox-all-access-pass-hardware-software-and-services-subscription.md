@@ -4,7 +4,7 @@ date: 2018-09-05 15:05:44+00:00
 draft: false
 title: Xbox All Access Pass hardware, software, and services subscription
 type: post
-url: /xbox-all-access-pass-hardware-software-and-services-subscription/
+slug: /xbox-all-access-pass-hardware-software-and-services-subscription/
 categories:
 - Business
 tags:

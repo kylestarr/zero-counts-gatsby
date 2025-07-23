@@ -4,7 +4,7 @@ date: 2017-10-20 04:19:05+00:00
 draft: false
 title: Traditional Games
 type: post
-url: /traditional-games/
+slug: /traditional-games/
 categories:
 - Art
 - Design

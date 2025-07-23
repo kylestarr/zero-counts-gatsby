@@ -4,7 +4,7 @@ date: 2014-08-28 18:32:33+00:00
 draft: false
 title: You’re talking to a child
 type: post
-url: /youre-talking-to-a-child/
+slug: /youre-talking-to-a-child/
 categories:
 - Gender
 - Media

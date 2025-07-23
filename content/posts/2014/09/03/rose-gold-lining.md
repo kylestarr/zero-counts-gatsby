@@ -4,7 +4,7 @@ date: 2014-09-03 05:03:31+00:00
 draft: false
 title: Rose Gold Lining
 type: post
-url: /rose-gold-lining/
+slug: /rose-gold-lining/
 categories:
 - Gender
 - Health

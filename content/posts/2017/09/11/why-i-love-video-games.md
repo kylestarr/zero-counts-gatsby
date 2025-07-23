@@ -4,7 +4,7 @@ date: 2017-09-11 15:34:30+00:00
 draft: false
 title: Why I love video games
 type: post
-url: /why-i-love-video-games/
+slug: /why-i-love-video-games/
 categories:
 - Media
 tags:

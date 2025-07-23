@@ -1,7 +1,7 @@
 ---
 title: "'Regret's a killer worse than death'"
 date: 2023-02-18T22:00:00-08:00
-url: /regrets-a-killer-worse-than-death/
+slug: /regrets-a-killer-worse-than-death/
 categories:
   - General
 tags:

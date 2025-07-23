@@ -4,7 +4,7 @@ date: 2013-11-19 18:39:12+00:00
 draft: false
 title: Game Play Has No Negative Impact on Kids, UK Study Finds
 type: post
-url: /game-play-has-no-negative-impact-on-kids-uk-study-finds/
+slug: /game-play-has-no-negative-impact-on-kids-uk-study-finds/
 categories:
 - Health
 - Psychology

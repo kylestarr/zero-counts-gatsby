@@ -4,7 +4,7 @@ date: 2018-08-26 15:10:34+00:00
 draft: false
 title: Modern life itself could make you sick
 type: post
-url: /modern-life-itself-could-make-you-sick/
+slug: /modern-life-itself-could-make-you-sick/
 categories:
 - Commonplace
 tags:

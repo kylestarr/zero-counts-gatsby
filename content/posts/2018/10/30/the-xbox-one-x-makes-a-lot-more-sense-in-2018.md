@@ -4,7 +4,7 @@ date: 2018-10-30 03:00:01+00:00
 draft: false
 title: The Xbox One X makes a lot more sense in 2018
 type: post
-url: /the-xbox-one-x-makes-a-lot-more-sense-in-2018/
+slug: /the-xbox-one-x-makes-a-lot-more-sense-in-2018/
 categories:
 - Business
 - Technology

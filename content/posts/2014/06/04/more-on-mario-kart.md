@@ -4,7 +4,7 @@ date: 2014-06-04 16:46:38+00:00
 draft: false
 title: More on Mario Kart
 type: post
-url: /more-on-mario-kart/
+slug: /more-on-mario-kart/
 categories:
 - Business
 - General

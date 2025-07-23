@@ -1,7 +1,7 @@
 ---
 title: "Teenage Mutant Ninja Turtles: The Cowabunga Collection"
 date: 2022-03-10 09:30:00-08:00
-url: /teenage-mutant-ninja-turtles-the-cowbunga-collection/
+slug: /teenage-mutant-ninja-turtles-the-cowbunga-collection/
 categories:
   - Games
 tags:

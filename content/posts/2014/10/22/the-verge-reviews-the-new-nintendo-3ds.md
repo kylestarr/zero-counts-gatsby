@@ -4,7 +4,7 @@ date: 2014-10-22 01:01:00+00:00
 draft: false
 title: The Verge Reviews the New Nintendo 3DS
 type: post
-url: /the-verge-reviews-the-new-nintendo-3ds/
+slug: /the-verge-reviews-the-new-nintendo-3ds/
 categories:
 - General
 tags:

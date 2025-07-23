@@ -4,7 +4,7 @@ date: 2018-03-25 18:05:17+00:00
 draft: false
 title:  "Building Zero Counts"
 type: post
-url: /building-zero-counts/
+slug: /building-zero-counts/
 categories:
 - General
 tags:

@@ -4,7 +4,7 @@ date: 2015-02-03 21:32:48+00:00
 draft: false
 title: Club Nintendo Experiencing Heavy Traffic
 type: post
-url: /club-nintendo-experiencing-heavy-traffic/
+slug: /club-nintendo-experiencing-heavy-traffic/
 categories:
 - Business
 - General

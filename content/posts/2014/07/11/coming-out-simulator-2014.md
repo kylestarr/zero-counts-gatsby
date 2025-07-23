@@ -4,7 +4,7 @@ date: 2014-07-11 20:10:27+00:00
 draft: false
 title: Coming Out Simulator 2014
 type: post
-url: /coming-out-simulator-2014/
+slug: /coming-out-simulator-2014/
 categories:
 - Design
 - Sexuality

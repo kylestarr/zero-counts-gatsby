@@ -4,7 +4,7 @@ date: 2015-01-15 07:19:33+00:00
 draft: false
 title: EyeWire
 type: post
-url: /eyewire/
+slug: /eyewire/
 categories:
 - Education
 - Gamification

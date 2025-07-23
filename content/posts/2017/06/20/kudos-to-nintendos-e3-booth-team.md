@@ -4,7 +4,7 @@ date: 2017-06-20 02:52:47+00:00
 draft: false
 title: Kudos to Nintendo's E3 Booth Team
 type: post
-url: /kudos-to-nintendos-e3-booth-team/
+slug: /kudos-to-nintendos-e3-booth-team/
 categories:
 - General
 - Media

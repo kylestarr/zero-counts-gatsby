@@ -4,7 +4,7 @@ date: 2013-12-03 16:45:56+00:00
 draft: false
 title: You could help real-world farmers by playing Cropland Capture
 type: post
-url: /you-could-help-real-world-farmers-by-playing-cropland-capture/
+slug: /you-could-help-real-world-farmers-by-playing-cropland-capture/
 categories:
 - Business
 - Society

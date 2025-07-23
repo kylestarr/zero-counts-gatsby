@@ -4,7 +4,7 @@ date: 2014-07-14 20:49:44+00:00
 draft: false
 title: The Return of Crash Bandicoot and Spyro?
 type: post
-url: /the-return-of-crash-bandicoot-and-spyro/
+slug: /the-return-of-crash-bandicoot-and-spyro/
 categories:
 - General
 tags:

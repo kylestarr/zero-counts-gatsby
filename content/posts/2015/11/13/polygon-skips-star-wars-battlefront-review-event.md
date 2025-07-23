@@ -4,7 +4,7 @@ date: 2015-11-13 18:33:38+00:00
 draft: false
 title: 'Polygon Skips Star Wars: Battlefront Review Event'
 type: post
-url: /polygon-skips-star-wars-battlefront-review-event/
+slug: /polygon-skips-star-wars-battlefront-review-event/
 categories:
 - Media
 tags:

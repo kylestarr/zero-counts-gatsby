@@ -4,7 +4,7 @@ date: 2017-06-18 01:34:17+00:00
 draft: false
 title: Sold on Cross-Network Play
 type: post
-url: /sold-on-cross-network-play/
+slug: /sold-on-cross-network-play/
 categories:
 - General
 tags:

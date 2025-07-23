@@ -4,7 +4,7 @@ date: 2018-12-08 22:36:32+00:00
 draft: false
 title: One needed a handle, a lever, a means of inspiring fear
 type: post
-url: /one-needed-a-handle-a-lever-a-means-of-inspiring-fear/
+slug: /one-needed-a-handle-a-lever-a-means-of-inspiring-fear/
 categories:
 - Commonplace
 tags:

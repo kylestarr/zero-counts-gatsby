@@ -4,7 +4,7 @@ date: 2014-06-29 19:32:32+00:00
 draft: false
 title: Games Done Quick raises $700,000
 type: post
-url: /games-done-quick-raises-700000/
+slug: /games-done-quick-raises-700000/
 categories:
 - Charity
 tags:

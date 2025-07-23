@@ -4,7 +4,7 @@ date: 2014-06-26 16:37:10+00:00
 draft: false
 title: Whack-A-Mole
 type: post
-url: /whack-a-mole/
+slug: /whack-a-mole/
 categories:
 - Education
 tags:

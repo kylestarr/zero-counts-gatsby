@@ -4,7 +4,7 @@ date: 2015-01-27 20:26:36+00:00
 draft: false
 title: Life in Japan
 type: post
-url: /life-in-japan/
+slug: /life-in-japan/
 categories:
 - Media
 tags:

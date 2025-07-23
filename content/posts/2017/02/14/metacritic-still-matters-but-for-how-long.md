@@ -4,7 +4,7 @@ date: 2017-02-14 00:30:33+00:00
 draft: false
 title: '''Metacritic'' Still Matters, But For How Long?'
 type: post
-url: /metacritic-still-matters-but-for-how-long/
+slug: /metacritic-still-matters-but-for-how-long/
 categories:
 - Business
 - Media

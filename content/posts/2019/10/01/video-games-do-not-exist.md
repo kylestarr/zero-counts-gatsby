@@ -4,7 +4,7 @@ date: 2019-10-01 14:40:00+00:00
 draft: false
 title: Video Games Do Not Exist
 type: post
-url: /video-games-do-not-exist/
+slug: /video-games-do-not-exist/
 categories:
 - General
 postFormat:

@@ -4,7 +4,7 @@ date: 2015-05-07 16:54:09+00:00
 draft: false
 title: Nintendo Attractions Coming to Universal Parks
 type: post
-url: /nintendo-attractions-coming-to-universal-parks/
+slug: /nintendo-attractions-coming-to-universal-parks/
 categories:
 - General
 postFormat:

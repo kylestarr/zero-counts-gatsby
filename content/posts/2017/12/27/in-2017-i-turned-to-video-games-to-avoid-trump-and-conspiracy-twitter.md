@@ -4,7 +4,7 @@ date: 2017-12-27 17:15:27+00:00
 draft: false
 title: ‘In 2017, I Turned to Video Games to Avoid Trump and Conspiracy Twitter’
 type: post
-url: /in-2017-i-turned-to-video-games-to-avoid-trump-and-conspiracy-twitter/
+slug: /in-2017-i-turned-to-video-games-to-avoid-trump-and-conspiracy-twitter/
 categories:
 - General
 - Politics

@@ -4,7 +4,7 @@ date: 2014-05-27 15:41:12+00:00
 draft: false
 title: Nintendo x YouTube Affiliate Program
 type: post
-url: /nintendo-x-youtube-affiliate-program/
+slug: /nintendo-x-youtube-affiliate-program/
 categories:
 - Business
 tags:

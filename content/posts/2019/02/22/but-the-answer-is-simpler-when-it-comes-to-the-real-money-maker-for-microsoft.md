@@ -4,7 +4,7 @@ date: 2019-02-22 23:26:58+00:00
 draft: false
 title: ‘But the answer is simpler when it comes to the real money maker for Microsoft’
 type: post
-url: /but-the-answer-is-simpler-when-it-comes-to-the-real-money-maker-for-microsoft/
+slug: /but-the-answer-is-simpler-when-it-comes-to-the-real-money-maker-for-microsoft/
 categories:
 - Business
 postFormat:

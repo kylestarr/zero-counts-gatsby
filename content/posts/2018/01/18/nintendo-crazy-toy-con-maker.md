@@ -4,7 +4,7 @@ date: 2018-01-18 05:13:19+00:00
 draft: false
 title: 'Nintendo: Crazy Toy-Con Maker'
 type: post
-url: /nintendo-crazy-toy-con-maker/
+slug: /nintendo-crazy-toy-con-maker/
 categories:
 - Business
 - Children

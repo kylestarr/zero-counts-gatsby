@@ -4,7 +4,7 @@ date: 2016-02-09 02:55:29+00:00
 draft: false
 title: Disneyvania
 type: post
-url: /disneyvania/
+slug: /disneyvania/
 categories:
 - Design
 tags:

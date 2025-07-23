@@ -4,7 +4,7 @@ date: 2014-12-15 18:28:25+00:00
 draft: false
 title: Thank you, Peter Jackson
 type: post
-url: /peter-jacksons-middle-earth-saga/
+slug: /peter-jacksons-middle-earth-saga/
 categories:
 - General
 tags:

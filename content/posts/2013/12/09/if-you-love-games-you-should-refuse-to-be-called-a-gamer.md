@@ -4,7 +4,7 @@ date: 2013-12-09 21:03:46+00:00
 draft: false
 title: If you love games, you should refuse to be called a gamer
 type: post
-url: /if-you-love-games-you-should-refuse-to-be-called-a-gamer/
+slug: /if-you-love-games-you-should-refuse-to-be-called-a-gamer/
 categories:
 - Education
 - Society

@@ -4,7 +4,7 @@ date: 2018-08-04 22:04:41+00:00
 draft: false
 title: The nationalism of liberal Americans
 type: post
-url: /the-nationalism-of-liberal-americans/
+slug: /the-nationalism-of-liberal-americans/
 categories:
 - Commonplace
 tags:

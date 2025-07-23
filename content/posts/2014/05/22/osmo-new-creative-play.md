@@ -4,7 +4,7 @@ date: 2014-05-22 17:51:15+00:00
 draft: false
 title: 'Osmo: New creative play'
 type: post
-url: /osmo-new-creative-play/
+slug: /osmo-new-creative-play/
 categories:
 - Education
 tags:

@@ -4,7 +4,7 @@ date: 2014-07-14 13:20:02+00:00
 draft: false
 title: Unpaid part-time job
 type: post
-url: /unpaid-part-time-job/
+slug: /unpaid-part-time-job/
 categories:
 - Design
 - Work

@@ -4,7 +4,7 @@ date: 2015-03-08 15:33:58+00:00
 draft: false
 title: Monument Valley, post-House of Cards
 type: post
-url: /monument-valley-post-house-of-cards/
+slug: /monument-valley-post-house-of-cards/
 categories:
 - Business
 tags:

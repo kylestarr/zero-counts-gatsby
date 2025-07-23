@@ -1,7 +1,7 @@
 ---
 title: "Feminist Frequency: Gender Breakdown of Games in 2020"
 date: 2020-10-16 11:00:00
-url: /feminist-frequency-gender-breakdown-of-games-in-2020/
+slug: /feminist-frequency-gender-breakdown-of-games-in-2020/
 categories:
 - Gender
 tags:

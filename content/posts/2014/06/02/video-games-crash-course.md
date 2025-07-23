@@ -4,7 +4,7 @@ date: 2014-06-02 07:14:04+00:00
 draft: false
 title: Video games crash course
 type: post
-url: /video-games-crash-course/
+slug: /video-games-crash-course/
 categories:
 - Business
 - Children

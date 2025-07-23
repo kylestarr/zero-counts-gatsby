@@ -1,7 +1,7 @@
 ---
 title: "Project Leonardo for PlayStation 5"
 date: 2023-01-04T21:35:00-08:00
-url: /project-leonardo-for-playstation-5/
+slug: /project-leonardo-for-playstation-5/
 categories:
   - Accessibility
 tags:

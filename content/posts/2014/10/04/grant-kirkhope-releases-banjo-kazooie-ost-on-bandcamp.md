@@ -4,7 +4,7 @@ date: 2014-10-04 22:53:24+00:00
 draft: false
 title: Grant Kirkhope Releases Banjo-Kazooie OST on Bandcamp
 type: post
-url: /grant-kirkhope-releases-banjo-kazooie-ost-on-bandcamp/
+slug: /grant-kirkhope-releases-banjo-kazooie-ost-on-bandcamp/
 categories:
 - History
 - Music

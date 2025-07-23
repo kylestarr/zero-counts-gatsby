@@ -4,7 +4,7 @@ date: 2019-01-18 16:22:23+00:00
 draft: false
 title: Jim Guthrie and the Below soundtrack
 type: post
-url: /jim-guthrie-and-the-below-soundtrack/
+slug: /jim-guthrie-and-the-below-soundtrack/
 categories:
 - Music
 tags:

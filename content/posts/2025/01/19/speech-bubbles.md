@@ -1,7 +1,7 @@
 ---
 title: "Speech Bubbles"
 date: 2025-01-19T21:20:00-08:00
-url: /speech-bubbles/
+slug: /speech-bubbles/
 categories:
   - Culture
 tags:

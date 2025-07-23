@@ -4,7 +4,7 @@ date: 2014-06-17 12:18:10+00:00
 draft: false
 title: Console sales jump 95% in May
 type: post
-url: /console-sales-jump-95-in-may/
+slug: /console-sales-jump-95-in-may/
 categories:
 - Business
 tags:

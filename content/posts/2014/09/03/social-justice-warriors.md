@@ -4,7 +4,7 @@ date: 2014-09-03 04:53:10+00:00
 draft: false
 title: Social Justice Warriors?
 type: post
-url: /social-justice-warriors/
+slug: /social-justice-warriors/
 categories:
 - Culture
 - Gender

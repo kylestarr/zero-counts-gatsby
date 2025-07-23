@@ -4,7 +4,7 @@ date: 2014-10-13 23:16:26+00:00
 draft: false
 title: 'Exercising With Nothing But An Xbox'
 type: post
-url: /exercising-with-nothing-but-an-xbox/
+slug: /exercising-with-nothing-but-an-xbox/
 categories:
 - Health
 tags:

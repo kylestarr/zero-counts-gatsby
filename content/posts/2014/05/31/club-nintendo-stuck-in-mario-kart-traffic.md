@@ -4,7 +4,7 @@ date: 2014-05-31 16:02:10+00:00
 draft: false
 title: Club Nintendo stuck in Mario Kart traffic
 type: post
-url: /club-nintendo-stuck-in-mario-kart-traffic/
+slug: /club-nintendo-stuck-in-mario-kart-traffic/
 categories:
 - Business
 - General

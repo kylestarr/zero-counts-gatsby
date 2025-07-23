@@ -4,7 +4,7 @@ date: 2019-01-21 01:21:04+00:00
 draft: false
 title: Activision, Microsoft, and Platforms
 type: post
-url: /activision-microsoft-and-platforms/
+slug: /activision-microsoft-and-platforms/
 categories:
 - Business
 tags:

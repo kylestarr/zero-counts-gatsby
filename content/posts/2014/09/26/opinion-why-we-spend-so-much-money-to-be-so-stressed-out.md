@@ -4,7 +4,7 @@ date: 2013-09-26 17:31:37+00:00
 draft: false
 title: 'Opinion: Why we spend so much money to be so stressed out'
 type: post
-url: /opinion-why-we-spend-so-much-money-to-be-so-stressed-out/
+slug: /opinion-why-we-spend-so-much-money-to-be-so-stressed-out/
 categories:
 - Psychology
 tags:

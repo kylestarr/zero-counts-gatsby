@@ -4,7 +4,7 @@ date: 2016-08-02 15:35:24+00:00
 draft: false
 title: The Big Picture by Sean Carroll
 type: post
-url: /the-big-picture-by-sean-carroll/
+slug: /the-big-picture-by-sean-carroll/
 categories:
 - Review
 tags:

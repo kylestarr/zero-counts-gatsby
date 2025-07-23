@@ -4,7 +4,7 @@ date: 2014-09-30 21:27:16+00:00
 draft: false
 title: Welcome to Warp Zone!
 type: post
-url: /welcome-to-warp-zone/
+slug: /welcome-to-warp-zone/
 categories:
 - Music
 tags:

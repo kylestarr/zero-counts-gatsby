@@ -4,7 +4,7 @@ date: 2014-11-21 07:07:45+00:00
 draft: false
 title: '''Disney can save Nintendo, and it would only cost $19 billion'''
 type: post
-url: /disney-can-save-nintendo-and-it-would-only-cost-19-billion/
+slug: /disney-can-save-nintendo-and-it-would-only-cost-19-billion/
 categories:
 - Business
 postFormat:

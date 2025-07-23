@@ -4,7 +4,7 @@ date: 2015-01-28 15:20:47+00:00
 draft: false
 title: Troll Masks
 type: post
-url: /troll-masks/
+slug: /troll-masks/
 categories:
 - Gender
 - General

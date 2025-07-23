@@ -4,7 +4,7 @@ date: 2018-04-22 01:18:09+00:00
 draft: false
 title: 'The Verge: ''My Xbox One S is now a meaningfully different console to my PS4'''
 type: post
-url: /the-verge-my-xbox-one-s-is-now-a-meaningfully-different-console-to-my-ps4/
+slug: /the-verge-my-xbox-one-s-is-now-a-meaningfully-different-console-to-my-ps4/
 categories:
 - Business
 tags:

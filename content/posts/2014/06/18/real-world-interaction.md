@@ -4,7 +4,7 @@ date: 2014-06-18 20:39:07+00:00
 draft: false
 title: Real-world interaction
 type: post
-url: /real-world-interaction/
+slug: /real-world-interaction/
 categories:
 - Culture
 tags:

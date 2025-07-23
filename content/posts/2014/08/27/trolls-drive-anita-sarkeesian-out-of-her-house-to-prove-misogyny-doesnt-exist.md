@@ -5,7 +5,7 @@ draft: false
 title: '''Trolls drive Anita Sarkeesian out of her house to prove misogyny doesn''t
   exist'''
 type: post
-url: /trolls-drive-anita-sarkeesian-out-of-her-house-to-prove-misogyny-doesnt-exist/
+slug: /trolls-drive-anita-sarkeesian-out-of-her-house-to-prove-misogyny-doesnt-exist/
 categories:
 - Culture
 - Gender

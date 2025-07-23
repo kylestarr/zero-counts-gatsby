@@ -4,7 +4,7 @@ date: 2013-12-05 16:45:32+00:00
 draft: false
 title: Second gaming ceasefire held for Sandy Hook but skepticism remains
 type: post
-url: /second-gaming-ceasefire-held-for-sandy-hook-but-skepticism-remains/
+slug: /second-gaming-ceasefire-held-for-sandy-hook-but-skepticism-remains/
 categories:
 - Politics
 tags:
