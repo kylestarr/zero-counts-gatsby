@@ -2,7 +2,7 @@ name: Post Latest to Social Media
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   workflow_dispatch: # Allow manual triggering
 
 jobs:
