@@ -3,7 +3,6 @@
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
-const { login } = require('masto');
 const { BskyAgent } = require('@atproto/api');
 
 // Load posted history
@@ -150,8 +149,35 @@ async function postToMastodon(title, fullUrl) {
   
   try {
     console.log('📦 Importing masto package...');
-    const { login } = require('masto');
-    console.log('✅ Masto package imported successfully');
+    let login;
+    try {
+      // Try different import methods for masto package
+      const mastoModule = require('masto');
+      console.log('📦 Masto module structure:', Object.keys(mastoModule));
+      
+      if (typeof mastoModule.login === 'function') {
+        login = mastoModule.login;
+      } else if (typeof mastoModule.default?.login === 'function') {
+        login = mastoModule.default.login;
+      } else if (typeof mastoModule === 'function') {
+        login = mastoModule;
+      } else {
+        throw new Error('Cannot find login function in masto module');
+      }
+    } catch (requireError) {
+      console.log('📦 Require failed, trying dynamic import...');
+      const mastoModule = await import('masto');
+      console.log('📦 Dynamic import structure:', Object.keys(mastoModule));
+      
+      if (typeof mastoModule.login === 'function') {
+        login = mastoModule.login;
+      } else if (typeof mastoModule.default?.login === 'function') {
+        login = mastoModule.default.login;
+      } else {
+        throw new Error('Cannot find login function in imported masto module');
+      }
+    }
+    console.log('✅ Masto login function found:', typeof login);
     
     console.log('🔗 Connecting to Mastodon server...');
     console.log('🌐 Server URL:', process.env.MASTODON_URL);
