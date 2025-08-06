@@ -4,6 +4,7 @@
 
 [build.environment]
   NODE_VERSION = "18"
+  NETLIFY_BUILD_IMAGE = "ubuntu-noble-24.04"
 
 [functions]
   directory = "netlify/functions"
