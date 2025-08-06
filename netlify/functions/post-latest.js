@@ -181,7 +181,7 @@ async function postToMastodon(title, fullUrl) {
       accessToken: process.env.MASTODON_ACCESS_TOKEN,
     });
     
-    const status = `New post: ${title}\n\n${fullUrl}`;
+    const status = `${title}\n\n${fullUrl}`;
     console.log('📝 Posting status:', status);
     await masto.v1.statuses.create({ status, visibility: 'public' });
     console.log('✅ Posted to Mastodon successfully');
