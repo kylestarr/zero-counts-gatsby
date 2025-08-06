@@ -1,7 +1,7 @@
 ---
-title: "Test Social Posting 14"
-date: 2025-07-22T22:00:00-08:00
-slug: /social-post-test-14/
+title: "Test Social Posting 18"
+date: 2025-08-06T16:30:00-08:00
+slug: /social-post-test-18/
 categories:
 tags:
 ---

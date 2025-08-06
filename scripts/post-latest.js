@@ -128,7 +128,7 @@ function findMostRecentUnpostedPost(postsDir, history) {
   return { file: mostRecent, ...mostRecentData };
 }
 
-// Post to Mastodon
+// Post to Mastodon using direct REST API
 async function postToMastodon(title, fullUrl) {
   console.log('🐘 Attempting Mastodon posting...');
   console.log('🔑 MASTODON_URL configured:', !!process.env.MASTODON_URL);
@@ -148,134 +148,99 @@ async function postToMastodon(title, fullUrl) {
   }
   
   try {
-    console.log('📦 Importing masto package...');
-    let login;
-    try {
-      // Try different import methods for masto package
-      const mastoModule = require('masto');
-      console.log('📦 Masto module structure:', Object.keys(mastoModule));
-      
-      if (typeof mastoModule.login === 'function') {
-        login = mastoModule.login;
-      } else if (typeof mastoModule.default?.login === 'function') {
-        login = mastoModule.default.login;
-      } else if (typeof mastoModule === 'function') {
-        login = mastoModule;
-      } else {
-        throw new Error('Cannot find login function in masto module');
-      }
-    } catch (requireError) {
-      console.log('📦 Require failed, trying dynamic import...');
-      const mastoModule = await import('masto');
-      console.log('📦 Dynamic import structure:', Object.keys(mastoModule));
-      console.log('📦 Default export keys:', mastoModule.default ? Object.keys(mastoModule.default) : 'no default');
-      
-      if (typeof mastoModule.login === 'function') {
-        login = mastoModule.login;
-      } else if (typeof mastoModule.default?.login === 'function') {
-        login = mastoModule.default.login;
-      } else if (typeof mastoModule.default === 'function') {
-        // Sometimes the entire default export is the login function
-        login = mastoModule.default;
-      } else {
-        // Try createMastodon or other possible function names
-        const possibleFunctions = ['createMastodon', 'createClient', 'connect', 'masto'];
-        for (const fnName of possibleFunctions) {
-          if (typeof mastoModule[fnName] === 'function') {
-            console.log(`📦 Found alternative function: ${fnName}`);
-            login = mastoModule[fnName];
-            break;
-          }
-          if (typeof mastoModule.default?.[fnName] === 'function') {
-            console.log(`📦 Found alternative function in default: ${fnName}`);
-            login = mastoModule.default[fnName];
-            break;
-          }
-        }
-        
-        if (!login) {
-          console.log('📦 Full module structure:', JSON.stringify(mastoModule, null, 2));
-          throw new Error('Cannot find login function in imported masto module');
-        }
-      }
-    }
-    console.log('✅ Masto login function found:', typeof login);
+    console.log('🌐 Using direct REST API instead of masto package...');
+    const https = require('https');
+    const { URL } = require('url');
     
-    console.log('🔗 Connecting to Mastodon server...');
-    console.log('🌐 Server URL:', process.env.MASTODON_URL);
-    console.log('🔑 Token format check:', {
-      length: process.env.MASTODON_ACCESS_TOKEN.length,
-      startsCorrectly: /^[a-zA-Z0-9_-]/.test(process.env.MASTODON_ACCESS_TOKEN)
-    });
+    const mastodonUrl = process.env.MASTODON_URL.endsWith('/') 
+      ? process.env.MASTODON_URL.slice(0, -1) 
+      : process.env.MASTODON_URL;
     
-    const masto = await login({
-      url: process.env.MASTODON_URL,
-      accessToken: process.env.MASTODON_ACCESS_TOKEN,
-    });
-    
-    console.log('✅ Connected to Mastodon successfully');
-    console.log('🔍 Masto client created:', typeof masto);
-    
-    // Test account verification first
-    console.log('👤 Verifying account credentials...');
-    const account = await masto.v1.accounts.verifyCredentials();
-    console.log('✅ Account verified:', {
-      username: account.username,
-      displayName: account.displayName,
-      id: account.id
-    });
+    const apiUrl = `${mastodonUrl}/api/v1/statuses`;
+    console.log('📡 API URL:', apiUrl);
     
     const status = `${title}\n\n${fullUrl}`;
+    const postData = JSON.stringify({
+      status: status,
+      visibility: 'public'
+    });
+    
     console.log('📝 Posting status:', status);
     console.log('📝 Status length:', status.length, 'characters');
     
-    const result = await masto.v1.statuses.create({ 
-      status, 
-      visibility: 'public' 
+    const parsedUrl = new URL(apiUrl);
+    const options = {
+      hostname: parsedUrl.hostname,
+      port: parsedUrl.port || 443,
+      path: parsedUrl.pathname,
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${process.env.MASTODON_ACCESS_TOKEN}`,
+        'Content-Type': 'application/json',
+        'Content-Length': Buffer.byteLength(postData)
+      }
+    };
+    
+    console.log('🔗 Making request to:', parsedUrl.hostname + parsedUrl.pathname);
+    
+    const response = await new Promise((resolve, reject) => {
+      const req = https.request(options, (res) => {
+        let data = '';
+        res.on('data', (chunk) => data += chunk);
+        res.on('end', () => {
+          resolve({
+            statusCode: res.statusCode,
+            statusMessage: res.statusMessage,
+            headers: res.headers,
+            data: data
+          });
+        });
+      });
+      
+      req.on('error', reject);
+      req.write(postData);
+      req.end();
     });
     
-    console.log('✅ Posted to Mastodon successfully');
-    console.log('📊 Post result:', {
-      id: result.id,
-      url: result.url,
-      created_at: result.createdAt
-    });
+    console.log('📡 Response status:', response.statusCode, response.statusMessage);
     
-    return { success: true };
+    if (response.statusCode === 200 || response.statusCode === 201) {
+      const result = JSON.parse(response.data);
+      console.log('✅ Posted to Mastodon successfully');
+      console.log('📊 Post result:', {
+        id: result.id,
+        url: result.url,
+        created_at: result.created_at
+      });
+      return { success: true };
+    } else {
+      console.error('❌ Mastodon API error:', response.statusCode, response.statusMessage);
+      console.error('❌ Response body:', response.data);
+      
+      // Provide specific guidance based on status code
+      if (response.statusCode === 401) {
+        console.error('🔑 AUTHENTICATION ERROR: Your Mastodon access token is invalid or expired');
+      } else if (response.statusCode === 403) {
+        console.error('🚫 PERMISSION ERROR: Your token doesn\'t have posting permissions');
+      } else if (response.statusCode === 422) {
+        console.error('📝 CONTENT ERROR: The post content was rejected');
+      }
+      
+      return { success: false, reason: `HTTP ${response.statusCode}: ${response.statusMessage}` };
+    }
+    
   } catch (error) {
     console.error('❌ Failed to post to Mastodon:', error.message);
     console.error('❌ Error name:', error.name);
     console.error('❌ Error code:', error.code);
-    console.error('❌ Error status:', error.status);
     
-    // Provide specific guidance based on error type
-    if (error.status === 401) {
-      console.error('🔑 AUTHENTICATION ERROR: Your Mastodon access token is invalid or expired');
-      console.error('   → Generate a new token at: [your-instance]/settings/applications');
-    } else if (error.status === 403) {
-      console.error('🚫 PERMISSION ERROR: Your token doesn\'t have posting permissions');
-      console.error('   → Check token scopes include "write:statuses"');
-    } else if (error.status === 422) {
-      console.error('📝 CONTENT ERROR: The post content was rejected');
-      console.error('   → Check character limits or forbidden content');
-    } else if (error.code === 'ENOTFOUND') {
+    if (error.code === 'ENOTFOUND') {
       console.error('🌐 URL ERROR: Cannot find the Mastodon server');
       console.error('   → Check MASTODON_URL is correct (e.g., https://mastodon.social)');
     } else if (error.code === 'ECONNREFUSED') {
       console.error('🔌 CONNECTION ERROR: Server refused connection');
       console.error('   → Server may be down or URL incorrect');
     }
-    
-    // Log the full error object structure to understand what we're dealing with
-    const errorInfo = {
-      name: error.name,
-      message: error.message,
-      code: error.code,
-      status: error.status,
-      statusText: error.statusText,
-      stack: error.stack?.split('\n').slice(0, 3).join('\n') // First 3 lines of stack
-    };
-    console.error('❌ Full error info:', JSON.stringify(errorInfo, null, 2));
     
     return { success: false, reason: error.message };
   }
