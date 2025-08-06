@@ -177,7 +177,7 @@ async function postToMastodon(title, fullUrl) {
       id: account.id
     });
     
-    const status = `New post: ${title}\n\n${fullUrl}`;
+    const status = `${title}\n\n${fullUrl}`;
     console.log('📝 Posting status:', status);
     console.log('📝 Status length:', status.length, 'characters');
     
@@ -247,12 +247,12 @@ async function postToBluesky(title, fullUrl) {
     });
     
     // Create text with proper link embedding
-    const text = `New post: ${title}\n\n${fullUrl}`;
+    const text = `${title}\n\n${fullUrl}`;
     
     // Calculate byte positions for the URL (needed for facets)
     const textEncoder = new TextEncoder();
     const textBytes = textEncoder.encode(text);
-    const urlStart = textEncoder.encode(`New post: ${title}\n\n`).length;
+    const urlStart = textEncoder.encode(`${title}\n\n`).length;
     const urlEnd = textBytes.length;
     
     // Create the post with embedded link facet
