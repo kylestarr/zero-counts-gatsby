@@ -168,13 +168,35 @@ async function postToMastodon(title, fullUrl) {
       console.log('📦 Require failed, trying dynamic import...');
       const mastoModule = await import('masto');
       console.log('📦 Dynamic import structure:', Object.keys(mastoModule));
+      console.log('📦 Default export keys:', mastoModule.default ? Object.keys(mastoModule.default) : 'no default');
       
       if (typeof mastoModule.login === 'function') {
         login = mastoModule.login;
       } else if (typeof mastoModule.default?.login === 'function') {
         login = mastoModule.default.login;
+      } else if (typeof mastoModule.default === 'function') {
+        // Sometimes the entire default export is the login function
+        login = mastoModule.default;
       } else {
-        throw new Error('Cannot find login function in imported masto module');
+        // Try createMastodon or other possible function names
+        const possibleFunctions = ['createMastodon', 'createClient', 'connect', 'masto'];
+        for (const fnName of possibleFunctions) {
+          if (typeof mastoModule[fnName] === 'function') {
+            console.log(`📦 Found alternative function: ${fnName}`);
+            login = mastoModule[fnName];
+            break;
+          }
+          if (typeof mastoModule.default?.[fnName] === 'function') {
+            console.log(`📦 Found alternative function in default: ${fnName}`);
+            login = mastoModule.default[fnName];
+            break;
+          }
+        }
+        
+        if (!login) {
+          console.log('📦 Full module structure:', JSON.stringify(mastoModule, null, 2));
+          throw new Error('Cannot find login function in imported masto module');
+        }
       }
     }
     console.log('✅ Masto login function found:', typeof login);
