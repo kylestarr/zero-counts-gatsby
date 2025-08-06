@@ -6,4 +6,4 @@ categories:
 tags:
 ---
 
-Testing the fixed Mastodon import issue and ensuring no duplicate posts. This should post to both Mastodon and Bluesky with the clean format (no "New post:" prefix) and only trigger once via the Netlify webhook flow.
+I'm testing automatic social posting to Mastodon and Bluesky in production. I'll delete this post in a bit. You might even see a few more of these if this fails. If you're an avid reader of Zero Counts, I'm sorry. Also, thank you. If you have my number, shoot me a text and say hi. Or hit me up on Mastodon or Bluesky. It can be lonely out there. I love when folks say hi. I'll say hello back.
