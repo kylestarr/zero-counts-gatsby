@@ -10,7 +10,7 @@ tags:
 - supernintendo
 ---
 
-![Electronic Gaming Monthly article titled on the Super Nintendo Entertainment System titled "Still Super After All These Years](/still-super.png):
+![Electronic Gaming Monthly article titled on the Super Nintendo Entertainment System titled "Still Super After All These Years](/still-super.png)
 
 I came across this article reflecting on 10 years of the Super Nintendo Entertainment System (SNES) in September 2001 issue of EGM (Electronic Gaming Monthly). I was initially humored by the title — Still Super After All These Years. "All These Years" being ten. Surely, ten years is not that long in video game parlance. It's not a far cry from the spread of proper Zelda or Mario games (5-11+ years).
 
