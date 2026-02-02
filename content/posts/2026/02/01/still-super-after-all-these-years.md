@@ -34,4 +34,4 @@ Compare that with the last ten:
 
 I wouldn't rush to call this the greatest decade in gaming (though, it very may well be). But I'd argue it was the most magical time in video game history. A breakneck pace of console releases. We were witnessing gargantuan leaps in fidelity, design, and input every year or so — from the perfection of 2D side-scrolling and top-down adventures to the birth of 3D and its evolution into arguably what we know it by today.
 
-While it definitely _feels_ like consoles now have diminishing returns —hence Microsoft and Sony’s pivot into subscription services, publishing, and porting — I don't think anything has illustrated it more than the '91–'01 decade.
+While it definitely _feels_ like consoles now have diminishing returns —hence Microsoft and Sony’s pivot into subscription services, publishing, and porting — I don't think anything has _illustrated_ it more than the '91–'01 decade.
