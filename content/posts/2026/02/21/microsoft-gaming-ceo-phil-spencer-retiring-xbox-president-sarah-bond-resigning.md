@@ -9,7 +9,7 @@ tags:
 - xbox
 ---
 
-IGN:
+(IGN)[https://www.ign.com/articles/phil-spencer-retiring-sarah-bond-out-matt-booty-promoted-as-microsoft-ai-exec-asha-sharma-named-new-xbox-boss-exclusive]:
 
 > Microsoft Gaming CEO Phil Spencer, who has been at Microsoft since he joined as an intern in 1988 and with Xbox since the software giant launched its first console in 2001, is retiring, sources familiar with the matter who are not authorized to speak publicly confirmed to IGN. Spencer’s retirement is effective on Monday, February 23. Meanwhile, Xbox President Sarah Bond, long thought by many both inside and outside of Microsoft to be Spencer’s heir apparent, has resigned. The new CEO of Microsoft Gaming will be Asha Sharma, currently the President of Microsoft’s CoreAI product. Finally, Xbox Game Studios head Matt Booty is being promoted to Chief Content Officer and will work closely with Sharma.
 
