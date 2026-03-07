@@ -2,6 +2,29 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
+// Load posted history
+function loadPostedHistory() {
+  try {
+    const historyPath = path.join(__dirname, '..', '..', 'scripts', 'posted-history.json');
+    const data = fs.readFileSync(historyPath, 'utf8');
+    return JSON.parse(data);
+  } catch (e) {
+    console.log('⚠️ Could not load posted history, treating all posts as new');
+    return { postedUrls: [], lastPosted: null };
+  }
+}
+
+// Save posted history
+function savePostedHistory(history) {
+  try {
+    const historyPath = path.join(__dirname, '..', '..', 'scripts', 'posted-history.json');
+    fs.writeFileSync(historyPath, JSON.stringify(history, null, 2));
+    console.log('✅ Posted history saved');
+  } catch (e) {
+    console.error('❌ Failed to save posted history:', e.message);
+  }
+}
+
 // Simple function to make HTTP requests
 function makeRequest(url, options) {
   return new Promise((resolve, reject) => {
@@ -104,44 +127,53 @@ function filePathToUrlPath(filePath) {
   return '/ERROR-INSUFFICIENT-PATH-PARTS/';
 }
 
-// Find the most recent post by frontmatter date
-function findMostRecentPostByDate(postsDir) {
+// Find the most recent unposted post by frontmatter date
+function findMostRecentUnpostedPost(postsDir, history) {
   console.log(`🔍 Scanning directory: ${postsDir}`);
   const markdownFiles = findMarkdownFiles(postsDir);
   console.log(`📂 Found ${markdownFiles.length} markdown files`);
-  
+  console.log(`📊 Found ${history.postedUrls.length} previously posted URLs`);
+
   if (markdownFiles.length === 0) {
     throw new Error('No markdown files found in posts directory');
   }
-  
+
   // Log first few files for debugging
   const filesToLog = Math.min(5, markdownFiles.length);
   console.log(`📝 First ${filesToLog} files:`);
   for (let i = 0; i < filesToLog; i++) {
     console.log(`   ${i + 1}. ${markdownFiles[i]}`);
   }
-  
+
   let mostRecent = null;
   let mostRecentData = null;
   for (const file of markdownFiles) {
     try {
       const data = extractFrontmatter(file);
-      if (!mostRecent || (data.date > mostRecentData.date)) {
-        console.log(`📅 New most recent: ${file} (${data.date})`);
-        mostRecent = file;
-        mostRecentData = data;
+      const urlPath = filePathToUrlPath(file);
+
+      // Only consider posts not already posted
+      if (!history.postedUrls.includes(urlPath)) {
+        if (!mostRecent || (data.date > mostRecentData.date)) {
+          console.log(`📅 New most recent unposted: ${file} (${data.date}) -> ${urlPath}`);
+          mostRecent = file;
+          mostRecentData = { ...data, urlPath };
+        }
+      } else {
+        console.log(`⏭️ Skipping already posted: ${urlPath}`);
       }
     } catch (e) {
       console.log(`⚠️ Skipping file with invalid frontmatter: ${file}`);
       continue;
     }
   }
-  
+
   if (!mostRecent) {
-    throw new Error('No valid markdown files with date found');
+    console.log('✅ All recent posts have already been posted to social media!');
+    return null;
   }
-  
-  console.log(`🏆 Final most recent: ${mostRecent}`);
+
+  console.log(`🏆 Final most recent unposted: ${mostRecent}`);
   return { file: mostRecent, ...mostRecentData };
 }
 
@@ -291,20 +323,41 @@ exports.handler = async (event, context) => {
         })
       };
     }
-    // Find the most recent post by date
-    console.log('🔍 Scanning for most recent post by date...');
+    // Load posted history and find the most recent unposted post
+    console.log('🔍 Scanning for most recent unposted post...');
     const postsDir = path.join(process.cwd(), 'content', 'posts');
-    const { file: mostRecentFile, title, date } = findMostRecentPostByDate(postsDir);
-    console.log(`📄 Found most recent file: ${mostRecentFile}`);
+    const history = loadPostedHistory();
+    const recentPost = findMostRecentUnpostedPost(postsDir, history);
+
+    // If no unposted posts, return early
+    if (!recentPost) {
+      console.log('⏭️ No new posts to share');
+      return {
+        statusCode: 200,
+        body: JSON.stringify({
+          message: 'No new posts to share - all recent posts have already been posted',
+          deploy_url: body.deploy_ssl_url || body.deploy_url,
+          site_name: body.site_name || body.site_id
+        })
+      };
+    }
+
+    const { file: mostRecentFile, title, date, urlPath } = recentPost;
+    console.log(`📄 Found unposted file: ${mostRecentFile}`);
     console.log(`📝 Title: ${title}`);
     console.log(`📅 Date: ${date}`);
-    // Always construct the URL from the file path
-    const urlPath = filePathToUrlPath(mostRecentFile);
     const fullUrl = `https://zerocounts.net${urlPath}`;
     console.log(`🌐 Full URL: ${fullUrl}`);
     console.log('📤 Posting to social media...');
     const mastodonResult = await postToMastodon(title, fullUrl);
     const blueskyResult = await postToBluesky(title, fullUrl);
+
+    // Update posted history
+    history.postedUrls.push(urlPath);
+    history.lastPosted = new Date().toISOString();
+    savePostedHistory(history);
+    console.log(`📝 Added ${urlPath} to posted history`);
+
     const results = {
       mastodon: mastodonResult,
       bluesky: blueskyResult,
