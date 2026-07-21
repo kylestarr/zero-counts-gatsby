@@ -6,7 +6,20 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(find:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(which pandoc && pandoc --version | head -1)",
+      "Bash(which wkhtmltopdf; which node; node --version; which npm; npm --version)",
+      "Bash(which brew && brew --version | head -1)",
+      "Bash(npm install --no-save marked puppeteer-core 2>&1 | tail -5)",
+      "Bash(node scripts/export-posts-pdf.js)",
+      "Bash(npm install --no-save marked@4 2>&1 | tail -3)",
+      "Bash(npm install --no-save puppeteer-core 2>&1 | tail -5)",
+      "Bash(node -e \"require\\('puppeteer-core'\\); console.log\\('ok'\\)\")",
+      "Bash(ls node_modules | grep marked; node -e \"require\\('marked'\\); console.log\\('ok'\\)\" 2>&1)",
+      "Bash(npm install marked@4 --no-save 2>&1 | grep -E \"\\(added|error|warn\\)\" | head -10)",
+      "Bash(node -e \"require\\('marked'\\); require\\('puppeteer-core'\\); require\\('gray-matter'\\); console.log\\('all ok'\\)\")",
+      "Bash(npm install puppeteer-core marked@4 --no-save 2>&1 | grep -E \"\\(added|error\\)\" | head -10)",
+      "Bash(node scripts/blogging-activity.js)"
     ],
     "deny": []
   }

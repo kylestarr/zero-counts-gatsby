@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Zero Counts — Blogging Activity</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0f0f13;
+    color: #e0e0e8;
+    padding: 32px 24px 64px;
+  }
+  h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    color: #888;
+    margin-bottom: 36px;
+    font-size: 0.9rem;
+  }
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+  .stat-card {
+    background: #1a1a24;
+    border: 1px solid #2a2a38;
+    border-radius: 10px;
+    padding: 20px 18px;
+  }
+  .stat-card .label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #666;
+    margin-bottom: 6px;
+  }
+  .stat-card .value {
+    font-size: 1.9rem;
+    font-weight: 700;
+    color: #c8b4ff;
+    line-height: 1;
+  }
+  .stat-card .sub {
+    font-size: 0.78rem;
+    color: #555;
+    margin-top: 4px;
+  }
+  .charts {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 32px;
+    max-width: 1200px;
+  }
+  .chart-card {
+    background: #1a1a24;
+    border: 1px solid #2a2a38;
+    border-radius: 10px;
+    padding: 24px;
+  }
+  .chart-card h2 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #888;
+    margin-bottom: 20px;
+  }
+  .chart-wrap {
+    position: relative;
+    height: 280px;
+  }
+  .chart-wrap.tall {
+    height: 340px;
+  }
+</style>
+</head>
+<body>
+<h1>Blogging Activity</h1>
+<p class="subtitle">zero-counts.com · All published posts · Generated March 22, 2026</p>
+
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="label">Total Posts</div>
+    <div class="value">618</div>
+    <div class="sub">2012–2026</div>
+  </div>
+  <div class="stat-card">
+    <div class="label">Original Words</div>
+    <div class="value">119,525</div>
+    <div class="sub">excl. blockquotes</div>
+  </div>
+  <div class="stat-card">
+    <div class="label">Avg Words / Post</div>
+    <div class="value">193</div>
+  </div>
+  <div class="stat-card">
+    <div class="label">Most Active Year</div>
+    <div class="value">2014</div>
+    <div class="sub">263 posts · 32,538 words</div>
+  </div>
+  <div class="stat-card">
+    <div class="label">Most Active Month</div>
+    <div class="value">Jun 2014</div>
+    <div class="sub">72 posts</div>
+  </div>
+</div>
+
+<div class="charts">
+  <div class="chart-card">
+    <h2>Posts per Year</h2>
+    <div class="chart-wrap">
+      <canvas id="yearPosts"></canvas>
+    </div>
+  </div>
+  <div class="chart-card">
+    <h2>Original Words per Year (excl. blockquotes)</h2>
+    <div class="chart-wrap">
+      <canvas id="yearWords"></canvas>
+    </div>
+  </div>
+  <div class="chart-card">
+    <h2>Posts per Month</h2>
+    <div class="chart-wrap tall">
+      <canvas id="monthPosts"></canvas>
+    </div>
+  </div>
+  <div class="chart-card">
+    <h2>Original Words per Month (excl. blockquotes)</h2>
+    <div class="chart-wrap tall">
+      <canvas id="monthWords"></canvas>
+    </div>
+  </div>
+  <div class="chart-card">
+    <h2>Cumulative Posts Over Time</h2>
+    <div class="chart-wrap tall">
+      <canvas id="cumulative"></canvas>
+    </div>
+  </div>
+</div>
+
+<script>
+const GRID = { color: 'rgba(255,255,255,0.05)' };
+const TICK = { color: '#555', font: { size: 11 } };
+const purple = 'rgba(168,139,250,0.85)';
+const purpleFill = 'rgba(168,139,250,0.15)';
+const teal = 'rgba(52,211,153,0.85)';
+const tealFill = 'rgba(52,211,153,0.12)';
+
+function barChart(id, labels, data, color, label) {
+  new Chart(document.getElementById(id), {
+    type: 'bar',
+    data: {
+      labels,
+      datasets: [{ label, data, backgroundColor: color, borderRadius: 4, borderSkipped: false }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: GRID, ticks: TICK },
+        y: { grid: GRID, ticks: TICK, beginAtZero: true }
+      }
+    }
+  });
+}
+
+function lineChart(id, labels, data, color, fill, label) {
+  new Chart(document.getElementById(id), {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [{
+        label, data,
+        borderColor: color,
+        backgroundColor: fill,
+        borderWidth: 1.5,
+        pointRadius: 0,
+        fill: true,
+        tension: 0.3,
+      }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: GRID, ticks: { ...TICK, maxTicksLimit: 20, maxRotation: 45 } },
+        y: { grid: GRID, ticks: TICK, beginAtZero: true }
+      }
+    }
+  });
+}
+
+barChart('yearPosts',  ["2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024","2025","2026"],  [1,39,263,78,17,58,63,28,21,1,10,15,6,15,3],  purple, 'Posts');
+barChart('yearWords',  ["2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024","2025","2026"],  [930,6099,32538,17944,6966,16186,12622,7588,3756,177,5139,3609,1064,4367,540],  teal,   'Words');
+lineChart('monthPosts', ["Apr 12","May 12","Jun 12","Jul 12","Aug 12","Sep 12","Oct 12","Nov 12","Dec 12","Jan 13","Feb 13","Mar 13","Apr 13","May 13","Jun 13","Jul 13","Aug 13","Sep 13","Oct 13","Nov 13","Dec 13","Jan 14","Feb 14","Mar 14","Apr 14","May 14","Jun 14","Jul 14","Aug 14","Sep 14","Oct 14","Nov 14","Dec 14","Jan 15","Feb 15","Mar 15","Apr 15","May 15","Jun 15","Jul 15","Aug 15","Sep 15","Oct 15","Nov 15","Dec 15","Jan 16","Feb 16","Mar 16","Apr 16","May 16","Jun 16","Jul 16","Aug 16","Sep 16","Oct 16","Nov 16","Dec 16","Jan 17","Feb 17","Mar 17","Apr 17","May 17","Jun 17","Jul 17","Aug 17","Sep 17","Oct 17","Nov 17","Dec 17","Jan 18","Feb 18","Mar 18","Apr 18","May 18","Jun 18","Jul 18","Aug 18","Sep 18","Oct 18","Nov 18","Dec 18","Jan 19","Feb 19","Mar 19","Apr 19","May 19","Jun 19","Jul 19","Aug 19","Sep 19","Oct 19","Nov 19","Dec 19","Jan 20","Feb 20","Mar 20","Apr 20","May 20","Jun 20","Jul 20","Aug 20","Sep 20","Oct 20","Nov 20","Dec 20","Jan 21","Feb 21","Mar 21","Apr 21","May 21","Jun 21","Jul 21","Aug 21","Sep 21","Oct 21","Nov 21","Dec 21","Jan 22","Feb 22","Mar 22","Apr 22","May 22","Jun 22","Jul 22","Aug 22","Sep 22","Oct 22","Nov 22","Dec 22","Jan 23","Feb 23","Mar 23","Apr 23","May 23","Jun 23","Jul 23","Aug 23","Sep 23","Oct 23","Nov 23","Dec 23","Jan 24","Feb 24","Mar 24","Apr 24","May 24","Jun 24","Jul 24","Aug 24","Sep 24","Oct 24","Nov 24","Dec 24","Jan 25","Feb 25","Mar 25","Apr 25","May 25","Jun 25","Jul 25","Aug 25","Sep 25","Oct 25","Nov 25","Dec 25","Jan 26","Feb 26"], [1,0,0,0,0,0,0,0,0,1,1,1,2,1,1,0,0,4,15,5,8,0,2,1,5,37,72,36,29,17,28,19,17,29,9,6,10,3,4,2,1,1,0,10,3,5,3,1,0,0,0,2,1,0,4,1,0,15,14,4,2,1,4,1,3,1,1,4,8,5,0,4,10,6,5,7,7,10,2,2,5,9,8,1,2,2,0,1,1,0,1,2,1,1,0,5,1,1,1,1,1,4,4,1,1,0,0,0,1,0,0,0,0,0,0,0,0,2,0,2,0,1,1,1,0,0,0,0,3,10,2,2,1,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,2,2,0,2,6,0,1,0,2,0,0,0,1,2], purple, purpleFill, 'Posts');
+lineChart('monthWords', ["Apr 12","May 12","Jun 12","Jul 12","Aug 12","Sep 12","Oct 12","Nov 12","Dec 12","Jan 13","Feb 13","Mar 13","Apr 13","May 13","Jun 13","Jul 13","Aug 13","Sep 13","Oct 13","Nov 13","Dec 13","Jan 14","Feb 14","Mar 14","Apr 14","May 14","Jun 14","Jul 14","Aug 14","Sep 14","Oct 14","Nov 14","Dec 14","Jan 15","Feb 15","Mar 15","Apr 15","May 15","Jun 15","Jul 15","Aug 15","Sep 15","Oct 15","Nov 15","Dec 15","Jan 16","Feb 16","Mar 16","Apr 16","May 16","Jun 16","Jul 16","Aug 16","Sep 16","Oct 16","Nov 16","Dec 16","Jan 17","Feb 17","Mar 17","Apr 17","May 17","Jun 17","Jul 17","Aug 17","Sep 17","Oct 17","Nov 17","Dec 17","Jan 18","Feb 18","Mar 18","Apr 18","May 18","Jun 18","Jul 18","Aug 18","Sep 18","Oct 18","Nov 18","Dec 18","Jan 19","Feb 19","Mar 19","Apr 19","May 19","Jun 19","Jul 19","Aug 19","Sep 19","Oct 19","Nov 19","Dec 19","Jan 20","Feb 20","Mar 20","Apr 20","May 20","Jun 20","Jul 20","Aug 20","Sep 20","Oct 20","Nov 20","Dec 20","Jan 21","Feb 21","Mar 21","Apr 21","May 21","Jun 21","Jul 21","Aug 21","Sep 21","Oct 21","Nov 21","Dec 21","Jan 22","Feb 22","Mar 22","Apr 22","May 22","Jun 22","Jul 22","Aug 22","Sep 22","Oct 22","Nov 22","Dec 22","Jan 23","Feb 23","Mar 23","Apr 23","May 23","Jun 23","Jul 23","Aug 23","Sep 23","Oct 23","Nov 23","Dec 23","Jan 24","Feb 24","Mar 24","Apr 24","May 24","Jun 24","Jul 24","Aug 24","Sep 24","Oct 24","Nov 24","Dec 24","Jan 25","Feb 25","Mar 25","Apr 25","May 25","Jun 25","Jul 25","Aug 25","Sep 25","Oct 25","Nov 25","Dec 25","Jan 26","Feb 26"], [930,0,0,0,0,0,0,0,0,1031,504,576,1206,399,490,0,0,79,1433,239,142,0,3625,467,2135,3670,5994,3934,2280,1884,3025,2546,2978,8346,911,338,2299,1847,513,472,411,15,0,1430,1362,1728,424,898,0,0,0,1879,385,0,666,986,0,4335,999,529,1472,135,2344,55,1180,89,186,4376,486,461,0,3690,1640,567,477,492,33,2205,238,192,2627,2634,599,39,677,241,0,245,1159,0,678,410,906,106,0,554,199,22,5,158,35,899,857,64,857,0,0,0,177,0,0,0,0,0,0,0,0,1008,0,253,0,58,1470,1763,0,0,0,0,587,2913,132,173,391,0,0,0,0,0,0,0,0,235,0,0,0,233,313,0,283,0,0,0,0,1457,508,0,996,837,0,27,0,542,0,0,0,159,381], teal,   tealFill,   'Words');
+lineChart('cumulative', ["Apr 12","May 12","Jun 12","Jul 12","Aug 12","Sep 12","Oct 12","Nov 12","Dec 12","Jan 13","Feb 13","Mar 13","Apr 13","May 13","Jun 13","Jul 13","Aug 13","Sep 13","Oct 13","Nov 13","Dec 13","Jan 14","Feb 14","Mar 14","Apr 14","May 14","Jun 14","Jul 14","Aug 14","Sep 14","Oct 14","Nov 14","Dec 14","Jan 15","Feb 15","Mar 15","Apr 15","May 15","Jun 15","Jul 15","Aug 15","Sep 15","Oct 15","Nov 15","Dec 15","Jan 16","Feb 16","Mar 16","Apr 16","May 16","Jun 16","Jul 16","Aug 16","Sep 16","Oct 16","Nov 16","Dec 16","Jan 17","Feb 17","Mar 17","Apr 17","May 17","Jun 17","Jul 17","Aug 17","Sep 17","Oct 17","Nov 17","Dec 17","Jan 18","Feb 18","Mar 18","Apr 18","May 18","Jun 18","Jul 18","Aug 18","Sep 18","Oct 18","Nov 18","Dec 18","Jan 19","Feb 19","Mar 19","Apr 19","May 19","Jun 19","Jul 19","Aug 19","Sep 19","Oct 19","Nov 19","Dec 19","Jan 20","Feb 20","Mar 20","Apr 20","May 20","Jun 20","Jul 20","Aug 20","Sep 20","Oct 20","Nov 20","Dec 20","Jan 21","Feb 21","Mar 21","Apr 21","May 21","Jun 21","Jul 21","Aug 21","Sep 21","Oct 21","Nov 21","Dec 21","Jan 22","Feb 22","Mar 22","Apr 22","May 22","Jun 22","Jul 22","Aug 22","Sep 22","Oct 22","Nov 22","Dec 22","Jan 23","Feb 23","Mar 23","Apr 23","May 23","Jun 23","Jul 23","Aug 23","Sep 23","Oct 23","Nov 23","Dec 23","Jan 24","Feb 24","Mar 24","Apr 24","May 24","Jun 24","Jul 24","Aug 24","Sep 24","Oct 24","Nov 24","Dec 24","Jan 25","Feb 25","Mar 25","Apr 25","May 25","Jun 25","Jul 25","Aug 25","Sep 25","Oct 25","Nov 25","Dec 25","Jan 26","Feb 26"], [1,1,1,1,1,1,1,1,1,2,3,4,6,7,8,8,8,12,27,32,40,40,42,43,48,85,157,193,222,239,267,286,303,332,341,347,357,360,364,366,367,368,368,378,381,386,389,390,390,390,390,392,393,393,397,398,398,413,427,431,433,434,438,439,442,443,444,448,456,461,461,465,475,481,486,493,500,510,512,514,519,528,536,537,539,541,541,542,543,543,544,546,547,548,548,553,554,555,556,557,558,562,566,567,568,568,568,568,569,569,569,569,569,569,569,569,569,571,571,573,573,574,575,576,576,576,576,576,579,589,591,593,594,594,594,594,594,594,594,594,594,597,597,597,597,598,599,599,600,600,600,600,600,602,604,604,606,612,612,613,613,615,615,615,615,616,618], purple, purpleFill, 'Cumulative Posts');
+</script>
+</body>
+</html>
